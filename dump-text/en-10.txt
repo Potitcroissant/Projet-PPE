@@ -1,0 +1,997 @@
+   Skip to Main content
+
+   Elsevier logo
+     * Journals & Books
+
+     * (BUTTON) Help
+     * Search
+
+   My account
+   Sign in
+   (BUTTON)
+
+Gaze
+
+   In subject area: Immunology and Microbiology
+
+   Gaze refers to the position of the eyes when focused on a specific
+   point in the environment, which can deviate due to conditions such as
+   strabismus, where the globe's alignment is affected by various
+   neurological or muscular abnormalities.
+
+   AI generated definition based on: Small Animal Ophthalmology (Fourth
+   Edition), 2009
+
+   How useful is this definition?
+   (BUTTON) Press Enter to select rating, 1 out of 3 stars (BUTTON) Press
+   Enter to select rating, 2 out of 3 stars (BUTTON) Press Enter to select
+   rating, 3 out of 3 stars
+   (BUTTON) About this page
+   (BUTTON) Set alert
+
+Also in subject area:
+
+     * Biochemistry, Genetics and Molecular Biology
+
+   Discover more topics
+    1. (BUTTON)
+
+On this page
+
+   (BUTTON)
+
+On this page
+
+     * Definition
+     * Chapters and Articles
+     * Related Terms
+     * Recommended Publications
+
+On this page
+
+     * Definition
+     * Chapters and Articles
+     * Related Terms
+     * Recommended Publications
+
+Chapters and Articles
+
+   You might find these chapters and articles relevant to this topic.
+
+   Chapter
+
+Sentence Processing: Issues and Measures
+
+   2000, Reading as a Perceptual ProcessWayne S. Murray
+
+Gaze
+
+   The term ‘gaze’ has been defined as the summed duration of all
+   fixations falling within a defined region, until the eye exits that
+   region (in any direction). However, this term is normally only used in
+   reading research when the region constitutes a single word. When the
+   region is comprised of a number of words, this measure is frequently,
+   and I will argue inappropriately, referred to as ‘first pass reading
+   time’ (e.g., Rayner, Sereno, Morris, Schmauder and Clifton, 1989).
+   Clifton et al. and Konieczny and Hemforth use that terminology here,
+   while Frenck-Mestre and Pynte adopt the hybrid ‘first pass gaze
+   duration’.
+
+   Why do I argue that this is inappropriate? Well, for starters, why
+   (confusingly) use two terms to refer to the same measure? The answer I
+   will suggest lies in two questionable assumptions, both of which are
+   related to processing. The first of these is that the term ‘gaze’
+   somehow relates to apperception. Thus, the amount of time spent looking
+   at a word, or indeed any object, is assumed to be related to the time
+   taken to identify it. One might achieve this with a single fixation, or
+   with a somewhat larger or more difficult ‘object’ it may take a number
+   of fixations probably directed to different parts of the object. The
+   assumption, however, is that the object is likely to be inspected for
+   just enough time to identify it, before the eye moves on. Total
+   inspection time is assumed to be closely related to total
+   identification time. (I will ignore the question raised by Inhoff and
+   Radach of whether we should also be including saccade time in this
+   measure, since, as they point out, it will probably make relatively
+   little difference in the majority of instances.)
+
+   What makes this assumption questionable is, of course, the nature of
+   that elastic coupling between the eye and the mind, with parafoveal and
+   ‘spillover’ effects. Nonetheless, it does seem like a reasonable
+   approximation, and if one includes instances with zero gaze (i.e.,
+   cases of word skipping) in the calculation of averages, then average
+   gaze should be reasonably well related to average identification
+   difficulty. I suspect the suggestion that we adopt a principle of
+   including zeros in the calculation is likely to be controversial, but
+   as far as I can see, it readily falls out of the above assumptions.
+
+   It might reasonably be suggested that this is crazy, since when a word
+   is not fixated we don’t know that it is in fact being identified. My
+   response is that we don’t know that when a word is inspected that it is
+   being identified. We have good grounds for assuming that this is
+   generally true, but know nothing of any specific instance. Similarly,
+   we have good grounds for believing that most cases of word skipping
+   involve the parafoveal identification of the word. Certainly, this is
+   not identification in zero time, but the time required is included in
+   the gaze on the previous word. Well, not quite — that gaze probably
+   reflected less than the full time to identify that word (since there is
+   likely to have been some parafoveal preview advantage there too). Thus,
+   gaze duration in instances in which a word is inspected (assuming that
+   some words are not) is likely to be an overestimate of identification
+   time for the word. However, the average time, provided we include those
+   zeros, is likely to be a pretty good estimate of the average
+   identification time. Indeed, there is empirical evidence which suggests
+   that the inclusion of zeros results in a measure more sensitive to
+   processing load (Blanchard, 1985). The only systematic source of
+   contamination will relate to the extent to which the mind may lag
+   behind (or perhaps be ahead of) the eye.
+
+   In contrast, consider the consequences of ignoring zeros. Let’s assume
+   a concrete example of the two word string ‘despite a’. Let’s assume
+   that in our sample of recordings ‘despite’ always attracts at least one
+   fixation and has an average gaze duration of 265 ms. The word ‘a’, on
+   the other hand only attracts fixations on 33% of occasions, but when it
+   does, the average duration is 252 ms. Do we assume that 252 ms is a
+   good estimate of identification time for ‘a’? I suspect most would
+   agree that the calculation including zeros (84 ms) is likely to be
+   closer to the mark. The point is that if it’s possible to identify a
+   word without looking at it, calculation including only those cases
+   where a fixation falls directly on the word is sure to provide a biased
+   estimate and the extent of the bias will be directly related to the
+   probability of skipping.
+
+   If you are still not convinced, perhaps one further calculation will do
+   it. In the above example, assuming no regressions, average gaze on the
+   string ‘despite a’ was 349 ms. How could this be made up of two
+   ‘sub-gazes’ of 265 and 252 ms?
+
+   This brings us to the second assumption: If the gaze on a single word
+   reflects time to identify it, then taking gaze on a string of words
+   will reflect the time taken to process them. Seeing that this is an
+   apperceptive process, we can consequently call it ‘first pass reading
+   time’, on the assumption that first pass reflects the initial low level
+   processing of that string — although in this case we are probably also
+   assuming a bit of syntactic processing in addition to the word
+   identifications. Again, with the caveats regarding a bit of elasticity
+   in the system and the inclusion of zeros etc., this works fine,
+   provided we assume that this reflects the apperception of the ‘object’
+   as a whole. However, this really isn’t the case with a multi-word
+   string — it normally isn’t a single ‘object’.
+
+   Liversedge et al. (1998) provide a number of interesting examples of
+   what a reader might do in such circumstances, especially if this string
+   poses some processing difficulty. However, the general principle is
+   straightforward. Where the region consists of a number of ‘objects’,
+   there is rather less certainty that the processing of all those objects
+   will be completed before the eye leaves that region, than if only one
+   object is involved. To take a concrete example, if the region were the
+   string ‘behind the fridge’ and the eye landed on ‘behind’ and then
+   immediately regressed to some previous words, would we assume that the
+   duration of this fixation reflected the apperception of the entire
+   string? I suspect not. We would probably be even less inclined to do so
+   if, after regressing, the eye returned to inspect the word ‘fridge’
+   before moving on.
+
+   It is an open question as to what might constitute ‘first pass reading
+   time’ in this instance. If we mean by that: the time to identify each
+   of the words, then arguably it might be captured by something like the
+   accumulated gaze on each of the three individual words. But of course
+   that isn’t normally what we mean. What we are usually trying to get at
+   (at least in sentence parsing research) is some measure of immediate
+   processing difficulty — lexical and syntactic and perhaps semantic. We
+   assume that an ‘early’ measure, like gaze, will capture this better
+   than later measures, such as total reading time (the sum of all
+   fixations falling within a defined region). But while it’s certainly
+   true that gaze is an early measure, there is no guarantee that it will
+   be a complete measure. Even ignoring the question of what prompted the
+   regression in the example above, and whether this is in fact something
+   that we wish to capture with our ‘first pass’ measure, it seems clear
+   that the measure potentially fails to capture even the most basic
+   identification process for part of the string. As Liversedge et al.
+   aptly demonstrate, shorter gaze does not necessarily map onto decreased
+   processing difficulty. In fact, it can easily mean the opposite. If all
+   subjects in a ‘difficult’ condition immediately regressed after
+   inspecting ‘behind’, in our example, and those in an ‘easy’ condition
+   did not, then gaze would be shorter in the difficult condition.
+
+   The point is that ‘gaze’ seems to be an appropriate measure for the
+   processing of an ‘object’ — normally in reading, but I suppose not
+   necessarily, a single word. To the extent that the region being
+   considered acts as more than one functional object, the measure becomes
+   increasingly inappropriate. Changing the name does nothing to
+   ameliorate this difficulty and, in fact, in this instance leads to a
+   misapprehension. ‘First pass reading time’ effects have become
+   something of a prerequisite for various sorts of parsing claims, but in
+   fact it’s not even clear what is meant by the term. Perhaps accumulated
+   word gaze would come close, or perhaps accumulated progressive fixation
+   duration, but both measures bring their own complications and I suspect
+   they do not get at what the majority of sentence parsing researchers
+   really mean by ‘first pass reading time’. But one thing seems clear. It
+   should not be confused with multi-word gaze. This seems to be a measure
+   fraught with difficulty: it is not monotonically related to processing
+   difficulty and cannot even be relied on to include the initial
+   perceptual processing of the words in the string.
+   (BUTTON) Show more
+   View chapterExplore book
+   Read full chapter
+   URL: https://www.sciencedirect.com/science/article/pii/B978008043642550
+   0309
+   Book
+   Reading as a Perceptual Process
+   2000, Reading as a Perceptual Process
+   Wayne S. Murray
+
+   Chapter
+
+Nonverbal Communication
+
+   2016, Encyclopedia of Mental Health (Second Edition)U. Hess
+
+Gaze
+
+   Gaze direction is something not usually thought to be part of the
+   emotional expression itself (e.g., Ellsworth and Ross, 1975; Fehr and
+   Exline, 1987). Indeed, the faces employed in nearly all expression
+   decoding studies have used stimuli where the expresser’s gaze is
+   directed at the perceiver. The general argument made concerning the
+   effect of direct gaze is that it plays an important role in the
+   perception of the intensity of the emotion but not in the perception of
+   its quality (e.g., Argyle and Cook, 1976; Kleinke, 1986; Webbink,
+   1986). An obvious reason this might be the case is that direct gaze
+   signals that the perceiver is the object of whatever emotion is being
+   displayed by the expresser and thus captivates attentional resources
+   (Cary, 1978; Ellsworth and Ross, 1975; Grumet, 1999; Macrae et al.,
+   2002). By contrast, research by Adams and his colleagues (Adams et al.,
+   2003; Adams and Kleck, 2003, 2005) support the shared signal
+   hypothesis, demonstrating that the gaze direction of the expresser can
+   affect the efficiency with which a given display is processed as well
+   as determine the quality of the emotion that will be perceived in a
+   blended or ambiguous expression. They argue that when different facial
+   cues such as the specific expression and the direction of gaze share
+   the same signal value (e.g., approach or avoidance) the shared signal
+   facilitates overall processing efficiency. Others have reported
+   evidence supporting perceptual integration in the processing of these
+   cues. These studies also demonstrate that when gaze and emotion are not
+   of relatively equal discriminability, direct gaze effects do occur
+   (e.g., Graham and LaBar, 2007). Thus, gaze direction appears to not
+   only influence emotion perception but to do so through the processes of
+   direct perceptual integration and indirect attention capture.
+   (BUTTON) Show more
+   View chapterExplore book
+   Read full chapter
+   URL: https://www.sciencedirect.com/science/article/pii/B978012397045900
+   2184
+   Reference work
+   Encyclopedia of Mental Health (Second Edition)
+   2016, Encyclopedia of Mental Health (Second Edition)
+   U. Hess
+
+   Chapter
+
+Eye Movement Research
+
+   1995, Studies in Visual Information ProcessingJ.N. Vickers
+
+Gaze control in foul shooting
+
+   Schmid & Zambarbieri (1991, p. 229) define gaze as “the absolute
+   position of the eyes in space and depends on both eye position in orbit
+   and head position in space.” According to their model, sensory
+   information is received from the environment, with a voluntary
+   generating of commands that direct the gaze according to the goals and
+   intentions of the subject. At the lower levels, the head, body, and
+   oculomotor control systems act as one closely coupled system
+   (Zangemeister & Stark, 1982; Guitton & Voile, 1987). In basketball foul
+   shooting, performers develop a fluid shooting motion, one in which the
+   eyes, head, arms and body work together as one coordinated unit. When a
+   subject orients his or her gaze to a target, such as the hoop in
+   basketball, the most common movement of the eyes is a sequence of
+   events in which the eyes move prior to the head (Zangemeister & Stark,
+   1982; Guitton & Voile, 1987; Gauthier et al, 1991; Schmid &
+   Zambarbieri, 1991). Gauthier et al (1991) explain that the head follows
+   because of its greater inertia, with the eyes localizing the target
+   first and visual discrimination beginning immediately and maintained
+   steadily on the target even though the head is moving. The movement of
+   eyes and head to the target is normally smooth, with the processing of
+   information occurring as soon as the eyes stabilize on the target. Gaze
+   control in basketball foul shooting is therefore defined as the manner
+   is which a performer moves the head and eyes to take in available
+   information while preparing and executing the shot. Gaze control in the
+   study reported here was specified by the percentage of trials in which
+   a gaze was used, as well as the mean frequency and duration of gaze
+   across the temporal phases of the movement.
+
+   Research in eye movements and gaze control currently supports two views
+   of the role of visual search in physical performance. Abemethy &
+   Russell (1987), Abemethy (1990), Goulet, Bard & Fleury (1989), Helsen &
+   Pauwels (1990) have found that when expert and novice athletes watch
+   video representations of sport problems and are asked to select a best
+   answer from available choices, their eye movements are not an indicator
+   of the decisions made. Abemethy (1990, p. 63) has concluded that
+   differences between expert and novice performers is not due to “an
+   inappropriate search strategy but rather an inability to make full use
+   of the information available from fixated display features.” This
+   conclusion is not supported by research where the visual behavior of
+   subjects is monitored as they perform physical skills (Ripoll, Papin,
+   Guezennec, Verdy, & Philip, 1985; Ripoll, Bard & Paillard, 1986;
+   Vickers, 1992; Helsen & Pauwels, 1993). In pistol shooting, Ripoll et
+   al (1985) found that expert and near-experts shooters differ in how
+   they sight and track the gun to the target. In basketball shooting,
+   Ripoll et al (1986) found that E shooters orient their gaze to the
+   basket earlier and maintain head stability for longer durations than
+   novices. In golf putting, Vickers (1992) found that low handicap
+   golfers^1 hold their gaze fixated on the ball through the backswing,
+   foreswing, and contact phases of the stroke, a behavior that
+   contributed to greater accuracy. Lesser skilled golfers did not hold
+   their gaze fixated, but shifted their gaze at intervals under one
+   second taking in available information at a set rate irrespective of
+   its form or potential function. It would appear that in research where
+   subjects are required to physically perform skills, significant
+   differences . in gaze have been found between skilled and lesser
+   skilled performers. These differences may be centered in the multiple
+   demands of controlling not only the aiming system but also the gaze and
+   accompanying input of environmental information.
+
+   In the current study expert (E) and near-expert (NE) athletes performed
+   foul shots while their gaze was monitored simultaneously. An expert (E)
+   was defined as one who made over 75% of their foul shots over a full
+   season of play. A near-expert (NE) competed in the same environment but
+   was unable to shoot above 60%. Within this highly skilled group of
+   athletes it has remained a mystery why some excel in foul shooting,
+   while others struggle given similar years of practice, training and
+   competition. Reasons solely attributable to physical ability are
+   difficult to rationalize since athletes at the upper levels of
+   basketball tend to be very similar in cardiac and aerobic function
+   (Hartley, 1992; Astrand, 1992), anaerobic power (McArdle, Katch &
+   Katch, 1991), muscular strength and power (Komi, 1992), and body
+   composition (Titel & Wutscherk, 1992; Wilmore & Costill, 1988). Because
+   of the equivalence of these factors, it is important to look for other
+   contributing reasons, such as the control of gaze while shooting. The E
+   foul shooters were expected to use significantly fewer gaze of longer
+   mean duration, while the NE would shift their gaze at higher
+   frequencies and lower durations, irrespective of type of gaze behavior,
+   location of gaze, or phase of the movement. The E shooters were also
+   expected to hold their gaze fixated on a critical target location
+   across two or more phases of the shooting movement, a form of gaze
+   independence in which the eyes remain fixated on a critical location
+   while the aiming movements are made.
+   (BUTTON) Show more
+   View chapterExplore book
+   Read full chapter
+   URL: https://www.sciencedirect.com/science/article/pii/S0926907X0580044
+   3
+   Book series
+   1995, Studies in Visual Information Processing
+   J.N. Vickers
+
+   Chapter
+
+Extraocular Muscles
+
+   2012, Clinical Anatomy and Physiology of the Visual System (Third
+   Edition)Lee Ann Remington OD, MS, FAAO
+
+Positions of Gaze
+
+   The primary position of gaze is defined as the position of the eye with
+   the head erect, the eye located at the intersection of the sagittal
+   plane of the head and the horizontal plane passing through the centers
+   of rotation of both eyes, and the eye focused for infinity.^17
+   Secondary positions of gaze are rotations around either the vertical
+   axis or the horizontal axis; tertiary positions are rotations around
+   both the vertical and the horizontal axes.
+   (BUTTON) Show more
+   View chapterExplore book
+   Read full chapter
+   URL: https://www.sciencedirect.com/science/article/pii/B978143771926010
+   0104
+   Book
+   Clinical Anatomy and Physiology of the Visual System (Third Edition)
+   2012, Clinical Anatomy and Physiology of the Visual System (Third
+   Edition)
+   Lee Ann Remington OD, MS, FAAO
+
+   Chapter
+
+Cognition
+
+   2016, Animal Behavior (Second Edition)Michael D. Breed, Janice Moore
+
+Gaze Following
+
+   As described previously, gaze following is another basic measure of an
+   animal’s ability to separate self from others. Humans are very
+   sensitive to gaze direction; a person can easily observe the direction
+   that another person is looking and identify the object of that person’s
+   attention. Human infants develop the ability to follow gazes at 6–8
+   months old, much younger than their development of responses in mirror
+   tests. For many years, investigators thought that only humans could
+   follow gazes; newer studies demonstrate gaze following in a variety of
+   primates, suggesting that, like numerical assessments, gaze following
+   is deeply rooted in primate evolution. Rhesus monkeys can follow gazes
+   by looking at the orientation of another monkey’s head, rather than
+   focusing on the eyes. Most dog owners believe that their dogs can
+   follow their gazes, but this ability has only recently been established
+   scientifically for dogs;^30 studies of wolves suggest that gaze
+   following may be a unique result of the domestication of dogs, along
+   with artificial selection that favors dogs who can follow human
+   instructions. The fact that dogs are more likely to follow a human gaze
+   if the human first looks at or speaks to the dog supports the
+   artificial selection hypothesis (Figure 6.9).^31,32
+
+   Figure 6.9. Gaze following experiments may be used as evidence—albeit
+   controversial—of theory of mind. These animals are looking intently at
+   something, and humans can follow their gaze, but can they follow each
+   other’s gazes? This is an interesting, and difficult to test, question
+   in animal cognition. Likely the chimpanzee (right) can follow other
+   chimpanzee’s gazes, while the hypothesis is untested in ring-tailed
+   lemurs (left).
+   Photos: Michael Breed (left) and John Mitani (right).
+
+   Like mirror tests, positive results of gaze following studies can be
+   interpreted to support a concept of self for an animal that follows a
+   gaze; animals that do not follow a gaze may not have a theory of
+   mind—the ability to project the thoughts of other animals. Returning to
+   the definition of cognition presented earlier in this chapter, humans
+   use gaze following to assess intent and forecast the future. But do
+   other animals, even chimpanzees, use gaze in the same way? Perhaps gaze
+   following is merely a functional adaptation that allows an organism to
+   compete for food, spot potential predators, and perform similar simple
+   and not necessarily cognitive operations. As with the mirror tests, the
+   interpretation of gaze following as evidence of cognition remains
+   controversial.
+   (BUTTON) Show more
+   View chapterExplore book
+   Read full chapter
+   URL: https://www.sciencedirect.com/science/article/pii/B978012801532200
+   0064
+   Book
+   Animal Behavior (Second Edition)
+   2016, Animal Behavior (Second Edition)
+   Michael D. Breed, Janice Moore
+
+   Chapter
+
+Physical examination and clinical investigation
+
+   2011, The Consultation in PhytotherapyPeter Conway Dip Phyt MNIMH MCPP
+   Cert Ed
+
+The Varieties of the Clinical Gaze
+
+   The clinical gaze is not that of an intellectual eye that is able to
+   perceive the unalterable purity of essences beneath phenomena. It is a
+   gaze of the concrete sensibility, a gaze that travels from body to
+   body, and whose trajectory is situated in the space of sensible
+   manifestation.
+
+   Foucault (2007)
+
+   The approach to physical examination – how it is to be done, what its
+   findings signify – is culturally shaped. The radial pulse described by
+   an ancient Chinese medicine practitioner is not the same radial pulse
+   felt by the ancient Greeks and Romans. In these contrasting cases, both
+   the techniques used and the conclusions drawn may differ dramatically.
+   There are multiple ways in which the body can be viewed – each
+   according to its own internal logic and placed within a broader
+   conceptual framework or understanding of the nature of the world.
+
+   Kuriyama (1995) explores ‘visual knowledge’ in ancient medicine, asking
+   the question: ‘What is it, exactly, that the eyes can know?’ The
+   predominant answer in Greek medicine has to do with ‘form’, while in
+   Chinese medicine, the reply is ‘colour’, so that Kuriyama can state:
+
+   If the eyes of the Hellenistic dissector were trained on structures,
+   the Han dynasty physician fixed on hues.
+
+   Kuriyama provides examples of the use of colour in Chinese medical
+   diagnosis:
+
+   A face tinged with yellow or red, the Neijing teaches, signals fever;
+   white means cold; and green and black, pain. In fevers of the liver,
+   redness first appears on the left cheek; in fevers of the lung, on the
+   right cheek; in cardiac fevers, on the forehead.
+
+   As Kuriyama points out, recourse to observing and interpreting colour
+   in diagnosis is not perplexing – after all, contemporary biomedicine
+   still takes notice of changes in skin colour (e.g. in jaundice, or the
+   malar flush), rather: ‘What puzzles is that colours should be judged
+   paramount …’. The reason for this emphasis connects with the meaning of
+   colours within a grander scheme of perception and understanding,
+   whereby they possess ‘cosmic as well as somatic significance’:
+
+   Each of the five basic colours of green, red, yellow, white and black
+   corresponded to one of the five phases (wuxing = wood, fire, earth,
+   metal and water) of cosmic change. By observing the hues tingeing a
+   patient's face, the physician could determine the phase governing the
+   patient's condition. A florid countenance, for instance, bespoke the
+   dominance of fire; a visage with yellowish tints, the waxing of the
+   earth. Nuances of shade, differences in when and where various hues
+   appeared, and the indications of other senses could add practical
+   complexities; but the principle was simple: to see was to see colour,
+   because the five colours linked the eye to the five-fold
+   transformations pacing the cosmos.
+
+   The way we perceive the body arises from the way we see the world,
+   which derives from what we have been taught and what we believe. Herbal
+   practitioners trained in the western tradition in the UK, at least,
+   tend to combine a biomedical rationale for the working of the body with
+   a variable range of other explanatory models such as those associated
+   with notions of holism, vitalism, naturopathy, Hippocratism and with
+   vestiges of specific herbal movements such as Physiomedicalism and
+   Eclecticism. As regards physical examination, the tendency appears to
+   be to learn conventional diagnostic examination but then to implement
+   it to only a very limited extent in practice. This lack of utilization
+   may be due to a number of factors, in addition to issues around the
+   quality of teaching previously mentioned, such as:
+
+   •
+          Low diagnostic need (where patients have already been medically
+          diagnosed)
+
+   •
+          Lack of awareness of the non-diagnostic dimensions of physical
+          examination (as listed above)
+
+   •
+          Lack of a sense of congruency between conventional examination
+          techniques and the practitioner's personal conception of herbal
+          medicine
+
+   •
+          Substitution with alternative examination techniques that
+          possess greater congruency.
+
+   Where examination strategies have reduced to a small core the capacity
+   to apply the senses to apprehend the patient is similarly diminished
+   and the range of potential routes to knowing the patient is narrowed.
+   This is regrettable when seen in light of the benefits that physical
+   examination has to offer both practitioner and patient. One means of
+   re-energizing interest in physical examination (aside from promoting a
+   fuller realization of its capacities) lies in the potential for
+   integrating conventional and traditional techniques. A critical
+   comparison of the various types of examination used in medical
+   traditions from around the world represents a fascinating project,
+   implying as it does, a cross-cultural analysis that leads to the very
+   roots of perception in medicine. The scope of phytotherapy is broad
+   enough to engage in this task – on the one hand appreciating the
+   focussing obtained by the lens of evidence-based physical diagnosis and
+   on the other, learning from the expansive cosmic insights afforded by
+   traditional diagnosis.
+   (BUTTON) Show more
+   View chapterExplore book
+   Read full chapter
+   URL: https://www.sciencedirect.com/science/article/pii/B978044307492900
+   0126
+   Book
+   The Consultation in Phytotherapy
+   2011, The Consultation in Phytotherapy
+   Peter Conway Dip Phyt MNIMH MCPP Cert Ed
+
+   Chapter
+
+Learning Theory and Behavior
+
+   2017, Learning and Memory: A Comprehensive Reference (Second
+   Edition)Julia Fischer
+
+1.10.2.5 Gaze Following
+
+   Gaze following, the tendency to direct one's attention to locations
+   looked at by others, is a crucial aspect of social cognition in human
+   and nonhuman primates. Following the gaze of others can guide attention
+   to critical information from the environment such as food, predators,
+   or social interactions. Furthermore, gaze following is thought to be
+   crucial in linguistic and sociocognitive development in humans
+   (Baron-Cohen, 1995; Meltzoff, 2007). There are several experimental
+   studies on captive subjects showing that nonhuman primates follow the
+   gaze of others (reviewed in Tomasello and Call, 2006). Whereas the
+   development of gaze following has been intensely studied in human
+   infants, less was known about its developmental trajectory in nonhuman
+   primates. Young rhesus monkeys followed the gaze of the experimenter at
+   about 6 months of age (Tomasello et al., 2001). Next to nothing was
+   known about the ontogenetic development of gaze following among
+   nonhuman primates. Using observational data from Barbary macaques,
+   Teufel and colleagues investigated the propensity follow of the gaze
+   and facial orientation of conspecifics. Gaze following was highly
+   prevalent among conspecifics: In about two-thirds of the instances when
+   another animal was looking into a specific direction, the subject also
+   turned into that direction (Teufel et al., 2010). This gaze following
+   developed within the first year of life, with a rapid increase in the
+   propensity to gaze follow between 5 and 6 months (Fig. 3). Across age
+   classes, gaze-following responses were significantly enhanced
+   in situations in which the gaze cue was accompanied by a facial
+   expression, while the sex, rank, and kin relations did not affect
+   gaze-following rates. Thus, the visual orientation of others serves as
+   an important cue to direct subjects' attention to specific events in
+   the environment (Teufel et al., 2010).
+
+   Figure 3. Influence of facial expressions on the ontogenetic trajectory
+   of gaze following among Barbary macaques. Probability of gaze following
+   when a model monkey sitting within the field of sight of the subject
+   showed a facial expression (N = 167, black squares) and when it simply
+   gazed into a certain direction without a particular facial expression
+   (N = 708, white squares), for the different age classes. Solid and
+   dashed/dotted lines represent the fitted curves and the 95% confidence
+   intervals from logistic regression analysis.
+   With permission from John Wiley &amp; Sons Inc. Teufel, C., Gutmann,
+   A., Pirow, R., Fischer, J., 2010. Facial expressions modulate the
+   ontogenetic trajectory of gaze-following among monkeys. Dev. Sci. 13,
+   913–922. http://dx.doi.org/10.1111/j.1467-7687.2010.00956.x.
+   (BUTTON) Show more
+   View chapterExplore book
+   Read full chapter
+   URL: https://www.sciencedirect.com/science/article/pii/B978012809324521
+   0110
+   Reference work
+   Learning and Memory: A Comprehensive Reference (Second Edition)
+   2017, Learning and Memory: A Comprehensive Reference (Second Edition)
+   Julia Fischer
+
+   Chapter
+
+Gaze following in infancy: Five big questions that the field should answer
+
+   2022, Advances in Child Development and BehaviorKim Astor, Gustaf
+   Gredebäck
+
+1.2 The gaze following test paradigm
+
+   In the standard gaze following paradigm (designed to measure
+   spontaneous gaze following), an interaction partner (actor) typically
+   looks at the participant before shifting her gaze towards a target
+   object. In infant studies, there are generally two objects placed on
+   either side of the actor (target and distractor) within infants' visual
+   field Fig. 1. Variations of this paradigm do exist where there, for
+   example, are no gaze targets (Thorup, Nyström, Bölte, & Falck-Ytter,
+   2021), where there are more than two targets (von Hofsten, Dahlström, &
+   Fredriksson, 2005), and where the targets are placed outside of
+   infants' visual field (Deák, Flom, & Pick, 2000), but these are rare.
+   The response of following the actor's gaze direction is often seen as a
+   deliberate, top-down action initiated by the infant (for alternative
+   views, see Deák, 2015; Moore, 2008). Studies use different operational
+   definitions to capture gaze following, depending in part on the
+   technique used to record infants gaze following (e.g., video coding and
+   eye-tracking): (1) accuracy of first look from the agent's face to a
+   target (Astor, Thiele, & Gredebäck, 2021), (2) relative looking time to
+   the target and distractor (Senju et al., 2015), (3) frequency/number of
+   gaze alterations between gaze target and the agent (Hernik & Broesch,
+   2019), and (4) latencies to fixate the target (Gredebäck, Fikke, &
+   Melinder, 2010). The first look metric is generally regarded as the
+   gold standard gaze following metric, used in most studies, representing
+   the accuracy of the initial response to another person's gaze shift
+   (Gredebäck, Johnson, & von Hofsten, 2010).
+   Fig. 1
+
+   Fig. 1. An exemplar gaze following paradigm from Astor and Gredebäck
+   (2019) utilizing eye-tracking technology. The left image illustrates
+   the greeting phase where the actor establishes eye contact with the
+   infant. Then, in the gaze phase (right image), the actor turns to look
+   at an object at her side. Included are three areas of interest (black
+   rectangles, not visible in the stimuli) used to calculate gaze
+   following.
+   (BUTTON) Show more
+   View chapterExplore book
+   Read full chapter
+   URL: https://www.sciencedirect.com/science/article/pii/S006524072200019
+   2
+   Book series
+   2022, Advances in Child Development and Behavior
+   Kim Astor, Gustaf Gredebäck
+
+   Chapter
+
+Anterior Eye
+
+   2018, Contact Lens Practice (Third Edition)John G. Lawrenson
+
+Eyelids
+
+   The eyelids are two mobile folds of skin that perform several important
+   functions: they act as occluders that shield the eyes from excessive
+   light, and through their reflex closure they afford protection against
+   injury. The lids also form a precorneal tear film of uniform thickness
+   during the upturn phase of each blink. The action of blinking is also
+   important for tear drainage.
+
+Gross Anatomy
+
+   The eyelids are joined at their extremities, termed ‘the canthi’, and
+   when the eye is open, an elliptical space, the palpebral fissure, is
+   formed between the lid margins. In the adult, the length of the fissure
+   is approximately 30–31 mm, with a vertical height of 10–11 mm. In the
+   primary position, the upper lid, which is the larger and more mobile of
+   the two, typically covers approximately the upper third of the cornea,
+   whilst the lower lid is level with the inferior corneal limbus (Fig.
+   2.14). Important differences in eyelid anatomy exist between Asian and
+   Caucasian eyes (Saonanon, 2014). The most obvious feature of the Asian
+   eye is the absent or very low lid fold and fuller upper eyelid.
+
+   The eyelid margins are about 2 mm thick from front to back. The
+   posterior quarter consists of conjunctival mucosa and the anterior
+   three-quarters is skin. The junction between the two is referred to as
+   the mucocutaneous junction. There has recently been a renewed interest
+   in the marginal zone of the human eyelid, with the identification of
+   the role of the inner lid border, termed the ‘lid-wiper’ owing to the
+   analogy to a windscreen wiper, in the distribution of the tear film
+   (Knop et al., 2011a, 2012). Two or three rows of eyelashes (cilia)
+   arise from the anterior border of the lid margins. These are longer and
+   more numerous in the upper lid. The lashes receive a rich sensory nerve
+   supply, and their sensitivity provides an effective alerting mechanism.
+
+   The meibomian (tarsal) gland orifices emerge just anterior to the
+   mucocutaneous junction (Fig. 2.15). About 30–40 glands open onto the
+   upper margin, and slightly fewer (20–40) onto the lower. On eversion of
+   the lids the yellowish meibomian acini are visible as yellow clusters
+   through the tarsal conjunctiva (Bron et al., 1991; Knop et al., 2011b).
+   Meibomian glands can be more clearly visualized using infrared
+   meibography, and instruments that use this method are now commercially
+   available (Srinivasan et al., 2012) (Fig. 2.16). At the medial angle,
+   the eyelid margins enclose a triangular space – the lacus lacrimalis –
+   which contains the plica semilunaris and the caruncle. Lacrimal
+   papillae are small elevations located 5–6 mm from the medial canthal
+   angle, which contains a small aperture (punctum) that is the opening to
+   the lacrimal drainage system.
+
+Muscles of the Eyelids
+
+   Movements of the eyelids are governed by the coordinated action of
+   several muscles.
+
+Orbicularis Oculi
+
+   The orbicularis oculi is the sphincter muscle of the eyelids, and can
+   anatomically be divided into two main divisions: the palpebral and the
+   orbital (Fig. 2.17). Fibres of the palpebral division arise from the
+   medial palpebral ligament and arc across the eyelids in a series of
+   half-ellipses, meeting at the lateral canthus to form a lateral raphe.
+   The lateral palpebral ligament also acts as an anchor point. The
+   palpebral division can be further subdivided into marginal, pretarsal
+   and preseptal parts. The marginal part (pars ciliaris), which is also
+   known as Riolans muscle, is responsible for maintaining the apposition
+   of the lid to the cornea during lid closure. A third part of the muscle
+   (pars lacrimalis) is closely associated with the lacrimal outflow
+   pathway. The pars lacrimalis (also known as Horner’s muscle) encloses
+   the canaliculi and provides attachments to the lacrimal sac and its
+   associated fascia.
+
+   The orbital part of the orbicularis oculi lies outside the palpebral
+   division and extends for some distance beyond the orbital margins.
+   Muscle fibres arise predominantly from bone at the medial orbital rim
+   and appear to sweep around the lids without interruption as a series of
+   complete ellipses. However, studies have shown that the muscle fibres
+   of the orbital and palpebral division of the orbicularis are relatively
+   short (0.4–2.1 mm) and overlapping (Lander et al., 1996). The regional
+   divisions of the orbicularis also show a functional distinction. The
+   action of the palpebral part of the muscle is to produce the reflex or
+   voluntary closure of the lids during blinking. Contraction of the
+   orbital division produces the forcible closure of the lids that occurs
+   in sneezing or in response to a painful stimulus.
+
+Levator Palpebrae Superioris
+
+   The levator palpebrae superioris is primarily responsible for elevating
+   the upper lid during blinking and for maintaining an open palpebral
+   aperture. The levator palpebrae arises from the lesser wing of the
+   sphenoid, above and anterior to the optic canal, and runs forward along
+   the roof of the orbit above the superior rectus before terminating
+   anteriorly in a fan-shaped tendon (aponeurosis). Some fibres are
+   attached to the anterior surface of the tarsal plate, whilst the
+   remainder pass between fascicles of the orbicularis (Fig. 2.18). The
+   superior palpebral sulcus forms at the upper border of the attachment
+   to the orbicularis.
+
+Superior and Inferior Tarsal Muscles (of Müller)
+
+   These smooth muscles arise from the lower border of the levator in the
+   upper lid and the inferior rectus in the lower lid, and insert into the
+   orbital margins of the tarsal plates. The role of the superior tarsal
+   muscle is to assist the levator in maintaining the width of the
+   palpebral aperture. A mild degree of ptosis results from damage to its
+   sympathetic nerve supply (Horner’s syndrome).
+
+Control of Eyelid Movements
+
+   Movements of the eyelids occur through the coordinated action of
+   several muscles – the levator palpebrae, tarsal muscles, the
+   orbicularis oculi and the frontalis. The elevation of the upper lid and
+   the control of its vertical position are mediated principally by the
+   levator. In vertical gaze, lid position and eye movements are closely
+   linked. During elevation the state of contraction of the levator is
+   varied to maximize visibility. In extreme upgaze, lid retraction is
+   augmented by the action of the frontalis, which elevates the eyebrows.
+   In downgaze, coordinated lid movements similarly occur through levator
+   relaxation. In periodic and reflex blinks, the levator is spontaneously
+   inhibited prior to orbicularis contraction in lid closure. Similarly,
+   in lid opening the orbicularis relaxes, followed by contraction of the
+   levator. Spontaneous eye-blink activity is influenced by both central
+   and peripheral factors (Tsubota, 1998).
+
+   Compared with the upper lid, the lower lid is relatively immobile and
+   has no counterpart to the levator palpebrae. The depression of the
+   lower lid that occurs in downgaze is due to the attachment of the
+   sheaths of the inferior oblique and inferior rectus muscles to the
+   tarsal plate via a fibrous extension.
+
+Microscopic Anatomy
+
+   The histological appearance of the upper and lower lids is similar, and
+   in sagittal section the following six tissue layers can be resolved:
+   skin, subcutaneous connective tissue, muscle layer, submuscular
+   connective tissue, tarsal plate and palpebral conjunctiva (Fig. 2.19).
+
+   The eyelid skin is thin and very elastic. It is continuous with the
+   palpebral conjunctiva at the lid margin, and keratinization is
+   maintained up to this mucocutaneous junction. The subcutaneous
+   connective tissue is composed of a loose areolar tissue and contains
+   hair follicles and associated glands. The muscle layer consists of
+   striated muscle fibres of the orbicularis oculi, which are arranged in
+   bundles (fascicles) separated by connective tissue. The orbicularis
+   extends throughout the lid. The marginal part of the muscle (Riolan’s
+   muscle) is separated from the pretarsal portion by connective tissue
+   that contains the eyelash follicles. The loose submuscular connective
+   tissue layer lies between the orbicularis and the tarsal plate and
+   contains the major nerves and vessels of the lid.
+
+   The tarsal plates (tarsi) are composed of dense fibrous connective
+   tissue and provide support and determine lid shape. They are anchored
+   to the orbital margins by the medial and lateral palpebral ligaments.
+   Each tarsus is approximately 25 mm long and 1–2 mm thick. The upper
+   tarsus is semioval with a height of 11 mm at its midpoint, whereas the
+   inferior tarsus is narrower (4 mm in height). The posterior surface of
+   the eyelid is lined by the palpebral conjunctiva, which is firmly
+   adherent to the underlying tarsal plate.
+
+Glands of the Eyelids
+
+Meibomian Glands
+
+   The tarsal plates contain the acini and ducts of the meibomian (tarsal)
+   glands. Ducts are vertically oriented with respect to the lid margins,
+   with multiple secretory acini that open laterally onto each duct. The
+   glands occupy nearly the full length and width of each tarsus, and are
+   fewer and shorter in the lower lid. Histologically, the acini are lined
+   by a layer of undifferentiated basal cells that divide, and cells are
+   displaced from the basement membrane. As they progress towards the duct
+   they gradually enlarge and develop lipid droplets in their cytoplasm
+   (Fig. 2.20). Ultimately, cell membranes rupture and cellular debris,
+   together with the lipid product, is discharged into the duct.
+
+   The stimulus for meibomian gland secretion is unclear. Although a
+   modest autonomic innervation of the meibomian glands has been
+   demonstrated, there is still some doubt regarding a neuromodulation of
+   glandular secretion; it is likely that the principal control of the
+   glands is hormonal, and both androgens and oestrogens have been shown
+   to regulate meibomian secretion (Sullivan et al., 2000; Knop et al.,
+   2011b). A long ductal system carries the secretion to the lid margin,
+   and the compressive action of the palpebral division of the orbicularis
+   oculi on the meibomian ducts facilitates the flow of lipid and its
+   eventual delivery onto the lid margins.
+
+Glands of Zeis and Moll
+
+   Ciliary glands of Zeis and Moll are found in association with eyelash
+   follicles (Takahashi et al., 2013) (Fig. 2.21). Zeis glands are
+   unilobular sebaceous glands that open directly into the follicle. The
+   function of their oily secretion is to lubricate the lashes to prevent
+   them from drying out and becoming brittle. Glands of Moll are modified
+   sweat glands (apocrine) consisting of an unbranched spiral tubule. The
+   exact function of these glands is unclear, although their secretion is
+   rich in IgA, which suggest a role in the immune defence of the ocular
+   surface (Stoeckelhuber et al., 2003).
+
+Blood and Nerve Supply
+
+Nerves of the Eyelids
+
+   The levator palpebrae and orbicularis oculi muscles are innervated by
+   the oculomotor and facial nerves, respectively. The sensory supply of
+   the upper lid derives from branches of the ophthalmic nerve
+   (supraorbital, supratrochlear and lacrimal). The supply to the lower
+   lid comes from branches of the maxillary nerve (zygomatic,
+   infraorbital).
+
+Blood and Lymphatic Supply to the Eyelids
+
+   The arterial supply derives from branches of the ophthalmic, lacrimal
+   and infraorbital arteries, which contribute to two palpebral arcades in
+   the upper lid and one in the lower. Branches from these arcades supply
+   the skin, orbicularis, tarsal glands and palpebral conjunctiva. Veins
+   of the eyelids empty into veins of the forehead and temple, and some
+   empty into the ophthalmic vein. Lymphatics drain to the preauricular
+   and submandibular lymph nodes.
+   (BUTTON) Show more
+   View chapterExplore book
+   Read full chapter
+   URL: https://www.sciencedirect.com/science/article/pii/B978070206660300
+   0022
+   Book
+   Contact Lens Practice (Third Edition)
+   2018, Contact Lens Practice (Third Edition)
+   John G. Lawrenson
+
+   Chapter
+
+Behavioral Clues for Detection of Illness in Wild Animals: Models in Camelids
+and Elephants
+
+   2008, Zoo and Wild Animal Medicine (Sixth Edition)Murray E. Fowler
+
+Eyes
+
+   The large expressive eyes of SACs immediately attract attention, and it
+   has been said that the eye is the window to the emotional state of an
+   animal. Much may be learned by attentive evaluation of the eye
+   (eyeball, eyelids). Observant people are quick to perceive a person's
+   emotional state or illness on the basis of eye clarity, pupillary
+   dilation or constriction, and eyelid position. Often a mother has only
+   to look into the eyes of a child to sense excitement, apathy,
+   depression, or guilt of a misdeed. The eyes of healthy or ill animals
+   are also revealing. It is difficult to describe an apathetic look or a
+   pained expression, but these are present in animals as well as humans.
+
+   The eyes of a healthy SAC should be clear and bright. The pupils should
+   respond quickly to extra light. Poking a finger toward the eye should
+   produce a blink reflex. The appearance of the eyes provides the basis
+   for abnormal countenance (facial expression).
+
+   The cornea of an animal that is ill may appear to be glazed or cloudy.
+   The pupil may be slow or nonresponsive to light, and the animal may not
+   respond to a finger poked toward the eye. A SAC may have an inattentive
+   gaze (“star gazing”). Closed eyelids indicate pain associated with the
+   eye. Some systemic as well as local diseases stimulate excessive
+   tearing or discharge.
+   (BUTTON) Show more
+   View chapterExplore book
+   Read full chapter
+   URL: https://www.sciencedirect.com/science/article/pii/B978141604047750
+   0075
+   Book
+   Zoo and Wild Animal Medicine (Sixth Edition)
+   2008, Zoo and Wild Animal Medicine (Sixth Edition)
+   Murray E. Fowler
+
+Related terms:
+
+     * Cranial Nerve
+     * Limb
+     * Eye Movement
+     * Face
+     * Saccadic Eye Movement
+     * Superior Colliculus
+     * Haplorhini
+     * Click
+     * Motion
+     * Cornea Reflex
+
+   View all Topics
+
+Recommended publications
+
+   (BUTTON) Info icon
+     * Journal of the Neurological Sciences
+       Journal of the Neurological Sciences
+       Journal
+     * Pediatric Neurology
+       Pediatric Neurology
+       Journal
+     * The Lancet
+       The Lancet
+       Journal
+     * Journal of Clinical Neuroscience
+       Journal of Clinical Neuroscience
+       Journal
+
+   Browse books and journals
+   Elsevier logo with wordmark
+     * About ScienceDirect
+     * Remote access
+     * Contact and support
+     * Terms and conditions
+     * Privacy policy
+     * (BUTTON) Cookie settings
+
+   All content on this site: Copyright © 2025 Elsevier B.V., its
+   licensors, and contributors. All rights are reserved, including those
+   for text and data mining, AI training, and similar technologies. For
+   all open access content, the relevant licensing terms apply.
+   RELX group home page
