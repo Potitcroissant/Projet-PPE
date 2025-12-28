@@ -1,0 +1,81 @@
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Nerves and muscles
+     * 2 Conjugate gaze
+     * 3 See also
+     * 4 References
+     * 5 External links
+
+   [ ] Toggle the table of contents
+
+Gaze (physiology)
+
+   [ ] 3 languages
+     * العربية
+     * Français
+--
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   For other uses, see Gaze (disambiguation).
+
+   The term gaze is frequently used in physiology to describe coordinated
+   motion of the eyes and neck. The lateral gaze is controlled by the
+   paramedian pontine reticular formation (PPRF).^[1] The vertical gaze is
+   controlled by the rostral interstitial nucleus of medial longitudinal
+   fasciculus and the interstitial nucleus of Cajal.^[2]
+
+Nerves and muscles
+--
+   intorsion, and is a component of focusing the eyes on an object close
+   to the face. The oculomotor nerve controls all the other extraocular
+   muscles, as well as a muscle of the upper eyelid.^[3]
+
+Conjugate gaze
+
+   [edit]
+
+   The conjugate gaze is the motion of both eyes in the same direction at
+   the same time, and conjugate gaze palsy refers to an impairment of this
+   function. The conjugate gaze is controlled by four different
+   mechanisms:^[4]
+     * the saccadic system that allows for voluntary direction of the gaze
+     * the pursuit system that allows the subject to follow a moving
+       object
+     * nystagmus which includes both vestibular nystagmus and optokinetic
+       nystagmus. The vestibular system restores gaze in compensation for
+       the rotation of the head whereas the optokinetic system restores
+       gaze despite movements of the outside world.
+     * the vestibulo-ocular reflex system (VOR system) that corrects for
+       the movements of the head to preserve the stable visual image of
+       the world
+
+--
+     * http://www.med.yale.edu/caim/cnerves/cn6/cn6_8.html
+     *
+
+   Versino, M; Simonetti, F; Egitto, M G; Ceroni, M; Cosi, V; Versino, M;
+   Ceroni, M; Cosi, V; Beltrami, G (1999). "Lateral gaze synkinesis on
+   downward saccade attempts with paramedian thalamic and midbrain
+   infarct". Journal of Neurology, Neurosurgery & Psychiatry. 67 (5):
+   696–7. doi:10.1136/jnnp.67.5.696. PMC 1736620. PMID 10577040.
+     * v
+--
+     * Tactile illusions
+     * Temporal illusion
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Gaze_(physiology)&oldid=130
+   0691938"
+
+   Categories:
+     * Eye
+--
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Gaze (physiology)
+   (BUTTON) 3 languages Add topic

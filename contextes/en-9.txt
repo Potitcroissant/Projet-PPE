@@ -1,0 +1,49 @@
+   #OCCK » Feed OCCK » Comments Feed OCCK » What is Eye Gaze Technology?
+   Comments Feed oEmbed (JSON) oEmbed (XML) JSON
+
+   OCCK Inc.
+   (785) 827-9383
+--
+
+   [shape_purple.svg]
+   [shape_purple.svg]
+
+NewsroomWhat is Eye Gaze Technology?
+
+   3/5/2018
+
+   It is an electronic device that allows a person to control a computer
+   or tablet by looking at words or commands on a video screen. A very low
+   intensity light shines into one of the user’s eyes. A television camera
+   picks up reflections from the cornea and retina. As the direction of
+   the person’s gaze moves, the relative position of the two reflections
+   changes, and the computer uses this information to determine the area
+   at which the person is looking. The computer then executes the selected
+   command.
+
+--
+   the Solution Outreach Center at OCCK, Inc. have used this technology
+   with people as young as 9 months to senior citizens. Our customers are
+   using it for communication, educational programs, email, Facebook,
+   reading a book, exploring the Internet and turning on their TV.
+   Currently we have the PCEye Mini, and myGaze Eye Tracker. Information
+   on these two devices is below, other companies also have eye gaze
+   technology.
+
+   If you would like more information on this technology or would like to
+   request a demonstration, please call the Solution Outreach Center at
+--
+   to navigate and control your laptop or small screen desktop computer
+   using only your eyes.
+   https://www.tobiidynavox.com
+
+   myGaze Eye Tracker
+   With simple USB connection to your device, myGaze Eye Tracker provides
+   accurate eye tracking and cursor control. An elegant but robust
+   solution for all individuals, whether learning early eye gaze skills or
+   accessing all areas of the computer.
+   https://www.enablemart.com/mygaze-eye-tracker
+
+Related Articles
+
+   View All Articles

@@ -22,8 +22,10 @@ echo "<html>
 				<th>Code</th>
 				<th>Encodage</th>
 				<th>Nombre de mots</th>
+				<th>Nombre d'occurrence du mot</th>
 				<th>HTML</th>
 				<th>Dump</th>
+				<th>Contexte</th>
 			</tr>"
 
 lineno=1
@@ -34,9 +36,11 @@ do
 	http_code=$(echo "$data" | head -1)
 	encoding=$(echo "$data" | tail -1 | grep -Po "charset=\S+" | cut -d"=" -f2)
 	nbmots=$(cat ./.data.tmp | lynx -dump -nolist -stdin | wc -w)
+	nboccurrence=$(cat ./.data.tmp | lynx -dump -nolist -stdin | grep -oiw "gaze" | wc -l)
     
     curl -s -i -L $line > "aspirations/en-$lineno.html"
     lynx -dump -nolist $line > "dump-text/en-$lineno.txt"
+    egrep -i -C 4 "gaze" "dump-text/en-$lineno.txt" > "contextes/en-$lineno.txt"
     
     echo -e "			<tr>
 				<td>$lineno</td>
@@ -44,8 +48,10 @@ do
 				<td>$http_code</td>
 				<td>$encoding</td>
 				<td>$nbmots</td>
+				<td>$nboccurrence</td>
 				<td><a href=\"../aspirations/en-$lineno.html\">$lineno.html</a></td>
 				<td><a href=\"../dump-text/en-$lineno.txt\">$lineno.txt</a></td>
+				<td><a href=\"../contextes/en-$lineno.txt\">$lineno.txt</a></td>
 			</tr>"
     
     
