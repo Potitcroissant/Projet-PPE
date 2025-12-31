@@ -1,0 +1,260 @@
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Histoire
+       (BUTTON) Afficher / masquer la sous-section Histoire
+          + 1.1 Le regard masculin
+          + 1.2 Regard féminin
+          + 1.3 Regard phallocentrique
+     * 2 Le regard oppositionnel au service du développement identitaire
+     * 3 Dans les medias
+     * 4 Références
+
+   [ ] Basculer la table des matières
+
+Regard oppositionnel
+
+   [ ] 2 langues
+     * English
+     * Hausa
+--
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour les articles homonymes, voir Regard et Regard (sciences sociales).
+
+   Le regard oppositionnel est un concept de la militante féministe bell
+   hooks, présenté dans son essai de 1992 The Oppositional Gaze: Black
+   Female Spectators, qui fait référence au pouvoir du regard. Cet essai
+   est tiré de l'ouvrage Black Looks: Race and Representation, traduit en
+   français aux éditions Payot sous le titre Regards oppositionnels : Se
+   défaire des représentations dominantes^[1]. Elle définit le regard
+   oppositionnel comme un moyen par lequel une personne noire en position
+   subordonnée communique son statut. L'essai de hooks est un ouvrage de
+   théorie féministe du cinéma qui discute du regard masculin, de Michel
+   Foucault, et du féminisme blanc dans la théorie du cinéma.
+
+Histoire
+
+   [modifier | modifier le code]
+
+   Dans l'essai de 1992 « The Oppositional Gaze: Black Female
+   Spectators », hooks décrit le regard d'un corps noir comme réprimé, nié
+   et interrogateur. Elle soutient que le regard est devenu un acte de
+   rébellion à l’époque de l’esclavage américain, lorsque les
+   propriétaires d’esclaves punissaient souvent les esclaves simplement
+   pour les avoir regardés, niant ainsi aux personnes noires le droit au
+   regard^[2]. À travers un débat critique sur les femmes noires et le
+   cinéma, le regard oppositionnel se présente comme un moyen pour les
+   personnes noires d’acquérir une capacité d’agir pour lutter contre la
+   suprématie blanche. Les représentations racistes des personnes noires
+   dans un cinéma dominé par les Blancs ont donné naissance à un cinéma
+   noir indépendant. Cependant, hooks note que les cinéastes noirs ont
+   représenté les femmes noires dans leurs films comme des objets du
+   regard masculin qui perpétuaient intrinsèquement la suprématie blanche,
+   car le corps de la femme noire n'était présenté que pour glorifier et
+   maintenir la féminité blanche en tant qu'objet du regard
+   phallocentrique.
+
+   Le concept a d’abord été développé comme une perspective de théorie
+   critique que les femmes noires pouvaient appliquer lorsqu’elles
+   regardent un film^[3].
+
+   Le regard oppositionnel englobe des modes de regard qui utilisent des
+   regards réflexifs, notamment des regards masculins, féminins et
+   phallocentriques.
+
+Le regard masculin
+
+   [modifier | modifier le code]
+
+   Le concept de regard oppositionnel s'est construit autour du rejet
+   direct des thèses de Laura Mulvey dans son article Plaisir visuel et
+   cinéma narratif (1975)^[2]. Dans ce texte, la cinéaste britannique
+   utilise le stade du miroir de Lacan pour l'appliquer au cinéma, le
+   définissant comme « le moment où l’enfant se reconnaît dans le miroir
+--
+   l’image et l’image de soi, qui s’est exprimée si intensément dans les
+   films et qui a trouvé une si enthousiaste reconnaissance du
+   public »^[4]. Mulvey approfondit ce point en expliquant que ce qui rend
+   la star de cinéma masculine attirante n'est pas le fait d'être
+   « l'objet érotisé du regard », mais le fait qu'elle ait les mêmes
+   caractéristiques que le « Moi idéal » développé dans les premières
+   étapes de la reconnaissance devant le miroir^[4]. Mulvey définit la
+   division entre « l'actif/masculin et le passif/féminin » comme le
+   plaisir que suscite le regard masculin (le male gaze en anglais), qui
+   est déterminant dans la façon de modeler la figure féminine^[5]. hooks
+   réfute cette affirmation en déclarant : « Les spectatrices noires ont
+   choisi « activement » de ne pas s'identifier au sujet imaginaire du
+   film parce qu'une telle identification était invalidante.»^[6]
+--
+   métaphoriquement, vu de véritables représentations d’elles-mêmes. hooks
+   explique qu'un des rares exemples de cette reconnaissance se trouve
+   dans deux personnages du film Passion of Remembrance. Elle écrit : « En
+   s'habillant pour aller à une fête, Louise et Maggie revendiquent le
+   « regard ». En se regardant l'une l'autre et elles-mêmes dans le
+   miroir, elles semblent complètement concentrées sur leur rencontre avec
+   la féminité noire.»^[7]
+
+   Les critiques de Mulvey présentent des perspectives excluantes parce
+   qu'elles utilisent le corps de la femme blanche comme une catégorie
+   totalisante, appliquée à toutes les femmes^[2]. Non seulement la
+   représentation des femmes noires est considérablement marginalisée dans
+   le cinéma, mais elles sont en outre présentées à tort comme des objets
+   stéréotypés sur lesquels le regard masculin est rarement, voire jamais,
+   appliqué. Ce concept amène hooks à se demander : « Devons-nous vraiment
+   imaginer que les théoriciennes féministes qui écrivent uniquement sur
+   les images de femmes blanches [...] ne « voient » pas la blancheur de
+   l’image ? »^[8]
+
+   Le regard oppositionnel sert de « geste de résistance » non seulement
+   au regard masculin mais aussi à l'oppression des minorités à travers le
+   cinéma par la réduction au genre totalisant de la femme. Ce regard
+   critique le double effet de l'objectivation en « se détournant [comme]
+   une manière de protester, de rejeter la négation »^[9].
+
+Regard féminin
+
+   [modifier | modifier le code]
+
+   Judith Butler théorise le regard féminin (le female gaze, en anglais)
+   comme une « forme envahissante d'hétérosexisme dans la théorie
+   féministe »^[10]. Dans son essai « La question de la transformation
+   sociale », Butler déclare : « Normes du genre dominantes et non
+   dominantes apparaissent ainsi également performatives. Certaines de ces
+   expressions performatives revendiquent toutefois la place de la nature
+   ou de la nécessité symbolique »^[10]. Ces théories critiquent le regard
+   masculin et son objectivation des « femmes », car en plus d'exclure le
+   regard oppositionnel noir, il s'intéresse davantage à la subjectivité
+   du genre masculin qu'à celle du genre féminin. De plus, la « femme » en
+   tant qu’objet sexuel hétérogène fonctionne pour et dans le cadre du
+   patriarcat, renforçant le « regard dominant de l’impérialisme
+   capitaliste suprématiste blanc. » ^[2]
+
+   "La créatrice de Transparent, Jill Soloway, a parlé du défi de définir
+   le regard féminin au Festival international du film de Toronto. Elle a
+   soutenu que le regard féminin consiste en réalité à utiliser la
+   présence d'une perspective féminine à l'écran pour mettre en valeur les
+   émotions et les personnages de l'histoire." ^[11] De nombreuses
+   cinéastes utilisent des styles et des thèmes qui se moquent du regard
+   masculin et donnent une perspective sur l'expérience féminine. Wonder
+   Woman de Patty Jenkins montre Diana (Gal Gadot) se moquant des
+   vêtements vendus aux femmes en 1918 alors qu'elle tente de trouver un
+   déguisement. Cette scène représente une femme exprimant sa frustration
+--
+   sexualité féminine et l'art de la séduction d'une manière assez
+   différente du style trop sexualisé et « sordide » que l'on retrouve
+   souvent dans les films^[11].
+
+   L’objectif du regard féminin n’est pas simplement de changer le récit
+   de l’objectivation et de focaliser l’attention sur les hommes, mais
+   plutôt de présenter la façon dont les femmes pensent et
+   ressentent^[12]. Il a été avancé que le regard féminin au cinéma
+   encourage le public et les spectateurs à entrer en résonance avec les
+   femmes à l'écran et à tenter de ressentir ce qu'elles ressentent.
+   Ainsi, une scène de violence sexuelle contre les femmes, même si elle
+   constitue un problème très grave, peut, avec l'utilisation du regard
+   féminin, changer la façon de comprendre cette violence par le
+   spectateur. Une scène de viol dans La Servante écarlate montre
+   Elizabeth Moss se dissociant de ce qui lui arrive en regardant le
+   plafond. La focalisation de la caméra sur son visage lors de ces
+   instants oblige les spectateurs et le public à vivre ce moment avec
+   elle^[12].
+
+Regard phallocentrique
+
+   [modifier | modifier le code]
+
+   Le regard phallocentrique est défini comme « l’obsession et la
+   concentration de l’étude sur les organes génitaux masculins »^[13].
+
+Le regard oppositionnel au service du développement identitaire
+
+   [modifier | modifier le code]
+
+   Des recherches ont été menées encourageant les écoles primaires à
+   enseigner très tôt le « regard oppositionnel » aux adolescentes noires
+   afin qu'elles puissent développer une « conscience critique » dès leur
+   plus jeune âge afin de contribuer au développement identitaire positif
+   dans un monde dont les systèmes les marginalisent et dont les médias
+   les dépeignent négativement^[14]. Dans une étude ethnographique menée
+--
+   L’autrice de l'étude, Charlotte Jacobs, affirme que les écoles
+   devraient éviter de reproduire ces messages négatifs et viser des
+   outils pédagogiques qui déconstruisent et repoussent les récits
+   oppressifs qui entourent les filles et les femmes noires. Selon la
+   chercheuse, avoir les bons objectifs pour regarder les médias qui les
+   entourent pendant qu'ils grandissent est important pour qu'ils
+   apprennent à discerner les stéréotypes négatifs qui sont construits et
+   sont « omniprésentes dans les différentes formes de médias qui inondent
+   les écrans, décrivant les filles et les femmes noires comme hyper
+--
+
+   Étant donné que la plupart des images auxquelles les jeunes filles sont
+   exposées de nos jours proviennent des médias, c’est dans ces médias que
+   ces stéréotypes imprègnent leur développement identitaire. Être capable
+   de porter un regard critique sur les médias et de comprendre les cadres
+   de leurs « identités oppressives imbriquées » est important pour les
+   filles noires afin de comprendre les racines idéologiques qui ont
+   socialisé tout le monde autour d'elles.
+
+--
+   [modifier | modifier le code]
+
+   Dans son essai, hooks explique que les femmes noires sont non seulement
+   sous-représentées dans les films, mais qu'elles ne sont pas non plus
+   autorisées à "regarder". Regarder implore un sentiment de pouvoir qui
+   est retiré du corps de la femme noire, pour jouer le rôle d'objet en
+   relation directe avec l'existence de la femme blanche^[2].
+
+   hooks critique le film de Spike Lee, Nola Darling n'en fait qu'à sa
+   tête, qu'elle accuse d'avoir recours à des pratiques cinématographiques
+   patriarcales dominantes qui représentent les femmes noires comme
+   l'objet d'un regard phallocentrique^[2]. Le remplacement de la féminité
+   blanche par la féminité noire a conduit hooks à enquêter sur le
+   spectateur féminin noir^[2].
+
+   hooks critique également le concept de « résistance du spectateur » de
+   Manthia Diawara, en ce qu'il n'englobe pas l'ensemble des spectatrices
+   noires parce que les femmes noires ont créé des textes alternatifs qui
+   ne sont pas uniquement des réactions^[2].
+
+   Le regard oppositionnel peut être vu au cinéma à travers un casting
+   principalement blanc avec peu ou pas de représentation de la communauté
+   noire. La définition et la discussion de bell hooks du regard
+   oppositionnel permet aux spectateurs et au public d'en prendre
+   conscience à l'écran^[15]. Le film Get Out de Jordan Peele démontre
+   l'utilisation de ce regard à travers la représentation des femmes
+   noires comme calmes et passives, alors que les hommes noirs sont
+   considérés pour leurs caractéristiques physiques^[15]. Peele explique
+   que ce film permet de confronter les peurs de l'Autre (la communauté
+   noire) « et cela les renforce dans le regard, d'autant plus que le
+   protagoniste noir triomphe dans la fin en montrant que l'Autre peut
+   « traverser la peur », comme hooks espérait le faire atteindre." ^[15]
+
+Références
+
+   [modifier | modifier le code]
+    1. ↑ bell hooks, Traduction Sara Deux, Louise Cabannes et Leslie
+       Talaga, Regards oppositionnels: se défaire des représentations
+       dominantes, Payot, coll. « Essais Payot », 2025
+       (ISBN 978-2-228-93773-3)
+    2. ↑ ^a b c d e f g et h (en) Bell Hooks, chap. 7 « The Oppositional
+       Gaze: Black Female Spectators », dans Black Looks: Race and
+--
+
+     * icône décorative Portail des femmes et du féminisme
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Regard_oppositionnel&oldid
+   =231559792 ».
+   Catégories :
+     * Libertés publiques
+     * Féminisme
+--
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Regard oppositionnel
+   (BUTTON) 2 langues Ajouter un sujet
