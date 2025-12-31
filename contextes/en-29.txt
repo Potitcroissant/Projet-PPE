@@ -1,39 +1,470 @@
-   of times a participant looked up and to the right, or up and to the
-   left. These movements were coded and compared to what NLP experts
-   hypothesized.
+   About
+   Blog
+   Contact
 
-   Study results did not support the hypotheses that upper right gaze
-   indicates lying. Nor that looking up and to the left indicates
-   truthfulness.
+What is the ‘Gaze’ in Art?
 
-   In the second experiment, 50 participants were split into two equal
+   Jan 31
+   Written By Adam Geczy
+
+   Most art and film enthusiasts have heard of the ‘male gaze’ and the
+   ‘colonial gaze’ and so on. These labels suggest that the gaze, way in
+   which we approach looking, is not innocent. It is caught up with a
+   whole set of presumptions and rules. These can boil down to what gender
+   we are, where we come from, what we know and what we expect.
+
+   One key thing to remember is that when it comes to art, gazing is
+   largely about power. It's rude to stare at a person for a long while
+   but we can stare at a work of art for as long as we want. But then we
+   need to consider the role and nature of the artist in his or her gaze
+   and how that effects of understanding of what is being represented.
+
+Introduction
+
+   To gaze is to look, specifically to look at which then means to look at
+   in a particular way? How does that particular way affect what we see?
+   When you’re hungry you’ll look at some delicious food in a different
+   way from when you’re no longer hungry. But then, can an artist
+   represent food in such a way that makes you feel hungry or remember
+   when you were? These are nuances of the gaze, but there are also some
+   delicate ideological concerns as well regarding race, nationality,
+   gender etc.
+
+   A brief look at the various key philosophical positions concerning the
+   gaze show that we seldom if at all just look. For our own part we bring
+   to the image as many assumptions and expectations as there are within
+   the artwork itself.
+
+   It is only by looking closely at this binary approach of imaging versus
 --
-   detection claims.
+   with an intricate combination of social mores; add to that subjective
+   expectations and the vicissitudes of feeling.
 
-   In the final experiment, two independent raters watched videos of known
-   liars and truth tellers. Of all the videos viewed by the raters, there
-   were no instances of upper left or upper right gazes.
-
-   None of these studies provide any evidence that the NLP theory of eye
-   movement and lie detection are reliable or accurate.
-
---
-   out suspicious travelers going through airport security.
-
-   The behaviors on this checklist include:
-     * Whistling
-     * Averted gaze (avoiding eye contact)
-     * Excessive fidgeting or personal grooming
-     * Prolonged stare
-     * Rapid blinking
-     * Exaggerated yawning
+   In the end the only answer is this: once the work of art ceases to
+   excite responses, no longer elicits our gaze, once it loses its
+   intrigue and the secret is uncovered, then as a object of contemplation
+   it is exists only as something dried out, inertly expended like a
+   filled-in crossword or a mastered computer game. The greatest works of
+   art continually pose alternatives to our habits of image formation, or
 --
 
-   Understanding Eye Tracking Technology: How Does It Work?
+Prisoners of the cave
 
-   Eye tracking technology is used to measure eye movement and pupil size,
-   revealing gaze points and visual interest. Learn how eye trackers work.
-   Large pupils
+   As introduced in the last chapter, Plato’s allegory of the cave makes
+   us prisoners of the inadequacy of our gaze. The famous passage is in
+   Book VII of the Republic:
 
-   Psychopath Eyes: Behaviors That Point to Psychopathy
+     Behold! Human beings living in an underground den; here they have
+     been from their childhood, and have their legs and necks chained so
+--
+   world, or Weltanschauung.
 
+   And as I have suggested already, the new rights of the Enlightenment
+   may have had salutary consequences for politics but the democracy of
+   the gaze engendered not one right way of seeing, but many.
+
+   The concept of external law gave over to internal consensus.
+
+   This dilemma was already located by Kant who stressed the limitations
+--
+     correlative to ‘world’ as such and therefore ontologically
+     constitutive: ‘world’, ‘reality’ as we know them, can appear only
+     within the horizon of the subject’s finitude.
+
+   When we relate this back to the gaze we deal with a certain lack which
+   is both constitutive and the object of the gaze, which is the discovery
+   of Lacan (1901-81) via the thought of Sartre (1905-80).
+
+The gaze and the Other
+
+   Kant’s philosophy may be relevant to the shift in the agency of the
+   individual subject in relation to what he or she sees and knows, but
+   Sartre was the first philosopher to explore the gaze per se as a
+   function of the way we position ourselves in the world.
+
+   What separates the gaze from just a look is that the gaze is active as
+   opposed to passive and is performed with intent. In this dualism, there
+   is the subject and the Other (capitalized in the English because unlike
+   the French autrui, we do not have a special word for it).
+
+   Our understanding of ourselves, the self-reflection that defines us as
+   subjects, is reflected in others. However, we become aware of the
+   Other’s presence when we are subjected to the gaze, thereby noticing
+   that someone external to us has the power to discriminate similar to
+   ours.
+
+   The operable word here is power: in moments when we are startled, the
+   presence of the gaze is the most pronounced.
+
+   Sartre gives the example of the start we have when hearing a branch
+   crack behind us: the feeling of vulnerability begins with being the
+   recipient, not the agent, of the gaze. One of the most remarkable
+   aspects of Sartre’s observation is that the gaze is not necessarily
+   beholden to sight. Some suspenseful movies are built on this very
+   principle, as are cultural critiques by minorities, as I will show in a
+   moment.
+
+   In one of his famous examples, Sartre relates the shame we feel when
+   caught at spying through a keyhole that results in the gaze’s abrupt
+   reversal. Only then, as on object of the gaze, does one become aware of
+   the subjectivity that one had as holder of the gaze: ‘the person is
+   present in consciousness inasmuch as he/she is the object of the
+   Other.’
+
+   The shame that this realization engenders is
+
+     shame of oneself, being the recognition that I am well and am well
+     and truly the object that the other gazes at and judges. I am only
+     shamed by the loss of my freedom through becoming a given object.[…]
+     And this ‘me’ that I am is only within the world where the Other has
+     alienated me, […] [emphasis Sartre’s]
+
+   Sartre had taken the first step by stating that we are made conscious
+   of ourselves as subjects by another subject who makes us the object of
+   the gaze, at which point Jacques Lacan replies that the only acceptable
+   positioning of the gaze is therefore on the side of the Other.
+
+Lacan, the gaze and lack
+
+   Lacan agrees with Sartre’s insight that the gaze is not limited to
+   sight, but he emphasizes that the look and the gaze are a split
+   inherent in a drive that is manifested within ‘the scopic field’, an
+   overarching zone of vision that is enlisted by desire or, in Lacan’s
+   case lack, the cause of desire.
+
+   The gaze is a look driven by need. Without lack, there can be no gaze.
+   But Lacan goes even further: without lack there can be no
+   consciousness, as the gaze is the ‘underside’ of consciousness. Lack of
+   what? The phallus, but conceived of by Lacan in non-literal, mystical
+   terms: not limited to the penis, the phallus is what defines the split
+   between the sexes. For men it is what they have but is incomplete, for
+   women it is what they do not have and what they want. Both desire it,
+   but women want it more.
+
+   I will return to this touchy point. In his discourse on the gaze Lacan
+   sticks to the term object petit a, ‘a’ being the key term in the
+   algorithm of the gaze, where ‘a’ is the essence of the gaze. It is what
+   the gaze seeks—although we know now that seeking defines it—and what
+   eternally eludes it.
+
+   Hans Holbein the Younger. Jean de Dinteville and Georges de Selve ('The
+   Ambassadors'). 1533. The National Gallery, London. Via Artsy
+
+   In a wonderful ruse, Lacan calls upon Hans Holbein’s Ambassadors
+   (1533), to illustrate the gaze itself as a process of eluding. He draws
+   attention to the partly imperceptible thin diagonal form cutting across
+   the foreground, a skull distorted by anamorphosis, a technique popular
+   in Holbein’s time. Lacan makes the audacious suggestion that ‘Holbein
+   makes visible for us here something that is simply the subject that is
+   annihilated—annihilated in the form that is, strictly speaking, the
+   imagined embodiment of the minus-phi  [(-f)] of castration’.
+
+   If we are to see the phallus, to be in its presence, it can only be at
+   the expense of its own extinction and the anullment of the gaze itself,
+   hence the death of the one who sees; the stretched skull is the symbol
+   or better, proxy, for a black hole. It is through this confrontation
+   with ‘the anamorphic ghost’ that the gaze is then able to imagine
+   itself ‘in its pulsate, dazzling and spread out function’.
+
+   The painting locates precisely what Lacan says any picture is ‘a trap
+   for the gaze’. Since pictures are not people, we can gaze at them,
+   stare at them no less, without fear of reprisal, embarrassment—shame.
+
+   In looking closely and at length at a picture we are not just looking
+   at features of representation and description, rather our love of
+   illusion is what both empties out the gaze, sucks it up, but as much
+   momentarily satisfies it, makes it replete.
+
+Feminist revisions: the male gaze
+
+   The two major rebuttals to Lacan’s influential theses came with his
+   former student, Luce Irigaray (b. 1930) and the film theorist, Laura
+   Mulvey (b. 1941). Irigaray is one of the great feminist minds.
+--
+   the feminine through highlighting alternative values and avenues of
+   thought.
+
+   At roughly the same time as Irigaray, Laura Mulvey coined the term ‘the
+   male gaze’ in her 1973 essay ‘ Visual Pleasure and Narrative Cinema’ to
+   define the condition of the way in which women were viewed by postwar
+   Hollywood cinema.
+
+   Mulvey points to a ‘sexual imbalance, [wherein] pleasure in looking has
+   been split between active/male and passive/female’. This dichotomy
+   controls the narrative structure, reducing women to the status of
+   vulnerability as always being the receptors of the gaze.
+
+   Taking up the Lacanian assertion that the gaze is threatened by the
+   very thing it seeks—since to found something only affirms what the gaze
+   lacks—Mulvey states that the male gaze is subdivided into two seemingly
+   incompatible stereotypes, for which the feminist shorthand is
+   madonna/whore.
+
+   The first is ‘fetisihistic scopophilia’ (scopophilia—‘love of looking’)
+   in which women are beauteous items for visual delectation; the second,
+   ‘voyeurism’, is the obverse, a sadism that ends in submission and
+   defeat of its object/victim. More insidious still, as Mulvey argues,
+   narrative film forces women viewers into ownership of the male gaze as
+   well, since they see on behalf of the male protagonist who is supported
+   by the ostensibly universal, but actually male eye of the camera.
+
+   The artist who epitomizes the subjection of the female by the male gaze
+   is Cindy Sherman, particularly in the work that launched her career,
+   Untitled Film Stills (1977-80) which look like they have been extracted
+   from classic film noir. Although staged, with the artist the
+   centerpiece in different roles and costumes, one cannot help but be
+--
+   The one constant is the manner in which the nameless woman is steeped
+   in vulnerability and sexual availability, in expectation of the male
+   presence of which she is a mere symptom. With her mime of
+   defenselessness and subordination, Sherman maneuvers her viewers
+   squarely into the shoes of the male gaze.
+   [i.TheGaze.png]
+
+Historical precursors
+
+   In light of Mulvey’s essay it is possible to say that the salient
+   historical precursor to the male gaze is found in Baudelaire’s flâneur.
+   Flâner is to amble or stroll, but as a result of his essay ‘The Painter
+   of Modern Life’ (1863), Baudelaire (1821-67) all but takes theoretical
+   ownership of the word.
+
+--
+   paraphernalia, odd people, motley scenes, singling out jarring
+   juxtapositions that average city dwellers take for granted.
+
+   But as feminists have shown, the Baudelairean flâneur is in confident
+   possession of the male gaze, not to mention the male body. In
+   nineteenth century cities women were not as free to wander the streets.
+   Their susceptibility to the gaze was a regular indication of their
+   limited freedoms in comparison to men.
+
+   The Paris in Baudelaire’s thrall was the Paris that evolved as a result
+   of the vast redevelopment at the hands of Napoleon III’s minister of
+--
+   outside—affected pictorial representation. It is an open question,
+   however, as to whether this gendering of vision is essential or
+   conditioned.
+
+The Colonial subject, Orientalism and the Imperial Gaze
+
+   When it came those to which the active Enlightenment subject trained
+   his gaze, women were still treated as objects, as were non-Western
+   peoples, who were the objects of knowledge.
+
+   Evidently the modern, European subject believed himself to be the only
+   viable one, and until others were converted to their way of thinking,
+--
+   shape, ugly and angular.
+
+   Les Demoiselles d’Avignon. By Pablo Picasso. 1907. Via MoMA
+
+   Circumstances of the presumptuous Imperial gaze may have shifted to a
+   more self-critical conscience within the academy, but they have not for
+   tourism or advertising which are ready to exploit anything with exotic
+   appeal.
+
+--
+
+   Paul Gauguin, Where Do We Come From? What Are We? Where Are We Going?
+   1897-8. Museum of Fine Arts, Boston.
+
+The gaze, knowledge and power
+
+   In the 1961 the philosopher Michel Foucault published the first of a
+   series of influential books about how dominance, power and control is
+   organized within Western society and thought since the seventeenth
+--
+   signs that erred from good health.
+
+   In Discipline and Punish, Foucault focused on the prison reform of
+   Jeremy Bentham, the inventor of the panopticon, an architectural device
+   of surveillance that exposed prisoners to an omnipresent gaze.
+
+   After the student riots in May 1968, Foucault’s questions about the
+   substance of power and who wields it gained in momentum. ‘Who owns the
+   gaze?’. The owner of power and knowledge.
+
+   Yet power and knowledge can never be said to have their permanent
+   source in one quality or thing. This means that whilst it is important
+   to locate the gaze in order to determine the locus of power, the holder
+   of the gaze is neither reducible to that power, nor is he or she ever
+   in complete possession of it.
+
+   Power and the gaze for Foucault is a configuration like a kaleidoscope:
+   any discernible pattern is one among many; the pattern changes, along
+   with the effect. ‘The question of power remains a total enigma’ says
+   Foucault. Power is ‘not in the hands of those who govern’, and
+   governance itself is a ‘fluid’ notion. ‘It is often difficult to say
+--
+   representation within a representation, stands outside of the picture,
+   a mere shadow.
+
+   Meanwhile it is the artist—working on a painting we cannot see or
+   perhaps the painting we are now seeing, and who gazes directly at
+   us—that has the greatest presence, signifying a possession of the gaze
+   made possible through artistic invention. The sources of power in this
+   picture find themselves continually displaced: for Velasquez the
+   artist, because it is mediated through representing self-presentation
+   (becoming both subject and object), and for the king and queen, through
+--
+   the German Hegelian Jürgen Habermas for whom power’s indeterminacy in
+   Foucault’s thought only defers efforts to discourage solutions to
+   power’s abuses.
+
+The Postcolonial and Postfeminist gaze
+
+   Once Foucault’s critique of the centralization of power in the modern
+   age is applied to the Western male Orientalist, it raises a gamut of
+   apposite yet thorny questions.
+
+   Who has ownership of the gaze and what are its entitlements? If an
+   indigenous society happens to approve of an outsider’s vision of them,
+   artistic or otherwise, does their chorus of opinion make it right? Can
+   a woman have the male gaze?
+
+   If you resemble the peoples of one culture and grow up in another
+   (Indians in England, Turks in Germany, Chinese in Australia, Koreans in
+   the U.S.) does this give you a special advance on your access to the
+--
+   reassessment on a periodic basis. In stable countries, identity is the
+   catchcry for artists and curators who fear the scourges of
+   globalization.
+
+   Whereas the Orientalist gaze of a superior us seeing an inferior them,
+   there is now as much the case of a ‘me’ seeing my own for the
+   delectation of a curious ‘them’. While many artists who identify with
+   minorities make worthwhile statements of what it means to feel
+   oppressed and subjected, just as many use parts of their background
+--
+
+   Nations under the weight of gratitude to international aid—for damage
+   that imperialism has wrought in the first place—such as many in Africa
+   can still be said to have what Homi Bhaba has called ‘the threatened
+   return of the look’, a gaze that, while subjected, is still forcefully
+   active as reproach.
+
+   Karina Eileras develops this notion with reference to the images by
+   Marc Garanger, photographer for the French army in 1960-2 at the time
+--
+   A photograph of an Algerian woman in a French regroupment village.
+   1960. Marc Garanger. Via TIME
+
+   Attentive analyses like hers are helpful in exposing the lack of
+   neutrality of the image, and the way that the gaze can intercepted and
+   deflected in a way that does not combat the West’s way of gazing,
+   (which, so the theory goes, would only duplicate its negative
+   power-play) but rather in a manner that comes at it from the back door.
+
+   But speaking on behalf of the Western white male, can there be said to
+   be a post-Orientalist gaze? This image, Affliction of the Protestant
+   (2005), by Phillip George indicates that the question can be answered
+   in the affirmative.
+
+   Affliction of the Protestant. By Phillip George. 2005.
+--
+   surveillance. The title considers the Western ignorance toward Muslims
+   as more illness than attitude.
+
+   This and this next work reveal the lengths that artists go to combat
+   the tortured legacy of the Orientalist gaze. The two stills below are
+   from the two channel video installation, Turbulent (1998), by the
+   U.S.-Iranian artist Shirin Neshat (b. 1957). It is a poetic yet
+   disturbing work that singularly recasts the stereotypical position of
+   the mute Muslim woman.
+--
+
+   The wordless hymn is like a desperately sad chant welling up from out
+   of a crack in a hard surface, be it the barrier of Western expectations
+   or the wall of male laws. Even with her eyes closed, we as viewers
+   nevertheless feel the weight of her gaze, as some form of corrective to
+   delinquent Western assumptions about what Middle Eastern women are, or
+   should be.
+
+The Prosthetic gaze
+
+   With the invention of photography came a whole new kind of observer, as
+   well as an eruption of conjecture about pictorial truth and evidence.
+   ‘Evidential’ is a stock term in photography to designate a category
+--
+   The apparatus determines to varying degrees what and how things are
+   seen—this will be explored more in the next chapter.
+
+   As we have seen already, it is hard if not impossible to locate the
+   gaze when it is refracted through a mediating lens whose power to
+   augment is at the expense of less perceptible constraints and
+   limitations.
+
+   Take the touristic gaze: the camera renders the gaze passive; the gaze
+   is annulled for the sake of the static reproduction: the event in situ
+   exists for the sake of the dour replica.
+
+   But when we think of two films about photographic vision, Hitchcock’s
+   Rear Window (1954) or Antonioni’s Blow-Up (1966), the prosthetic gaze
+   of the camera is the defining element in what is seen and understood,
+   which singles out the unassailable fact that each are films from the
+   first, a medium with its own particular forms of orchestration,
+   manipulation and deception.
+--
+
+   At first, we are carried along by the ebb and flow of the images’
+   ongoing movement determined by the trajectory of the people whom the
+   artist is following. We initially assume that it is Acconci who is the
+   owner of the gaze, but it quickly dawns on us that his gaze is solely
+   at the behest of whom he follows.
+
+   Since he has no other motive but to follow them, it is they who possess
+   the gaze; the artist’s surveillance trick sustains itself only upon the
+   act of pursuit.
+
+   We too are complicit in this arbitrary magnetic game, since we are the
+   only ones who gaze upon both pursuer and pursued. But—to end the
+   loop—the artist has intended this to happen, so by default he has the
+   last laugh, binding us up in his work’s logic. Everyone is the object
+   of another’s gaze, none escape it.
+
+   These shifts and gaps are what caused Jacques Derrida to write Droit de
+   regards (‘right of inspection’, or ‘right to gaze) written to accompany
+   the photographs by Marie-Françoise Plissart. Plissart’s suite of images
+   half-narrates a story involving lesbians, a child in commedia dell’arte
+   make-up and finally an interloping male.
+
+   I say ‘half-narrates’ because what preoccupies Derrida are the lacunae,
+   the mid-spaces that force the viewer’s assumptions. The kinds of
+   transactions that occur within the images convolute the
+   self-consciousness of the gaze.
+
+   In other words, we do not know in what capacity we look—as man or
+   woman—and whether we are entitled to look at all or at what. Derrida
+   goes so far as to claim that the photographs are neither referential
+--
+
+   Taking up from Lacan, Sartre and Merleau-Ponty, Derrida’s ambling
+   excursus, also with its implicit subtexts of stock photographic theory
+   and from French poetics, is more memorable than the photographs
+   themselves. He locates a critical area in which the gaze is fractured
+   and multi-layered.
+
+The global and sci-fi techno-gaze
+
+   When we get to cyberspace this split of the gaze is constant and
+   intricate. There is a chain of mediations whose source is difficult if
+   not impossible to locate. With Spyware, surveillance, intrusion takes
+   on a new and sinister face.
+
+   The gaze can become small and local and, in the next breath,
+   macrocosmic and global, as with Google Earth which is a commercial
+   offshoot of ‘Digital Earth’.
+
+   The ‘Digital Earth’ project as it has come to be named was an
+--
+   agency with the power to lord over the hemisphere like a pagan god,
+   when in reality he or she is dupe to the medium, where the distinctions
+   between real and virtual are obscured forever.
+
+   These prostheses of the gaze end up becoming imperceptibly incorporated
+   within the gaze. We cannot imagine an alternative, believing ourselves
+   bereft, incapacitated or non-functional without them.
+     __________________________________________________________________
+
+Further Reading

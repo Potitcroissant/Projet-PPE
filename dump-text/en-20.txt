@@ -1,394 +1,347 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5V8GJSV
 
-   Psychologist Logo
-   (BUTTON) Search Search
-   (BUTTON)
-   Menu
-   Sign In
-
-     Sign in
-
-     My BPS
-     * The Psychologist
-     * About BPS
-          + Back
-          + Awards and grants
-          + Complaints
-          + Contact us
-          + Diversity and Inclusion
-          + FAQs
-          + History of Psychology Centre
-          + Volunteer hub
-          + What is psychology?
-          + Who we are
-          + Work for the BPS
-
-   (BUTTON) Join us
-   Search
-   (BUTTON) Search
-   ____________________
-   (BUTTON) Close Search Search
-     * Networks & communities
-          + Back
-          + Member Networks
-          + Online Communities
-          + Devolved Nations
-     * Careers & education
-          + Back
-          + Accreditation
-          + BPS qualifications
-          + Continuing professional development (CPD)
-          + Find an accredited programme
-          + Find your career in psychology
-          + Information for institutions and employers
-          + Jobs
-          + Join a directory or register
-          + Mentoring opportunities
-     * Membership & resources
-          + Back
-          + BPS Explore
-          + Covid-19 resources
-          + EBSCO online resources
-          + Guidelines and documents
-          + Join the BPS
-          + Member resources and benefits
-          + Publications
-          + Re-join the BPS
-          + Student members
-          + Upgrade your membership
-     * News & events
-          + Back
-          + News
-          + Events
-          + Blogs
-          + Our campaigns
-          + Consultations and briefings
-          + Psychology Matters
-     * Psychological testing
-          + Back
-          + About the Psychological Testing Centre
-          + Get a qualification in test use
-          + Guidelines on testing and test use
-          + Information for Verified Assessors
-          + Register of Qualifications in test use
-          + Test reviews and registration
-     * Find a psychologist
-          + Back
-          + Find a psychologist
-          + Find a psychological professional
-
-   Sign In
-
-     Sign in
-
-     My BPS
-     * The Psychologist
-     * About BPS
-          + Back
-          + Awards and grants
-          + Complaints
-          + Contact us
-          + Diversity and Inclusion
-          + FAQs
-          + History of Psychology Centre
-          + Volunteer hub
-          + What is psychology?
-          + Who we are
-          + Work for the BPS
-
+   [header.jpg]
+   [print_bw.gif] Print Page   |   Sign In   |   Join OPS
    Search
    ____________________
-   (BUTTON) Join us
+   Search »
+     * Home
+     * About Us
+          + Governing Boards
+          + Governing Documents
+          + Committees
+          + Fellows
+          + History
+          + Evolution of the Profession
+          + Honors
+          + Contact Us
+          + OPS 50th Anniversary
+     * OPS News
+          + 50th Anniversary of the Ophthalmic Photographers'
+     * Membership
+          + Member Search
+          + Why Belong to the OPS?
+          + Membership Renewal
+               o My Membership Info
+          + Member Opportunities
+               o JJJ Scholarship
+               o Volunteer Opportunities
+               o Outside Opportunities
+          + 2024 OPS Election
+          + Sustaining Members
+     * Career Center
+          + Search Current Openings
+          + My Resume/CV
+          + Resume/CV Search
+          + Submit an Opening
+          + Salary Survey
+          + Career Pathways
+     * Certification
+          + Overview
+          + CRA/OCT-C Requirements
+          + Portfolio Submission
+          + Advisor Program
+          + Forms & Guides
+          + Recertification
+               o Retired Recertification
+          + CEC Application
+          + Search Current Certified CRA/OCT-C
+          + BOC Reports
+     * Education
+          + OPS Educational Programs
+               o Annual Program
+                    # Annual Program Sponsors
+                    # Scientific Abstract Submission
+                    # Handouts (Save/Print)
+                    # Handout Submission
+               o Miami Regional Program
+               o OPS-MiSEPS Regional Program
+                    # Handouts (Save/Print)
+                    # Handout Submission
+               o Future Programs
+          + Online Education
+               o OCT-C CRA Portfolio Videos
+               o Keystone Modules_OCT_Crash_Cou
+               o OPS Webinars
+               o Webinars on Demand
+          + CEC FAQ
+               o Electronic CEC Demo
+          + Call for Speakers
+          + Course Instructors
+               o Course Director Information
+               o Speaker Biographical Info
+               o Financial Disclosure
+               o Speaker Headshots
+          + CEC Application
+     * Publications
+          + Newsletter
+          + Journal
+          + JOP Online
+          + Journal Search
+          + Publications for CECs
+     * Ophthalmic Photography
+          + Fundus Imaging
+               o Fundus Photography
+               o Monochromatic Photography
+               o SLO
+               o Fundus Autofluorescence
+               o Retinal Screening
+          + Angiography
+               o The First Fluorescein Angiogram
+               o Motion Picture Fluorescein
+               o Fluorescein Fundamentals
+               o FA Equipment & Technique
+               o FA Interpretation
+               o FA Step-by-Step
+               o ICG Angiography
+               o High-Speed ICG Videoangiography
+          + OCT Imaging
+               o Retinal OCT Imaging
+               o Anterior Segment OCT
+          + Slit Lamp Imaging
+               o Slit Lamp Biomicrography
+               o Gonio Photography
+               o Specular Micrography
+          + External Photography
+               o External Eye Photography
+               o Motility Photography
+          + Digital Imaging
+          + Processing and Printing
+               o Processing Introduction
+               o Processing Equipment
+               o Processing Chemistry
+               o Processing Step-by-Step
+               o Printing Introduction
+               o Contact Prints
+               o Enlargements
+     * Online Community
+          + OPS Member Forum
+          + 50th Anniversary Memories
+          + OPS Blog
+          + Groups
+     * Exhibit/Galleries
+          + Galleries
+          + OPS / AAO Exhibit
+               o Print Submissions
+               o Stereo Submissions
+               o Csaba L. Martonyi Award
+          + OPS / ASCRS Exhibit
+     * Resources
+          + Instrument Manual Archive
+          + OPS Lending Library
+          + Clinical Trial Resources
+          + Vendor Education Modules
+     * Online Store
 
-   Psychologist logo
+   Featured Members
 
-   Liza Morton
-   Emotion, Health, NHS
 
-Beyond the medical gaze: Practicing Psychologically Informed Healthcare
 
-   Dr Liza Morton calls for a little ‘R.E.S.P.E.C.T’…
 
-   11 November 2025
 
-Share this page
 
-   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   [star_32x32.gif]
 
-   I've depended on cutting-edge cardiology care since birth, in the late
-   70s. My care was survival-focused, with little attention given to the
-   psychological and emotional impacts. As a teenager, I searched in vain
-   for books on the psychological impact of growing up with a serious
-   health condition; a gap that motivated my eventual career as a
-   psychologist, researcher, advocate and author.
+Edit This Favorite
 
-   Chronic health condition (CHCs) affect approximately one-third of the
-   global population (WHO, 2023) and can impact on daily functioning,
-   relationships, self-esteem, parenting and life choices, increasing
-   vulnerability to depression, anxiety and post-traumatic stress.
-   Healthcare professionals also face occupational challenges to their
-   wellbeing which can result in burnout, compassion fatigue and vicarious
-   trauma, negatively impacting on patient care. Yet, current healthcare
-   policy and practice poorly addresses psychological and emotional
-   wellbeing, for patients or practitioners.
+   Name:            ________________________________________
+   Category:        ________________________________________
+   Share:           (*) Yes ( ) No, Keep Private
+     Submit [BUTTON Input] (not implemented)______ Delete
+   Ocular Motility Photography
+   [More in this Section..._]
+   Share |
 
-   This 'medical gaze' is a false economy which not only leads to distress
-   but contributes to poor medical adherence, missed appointments,
-   maladaptive coping strategies (e.g. alcohol abuse, smoking, risk
-   taking), medical error and poor decision making, high staff turnover
-   and absences. My new book, Beyond the Medical Gaze: Practicing
-   Psychologically Informed Healthcare, provides an evidence-based
-   approach that embeds contemporary understanding in psychological and
-   emotional health into healthcare practice.
+   Ocular Motility Photography
 
-   Drawing on contemporary theories such as Polyvagal Theory, attachment
-   theory, compassion-based, and trauma-informed approaches, I seek to
-   offer a comprehensive framework for healthcare practitioners,
-   policymakers, and educators incorporating reflective exercises,
-   real-life testimonials, case studies, examples of innovative practice
-   and research, and practical handouts. A final chapter is provided for
-   therapists working with this client population or supporting healthcare
-   teams. The core principles of R.E.S.P.E.C.T. framework provides a lens
-   to consider healthcare from a Psychologically Informed approach, as
-   I'll now outline.
 
-Relational safety…
+   Gary E. Miller, CRA, OCT-C
+   Geisinger Medical Center
+   Danville, PA
 
-   … through compassion focused healthcare delivery, leadership and teams.
+   Illustrations by Diane Latranyi
+          ________________________________________________________
 
-   When someone is unwell and in need of medical attention, it can be
-   incredibly stressful for them and their loved ones and it is natural
-   for them to look to others for support. As social beings we have
-   evolved to build trusting relationships with others from a neurological
-   foundation of psychological safety. We seek signals of safety through
-   compassion via vocal tone, facial expressions, body language, trust
-   signals and reciprocity, especially during times of adversity (Porges,
-   2022). While studies suggest that survival rates increase when doctors
-   make eye contact and provide a reassuring handshake to patients
-   (Field et al., 2010) shortcomings have been reported in health systems
-   due to a 'compassion crisis' in healthcare delivery. Compassionate
-   communication through active listening, co-regulation, consistency of
-   care, techniques for delivering difficult news, establishing trust, age
-   appropriate and neuro-affirmative communication should be an essential
-   component of training for all healthcare professionals.
+   The term ocular motility refers to the study of the twelve extraocular
+   muscles and their impact on eye movement. Each eye has six muscles,
+   four rectus and two oblique, which, when functioning properly, allow
+   the eyes to work together in a wide range of gaze.
 
-Empowerment…
+                          Muscles of the Right Eye
 
-   … by supporting self-management, healthcare literacy and by challenging
-   disempowering aspects of healthcare.
+   Patients are usually tested for eye position and movement during a
+   routine eye examination. To observe the action of all twelve muscles,
+   the patient is asked to look in the 9 diagnostic positions of gaze. The
+   patient follows a target to various points of gaze while the physician
+   closely monitors their eye movements. Any noted limitation or
+   misalignment of the eyes could indicate muscle weakness or paralysis
+   and warrant further investigation.
 
-   Self-management (medical, behavioural and emotional) promotes
-   psychological safety among those dealing with chronic illness. This
-   includes partnership working between patient and medical teams, shared
-   decision making, informing and engaging patients in making choices
-   whilst being mindful that in the 'patient role' many of us feel
-   more vulnerable. Providing accessible information, taking concerns
-   seriously and promoting dignity can facilitate empowerment and
-   healthcare literacy. Challenging disempowering aspects of care (e.g.
-   patient waiting, backless gowns, epistemic injustice, holding and
-   restraint) can also support wellbeing and mitigate medically related
-   trauma.
+                       9 Diagnostic Positions of Gaze
 
-Soothing presence…
 
-   … of caregivers across the healthcare journey.
 
-   Some of my most difficult childhood memories are of being wheeled away
-   by a team in green scrubs to go to the operating theater, where my mum
-   was not allowed. The protective presence of the primary care giver is
-   essential to minimise the impact of early adversity, provide comfort
-   and to support normal development and secure attachment. Yet, there can
-   be medical interruptions to the child's innate need for responsive
-   caregivers, touch, connection, belonging, consistency, validation, play
-   and learning. Recurrent medical trauma can impact on emotional
-   development, impairing the development of self-soothing and emotional
-   regulation, across the lifespan. Promoting the soothing presence of
-   loved ones needs to be supported across healthcare practice. For
-   example, studies demonstrate that parental holding of infants improves
-   haemodynamics in the cardiac ICU (Elhoff et al, 2023) while Kangaroo
-   care reduces mortality, infection, length of hospital stay and pain
-   responses in preterm babies (Campbell-Yeo et al, 2022).
+   Normal alignment on forward gaze
 
-Psychological safety (Polyvagal informed)…
+                          Deviation on upward gaze
 
-   … by validating a normal response to adverse circumstances,
-   incorporating coping strategies throughout healthcare delivery and by
-   supporting wellbeing for healthcare staff.
+   Ocular motility photographs may be requested in order to document any
+   improper muscle action. These images can be used to reinforce the
+   physician's clinical impression, for medical-legal reasons or as a
+   starting point prior to muscle surgery. Patients with strabismus and
+   those diagnosed with cranial nerve palsies are good candidates for
+   motility documentation.
 
-   Polyvagal Theory offers a 'Science of safety' proposing that we
-   constantly evaluate our world for threat and safety, termed
-   Neuroception. We have evolved a hierarchical 'defense' system to this
-   end (Porges, 2022). By paying attention to the patient's voice tone,
-   facial expressions, and body language healthcare professionals can
-   better understand and validate their response and help to shift this
-   through containment and co-regulation.
+   Strabismus
 
-   To this end, it is important to validate normal reactions to distress
-   and pain whilst being careful about rewarding emotional
-   suppression (e.g. 'Bravery' stickers and 'hero' costumes). Healthcare
-   professionals can facilitate coping strategies such as a cuddle from
-   parent, humour, distraction, anesthetic cream, stress reduction
-   exercises, emotional preparation for procedures, a supportive visit
-   from hospital chaplain / specialist nurse, and by screening mental
-   health and referring on to further support as indicated.
+   Strabismus is a generic term used to describe any misalignment of the
+   eyes often due to an imbalance of the extraocular muscles. This
+   misalignment may develop at any age and occur in any direction.
+   However, strabismus can be especially harmful to the development of
+   vision in young children. If not diagnosed and treated early, visual
+   acuity could be irreversibly damaged.
 
-   It is important for healthcare organisations to promote psychological
-   safety for staff too, through compassionate leadership which promotes
-   healthy boundaries, self-care, self-compassion, safe spaces to process
-   and share difficult feelings and understanding, recognising and
-   treating burnout, vicarious trauma and compassion fatigue (e.g. using
-   Wellness Action Plans).
+                                  Exotropia
 
-Environments…
 
-   … that better support healing, recovery, rest and wellbeing.
+                            "V" Pattern Esotropia
 
-   Healing healthcare environments are fundamental to rest and recovery,
-   yet clinical environments can be noisy and bright whilst lacking
-   in privacy. Excessive sound and noise in the Intensive Care Unit has
-   been linked with adverse and potentially preventable patient outcomes,
-   staff errors and dissatisfaction (Tronstad et al., 2024)
-   while ward routines often arranged to suit healthcare professionals
-   rather than patients' needs for sleep and rest. There are many changes
-   that could be made to promote calm and privacy while limiting
-   disruptions to sleep. Further, incorporation of green spaces,
-   neuro-affirmative spaces and age-appropriate care (e.g. spaces for
-   teenagers) could also improve patient wellbeing.
 
-Culturally sensitive healthcare provision…
+                        Pre-operative Motility Series
 
-   … that tackles ableism, recognizing health inequalities and
-   intersectionality.
+                       Post-operative Motility Series
 
-    It is essential to recognise that people with CHCs have experienced
-   social exclusion, segregation and stigma throughout history. As
-   inherently social beings, exclusion from our social group can activate
-   the threat system, leading to panic, anger, and shame (Gilbert, 2018).
-   Further, CHCs are more prevalent among lower socioeconomic and other
-   marginalised groups while people living with CHCs face disparities in
-   income, education, employment and representation (Bogart, 2020).
-   Children with CHCs, can face exclusion from physical education and play
-   and on average, perform worse in school  (Jay et al, 2023). Culturally
-   sensitive healthcare is a vehicle for decreasing health disparities by
-   recognizing, respecting and responding to the cultural needs of
-   individuals and tackling systemic stigma within healthcare systems.
+   Cranial Nerve Palsies
 
-Trauma informed practice and environments
+   Because the brain controls eye movement through a series of cranial
+   nerves, observing ocular movements can often give clues to help
+   diagnose central nervous system disorders. The III, IV and VI cranial
+   nerves are used to control the extraocular muscles, thereby controlling
+   eye movement. If any of these cranial nerves are compromised, ocular
+   motility photographs will document the affected muscles limited
+   movement.
 
-   Each time I attend a healthcare setting, in my mind, I can momentarily
-   flit back to being a child again. I feel butterflies in my stomach,
-   catch my breath, feel my body tense and struggle to assert myself.
-   Being trauma informed involves recognising when someone has been
-   affected by trauma and collaboratively adjusting your work to consider
-   this. For example, feeling safe has also been found to improve healing
-   and recovery during maternity care of women who have experienced
-   childhood sexual trauma, while feeling unsafe with professionals could
-   be experienced as retraumatization (Montgomery, 2013). Trauma-informed
-   organisations embed the principles of safety, compassion,
-   trustworthiness, choice, collaboration and empowerment into all aspects
-   of their work and consider the needs of healthcare workers in
-   responding to people affected by trauma to prevent vicarious trauma.
-     * Dr Liza Morton is a Counselling Psychologist / Senior Lecturer in
-       Applied Psychology, Glasgow Caledonian University.
-     * This piece is adapted from Beyond the Medical Gaze: Practicing
-       Psychologically Informed Healthcare, Oxford University Press
-       (2025).
-     * Polyvagal Institute have organised a free talk around the book on 3
-       December.
 
-References
+                             Left IV Nerve Palsy
 
-   Bogart, K.R. (2020) How Disability Pride Fights Ableism: Reflections on
-   the 30th anniversary of the Americans with Disabilities Act.
+   Equipment and Technique
 
-   Campbell-Yeo, M., Eriksson, M., & Benoit, B. (2022). Assessment and
-   management of pain in preterm infants: A practice update. Children
-   (Basel), 9(2), 244.
+   Despite the overwhelming popularity of digital photography, motility
+   images can be captured using either a film or digital camera. Although
+   getting the end result may differ between the two modalities, the
+   camera techniques for capturing the images are the same. The equipment
+   list and method for making composites are different, but the techniques
+   for acquiring the images remain the same.
 
-   Elhoff JJ, Acosta S, Flores S, et al. Parental holding of infants
-   improves haemodynamics in the cardiac ICU [published online ahead of
-   print November 28, 2023]. Cardiol Young.
+   Equipment for film imaging:
+     * 35mm SLR camera
+     * 105mm lens
+     * Flash unit (camera mounted) or studio strobe
+     * 100 ISO film
 
-   Field, T. M., Diego, M., & Hernandez-Reif, M (2010). Preterm infant
-   massage therapy research: A review. Infant Behavioral Development,
-   33(2), 115–124. 19. Mollon, D. (2014). Feeling safe during an inpatient
-   hospitalization: A
+   Equipment for digital imaging:
+     * Digital SLR camera
+     * 85mm lens
+     * 105mm (full chip)
+     * Flash unit (camera mounted) or studio strobe
 
-   Gilbert, P. (2014). The origins and nature of compassion focused
-   therapy. British Journal of Clinical Psychology, 53(1), 6–41.
+   When using a 35mm film camera and a 105mm lens, set the lens to a ratio
+   of 1:4. This is the typical magnification used to photograph both eyes
+   simultaneously. With a digital SLR, the exact magnification will be
+   dependant on the size of the image sensor. For a digital camera with
+   less than a full sensor, your lens should be set to a ratio of around
+   1:5. Full sensor cameras can be set at 1:4. There can be a slight
+   variance in the exact ratio, but once chosen, the ratio should remain
+   same for all patients on that particular camera. This will ensure
+   images of the patient shot today will have the same magnification when
+   they come back, whether it be in three months or in 3 years.
 
-   Jay, M.A., Sanders-Ellis, D., Blackburn, R., Deighton, J., Gilbert, R.
-   (2023) Umbrella systematic review finds limited evidence that school
-   absence explains the association between chronic health conditions and
-   lower academic attainment. Front Public Health. Jun 9;11:1122769. doi:
-   10.3389/fpubh.2023.1122769. PMID: 37361156; PMCID: PMC10288991.
+   Focusing with either system can be accomplished by moving forward and
+   back from the subject (rocker focusing). While looking through the
+   viewfinder, the photographer needs to sure the subject properly aligned
+   in the frame. The camera should be positioned squarely in front of the
+   subject and the eyes should be parallel in the viewfinder. Replacing
+   the ‘generic' focusing screen with a grid focusing screen will help
+   keep things straight.
 
-   Montgomery, E. (2013). Feeling safe: A metasynthesis of the maternity
-   care needs of women who were sexually abused in childhood. Birth,
-   40(2), 88–95. PMID: 24635462.
+                            Grid Focusing Screen
 
-   Porges, S.W. (2022) Polyvagal Theory: A Science of Safety, Front Integr
-   Neurosci. 10;16:871227. doi: 10.3389/fnint.2022.871227. PMID: 35645742;
-   PMCID: PMC9131189.
+   Once the subject is in focus and properly positioned in the frame,
+   direct the patient to look in the 9 diagnostic gazes and photograph
+   each one. Having a target for the patient to fixate on will help them
+   focus their gaze in the proper direction. The nine gazes are: straight
+   ahead, left, right, straight up, up and to the left, up and to the
+   right, straight down, down and to the left, down and to the right. To
+   get an unobstructed view of the eyes in the downgaze positions, have
+   the patient or better yet, a helper, elevate the patient's upper lids.
 
-   Tronstad, O., Patterson, S., Zangerl, B., et al. (2024). The
-   introduction of a sound reduction bundle in the intensive care unit and
-   its impact on sound levels and patients. Aust Crit Care, 37(5),
-   716–726. https://doi.org/10.1016/j.aucc.2024.02.011. Epub 2024 Apr 11.
-   PMID: 38604917.
+   Uniform picture quality is very important, so always be aware of
+   composition throughout the series. Patient head movement should be kept
+   to a minimum. Instruct them to keep their head straight and use only
+   their eyes to follow the target. A chin and headrest may be used to
+   position the patient while doing the series. When photographing
+   children, having them sit on their parents lap may be helpful. Movement
+   can be minimized by having the parent gently hold the child's head in
+   the forward position.
 
-   World Health Organisation. Noncommunicable Diseases. 2023.
+                              9 Gaze Composite
 
-Related articles
+   Once a 9 gaze series is completed, a composite image showing all nine
+   views is often requested. How you create this image depends on the
+   equipment at your disposal.
 
-     * 'Every choice has been dictated by my health condition'
-       09 October 2020
-       Liza Morton on ableism in Psychology, reflecting on her lived
-       experience of navigating a career in Psychology whilst living with
-       a serious lifelong heart condition.
-          + Health
-     * New voices: Healing hearts and minds
-       17 September 2013
-       Living with congenital heart disease: Liza Morton with the latest
-       in our series for budding writers.
-          + Health
-          + Teaching and learning
-     * Scars as a celebration of life
-       09 February 2015
-       Jon Sutton reports on a new exhibition led by Dr Liza Morton, who
-       then gives her perspective.
-          + Personality and self
+   Since digital photography is by far the most popular method of image
+   capture, any of the popular image management software, such as Adobe
+   Photoshop, can create a nine gaze composite. While these programs will
+   differ slightly in the step by step process, creating a digital
+   composite is usually a ‘copy and paste' process. Some programs will
+   allow you to create a ‘template' that can be opened every time you need
+   to create the composite image. If you are use a digital retinal imaging
+   system, you may be able to import your images into the program and
+   create a 9 up.
 
-     *
-     *
-     *
-     *
+   With a film based camera, the easiest way to produce a composite image
+   is to use negative film for the original photography, then
+   re-photographing the prints. After photographing the 9 diagnostic
+   gazes, have the lab make 2" x 3" prints from the negatives. The prints
+   can then be placed in their proper order into a nine sectioned, plastic
+   file page. Then simply make a photographic copy of the entire page with
+   a digital camera and you will have created a composite image.
 
-Legal
+   A flat bed scanner can also be used to create a composite image. Lay
+   the 9 print images into position, then create a pre-scan image using
+   your scanning software. If the initial scan is of good quality, crop
+   the image to size and make your final scan.
 
-     * Accessibility
-     * Cookie information
-     * Modern Slavery Act Statement
-     * Privacy policy
-     * Terms of use
+   Regardless of which option works best in your situation, once
+   completed, your new composite image can now saved as a digital file,
+   emailed or printed in hard copy form.
+   Sign In
+   [facebook-icon.png] Login with Facebook [linkedin-icon.png] Login with
+   LinkedIn
+   OR
 
-About us
+   ____________________
+   ____________________
 
-     * About the BPS
-     * Join the BPS
-     * Member benefits
-     * My BPS
+   [X] Remember Me
 
-Help and support
+   Sign In Secured with SSL encryption.
+   Forgot your password?
+   Haven't registered yet?
+   more
+   Latest News
+   There are currently no news items posted.
+   more
+   Calendar
 
-     * Join a directory or register
-     * Join a network
-     * FAQs
-     * Diversity and inclusion
+   1/7/2026
+   Webinar Wednesday
+   Online Surveys
 
-   The British Psychological Society is a charity registered in England
-   and Wales, Registration Number : 229642 and a charity registered in
-   Scotland, Registration Number : SC039452 - VAT Registration Number :
-   283 2609 94
 
-   © Copyright 2000-2025 The British Psychological Society
+
+   COPYRIGHT © 2011-2020 THE AUTHOR(S) AND THE OPHTHALMIC PHOTOGRAPHERS'
+   SOCIETY INC.
+   ALL RIGHTS RESERVED.
+
+   Legal

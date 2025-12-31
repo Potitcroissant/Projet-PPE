@@ -1,81 +1,169 @@
+   [tr?id=1392960898182692 &ev=ViewContent &cd[content_name]=Explainer:
+   what does the &#39;male gaze&#39; mean, and what about a female gaze?
+   &cd[content_type]=content &cd[content_ids]=52486]
 
-   (BUTTON) move to sidebar (BUTTON) hide
-     * (Top)
-     * 1 Nerves and muscles
-     * 2 Conjugate gaze
-     * 3 See also
-     * 4 References
-     * 5 External links
-
-   [ ] Toggle the table of contents
-
-Gaze (physiology)
-
-   [ ] 3 languages
-     * العربية
-     * Français
---
-
-   Appearance
-   (BUTTON) move to sidebar (BUTTON) hide
-   From Wikipedia, the free encyclopedia
-   For other uses, see Gaze (disambiguation).
-
-   The term gaze is frequently used in physiology to describe coordinated
-   motion of the eyes and neck. The lateral gaze is controlled by the
-   paramedian pontine reticular formation (PPRF).^[1] The vertical gaze is
-   controlled by the rostral interstitial nucleus of medial longitudinal
-   fasciculus and the interstitial nucleus of Cajal.^[2]
-
-Nerves and muscles
---
-   intorsion, and is a component of focusing the eyes on an object close
-   to the face. The oculomotor nerve controls all the other extraocular
-   muscles, as well as a muscle of the upper eyelid.^[3]
-
-Conjugate gaze
-
-   [edit]
-
-   The conjugate gaze is the motion of both eyes in the same direction at
-   the same time, and conjugate gaze palsy refers to an impairment of this
-   function. The conjugate gaze is controlled by four different
-   mechanisms:^[4]
-     * the saccadic system that allows for voluntary direction of the gaze
-     * the pursuit system that allows the subject to follow a moving
-       object
-     * nystagmus which includes both vestibular nystagmus and optokinetic
-       nystagmus. The vestibular system restores gaze in compensation for
-       the rotation of the head whereas the optokinetic system restores
-       gaze despite movements of the outside world.
-     * the vestibulo-ocular reflex system (VOR system) that corrects for
-       the movements of the head to preserve the stable visual image of
-       the world
-
---
-     * http://www.med.yale.edu/caim/cnerves/cn6/cn6_8.html
-     *
-
-   Versino, M; Simonetti, F; Egitto, M G; Ceroni, M; Cosi, V; Versino, M;
-   Ceroni, M; Cosi, V; Beltrami, G (1999). "Lateral gaze synkinesis on
-   downward saccade attempts with paramedian thalamic and midbrain
-   infarct". Journal of Neurology, Neurosurgery & Psychiatry. 67 (5):
-   696–7. doi:10.1136/jnnp.67.5.696. PMC 1736620. PMID 10577040.
-     * v
---
-     * Tactile illusions
-     * Temporal illusion
-
-   Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=Gaze_(physiology)&oldid=130
-   0691938"
-
-   Categories:
-     * Eye
---
    ____________________
-   (BUTTON) Search
+   (BUTTON)
+--
+   ____________________ (Recherche) (Recherche)
+   Culture Économie + Entreprise Éducation + Jeunesse Environnement
+   Histoire International Politique + Société Santé Science En anglais
+   [Recherche]
+   What is the male gaze, and does the female gaze exist? Andy Simmons, CC
+   BY-ND
 
-   [ ] Toggle the table of contents
-   Gaze (physiology)
-   (BUTTON) 3 languages Add topic
+Explainer: what does the ‘male gaze’ mean, and what about a female gaze?
+
+   Publié: 5 janvier 2016, 20:18 CET
+   Janice Loreck, Monash University
+
+--
+
+DOI
+
+   https://doi.org/10.64628/AA.3k3qasy3s
+   https://theconversation.com/explainer-what-does-the-male-gaze-mean-and-
+   what-about-a-female-gaze-52486
+   https://theconversation.com/explainer-what-does-the-male-gaze-mean-and-
+   what-about-a-female-gaze-52486
+   (BUTTON)
+   Lien copié
+   (BUTTON) Partager
+   (BUTTON)
+--
+   (BUTTON)
+
+   Print article
+
+   The “gaze” is a term that describes how viewers engage with visual
+   media. Originating in film theory and criticism in the 1970s, the gaze
+   refers to how we look at visual representations. These include
+   advertisements, television programs and cinema.
+
+   When film critics talk about the gaze, they are often referring to the
+   “male gaze”. But what does that really mean? And is there a female
+   equivalent?
+
+Where did the idea of a ‘male gaze’ come from?
+
+   The “male gaze” invokes the sexual politics of the gaze and suggests a
+   sexualised way of looking that empowers men and objectifies women. In
+   the male gaze, woman is visually positioned as an “object” of
+   heterosexual male desire. Her feelings, thoughts and her own sexual
+   drives are less important than her being “framed” by male desire.
+
+   A key idea of feminist film theory, the concept of the male gaze was
+   introduced by scholar and filmmaker Laura Mulvey in her now famous 1975
+   essay, Visual Pleasure and Narrative Cinema.
+
+   Adopting the language of psychoanalysis, Mulvey argued that traditional
+   Hollywood films respond to a deep-seated drive known as “scopophilia”:
+   the sexual pleasure involved in looking. Mulvey argued that most
+   popular movies are filmed in ways that satisfy masculine scopophilia.
+
+   Although sometimes described as the “male gaze”, Mulvey’s concept is
+   more accurately described as a heterosexual, masculine gaze.
+
+   (BUTTON)
+
+   Visual media that respond to masculine voyeurism tends to sexualise
+--
+   their “to-be-looked-at-ness” in cinema. Woman is “spectacle”, and man
+   is “the bearer of the look”.
+
+   The Postman Always Rings Twice (1946) offers a famous example of the
+   male gaze. In the scene below, the audience is introduced to Cora
+   Smith, the film’s lead female character. Using close-ups, the camera
+   forces the viewer to stare at Cora’s body. It creates a mode of looking
+   that is sexual, voyeuristic, and associated with the male protagonist’s
+   point-of-view.
+--
+   that Cora is sexy. Indeed, the viewer learns that Cora is sexy before
+   they even learn her name. Even if a viewer isn’t attracted to women in
+   “real life”, the scene still makes sense. A lifetime of seeing women
+   sexualised in television, music videos and advertisements has made us
+   very comfortable with assuming the male gaze.
+
+Finding the male gaze
+
+   The male gaze takes many forms, but can be identified by situations
+   where female characters are controlled by, and mostly exist in terms of
+   what they represent to, the hero. As Budd Boetticher, who directed
+   classic Westerns during the 1950s, put it:
+
+--
+
+   Filmmakers often attempt to avoid presenting female characters as
+   “mere” sexual objects by giving them complex back stories, strong
+   motivations and an active role in the plot of their story. Yet the
+   masculine gaze is still commonplace. Catwoman in The Dark Knight Rises
+   (2012) has significant personal motivations, yet she is still clearly
+   there to be looked at.
+
+   IFRAME:
+--
+   (Rita Hayworth) in Gilda (1946)?
+
+   Isn’t Fitzwilliam Darcy as beautiful as Elizabeth Bennet in the BBC
+   teleseries of Pride and Prejudice (1995)? Surely this indicates the
+   presence of a (heterosexual) female gaze.
+
+   Such arguments don’t consider how insistently women are presented as
+   sexual objects.
+
+--
+   different ways male and female superheroes are posed in comics and
+   movies. Take this illustration as an example, which poses the male
+   heroes of The Avengers in the same hyper-sexualised position as the
+   film’s sole female protagonist, Black Widow.
+   How the Avengers might look if the male gaze was also applied to them,
+   according to The Hawkeye Initiative.
+
+   The illustration makes a good point about double standards. But its
+   humour derives from the fact that it is unusual to see men sexualised
+--
+   not Fitzwilliam Darcy’s wet undershirt that inflames the female viewer
+   in Pride and Prejudice. Rather, it is Darcy’s longing for Elizabeth
+   that truly appeals.
+
+Is there a female gaze?
+
+   Many films that represent women’s desire do so in “non gaze”-related
+   ways. Jane Campion’s The Piano (1993) expresses the heroine’s
+   passionate nature through the film’s famous score.
+
+   Sofia Coppola’s The Virgin Suicides (1999) conveys female experience
+--
+   florid set design to communicate women’s claustrophobic life at
+   Versailles.
+
+   The argument that women’s desire is best expressed through sensation
+   rather than a gaze may evoke the cliché that male desire is “visual”
+   whereas women’s is “sensory”. But men’s inner lives have always been
+   conveyed via sound and sensation. Action films like Rambo (2008) or
+   Casino Royale (2006), for example, bombard the senses with male anguish
+   and aggression.
+
+   So is there a female gaze? Certainly, beautiful men abound in cinema.
+   But I’d argue that there is no direct female equivalent of the male
+   gaze. The male gaze creates a power imbalance. It supports a
+   patriarchal status quo, perpetuating women’s real-life sexual
+   objectification.
+
+   For this reason, the female gaze cannot be “like” the male gaze.
+
+   Instead, films that centre women’s experiences are deeply subversive.
+   Think of Fish Tank (2009), a coming-of-age story about a disadvantaged
+   girl’s vulnerability, or In the Cut (2003), a story about a woman’s
+--
+   of sex.
+
+   Films like The Piano, In The Cut or Marie Antoinette show that cinema
+   can use music, erotic scenes and visual aesthetics to express a
+   feminine point of view. In doing so, such films counter the gaze,
+   depicting women as subjects rather than objects “to be looked at”.
+   Whilst not replicating the male gaze exactly, they challenge the
+   enduring dominance of masculine worldviews in film and media.
+     __________________________________________________________________
+
+   Janice will be on hand for an Author Q&A between 11am to noon AEDT on

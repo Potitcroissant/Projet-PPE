@@ -1,285 +1,335 @@
-   #Edit this page Wikipedia (en) Wikipedia Atom feed
+   [tr?id=1392960898182692 &ev=ViewContent &cd[content_name]=Explainer:
+   what does the &#39;male gaze&#39; mean, and what about a female gaze?
+   &cd[content_type]=content &cd[content_ids]=52486]
 
-   Jump to content
-
-   [ ] Main menu
-   Main menu
-   (BUTTON) move to sidebar (BUTTON) hide
-   Navigation
-     * Main page
-     * Contents
-     * Current events
-     * Random article
-     * About Wikipedia
-     * Contact us
-
-   Contribute
-     * Help
-     * Learn to edit
-     * Community portal
-     * Recent changes
-     * Upload file
-     * Special pages
-
-   Wikipedia The Free Encyclopedia
-   Search
    ____________________
-   (BUTTON) Search
+   (BUTTON)
+     * Page d'accueil
+     * Culture
+     * Économie + Entreprise
+     * Éducation + Jeunesse
+     * Environnement
+     * Histoire
+     * International
+     * Politique + Société
+     * Santé
+     * Science
+     * En anglais
 
-   [ ] Appearance
+Édition
 
-     * Donate
-     * Create account
-     * Log in
+   [France____________]
 
-   [ ] Personal tools
-     * Donate
-     * Create account
-     * Log in
+   Nos newsletters
 
-Contents
+   The Conversation
+   Édition:
+   (BUTTON) France
+     * Africa
+     * Australia
+     * Brasil
+     * Canada
+     * Canada (français)
+     * España
+     * Europe
+     * Global
+     * Indonesia
+     * New Zealand
+     * United Kingdom
+     * United States
 
-   (BUTTON) move to sidebar (BUTTON) hide
-     * (Top)
-     * 1 Nerves and muscles
-     * 2 Conjugate gaze
-     * 3 See also
-     * 4 References
-     * 5 External links
+   s
+   Faire un don Nos newsletters
+   The Conversation
+   L’expertise universitaire, l’exigence journalistique
+   ____________________ (Recherche) (Recherche)
+   Culture Économie + Entreprise Éducation + Jeunesse Environnement
+   Histoire International Politique + Société Santé Science En anglais
+   [Recherche]
+   What is the male gaze, and does the female gaze exist? Andy Simmons, CC
+   BY-ND
 
-   [ ] Toggle the table of contents
+Explainer: what does the ‘male gaze’ mean, and what about a female gaze?
 
-Gaze (physiology)
+   Publié: 5 janvier 2016, 20:18 CET
+   Janice Loreck, Monash University
 
-   [ ] 3 languages
-     * العربية
-     * Français
-     * 한국어
+Auteur
 
-   Edit links
+    1. Janice Loreck
+       Teaching Associate in the School of Media, Film and Journalism,
+       Monash University
 
-     * Article
-     * Talk
+Déclaration d’intérêts
 
-   [ ] English
+   Janice Loreck ne travaille pas, ne conseille pas, ne possède pas de
+   parts, ne reçoit pas de fonds d'une organisation qui pourrait tirer
+   profit de cet article, et n'a déclaré aucune autre affiliation que son
+   organisme de recherche.
 
-     * Read
-     * Edit
-     * View history
+Partenaires
 
-   [ ] Tools
-   Tools
-   (BUTTON) move to sidebar (BUTTON) hide
-   Actions
-     * Read
-     * Edit
-     * View history
+   Monash University
 
-   General
-     * What links here
-     * Related changes
-     * Upload file
-     * Permanent link
-     * Page information
-     * Cite this page
-     * Get shortened URL
-     * Download QR code
+   Monash University apporte des fonds en tant que membre fondateur de
+   The Conversation AU.
 
-   Print/export
-     * Download as PDF
-     * Printable version
+   Voir les partenaires de The Conversation France
+   [translations-6981f1c1b8c1ca1c0da0dfc36aaad0e6.svg]
 
-   In other projects
-     * Wikidata item
+Langues
 
-   Appearance
-   (BUTTON) move to sidebar (BUTTON) hide
-   From Wikipedia, the free encyclopedia
-   For other uses, see Gaze (disambiguation).
+     * Bahasa Indonesia
+     * English
 
-   The term gaze is frequently used in physiology to describe coordinated
-   motion of the eyes and neck. The lateral gaze is controlled by the
-   paramedian pontine reticular formation (PPRF).^[1] The vertical gaze is
-   controlled by the rostral interstitial nucleus of medial longitudinal
-   fasciculus and the interstitial nucleus of Cajal.^[2]
+DOI
 
-Nerves and muscles
+   https://doi.org/10.64628/AA.3k3qasy3s
+   https://theconversation.com/explainer-what-does-the-male-gaze-mean-and-
+   what-about-a-female-gaze-52486
+   https://theconversation.com/explainer-what-does-the-male-gaze-mean-and-
+   what-about-a-female-gaze-52486
+   (BUTTON)
+   Lien copié
+   (BUTTON) Partager
+   (BUTTON)
 
-   [edit]
+   Share article
+   (BUTTON) Copy link Partager par e-mail
+   Bluesky Facebook WhatsApp Messenger Linkedin X (anciennement Twitter)
+   (BUTTON)
 
-   The three nerves that control the extraocular muscles are the
-   oculomotor, trochlear, and abducens nerves, which are the third,
-   fourth, and sixth cranial nerves. the abducens nerve is responsible for
-   abducting the eye, which it controls through contraction of the lateral
-   rectus muscle. The trochlear nerve controls the superior oblique muscle
-   to rotate the eye along its axis in the orbit medially, which is called
-   intorsion, and is a component of focusing the eyes on an object close
-   to the face. The oculomotor nerve controls all the other extraocular
-   muscles, as well as a muscle of the upper eyelid.^[3]
+   Print article
 
-Conjugate gaze
+   The “gaze” is a term that describes how viewers engage with visual
+   media. Originating in film theory and criticism in the 1970s, the gaze
+   refers to how we look at visual representations. These include
+   advertisements, television programs and cinema.
 
-   [edit]
+   When film critics talk about the gaze, they are often referring to the
+   “male gaze”. But what does that really mean? And is there a female
+   equivalent?
 
-   The conjugate gaze is the motion of both eyes in the same direction at
-   the same time, and conjugate gaze palsy refers to an impairment of this
-   function. The conjugate gaze is controlled by four different
-   mechanisms:^[4]
-     * the saccadic system that allows for voluntary direction of the gaze
-     * the pursuit system that allows the subject to follow a moving
-       object
-     * nystagmus which includes both vestibular nystagmus and optokinetic
-       nystagmus. The vestibular system restores gaze in compensation for
-       the rotation of the head whereas the optokinetic system restores
-       gaze despite movements of the outside world.
-     * the vestibulo-ocular reflex system (VOR system) that corrects for
-       the movements of the head to preserve the stable visual image of
-       the world
+Where did the idea of a ‘male gaze’ come from?
 
-See also
+   The “male gaze” invokes the sexual politics of the gaze and suggests a
+   sexualised way of looking that empowers men and objectifies women. In
+   the male gaze, woman is visually positioned as an “object” of
+   heterosexual male desire. Her feelings, thoughts and her own sexual
+   drives are less important than her being “framed” by male desire.
 
-   [edit]
-     * Paramedian pontine reticular formation
-     * Conjugate eye movement
+   A key idea of feminist film theory, the concept of the male gaze was
+   introduced by scholar and filmmaker Laura Mulvey in her now famous 1975
+   essay, Visual Pleasure and Narrative Cinema.
 
-References
+   Adopting the language of psychoanalysis, Mulvey argued that traditional
+   Hollywood films respond to a deep-seated drive known as “scopophilia”:
+   the sexual pleasure involved in looking. Mulvey argued that most
+   popular movies are filmed in ways that satisfy masculine scopophilia.
 
-   [edit]
-    1. ^ "Neural Control of Saccadic Eye Movements -- Neuroscience -- NCBI
-       Bookshelf". Retrieved 2009-11-29.
-    2. ^ Fukushima, Kikuro (1991). "The interstitial nucleus of Cajal in
-       the midbrain reticular formation and vertical eye movement".
-       Neuroscience Research. 10 (3): 159–87.
-       doi:10.1016/0168-0102(91)90055-4. PMID 1650435. S2CID 24272577.
-    3. ^  This article incorporates text available under the CC BY 4.0
-       license.Betts, J Gordon; Desaix, Peter; Johnson, Eddie; Johnson,
-       Jody E; Korol, Oksana; Kruse, Dean; Poe, Brandon; Wise, James;
-       Womble, Mark D; Young, Kelly A (May 14, 2023). Anatomy &
-       Physiology. Houston: OpenStax CNX. 16.3 The Cranial Nerve Exam.
-       ISBN 978-1-947172-04-3.
-    4. ^ Fowler, Timothy J.; John W. Scadding (2003). Clinical Neurology
-       (3rd ed.). Arnold. ISBN 978-0-340-80798-9.
+   Although sometimes described as the “male gaze”, Mulvey’s concept is
+   more accurately described as a heterosexual, masculine gaze.
 
-External links
+   (BUTTON)
 
-   [edit]
-     * http://www.med.yale.edu/caim/cnerves/cn6/cn6_8.html
-     *
+   Visual media that respond to masculine voyeurism tends to sexualise
+   women for a male viewer. As Mulvey wrote, women are characterised by
+   their “to-be-looked-at-ness” in cinema. Woman is “spectacle”, and man
+   is “the bearer of the look”.
 
-   Versino, M; Simonetti, F; Egitto, M G; Ceroni, M; Cosi, V; Versino, M;
-   Ceroni, M; Cosi, V; Beltrami, G (1999). "Lateral gaze synkinesis on
-   downward saccade attempts with paramedian thalamic and midbrain
-   infarct". Journal of Neurology, Neurosurgery & Psychiatry. 67 (5):
-   696–7. doi:10.1136/jnnp.67.5.696. PMC 1736620. PMID 10577040.
-     * v
-     * t
-     * e
+   The Postman Always Rings Twice (1946) offers a famous example of the
+   male gaze. In the scene below, the audience is introduced to Cora
+   Smith, the film’s lead female character. Using close-ups, the camera
+   forces the viewer to stare at Cora’s body. It creates a mode of looking
+   that is sexual, voyeuristic, and associated with the male protagonist’s
+   point-of-view.
 
-   Optical illusions (list)
-   Illusions
-     * Afterimage
-     * Ambigram
-     * Ambiguous image
-     * Ames room
-     * Autostereogram
-     * Barberpole
-     * Bezold
-     * Café wall
-     * Checker shadow
-     * Chubb
-     * Cornsweet
-     * Delboeuf
-     * Ebbinghaus
-     * Ehrenstein
-     * Flash lag
-     * Fraser spiral
-     * Gravity hill
-          + list
-     * Grid
-     * Hering
-     * Illusory contour
-     * Impossible cube
-     * Impossible trident
-     * Irradiation
-     * Jastrow
-     * Lilac chaser
-     * Mach bands
-     * McCollough
-     * Müller-Lyer
-     * Necker cube
-     * Neon color spreading
-     * Oppel–Kundt
-     * Orbison
-     * Penrose stairs
-     * Penrose triangle
-     * Peripheral drift
-     * Poggendorff
-     * Ponzo
-     * Rubin vase
-     * Sander
-     * Schroeder stairs
-     * Shepard tables
-     * Spinning dancer
-     * Ternus
-     * Vertical–horizontal
-     * Watercolor
-     * White's
-     * Wundt
-     * Zöllner
+   IFRAME:
+   https://www.youtube.com/embed/WGFer3-Aguw?wmode=transparent&start=0
 
-   [40px-Optical_Illustion-Ambiguous_Patterns.svg.png]
-   Popular culture
-     * Op art
-     * Trompe-l'œil
-     * Spectropia (1864 book)
-     * Ascending and Descending (1960 drawing)
-     * Waterfall (1961 drawing)
-     * The dress (2015 photograph)
+   The Postman Always Rings Twice (1946).
 
-   Related
+   It also establishes some important plot points: that the hero desires
+   Cora, and that Cora recognises his lust. But the strongest message is
+   that Cora is sexy. Indeed, the viewer learns that Cora is sexy before
+   they even learn her name. Even if a viewer isn’t attracted to women in
+   “real life”, the scene still makes sense. A lifetime of seeing women
+   sexualised in television, music videos and advertisements has made us
+   very comfortable with assuming the male gaze.
 
-     * Accidental viewpoint
-     * Auditory illusions
-     * Illusions
-     * Tactile illusions
-     * Temporal illusion
+Finding the male gaze
 
-   Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=Gaze_(physiology)&oldid=130
-   0691938"
+   The male gaze takes many forms, but can be identified by situations
+   where female characters are controlled by, and mostly exist in terms of
+   what they represent to, the hero. As Budd Boetticher, who directed
+   classic Westerns during the 1950s, put it:
 
-   Categories:
-     * Eye
-     * Neurophysiology
+     What counts is what the heroine provokes, or rather what she
+     represents. She is the one, or rather the love or fear she inspires
+     in the hero, or else the concern he feels for her, who makes him act
+     the way he does. In herself the woman has not the slightest
+     importance.
 
-   Hidden category:
-     * Articles with imported Creative Commons Attribution 4.0 text
+   This can be see in the different ways the camera repeatedly positions
+   us to look at women’s bodies. Think of Rear Window (1954), for a
+   literal framing of women’s bodies, or She’s All That (1999), which
+   revolves around a make-over. For a modern example, the Transformers
+   film series (2006-2014) presents women as sexual objects to be desired.
 
-     * This page was last edited on 15 July 2025, at 21:43 (UTC).
-     * Text is available under the Creative Commons Attribution-ShareAlike
-       4.0 License; additional terms may apply. By using this site, you
-       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
-       registered trademark of the Wikimedia Foundation, Inc., a
-       non-profit organization.
+   Filmmakers often attempt to avoid presenting female characters as
+   “mere” sexual objects by giving them complex back stories, strong
+   motivations and an active role in the plot of their story. Yet the
+   masculine gaze is still commonplace. Catwoman in The Dark Knight Rises
+   (2012) has significant personal motivations, yet she is still clearly
+   there to be looked at.
 
-     * Privacy policy
-     * About Wikipedia
-     * Disclaimers
-     * Contact Wikipedia
-     * Legal & safety contacts
-     * Code of Conduct
-     * Developers
-     * Statistics
-     * Cookie statement
-     * Mobile view
+   IFRAME:
+   https://www.youtube.com/embed/aAzXwlmQ0b4?wmode=transparent&start=0
 
-     * Wikimedia Foundation
-     * Powered by MediaWiki
+   Catwoman in The Dark Knight Rises (2012).
 
-   (BUTTON) Search
-   ____________________
-   (BUTTON) Search
+Different ways of looking
 
-   [ ] Toggle the table of contents
-   Gaze (physiology)
-   (BUTTON) 3 languages Add topic
+   Although written 40 years ago, Mulvey’s essay still provokes strong
+   reactions. One common response is that both women and men are
+   objectified in cinema.
+   Gilda (1946). CBC
+
+   After all, isn’t Johnny Farrell (Glenn Ford) as sexy as Gilda Mundson
+   (Rita Hayworth) in Gilda (1946)?
+
+   Isn’t Fitzwilliam Darcy as beautiful as Elizabeth Bennet in the BBC
+   teleseries of Pride and Prejudice (1995)? Surely this indicates the
+   presence of a (heterosexual) female gaze.
+
+   Such arguments don’t consider how insistently women are presented as
+   sexual objects.
+
+   The Hawkeye Initiative is a project that draws attention to the
+   different ways male and female superheroes are posed in comics and
+   movies. Take this illustration as an example, which poses the male
+   heroes of The Avengers in the same hyper-sexualised position as the
+   film’s sole female protagonist, Black Widow.
+   How the Avengers might look if the male gaze was also applied to them,
+   according to The Hawkeye Initiative.
+
+   The illustration makes a good point about double standards. But its
+   humour derives from the fact that it is unusual to see men sexualised
+   in the same way as women.
+
+   Another argument is that cinema doesn’t invite women to desire men’s
+   bodies. Rather, female viewers are positioned to identify with a
+   heroine who is herself desired by a man. According to this logic, it is
+   not Fitzwilliam Darcy’s wet undershirt that inflames the female viewer
+   in Pride and Prejudice. Rather, it is Darcy’s longing for Elizabeth
+   that truly appeals.
+
+Is there a female gaze?
+
+   Many films that represent women’s desire do so in “non gaze”-related
+   ways. Jane Campion’s The Piano (1993) expresses the heroine’s
+   passionate nature through the film’s famous score.
+
+   Sofia Coppola’s The Virgin Suicides (1999) conveys female experience
+   through sound and visual aesthetics, portraying the teenage
+   protagonists’ inner life. This scene uses warm tones (yellow, salmon),
+   feminine symbols (flowers, unicorns) and music to express female
+   adolescence.
+
+   IFRAME:
+   https://www.youtube.com/embed/Qq2TXAE-Ih8?wmode=transparent&start=50
+
+   The Virgin Suicides (1999).
+
+   Coppola uses a similar strategy in Marie Antoinette (2006), using
+   florid set design to communicate women’s claustrophobic life at
+   Versailles.
+
+   The argument that women’s desire is best expressed through sensation
+   rather than a gaze may evoke the cliché that male desire is “visual”
+   whereas women’s is “sensory”. But men’s inner lives have always been
+   conveyed via sound and sensation. Action films like Rambo (2008) or
+   Casino Royale (2006), for example, bombard the senses with male anguish
+   and aggression.
+
+   So is there a female gaze? Certainly, beautiful men abound in cinema.
+   But I’d argue that there is no direct female equivalent of the male
+   gaze. The male gaze creates a power imbalance. It supports a
+   patriarchal status quo, perpetuating women’s real-life sexual
+   objectification.
+
+   For this reason, the female gaze cannot be “like” the male gaze.
+
+   Instead, films that centre women’s experiences are deeply subversive.
+   Think of Fish Tank (2009), a coming-of-age story about a disadvantaged
+   girl’s vulnerability, or In the Cut (2003), a story about a woman’s
+   sexual discovery.
+
+   Films about women’s sexuality often face censorship ways that prove
+   their subversiveness. For instance, the makers of The Cooler (2003),
+   Boys Don’t Cry (1999) and Blue Valentine (2010) claim that their films
+   were rated R or NC-17 for depicting cunnilingus. Such scenes focus on
+   female pleasure and undermine women’s “to-be-looked-at-ness”.
+   Censorship bodies like the Motion Picture Association of America,
+   however, seem to treat cunnilingus as “more graphic” than other forms
+   of sex.
+
+   Films like The Piano, In The Cut or Marie Antoinette show that cinema
+   can use music, erotic scenes and visual aesthetics to express a
+   feminine point of view. In doing so, such films counter the gaze,
+   depicting women as subjects rather than objects “to be looked at”.
+   Whilst not replicating the male gaze exactly, they challenge the
+   enduring dominance of masculine worldviews in film and media.
+     __________________________________________________________________
+
+   Janice will be on hand for an Author Q&A between 11am to noon AEDT on
+   Thursday, January 7, 2016. Post your questions in the comments section
+   below.
+     * Feminism
+     * Explainer
+     * Film
+     * Visual art
+     * Screen
+     * Author Q&A
+     * Arts explainer
+     * Gender norms
+
+Notre audience
+
+   Le réseau global The Conversation a une audience mensuelle de 18
+   millions de lecteurs et une audience globale de 42 millions à travers
+   les republications sous la licence Creative Commons.
+
+Vous voulez écrire ?
+
+   Écrivez un article et rejoignez une communauté de plus de 217 000
+   universitaires et chercheurs de 5 400 institutions.
+
+   Enregistrez-vous maintenant
+     * Ce que nous sommes
+     * Notre équipe
+     * Nos valeurs
+     * Charte éditoriale
+     * Règles de republication
+     * Recevoir nos newsletters
+     * Nos flux
+
+     * Faire un don
+     * Nos institutions membres
+     * Notre audience
+     * Notre impact
+     * Kit de communication pour les institutions membres
+     * Événements
+     * Transparence financière
+     * Contactez-nous
+
+     * ​
+     * ​
+     * ​
+     * ​
+     * ​
+
+   Politique de confidentialité Préférences de consentement Mentions
+   légales
+
+   Droits d'auteur © 2010–2025, The Conversation France (assoc. 1901)

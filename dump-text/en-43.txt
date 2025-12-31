@@ -1,251 +1,546 @@
-   #RSS Feed
+   #Atom 1.0 alternate alternate
 
-   ART CLUBBERS
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MXT8M8X
+
+   Skip to content
+
+   Envato: Get every type of asset for any type of project, and a full
+   stack of AI tools
+   From $16.50/m
+
+   envato-tuts+
+
+   envato-tuts+
+
+   ____________________
+
    (BUTTON)
+     * Design
+     * Business
+     * Photo
+     * Video
+   Video View all Video
+       Start Learning
+          + Software
+        Software
+               o [after_effects@2x-ad40d8ca521c87e06b17.png] Adobe After
+                 Effects
+               o [premiere_pro@2x-43a0af24f5c812ca9f78.png] Adobe Premiere
+                 Pro
+               o [davinci@2x-eb0e771e5ec3187fa0e1.png] Davinci Resolve
+               o [cinema_4d@2x-d6611b8d972905e63410.png] Cinema 4D
+               o [blender@2x-e00e60f02e89de09129c.png] Blender
+               o [final_cut_pro@2x-4aac2d51c395bb9c624d.png] Final Cut Pro
+               o [apple_motion@2x-6541533aea5cfead58d2.png] Apple Motion
+               o [obs@2x-c719454a0620c2c8768c.png] OBS
+               o [camtasia@2x-9988a1a6bf2885bc0fff.png] Camtasia
+               o [screenflow@2x-7ac3cfecd4bfa2a2c3b2.png] Screenflow
+               o [kapwing@2x-8f2fa03713fc0361fb2f.png] Kapwing
+               o [runway@2x-69166d3bc617111f8944.png] Runway
+               o [rush@2x-f947d3bb700656b4ea73.png] Adobe Rush
+               o [ai_tools@2x-829ddec496349c126fb9.png] AI Tools
+               o [capcut@2x-9ce48996bc35dbf47d6b.png] CapCut
+               o [spline@2x-786e3c84d6865d996da5.png] Spline
+          + Equipment
+        Equipment View all Equipment
+               o Cameras & Lenses
+               o Tripods & Supports
+               o Drones & Rigs
+               o Filters & Accessories
+               o Smartphones
+               o Lighting
+               o Audio Equipment
+          + Production & Recording
+        Production & Recording View all Production & Recording
+               o Lighting
+               o Audio
+               o Composition
+               o Screen Recording
+               o Livestreaming
+          + Post-Production
+        Post-Production View all Post-Production
+               o Video Editing
+               o Color Grading
+               o Motion Graphics
+               o Audio
+               o Workflow
+          + Templates & Presets
+        Templates & Presets View all Templates & Presets
+               o Intros & Openers
+               o Titles
+               o Transitions
+               o LUTs & Profiles
+               o Text Effects
+               o Particle Effects
+               o Logo Animations
+               o Slideshows
+               o Presets
+               o Scripts & Plug-ins
+          + Types of Video
+        Types of Video View all Types of Video
+               o Instructional
+               o Documentary
+               o Stock Footage
+               o YouTube
+               o Social Videos
+               o Music Videos
+          + Animation
+       popular software in Video
+          + [after_effects@2x-ad40d8ca521c87e06b17.png] Adobe After
+            Effects
+          + [premiere_pro@2x-43a0af24f5c812ca9f78.png] Adobe Premiere Pro
+          + [davinci@2x-eb0e771e5ec3187fa0e1.png] Davinci Resolve
+     * Web Design
+     * Code
+     * Music
+     __________________________________________________________________
 
-   (BUTTON) ABOUT US TEAM WORK WITH US (BUTTON) OUR WORK OPPORTUNITIES
-   BLOG EVENTS CONTACT
+     * Sign In
+     * Tuts+ YouTube
+     * Envato
+       Get unlimited creative assets
 
-   (BUTTON) Back WHO ARE WE OUR VALUES PARTNERS
-   (BUTTON) Back CHROMA TOWNS COMMUNITY EDUCATION & EMPLOYMENT EVENTS
+     * Go to Envato
+     * |
+     * Tuts+ YouTube
+     * |
+     * Sign In
+
+     * envato-tuts+
+     * Design
+     * Business
+     * Photo
+     * Video
+          + Software
+               o Start Learning
+               o [after_effects@2x-ad40d8ca521c87e06b17.png] Adobe After
+                 Effects
+               o [premiere_pro@2x-43a0af24f5c812ca9f78.png] Adobe Premiere
+                 Pro
+               o [davinci@2x-eb0e771e5ec3187fa0e1.png] Davinci Resolve
+               o [cinema_4d@2x-d6611b8d972905e63410.png] Cinema 4D
+               o [blender@2x-e00e60f02e89de09129c.png] Blender
+               o [final_cut_pro@2x-4aac2d51c395bb9c624d.png] Final Cut Pro
+               o [apple_motion@2x-6541533aea5cfead58d2.png] Apple Motion
+               o [obs@2x-c719454a0620c2c8768c.png] OBS
+               o [camtasia@2x-9988a1a6bf2885bc0fff.png] Camtasia
+               o
+               o [screenflow@2x-7ac3cfecd4bfa2a2c3b2.png] Screenflow
+               o [kapwing@2x-8f2fa03713fc0361fb2f.png] Kapwing
+               o [runway@2x-69166d3bc617111f8944.png] Runway
+               o [rush@2x-f947d3bb700656b4ea73.png] Adobe Rush
+               o [ai_tools@2x-829ddec496349c126fb9.png] AI Tools
+               o [capcut@2x-9ce48996bc35dbf47d6b.png] CapCut
+               o [spline@2x-786e3c84d6865d996da5.png] Spline
+     * Equipment
+          + Start Learning
+          + Cameras & Lenses
+          + Tripods & Supports
+          + Drones & Rigs
+          + Filters & Accessories
+          + Smartphones
+          + Lighting
+          + Audio Equipment
+
+   All Equipment
+
+     Production & Recording
+
+     * Start Learning
+     * Lighting
+     * Audio
+     * Composition
+     * Screen Recording
+     * Livestreaming
+
+   All Production & Recording
+
+     Post-Production
+
+     * Start Learning
+     * Video Editing
+     * Color Grading
+     * Motion Graphics
+     * Audio
+     * Workflow
+
+   All Post-Production
+
+     Templates & Presets
+
+     * Start Learning
+     * Intros & Openers
+     * Titles
+     * Transitions
+     * LUTs & Profiles
+     * Text Effects
+     * Particle Effects
+     * Logo Animations
+     * Slideshows
+     * Presets
+
+     *
+     * Scripts & Plug-ins
+
+   All Templates & Presets
+
+     Types of Video
+
+     * Start Learning
+     * Instructional
+     * Documentary
+     * Stock Footage
+     * YouTube
+     * Social Videos
+     * Music Videos
+
+   All Types of Video
+
+     Animation
+
+     Web Design
+
+     Code
+
+     Music
+
+   ____________________
+
    (BUTTON)
+   Get unlimited creative assets
 
-   ____________________ (BUTTON)
+    1. envato-tuts+
+    2. Home
+    3. Video
+    4. Types of Video
 
-   ABOUT US WHO ARE WE OUR VALUES PARTNERS TEAMWORK WITH US OUR WORK
-   CHROMA TOWNS COMMUNITY EDUCATION & EMPLOYMENT EVENTS
-   OPPORTUNITIESBLOGEVENTSCONTACT
-   ART CLUBBERS
+Types of Gaze in Film: Perspectives and Power Dynamics
+
+   Scroll to top
+   Marie Gardiner
+   Marie Gardiner
+   Aug 12, 2024 • 9 min read
+   Copied to clipboard!
+   Types of Video
+
+   “The Gaze” is how we (the audience) view characters and events in a
+   film, and how that shapes our perceptions. Understanding the different
+   types of gaze in film can help us appreciate the nuances of
+   storytelling, plus underlying power dynamics. Let’s take a look.
+
+A Quick History of Gaze
+
+   The idea of the gaze in art and literature has been around for a really
+   long time, but in 1975, Laura Mulvey introduced the idea of the male
+   gaze in her essay Visual Pleasure and Narrative Cinema, explaining that
+   women are often seen from a masculine perspective, making them seem
+   passive and objectifying them.
+
+     “It is said that analysing pleasure, or beauty, destroys it. That is
+     the intention of this article.” Laura Mulvey in Visual Pleasure and
+     Narrative Cinema
+
+   Mulvey was writing at an important time for feminism, with a second
+   wave focusing on equality and discrimination.
+
+   Since then, academics and filmmakers have built on that idea to include
+   various types of gaze, each one giving a particular insight into
+   representation, power dynamics, and how the audience engages. These
+   have also changed and evolved with society, as it’s slowly become more
+   inclusive and diverse.
+
+Types of Gaze
+
+The Male Gaze
+
+   Let’s start with the ‘original’ gaze in cinema, as coined by Mulvey.
+   This type of gaze positions women as passive objects of male desire,
+   which in turn reinforces gender roles and power imbalances. Mulvey
+   spoke of two types of male gaze: voyeuristic and fetishistic. The
+   former is a controlling gaze – based in control and punishment, and the
+   latter is based in a type of reassurance, a raising up of the image of
+   a woman in a cult-like way.
+
+   Please accept marketing cookies to load this content.
+   Vertigo Official Trailer #1 - (1958) HD
+   [maxresdefault.jpg]
+
+   A good example of this is Alfred Hitchcock’s Vertigo, where the camera
+   follows and objectifies the main female character Madeleine, who is
+   followed by an ex police officer (Scottie) hired by her husband.
+   Scottie becomes obsessed with Madeleine to the point of finding a woman
+   who looks like her and trying to shape her in Madeleine’s image. In
+   this instance the male gaze isn’t just implied, it’s actually part of
+   the narrative, with the main male character following, watching, and
+   objectifying a woman.
+
+   The Bond films are another good example of this, where the female
+   characters have mostly been ‘eye candy’. Examples like this reinforce
+   the idea that a woman’s value lies solely in physical attractiveness,
+   and by recognising that – by understanding the male gaze – we can
+   engage more critically with the film (or whatever else it may be) and
+   push for better representations.
+
+Quick Look
+
+     * Focus on female bodies, often through lingering camera shots.
+     * Narratives that centre around male characters, with female
+       characters only as objects or plot devices.
+     * Reinforces traditional gender roles and power imbalances.
 
 The Female Gaze
 
+   As you might guess, the female gaze is a focus on showing women as
+   complex, nuanced characters. Subjects, rather than passive objects. The
+   female gaze often challenges traditional narratives and there’s often a
+   focus on relationships, connection, empathy, and emotions.
 
-   Written by Maddy Chelmis
+   Directors like Jane Campion and Ava DuVernay are known for their
+   complex female characters and the female gaze.
 
-   To gaze is to look, to observe. It appears simple in this context, we
-   open our eyes and we look. But what do we see? How do we see it, and
-   what do we do thereafter that impacts the way we look.
+   Please accept marketing cookies to load this content.
+   THE PIANO - Official 25th Anniversary Trailer - Starring Holly Hunter
+   and Harvey Keitel
+   [maxresdefault.jpg]
 
-   Let me introduce firstly the familiar term ‘The Male Gaze’, coined by
-   feminist film theorist Laura Mulvey in her 1975 essay Visual Pleasure
-   and Narrative Cinema. The Male Gaze is commonly analysed in film,
-   advertising and art. However it leaks into the everyday and influences
-   many more elements of life beyond the screen and canvas. This is where
-   it becomes even more dangerous. So, what is the Male Gaze? It is
-   representative of the perspectives that are built from the
-   hetero/cis-normative male world view. It involves the sexualisation and
-   objectification of women. The world seen through a cis-het males eyes.
-   It places the inherent value of a woman on her appearance, on how well
-   she can mould herself into the patriarchal ideal of a woman.
+   In The Piano, Campion puts the viewer in the main character, Ada’s
+   shoes. Although she can’t speak, her world is richly shown through
+   visuals in the story, with her body language, and of course, through
+   the piano. We focus on, and empathise with, her struggles and desires.
+   The film explores her character intimately, without objectifying her
+   and Ada’s strength, independence, and refusal to conform all help to
+   subvert conventional gender roles.
 
+Quick Look
 
-   In an interview with Laura Mulvey on ‘Gender, Gaze and Technology in
-   Film Culture’ she quotes “Women are represented as other.”[1] As well
-   as “Women are seen and showed at the same time. Their appearance is so
-   much coded for a strong visual and erotic impact that it can be argued
-   that they connote the true essence of being seen.” This quote speaks
-   volumes to me as it brings about the question “What does it mean to
-   truly be seen?” Does being authentically seen really boil down to how a
-   man perceives me? If so I’d rather be invisible… But of course this
-   doesn’t have to be your truth. You ultimately decide what being seen is
-   to you.
+     * Focus on emotional depth and internal lives of female characters.
+     * Narratives that give women agency and complex roles.
+     * Challenges traditional gender roles and offers a more nuanced
+       portrayal of relationships.
 
+The Queer Gaze
 
-   I’m sure when I ask you to visualise the ‘ideal’ woman through a
-   straight mans eyes we all get a similar image. Now that is very
-   presumptuous of me, but I am confident in this assumption
-   unfortunately. Why is this? Because from the time we were able to
-   consume media with some semblance of consciousness we have been
-   bombarded with films, art, adverts, comics, music, and other
-   pop-culture that is littered with examples of the Male Gaze. No wonder
-   it is so engrained in our minds, and thus seems so inescapable. But it
-   is possible. Welcome in, The Female Gaze.
+   This gaze challenges heteronormative perspectives and centres the
+   experiences of LGBT+ characters and creators. The lives of individuals
+   and groups are shown in a way that feels authentic and relatable
+   without stereotypes and tropes. The queer gaze questions societal norms
+   around sexuality and identity and asks us to look beyond binary
+   definitions of gender and sexuality. It also has a big emphasis on
+   fluidity and ambiguity either through characters or through the story
+   being told.
 
-   Now contrary to the Male Gaze, the Female Gaze is a feminist film
-   theoretical term representing the gaze of the female viewer, in case
-   that wasn’t too obvious. Of course it is not limited to film alone.
+   Please accept marketing cookies to load this content.
+   CAROL - Official Trailer - Starring Cate Blanchett And Rooney Mara
+   [maxresdefault.jpg]
 
+   At the time of release, Carol by Todd Haynes was voted the top LGBT+
+   film of all time. It focuses on two female protagonists and their
+   relationship, which is shown as caring, respectful, and without
+   sensationalism. That this is presented at a time when these
+   relationships would have been heavily stigmatised but the relationship
+   is shown as legitimate is an even bigger challenge to the
+   heteronormative views of that era.
 
-   Let’s look at art. It unfortunately doesn’t take a highly skilled art
-   critic or analyst to see that the majority of artworks in renowned
-   galleries are by men, and the subjects, are oftentimes women, likely
-   nude. Take the Guerrilla Girls and their infamous ‘Weenie counts’. In
-   1989 they scoured the Metropolitan Museum of Art and counted the ratio
-   of artworks produced by male and female artists. They found that 5% of
-   artworks were produced by women, but 85% of the nudes were of female
-   subjects. You see what we mean…?
+Quick Look
 
+     * Focus on the lived experiences of LGBT+ people.
+     * Narratives that challenge binary views of gender and sexuality.
+     * Often includes non-linear storytelling and complex character
+       development.
 
-   Here we have two examples of a female nude. One painted by a male
-   baroque era artist, the other a more contemporary female artist.
+The Oppositional Gaze (Sometimes The Black Gaze or The Racial Gaze)
 
-   The Toilet of Venus, Diego Velázquez, 1647-51, Oil on canvas
+   Coined by Gloria Jean Watkins (known by her pen name bell hooks) in The
+   Oppositional Gaze: Black Female Spectators. This gaze centres around
+   the agency of Black people and how historically they’ve been denied
+   their right to ‘gaze,’ or critically engage with media. It also
+   addresses that the portrayal of Black women even by Black male
+   filmmakers is often still that of an object, of the male gaze, which
+   actually perpetuates white supremacy. The Oppositional gaze encourages
+   the audience – particularly those from marginalised groups – to
+   critically engage with media and question biases, stereotypes and
+   omissions from narrative film.
 
-   Secret Spaces, Joan Semmel, 1976
+   Please accept marketing cookies to load this content.
+   Get Out Official Trailer 1 (2017) - Daniel Kaluuya Movie
+   [maxresdefault.jpg]
 
-   I won’t go too in depth into both of these pieces, this isn’t an essay
-   I’m afraid! But let’s look at some obvious differences in the depiction
-   of both of these female bodies.
+   Jordan Peele’s Get Out is a recent example of the oppositional gaze in
+   horror/thriller cinema. We follow a young Black man who uncovers a
+   terrible truth about his white girlfriend’s family. While the movie
+   uses satire and suspense, it’s also heavily critiquing systemic racism
+   and the exploitation of Black bodies.
 
-   The Toilet of Venus shows a white woman reclining elegantly on a bed of
-   perfectly draped silk, admiring herself in a mirror held up by a
-   bouncing little cherub. An everyday occurrence in 1647 I’m sure. In
-   terms of looking, she is looking at herself, perpetuating the notion of
-   vanity, of checking her appeal to the outside world. Her back is turned
-   to the viewer, the viewer is looking AT her, but she is unaware. She is
-   a spectacle unwillingly. She is smooth, has rippling curves in the
-   patriarchal idea of the ‘right’ places. She is a vision, being looked
-   at, looking at herself, because she has been painted according to the
-   beauty standard.
+Quick Look
 
-   In an essay written by Eva K. Pankenier entitled ‘Patriarchy and the
-   Female Sublime’ she quotes “The female body in its unaffected state is
-   merely naked, but in the process of being depicted as art a
-   “sublimation” occurs, in which the female naked becomes a socially
-   acceptable female nude…this transformation is a shift from the actual
-   to the ideal.”[2]
+     * Focus on the experiences and voices of racial and ethnic minority
+       groups.
+     * Narratives that challenge stereotypes and offer more authentic
+       portrayals.
+     * Encourages critical engagement with media to challenge biases.
 
-   Thus, here we are gazing upon the 1647 version of the photoshopped
-   female body. Painted by, of course, a man.
+The Gaze and Power Dynamics
 
+   The gaze in film isn’t just about who is looking and how, but also
+   about power. Different types of gaze can reinforce or challenge power
+   structures, both in the narrative and wider, in society. Understanding
+   how gaze influences power dynamics can help audiences appreciate
+   storytelling on a deeper level, and also see the importance of diverse
+   perspectives.
 
-   In stark contrast, Joan Semmel paints her own naked body. Not nude. But
-   fully and authentically naked! The angle is literally from her
-   perspective so this piece already has that going for it (quite the
-   literal interpretation of the female gaze I know). It also showcases
-   Semmel’s own body in its natural state. We have depictions of
-   ‘unconventional’ aspects of the female form: stomach rolls, wrinkles
-   and skin texture. How very refreshing! What is void here that is very
-   present in The Toilet of Venus is the overt sexualisation of the female
-   body.
+   Please accept marketing cookies to load this content.
+   THE HANDMAIDS TALE Season 1 TRAILER (2017) Hulu Series
+   [maxresdefault.jpg]
 
+   In The Handmaid’s Tale – based on the book by Margaret Atwood – we can
+   see the power dynamics between the oppressive regime and the subjugated
+   women, but that isn’t the whole story. The handmaids (and other female
+   captives) are shown to us (through things like intense close ups of the
+   protagonist's eyes) as resistant, resilient, strong. This gaze is a
+   challenge to the power ‘norms’ of the patriarchal structures in the
+   show, and it’s a powerful commentary on gender and autonomy. In this
+   instance the women aren’t just male-gaze-objects, but
+   female-gaze-subjects, with depth of character.
 
-   In essence the Female Gaze encapsulates everything that the Male Gaze
-   is not.
+The Gaze and Documentary
 
-   To me the Female Gaze is empathetic, and intimate. It doesn’t
-   capitalise on the sexual nature of our bodies. It is about respect and
-   realness, living in our bodies without the need to appease men or live
-   up to an unrealistic standard because we feel we are being surveyed all
-   the time.
+   small child being tended to by volunteer small child being tended to by
+   volunteer small child being tended to by volunteer
 
-   In his book Ways of Seeing John Berger quotes:
+   We’ve talked mostly about narrative film here, but what about
+   documentary? Do documentary films have gazes? The quick answer is, they
+   do! The gaze in documentaries can shape how we see the people involved
+   and it can influence how authentic and impactful the story is. There’s
+   an interesting thesis by Ambra Reijnen that looks at The Outsider’s
+   Gaze in Documentary, examining the ethics of filming in a community
+   that the director doesn’t belong. There are power dynamics at play in
+   documentary gaze too, the control the filmmaker has over the narrative
+   can greatly influence the power balances between people interviewed,
+   the audience, and the director themselves. Some documentaries actually
+   feature the filmmaker; does that change the ‘gaze’? I think so, as it
+   becomes more participatory, and the audience becomes more connected to
+   the person presenting the material.
 
+Quick Look: Some Sub-Genres in Documentary Films
 
-   “Men look at women. Women watch themselves being looked at. This
-   determines not only most relations between men and women but also the
-   relation of women to themselves. The surveyor of woman in herself is
-   male: the surveyed female. Thus she turns herself into an object, and
-   most particularly an object of vision: a sight.”[3]
+   The type of documentary genre can impact the ‘gaze’. Here are some of
+   the types of documentary sub-genres and what they involve:
 
+Observational
 
-   This perfectly sums up the female experience. Feeling as though life is
-   one big performance and you are constantly being watched. You must look
-   good under the stage lighting, put on a smile for the camera, be best
-   dressed in show etc. so what if we just stopped performing? Cut the
-   cameras? Called curtain call?
+   Capturing events they happen, with minimal intervention from the
+   filmmaker. It often features long takes, minimal narration, and natural
+   sound. The camera acts as a neutral observer. Participatory The
+   filmmaker interacts with the subjects, becoming part of the narrative.
+   It uses interviews, direct interactions, and sometimes the filmmaker
+   appearing on screen.
 
-   The best thing is: we can. It won’t be as easy as just doing it, it’ll
-   take work and time, but we can switch the lens to the Female Gaze when
-   we finally decide we are done entertaining ‘the crowd’ (being men).
+Reflexive
 
+   A focus on the filmmaking process itself, highlighting the presence of
+   the director and the concept of documentary making.
+   Exploring Film Genres: Definitions and Guides
 
-   Now this topic could be a whole blog post on its own but it is
-   extremely important to recognise that the Male Gaze and Female Gaze
-   play into the prescribed gender binary. This is another topic that must
-   be dismantled. But the topic poses the question, “Who do you perform
-   your gender for?”. After scrolling through artist and author Florence
-   Given’s Instagram I was left speechless at the realisation that a lot
-   of the ‘femininity’ I present is in an effort to live up to the
-   perceived feminine identity I am expected to adopt. When we erase
-   gender from the conversation altogether it seems as though we are free
-   from any particular  gaze. After all, gender is inherently performative
-   and the societal norms that we deem to be ‘feminine’ or ‘masculine’
-   have been created by years and years of practiced actions, and rituals
-   that fit into the specific gender binaries.
+Expository
 
-   So, to our trans and gender non-conforming community, we see you.
-   Navigating a world in which the media around us is predominantly
-   presented as from the Straight Male lens is isolating, and while it is
-   getting better, it is high time that we really opened our eyes and
-   looked at the world through everyone’s eyes to breed a more inclusive
-   and safe place to live in.
+   A more traditional approach with narration to guide us through the
+   documentary, presenting information and arguments directly. Uses
+   voice-over narration, a structured presentation of facts, and clear
+   arguments.
 
+Poetic
 
-   In conclusion, while the Male Gaze is still ever-present in our
-   society, it is possible to escape it and reframe your world through
-   your own eyes. Ask yourself, how would your life look if you were only
-   concerned about your gaze? If you saw yourself as the main character
-   and nobody else’s perceptions of you mattered. With a lot of hard work
-   that reality is possible. But it takes a lot of self reflection, and
-   ultimately the dismantling of the patriarchy… But we’ll get there
-   eventually!
-     __________________________________________________________________
+   This prioritises the look and emotional tone over factual presentation,
+   with artistic visuals, a more fragmented structure, and emphasis on
+   mood and tone.
 
-   [1] ‘Interview with Laura Mulvey: Gender, Gaze and Technology in Film
-   Culture’, Sage Journals, accessed April 2021,
-   https://journals.sagepub.com/doi/abs/10.1177/0263276411398278?casa_toke
-   n=XmfHxpsbPnIAAAAA%3A4QdmAgBLuCStXrUKo9wLKftdCIjG2f6xGzfL7cUF4zRgp30J9X
-   FIb4q-V3SgGNn0YUr6J0XYX9VN&
+Performative
 
-   [2] ‘Patriarchy and the Female Sublime’, Lehigh University, accessed
-   April 2021, https://core.ac.uk/download/pdf/228634578.pdf
+   A subjective experience and deep involvement of the filmmaker with
+   personal narratives, emotional engagement, and sometimes a blurring of
+   fiction and reality.
 
-   [3] John Berger, Ways of Seeing, Published by the British Broadcasting
-   Corporation and Penguin Books.
+Does Animation Use Gaze?
 
-   BlogAjay PabialApril 23, 2021Comment
-   Facebook0 Twitter 0 Likes
+   Please accept marketing cookies to load this content.
+   Disney's Frozen Official Trailer
+   [maxresdefault.jpg]
 
-   Previous
+   It does! Though kids’ cartoons go a little lighter with intent, it’s
+   actually easier to do in many ways because animators have control over
+   the whole scene. The same subverting of roles, or cultural and social
+   commentary can be done in animation as it is in regular film. As an
+   example, in Frozen we can very much see The Female Gaze as we focus on
+   the bond between Elsa and her sister Anna rather than a romantic
+   relationship, which dominates many older animations aimed at children.
 
-Galleries Galore
+Conclusion: What is Gaze in Film
 
-   BlogAjay PabialMay 6, 2021
-   Next
+   Gaze is a powerful tool that helps guide the way stories are seen and
+   interpreted. Filmmakers use gaze to direct attention, convey emotions,
+   and to add commentary on societal issues. By exploring and
+   understanding different types of gaze we can appreciate diverse
+   perspectives, learn more about culture, challenge biases, and subvert
+   tropes.
 
-Your Body is Never the Problem.
+More Free Film Theory Articles
 
-   BlogAjay PabialApril 9, 2021
+     * What is a Point of View in Movies & Videos? (1st & 3rd Person)
+       Jonathan Lam
+       23 May 2024
+     * An Introduction to Auteur Theory: How Directors Shape Films
+       Marie Gardiner
+       01 Jun 2024
+     * 20 Types of Camera Movements and Shots to Master
+       Marie Gardiner
+       24 May 2024
+     * What was the First Music Video Ever? A Brief History
+       Marie Gardiner
+       29 Dec 2023
 
-   SOME OF OUR PARTNERS, FUNDERS AND SUPPORTERS
-   36cd84501b08f74eadd3afdc77a1d70f_lbr_Mul_logo.png
-   36cd84501b08f74eadd3afdc77a1d70f_lbr_Mul_logo.png
-   pngimg.com - google_PNG19644.png pngimg.com - google_PNG19644.png
-   247853213_107316265077250_6052807977116620000_n.jpg
-   247853213_107316265077250_6052807977116620000_n.jpg
-   COL-BLK_RGB.png COL-BLK_RGB.png
-   Community_Fund.svg.png Community_Fund.svg.png
-   Essex_County_Council_logo.svg.png Essex_County_Council_logo.svg.png
-   FFL-Logo-for-website.png FFL-Logo-for-website.png
-   TSB_logo_2013.svg.png TSB_logo_2013.svg.png
-   IKEA_Foundation_Logo.png IKEA_Foundation_Logo.png
-   cropped-Badge-Nation-Logo-2023.png cropped-Badge-Nation-Logo-2023.png
-   Hadley-Grey-Transparent-Website-Logo.png
-   Hadley-Grey-Transparent-Website-Logo.png
-   christies-vector-logo.png christies-vector-logo.png
-   Lambeth-PMS_08.png Lambeth-PMS_08.png
-   Reading.png Reading.png
-   wearespotlight_logo.jpeg wearespotlight_logo.jpeg
-   logo_orange.jpeg logo_orange.jpeg
-   VA-Logo.jpeg VA-Logo.jpeg
-   weston-homes-logo_380x0_703.jpg weston-homes-logo_380x0_703.jpg
-   University_of_the_Arts_London_Logo.jpg
-   University_of_the_Arts_London_Logo.jpg
-   Network-Rail-Logo.png Network-Rail-Logo.png
-   326771000_5550756941700786_6062660562910244862_n.jpg
-   326771000_5550756941700786_6062660562910244862_n.jpg
-   GA-logo-800x265px.png GA-logo-800x265px.png
-   images (1).png images (1).png
-   43419296_301494527110890_8637048197098766336_n.png
-   43419296_301494527110890_8637048197098766336_n.png
-   Art Clubbers
-   London,
-   United Kingdom
-   07528872291 hello@artclubbers.com
-   Hours
-   Mon 9am - 5pm
-   Tue 9am - 5pm
-   Wed 9am - 5pm
-   Thu 9am - 5pm
-   Fri 9am - 5pm
+About This Page
+
+   This page was written by Marie Gardiner. Marie is a writer, author, and
+   photographer. It was edited by Andrew Blackman. Andrew is a freelance
+   writer and editor, and is a copy editor for Envato Tuts+.
+   Types of Video
+   Marie Gardiner By Marie Gardiner
+   Like
+
+   One subscription. Unlimited downloads of assets. Full stack of AI
+   [ai_icon-48d355745542bc2efdc6.png] tools.
+   Find everything from photos to fonts, and templates to so much more.
+   (BUTTON) Start creating
+   [AI_LandingPage_FooterBanner_Mobile-7b931bcdc5fe09dfb374.png]
+   [AI_LandingPage_FooterBanner_Tablet-cfcf92cb18b21ec3b0a5.png]
+   [AI_LandingPage_FooterBanner_Desktop-97f02583fc44f999cffb.png]
+
+   Unlimited Downloads
+   From $16.50/month
+   Get access to over one million creative assets on Envato.
+   Over 9 Million Digital Assets
+   Everything you need for your next creative project.
+   Create Beautiful Logos, Designs
+   & Mockups in Seconds
+   Design like a professional without Photoshop.
+   Join the Community
+   Share ideas. Host meetups. Lead discussions. Collaborate.
+
+   envato-tuts+
+   DiscoverAbout EnvatoOur Pricing & PlansStock VideoVideo
+   TemplatesRoyalty-Free MusicStock PhotosFontsPopular Searches
+   License & User TermsLicense TermsTerms & ConditionsPrivacy
+   PolicyAcceptable Use PolicyFair Use PolicyCookiesCookie SettingsDo not
+   sell or share my personal information
+   ResourcesDiscover Tuts+Video & MusicDesignMarketingWeb DesignExplore
+   Blog
+   HelpHelp CenterBecome an Affiliate
+   About UsWho We AreOur ProductsOur PurposeJoin Our TeamCompany Blog
+   AuthorsBecome an AuthorAuthor Sign InAuthor Help Center
+
+   Envato MarketEnvato Tuts+Placeit by EnvatoMixkitAll ProductsSitemap
+
+   © 2025 Envato Trademarks and brands are the property of their
+   respective owners.
+
+   [tr?id=912712196247539&ev=PageView&noscript=1]

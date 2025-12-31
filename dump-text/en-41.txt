@@ -1,187 +1,364 @@
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PWMWG4
+   IFRAME:
+   https://www.googletagmanager.com/ns.html?id=GTM-N6SJQ6J&gtm_auth=bW9egB
+   mtWhf5eHgtTbJiLA&gtm_preview=env-2&gtm_cookies_win=x
 
-   #JSON oEmbed (JSON) oEmbed (XML)
+   Skip to main content
+     *
+     *
+          + (BUTTON) Books
+          + Back
+          + Fiction
+               o Classics
+               o Crime and Thriller
+               o Historical Fiction
+               o Literary Fiction
+               o Poetry
+               o Romance
+               o Science Fiction and Fantasy
+          + Non-fiction
+               o Biography
+               o Business
+               o History and Politics
+               o Science and Nature
+               o True Crime
+               o Wellbeing and Self-help
+          + Children
+               o Books for Babies and Toddlers
+               o Books for Ages 3 to 5
+               o Books for Ages 6-8
+               o Books for Ages 9-12
+               o Children's Classics
+               o Children's Poems
+          + Young Adult
+               o Dystopian
+               o Friendship
+               o Love and Romance
+               o Science Fiction & Fantasy
+               o Modern Fiction
+          + Audiobooks
+               o Fiction Audiobooks
+               o Non-fiction Audiobooks
+               o Children's Audiobooks
+          +
+          + Hear more from Pan Macmillan
+          +
+               o Facebook Facebook
+               o Instagram Instagram
+               o TikTok TikTok
+               o YouTube YouTube
+     * (BUTTON) Authors & Illustrators
+
+     * Back
+     * Filter by Surname A - Z View Featured Authors
+         1. a
+         2. b
+         3. c
+         4. d
+         5. e
+         6. f
+         7. g
+         8. h
+         9. i
+        10. j
+        11. k
+        12. l
+        13. m
+        14. n
+        15. o
+        16. p
+        17. q
+        18. r
+        19. s
+        20. t
+        21. u
+        22. v
+        23. w
+        24. x
+        25. y
+        26. z
+
+     (BUTTON) Articles
+     * Back
+     * Explore articles by genre
+          + Books for Children
+          + Classics
+          + Crime & Thriller
+          + Fiction
+          + General
+          + History
+          + Lifestyle & Wellbeing
+          + Literary
+          + Science Fiction & Fantasy
+          + Young Adult
+       Don't Miss
+          + Picador Collection
+     * Latest
+          + The best self-care and self-help books to read right now
+          + 28 best mental health books to read in 2026
+          + Cynthia Erivo and Leah Williamson recognised in King’s New
+            Year Honours List
+     *
+     * Hear more from Pan Macmillan
+     *
+          + Facebook Facebook
+          + Instagram Instagram
+          + TikTok TikTok
+          + YouTube YouTube
+
+     (BUTTON) About Us
+     * Back
+     * About Us
+          + Our story
+          + Booksellers
+          + Careers
+          + Leadership team
+          + News
+          + Social Impact
+          + Contact us
+     * Imprints
+          + Bluebird
+          + Campbell
+          + Harriman House
+          + Kingfisher
+          + Macmillan
+          + Macmillan Business
+          + Macmillan Children's Books
+          + Macmillan Collector's Library
+          + Mantle
+          + One Boat
+          + Pan
+          + Picador
+          + Tor
+          + Two Hoots
+     *
+     * Hear more from Pan Macmillan
+     *
+          + Facebook Facebook
+          + Instagram Instagram
+          + TikTok TikTok
+          + YouTube YouTube
+
+
+
+   Hear more from Pan Macmillan
+
+     * Facebook Facebook
+     * Instagram Instagram
+     * TikTok TikTok
+     * YouTube YouTube
+
+
 
    (BUTTON)
+   ____________________ Search
 
-     * Current Issue
-     * Features
-     * Interviews
-     * Reviews
-     * Comment
-     * News
-     * Four things to see
-     * Art Diary
+     (BUTTON) Menu
 
-   (BUTTON)
-     * Current Issue
-     * Features
-     * Interviews
-     * Reviews
-     * Comment
-     * News
-     * Four things to see
-     * Art Diary
+    1.  Home
+    2.  Articles
+    3.  Literary
+    4.  ‘I am a woman, not an exhibit.’ The effects of the male gaze in
+       art, literature and today’s society
 
-   LOG IN SUBSCRIBE
+   02/03/2020
+   6 minute to read
+     * Share on Facebook
+     * Share on X (Twitter)
+     * (BUTTON) Share this article
 
-   (BUTTON)
-   ____________________
-   (BUTTON) Search
+‘I am a woman, not an exhibit.’ The effects of the male gaze in art,
+literature and today’s society
 
-Four things to see: The gaze
+   Journalist Naomi Frisby on Elizabeth Macneal's exploration of the male
+   gaze in The Doll Factory and the parallels that can be drawn with
+   today’s society.
 
-   By Apollo, 10 October 2025
-   Apollo
-     __________________________________________________________________
+   02/03/2020
 
-   10 October 2025
+   6 minute to read
 
-     * Four things to see
+     * Share on Facebook
+     * Share on X (Twitter)
+     * (BUTTON) Share this article
 
-   In the Loge. (1878), Mary Cassatt. Museum of Fine Arts, Boston
+   Suzanne Valadon's La Joie de Vivre
 
-   ‘Four things to see’ is sponsored by Bloomberg Connects, a free arts
-   and culture platform that provides access to museums, galleries and
-   cultural spaces around the world on demand. Explore now.
-   Each week we bring you four of the most interesting objects from the
-   world’s museums, galleries and art institutions, hand-picked to mark
-   significant moments in the calendar.
+   Elizabeth Macneal’s The Doll Factory is an intoxicating story of love,
+   art, obsession, and one woman’s struggle for freedom and agency in
+   Victorian London. Throughout this enthralling debut, Elizabeth brings
+   the prevalence and ramifications of the male gaze into the spotlight.
+   Here, journalist Naomi Frisby explores the parallels that can be drawn
+   with today’s society, and the implications this has for us all.
 
-   On 11 October 1965, Dorothea Lange, the documentary photographer who
-   captured the suffering and resilience of Americans during the Great
-   Depression, died at the age of 70. Lange’s legacy extends far beyond
-   individual images: she questioned who holds the power to look and who
-   gets looked at, making clearer than ever that photography is capable of
-   both empowerment and exploitation. Her work raised questions about
-   photographers’ responsibility and subjects’ agency that are still
-   debated today.
+   ‘I am a woman, not an exhibit.’ – Iris Whittle
 
-   The concept of ‘the gaze’ has become central to contemporary art
-   criticism, and denotes far more than the act of observation. It
-   concerns power dynamics between viewer and viewed, the politics of
-   representation and the complex relationship between artist, subject and
-   audience. From Orientalist fantasies that reduce cultures to ‘exotic’
-   spectacle, to subversive works that challenge long-held perspectives,
-   art has long made us consider the ethical implications of looking. This
-   week we examine four works that illuminate different aspects of the
-   gaze, each revealing how the act of seeing is never neutral but always
-   charged with desire and power.
-   La danse de l’Almée (19th century), Félix Ziem. Musée des Beaux-Arts
-   Jules Chéret, Nice; gift of Ursule Ziem. © Ville de Nice
+   In 1975, film critic Laura Mulvey coined the term ‘the male gaze’. It
+   refers to the presentation of women in visual arts and literature from
+   a male, heterosexual perspective where women are depicted as sexual
+   objects for the pleasure of the male viewer. Men have agency; women are
+   passive and dehumanised.
 
-   La danse de l’Almée (19th century), Félix Ziem
-   Musée des Beaux-Arts Jules Chéret, Nice
+    The first time ‘Starey’ Silas Reed and Louis Frost, the central male
+   characters in The Doll Factory, encounter the novel’s protagonist, Iris
+   Whittle, the emphasis is on them looking at her. Silas, the proprietor
+   of a shop of curiosities, notices Iris on the way to The Great
+   Exhibition. He sees her height, her red hair, her womanliness. Iris
+   reminds him of Flick, his childhood friend, and this alone is enough
+   for him to believe that he and Iris have a connection, ‘an invisible
+   cord which united them’.
 
-   Ziem’s sensuous depiction of a dancing almeh is a textbook example of
-   Orientalist fantasy. The painter offers a stolen glimpse into a world
-   usually hidden from men, as well as the architectural splendour of
-   Constantinople. This romanticised vision obscures reality: almehs were
-   in reality sophisticated entertainers, healers and teachers, respected
-   for their intellectual as well as physical abilities. Ziem’s painting
-   reveals more about European fantasies of ‘the East’ than about its
-   actual inhabitants, demonstrating how certain gazes can reduce complex
-   cultures to consumable spectacle. Click here to find out more via
-   Bloomberg Connects.
-   Portrait (Futago) (1988), Yasumasa Morimura. Carnegie Museum of Art,
-   Pittsburgh. © Yasumasa Morimura
+    Louis, a fictional member of the Pre-Raphaelite Brotherhood, is out in
+   London with Dante Gabriel Rosetti and John Everett Millais looking for
+   ‘stunners’, the term the PRB assigned to the women who became their
+   models. When Louis complains he cannot find anyone for his latest
+   painting, The Imprisonment of Gugimar’s Queen, Silas, desperate to
+   ingratiate himself with these men, tells them about Iris. They visit
+   the shop where Iris is employed to paint dolls and stare at her through
+   the window.
 
-   Portrait (Futago) (1988), Yasumasa Morimura
-   Carnegie Museum of Art, Pittsburgh
+    By linking Silas and Louis, Elizabeth Macneal makes a direct
+   correlation between the male gaze in art and the male gaze in society.
+   The legacy of the PRB is one of red-haired, pale-skinned, long-necked
+   women posed as courtly lovers in ancient, medieval or Shakespearian
+   tales. The women connected to the movement are remembered as models,
+   despite several of them – including Elizabeth Siddal – being painters
+   in their own right. Laura Mulvey also made this connection. She
+   described the male gaze as a social construct, emphasising that if
+   women are seen as objects to be valued for their beauty, physique and
+   sex appeal in art, they will also be seen as such in life.
 
-   Morimura’s provocative recreation of Manet’s Olympia creates a hall of
-   mirrors that challenges our assumptions about artistic authority and
-   cultural ownership. By inserting his own body into this canonical
-   Western masterpiece – itself influenced by the flat perspective of
-   Japanese ukiyo-e – the artist exposes the circular nature of cultural
-   appropriation while subverting the gender and racial hierarchies
-   embedded in Manet’s painting. The work forces viewers to confront their
-   own expectations and biases, making the artwork’s primary subject the
-   act of looking itself. Click here to find out more.
-   In the Loge (1878), Mary Cassatt. Museum of Fine Arts, Boston
+    The male gaze and the idea that men are entitled to women’s bodies
+   remain threaded throughout society. Only 30% of the art housed in the
+   Tate group of galleries is by women.  Female characters made up just
+   35% of speaking roles in the highest grossing films of 2018 - none of
+   which had a female director. Women are more likely to read an equal
+   number of books by male and female writers, while men predominantly
+   read books by other men. As long as female artists aren’t considered
+   equal to male artists, aren’t allowed to take up an equal amount of
+   space, aren’t heard, women will continue to be viewed through the eyes
+   of men who’ve fashioned them via their desires. This has serious
+   repercussions: from street harassment - in the form of comments,
+   gestures, whistling, following and touching - to assault and rape, men
+   take their cues from the portrayal of women in art and literature.
 
-   In the Loge (1878), Mary Cassatt
-   Museum of Fine Arts, Boston
+    Silas’ obsession with Iris builds throughout The Doll Factory. Through
+   his watching, he creates an idealised picture of a woman who will meet
+   his every whim. His Iris responds with adoration. In reality, she
+   barely remembers him.
 
-   As one of only three women in the Impressionists’ inner circle along
-   with Berthe Morisot and Marie Bracquemond, Cassatt brought an unusual
-   perspective to the group’s favoured subject of spectatorship. Here she
-   presents a woman who actively participates in the ‘game of gazes’
-   rather than serving as passive spectacle. The foregrounded figure looks
-   on with confident directness while a male observer lurks in the
-   background, his gaze registering as secondary to hers. Cassatt’s bold
-   composition is an elegant example of how women artists could subtly
-   challenge patriarchal conventions of looking. Click here to discover
-   more.
-   Patient Admission, US Naval Hospital Ship Mercy, Vietnam (2010) by
-   An-My Lê, from her series Events Ashore (2005–14). Queensland Art
-   Gallery | Gallery of Modern Art, Brisbane. © An-My Lê
+    Macneal chooses an alternate route for Louis. When he approaches her
+   to be his model, Iris is unimpressed with his insistence that ‘You must
+   be my Queen’, wanting more than to be immortalised and admired. As the
+   novel progresses, Louis begins to see Iris in a different way; his
+   understanding of her as a person changes the focus of his painting and
+   his idea of love.
 
-   Patient Admission, US Naval Hospital Ship Mercy, Vietnam (2010), from
-   the Events Ashore series (2005–14) by An-My Lê
-   Queensland Art Gallery | Gallery of Modern Art, Brisbane
+    But the real triumph of The Doll Factory is Iris. The story begins
+   with her painting a self-portrait in secret, the act of which provides
+   her with a sense of control over her own body. When she agrees to model
+   for Louis, she insists she will only do so if Louis teaches her to
+   paint. Iris has agency which she refuses to relinquish. She is
+   ambitious and ‘will not be afraid to take up space’.
 
-   Lê’s photograph captures a moment of cultural encounter aboard the USS
-   Mercy, where a Buddhist monk and a US naval officer sit on either side
-   of a steel column that seems to represent the barrier between their
-   worlds. Both subjects appear acutely conscious of the camera’s
-   presence, which lends the image its tension. The artist’s Vietnamese
-   heritage adds nuance to this scene of American military presence in
-   Southeast Asia, creating a work that makes us consider how cultural
-   difference might be represented without reproducing certain power
-   dynamics. Click here to learn more.
+    There is hope in current society too. Social media movements such as
+   #EverydaySexism and #MeToo have amplified women’s voices about the
+   effects of the male gaze, while #AskHerMore and #ReadWomen highlighted
+   women’s contributions to visual arts and literature.
 
-   QR code to download Bloomberg Connects app
+    This year, the women associated with the PRB will finally have their
+   agency recognised too. The work of twelve artists, including Elizabeth
+   Siddal, Joanne Wells and Marie Spartali Stillman, is to be exhibited at
+   the National Portrait Gallery under the title Pre-Raphaelite Sisters.
+   They will take up space and begin to shift the emphasis from being
+   admired for their looks to being credited for their talent. Iris’ words
+   could act as the exhibition’s subtitle: ‘I’m not a piece of canvas -
+   I’m a real woman.’
 
-   ‘Four things to see’ is sponsored by Bloomberg Connects, a free arts
-   and culture platform that provides access to museums, galleries and
-   cultural spaces around the world on demand. Explore now.
+    In this interview Elizabeth Macneal discusses her inspiration for The
+   Doll Factory and the women of the pre-Raphaelite movement:
 
-Related Articles
+   IFRAME:
+   https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/track
+   s/602787054&amp;color=ff5500
 
-   The Somerset levels at dusk (1998), Don McCullin. Courtesy the artist
-   and Hauser & Wirth; © Don McCullin
+   In this episode of Book Break, Emma tells us more about Silas's
+   dangerous obsession in The Doll Factory, and recommends more books
+   about obsession.
 
-‘I’ve earned my reputation out of other people’s downfall’ – an interview
-with Don McCullin
+The Doll Factory
 
-   Anti-racism sit-down protest, Bethnal Green, London, 1978.
+by Elizabeth Macneal
 
-The photographers who wanted their subjects to be heard as well as seen
+   Book cover for The Doll Factory
+   Buy the book
 
-   Christ and St Mary Magdalen at the Tomb (detail; 1636), Rembrandt van
-   Rijn.
+   In London, 1850, against the backdrop of the Great Exhibition, Iris
+   meets two men who will change her life forever. Her introduction to
+   pre-Raphaelite artist Louis introduces her to a world of art and love,
+   while a chance meeting with Silas, a collector of the strange and
+   beautiful, triggers a dangerous obsession . . .
+   Buy the book
 
-‘The spectator should disappear into the works’ – an interview with Peter
-Suschitzky
+You may also like
 
-Most Popular
+     * Article background
 
-    1. Marilyn Monroe’s British cousins
-    2. Daft Punk is playing at UNESCO’s house
-    3. Films about art and artists for 2026
-    4. Painting nudes: an age-old problem
-    5. The must-see museum openings in 2026
+10 weird facts about the Pre-Raphaelite Brotherhood
+     * Article background
 
-     * About Apollo
-     * Apollo Awards 2025
-     * Digital Archive
-     * Jobs
-     * Advertise with us
+Lee Miller and the beginnings of the Surrealist movement
+     * Article background
+
+The best literary fiction books to read right now
+
+   Find us on Facebook Instagram TikTok YouTube
+
+   (BUTTON) Pan Macmillan
+     * About Pan Macmillan
+     * MPIL Gender Pay Report
+     * Diversity, Equity and Inclusion
+     * Macmillan Code of Conduct
+     * Macmillan Code of Ethics for Business Partners
+     * Pan Macmillan Sustainability and Sourcing Policy
+     * Macmillan's Modern Slavery Act Statement
+     * Holtzbrinck UK Tax Strategy Publication
+     * Children’s Books Permissions
+     * Pan Macmillan Accessibility Statement
+     * General Product Safety Regulation
+
+   (BUTTON) Resources
      * Contact us
-     * FAQs
+     * Careers
+     * Piracy Report
+     * Catalogues
+     * Activity Sheets
+     * UK & ROI Booksellers
+     * International Booksellers
+     * Fraud alert
 
-     * Privacy
+   (BUTTON) International
+     * Pan Macmillan Australia
+     * Pan Macmillan South Africa
+     * Pan Macmillan India
+
+   (BUTTON) Imprints
+     * Bluebird
+     * Campbell
+     * Kingfisher
+     * Harriman House
+     * Macmillan
+     * Macmillan Business
+     * Macmillan Children's Books
+     * Macmillan Collector's Library
+     * Mantle
+     * One Boat
+     * Pan
+     * Picador
+     * Tor
+     * Two Hoots
+
+   (BUTTON) Cookie Settings
+     * Cookies
+     * Privacy Notice
      * Terms and Conditions
-
-     *
-     *
-     *
-     *
-
-   Since 1925
-
-   22 Old Queen Street
-   London, SW1H 9HP
-
-   © 2025 Apollo Magazine
+     * © Pan Macmillan 2025

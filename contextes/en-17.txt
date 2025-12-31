@@ -1,66 +1,78 @@
+     * Search in PubMed
+     * View in NLM Catalog
+     * Add to search
 
-   (BUTTON) (BUTTON)
-   (BUTTON) Subscribe (BUTTON) Sign in
+‘The medical gaze’: Foucault, anthropology and contemporary psychiatry in
+Ireland
 
-Putting an End to the Male vs. Female Gaze
-
-   Jennifer Rabin's avatar
-   Jennifer Rabin
-   Jan 11, 2022
---
-   (BUTTON)
-   7
-   (BUTTON) (BUTTON)
-
-   Much has been written about the male vs. the female gaze in art—most
-   commonly in film, photography, literature, and figurative visual art—as
-   a framework to understand the way an artist depicts another person as
-   well as the effect that that depiction has on the viewer. Historically,
-   we consider the male gaze as one that empowers men while objectifying
-   and subjugating women for men’s pleasure. The female gaze casts women
-   more frequently as subjects (instead of objects) and, in cases when
-   women do appear as objects of attention or desire, it imbues them with
-   agency and autonomy.
-
-   But there’s a problem with this framework: it’s tied to the sex of the
-   artist/storyteller. For example, I’ve read discussions about the female
-   gaze that speak of women storytellers subverting the male gaze by
-   objectifying the men in their stories as a way of taking back or
-   flipping the narrative. I would argue that a simple role
-   reversal—putting women behind the lens to subjugate men—does not change
-   the nature of the gaze. Objectification, of anyone, is a quality of the
-   male gaze.
-
-   To go deeper into this conversation, we need to be thoughtful about the
-   language we use. The terms “male” and “female” don’t actually work
-   because they relate to limited understandings of biological sex, which
---
-   When we speak about the masculine and the feminine, we are speaking of
-   universal forces that oppose and balance each other—much like yin and
-   yang or Shiva and Shakti—and which exist in different iterations in
-   cultures and mythologies throughout the world. The idea of a “male” or
-   a “female” gaze propagates a false binary when, in fact, most artists
-   use a mixture of masculine and feminine approaches to art making.
-   (BUTTON) (BUTTON)
-
-   By embracing a framework that identifies masculine and feminine
---
-   interested in—or began to understand—the ways that the masculine and
-   the feminine show up in the process of creating work.
-
-   The film itself—which you should watch it if you’re so inclined—is a
-   revelation of the feminine gaze. The direction portrays each female
-   character as both subject and object, and all are presented in a close,
-   intimate, subjective style that is searching and elliptical and without
-   straight answers.
+   Aoife K O’Callaghan
 
 --
-   (BUTTON)
+   PMCID: PMC9308586  PMID: 34374939
 
-   I am reminded of an audition process a conductor friend of mine once
-   explained. The musician plays their instrument and chosen piece behind
-   a screen. Hence no gaze and no gender-based decision on whom to hire.
-   It becomes all about the music (art).
-   Expand full comment
-   Reply
-   Share
+Abstract
+
+   Michel Foucault developed the concept of ‘the medical gaze’, describing
+   how doctors fit a patient’s story into a ‘biomedical paradigm,
+   filtering out what is deemed as irrelevant material’ (Misselbrook,
+   2013). Doctors are perceived within this model to focus on selecting
+   the biomedical elements of patients’ problems only, filtering out all
+--
+   Keywords: Foucault, Medical anthropology, Psychiatry
+
+Introduction
+
+   What is the medical gaze? Michel Foucault developed the concept of ‘the
+   medical gaze’, describing how doctors fit a patient’s story into a
+   ‘biomedical paradigm, filtering out what is deemed as irrelevant
+   material’ [1]. Doctors are perceived within this model to focus on
+   selecting the biomedical elements of patients’ problems, but this paper
+   argues that in the subspecialty of psychiatry, this is not the case,
+--
+   purely objective science [6]. He described the move from
+   person-orientated to object-orientated to laboratory medicine, which he
+   described in his work The disappearance of the sick-man from medical
+   cosmology, 1770–1870 [8]. This corresponds with the emergence of
+   Foucault’s described clinical gaze, which no longer views the patient
+   as a whole but instead as a series of disconnected parts.
+
+Medical systems and socio-cultural contexts
+
+--
+   ‘medicine deals with two kinds of reality, “scientific” and “ordinary”;
+   both a biophysical and human science’ [7]. Medical systems do exist in
+   socio-cultural contexts, and ‘the experience of illness is a cultural
+   or symbolic reality’ [7]. Kleinman argued that the narrow traditional
+   medical gaze exists in a system which is ‘an ordered, coherent body of
+   ideas, values, and practices embedded in a given cultural context from
+   which it derives its signification’ [7]. While there is an assumption
+   of power on the behalf of the clinician, ‘the acts of ordering, naming,
+   interpreting, and offering therapy for illness are aspects of symbolic
+--
+   Kleinman argued that there are ‘systematic attempts to restrict
+   medicine’s symbolic reality to a single discipline, psychiatry,
+   peripheral to the central core of medical research interests and
+   practices’ [7]. Kleinmann recognised that psychiatry retains the wider
+   biopsychosocial gaze that is missing in Foucault’s medical gaze,
+   despite its narrow diagnostic classificatory systems.
+
+Patient narratives of illness
+
+   The medical model and its use in the medical gaze ties in with
+   rationalism, black-and-white thinking and beliefs within Western
+   medicine. Byron J. Good, a medical anthropologist, defined the primary
+   role of clinical medicine as ‘the interpretation of the patient’s
+   symptoms by relating them to their functional and structural sources in
+--
+   society which is becoming more diverse.
+
+Conclusion
+
+   Foucault’s concept of the medical gaze is not relevant to the modern
+   psychiatric clinician. The power he speaks of exists only in the
+   initial period of a patients’ illnesses as a treatment tool. While the
+   medical gaze ties clinicians to the use of narrow diagnostic criteria
+   in the treatment of patients, focus should instead be on individualised
+   treatment of the suffering and distress of every individual. It is both
+   increasingly important and difficult for psychiatry services to retain
+   this open perspective to treatment of suffering and distress in a

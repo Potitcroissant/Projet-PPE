@@ -668,6 +668,7 @@ External links
      * Beauty
           + Feminine
           + Masculine
+     * Cool
      * Camp
      * Comedy
      * Creativity
@@ -696,6 +697,7 @@ External links
      * Life imitating art
      * Magnificence
      * Mimesis
+     * Morality
      * Perception
      * Picturesque
      * Quality
@@ -736,17 +738,24 @@ External links
 
    Related
 
-     * Aestheticization of politics
      * Applied aesthetics
      * Arts criticism
           + Art criticism
+     * The arts and politics
+          + Aestheticization of politics
+          + Artistic freedom
      * Axiology
+     * Economics of the arts and literature
+          + Artistic patronage
+          + Cultural economics
      * Evolutionary aesthetics
      * Mathematical beauty
      * Neuroesthetics
      * Patterns in nature
      * Philosophy of design
      * Philosophy of film
+     * Philosophy of language
+          + Semantics
      * Philosophy of music
      * Psychology of art
      * Religious art

@@ -1,669 +1,980 @@
-   #alternate alternate
+   #RSS Feed
 
-   home
-   Find an Eye Doctor
-   ____________________ search
-   menu
-     * back Eye Conditions
-          + Amblyopia
-          + Astigmatism
-          + Blindness & Low Vision
-          + Cataracts
-          + Color Blindness
-          + Diabetic Retinopathy
-          + Dry Eye
-          + Eye Floaters
-          + Glaucoma
-          + Heterochromia
-          + Hyperopia
-          + Macular Degeneration
-          + Myopia
-          + Nystagmus
-          + Ocular Migraine
-          + Presbyopia
-          + Ptosis
-          + Strabismus (Eye Misalignment): Articles on Causes and
-            Treatments
-          + Retinal Detachment
-          + More Conditions
-          + VIEW ALL viewmore
-     * back Related Medical Conditions
-          + Cholesterol
-          + Coronavirus
-          + Diabetes
-          + VIEW ALL viewmore
-     * back Computer Vision Syndrome
-          + Blue Light
-          + Digital Eye Strain
-          + VIEW ALL viewmore
-     * back Infections & Allergies
-          + Allergies
-          + Cellulitis
-          + Conjunctivitis
-          + Stye
-          + VIEW ALL viewmore
-     * back Eye Injuries
-          + VIEW ALL viewmore
-     * back Symptoms
-          + Blurry Vision
-          + Burning Eyes
-          + Dilated Pupils
-          + Diplopia
-          + Eye Discharge
-          + Eye Pain
-          + Eye Twitching
-          + Headache
-          + Red Eyes
-          + Swollen Eyelids
-          + VIEW ALL viewmore
-     * VIEW ALL viewmore
+   0
 
-     * back Cosmetic
-          + VIEW ALL viewmore
-     * back Eye Anatomy
-          + Eye Color
-          + Eye Structure
-          + VIEW ALL viewmore
-     * back Eye Doctors
-          + VIEW ALL viewmore
-     * back Eye Drops
-          + VIEW ALL viewmore
-     * back Eye Exam
-          + Cost of Eye Exams
-          + Types of Eye Exams
-          + VIEW ALL viewmore
-     * back Vision Health
-          + Alcohol, Nicotine, Drug Use
-          + Nutrition
-          + Sports
-          + UV protection
-          + VIEW ALL viewmore
-     * back Safety
-          + VIEW ALL viewmore
-     * back Eye Tests
-          + VIEW ALL viewmore
-     * back Parents & Kids
-          + VIEW ALL viewmore
-     * back Pets & Animals
-          + VIEW ALL viewmore
-     * back Road Safety
-          + VIEW ALL viewmore
-     * VIEW ALL viewmore
+   Skip to Content
+   its(t)artswithadam
 
-     * back Drugs & Medications
-          + VIEW ALL viewmore
-     * back Remedies
-          + VIEW ALL viewmore
-     * back Vision Therapy
-          + VIEW ALL viewmore
-     * back Vision Surgery
-          + Cataract Surgery
-          + Corneal Surgery
-          + Cosmetic Surgery
-          + Glaucoma Surgery
-          + LASIK
-          + Other Surgery
-          + VIEW ALL viewmore
-     * VIEW ALL viewmore
-
-     * back Contact Lenses
-          + Contacts for Conditions
-          + Fit and Comfort
-          + Types of Contacts
-          + Buying Contact Lenses
-          + How to Use
-          + Contact Lens Solution
-          + VIEW ALL viewmore
-     * back Glasses
-          + Cost
-          + Facial Fit
-          + Frames & Styles
-          + Lenses
-          + Types of Glasses
-          + Buying Glasses
-          + Trends
-          + VIEW ALL viewmore
-     * back Sunglasses
-          + Cost
-          + Facial Fit
-          + Frames & Styles
-          + Lenses
-          + Types of Glasses
-          + Buying Sunglasses
-          + Trends
-          + VIEW ALL viewmore
-     * back Specialty
-          + VIEW ALL viewmore
-     * back Maintenance
-          + VIEW ALL viewmore
-     * VIEW ALL viewmore
-
-     * VIEW ALL viewmore
-
-     * back FSA/HSA
-          + VIEW ALL viewmore
-     * back Medicare/Medicaid
-          + VIEW ALL viewmore
-     * back Networks & Plans
-          + VIEW ALL viewmore
-     * back Providers
-          + VIEW ALL viewmore
-     * back Coverage & Benefits
-          + VIEW ALL viewmore
-     * VIEW ALL viewmore
-
-     * back Human Interest
-          + VIEW ALL viewmore
-     * back Infographics
-          + VIEW ALL viewmore
-     * back News & Current Events
-          + VIEW ALL viewmore
-     * back Newsletters
-          + VIEW ALL viewmore
-     * back Podcasts
-          + VIEW ALL viewmore
-     * back Quizzes
-          + VIEW ALL viewmore
-     * back Sponsored
-          + VIEW ALL viewmore
-     * back Videos
-          + VIEW ALL viewmore
-     * VIEW ALL viewmore
-
-     * back Conditions & Diseases
-     * back Eye Care
-     * back Treatments & Surgery
-     * back Eyewear
-     * back MedTech
-     * back Vision Insurance
-     * back Resources
-
-   Recent research
-   cta-image
-   Ready for an eye exam?
-
-   Explore doctors in your area.
-   (BUTTON) Find an Eye Doctor
-   Find an Eye Doctor
-
-   HomeResourcesHuman Interest
-
-Eye movement and lying: Genuine or junk science?
-
-   Page updated on October 16, 2025 - Page published on January 13, 2022
-   Page updated on October 16, 2025 -
-   Page published on January 13, 2022
-
-   home
-   Find an Eye Doctor
-   ____________________ search
-   menu
-     * back Eye Conditions
-          + Amblyopia
-          + Astigmatism
-          + Blindness & Low Vision
-          + Cataracts
-          + Color Blindness
-          + Diabetic Retinopathy
-          + Dry Eye
-          + Eye Floaters
-          + Glaucoma
-          + Heterochromia
-          + Hyperopia
-          + Macular Degeneration
-          + Myopia
-          + Nystagmus
-          + Ocular Migraine
-          + Presbyopia
-          + Ptosis
-          + Strabismus (Eye Misalignment): Articles on Causes and
-            Treatments
-          + Retinal Detachment
-          + More Conditions
-          + VIEW ALL viewmore
-     * back Related Medical Conditions
-          + Cholesterol
-          + Coronavirus
-          + Diabetes
-          + VIEW ALL viewmore
-     * back Computer Vision Syndrome
-          + Blue Light
-          + Digital Eye Strain
-          + VIEW ALL viewmore
-     * back Infections & Allergies
-          + Allergies
-          + Cellulitis
-          + Conjunctivitis
-          + Stye
-          + VIEW ALL viewmore
-     * back Eye Injuries
-          + VIEW ALL viewmore
-     * back Symptoms
-          + Blurry Vision
-          + Burning Eyes
-          + Dilated Pupils
-          + Diplopia
-          + Eye Discharge
-          + Eye Pain
-          + Eye Twitching
-          + Headache
-          + Red Eyes
-          + Swollen Eyelids
-          + VIEW ALL viewmore
-     * VIEW ALL viewmore
-
-     * back Cosmetic
-          + VIEW ALL viewmore
-     * back Eye Anatomy
-          + Eye Color
-          + Eye Structure
-          + VIEW ALL viewmore
-     * back Eye Doctors
-          + VIEW ALL viewmore
-     * back Eye Drops
-          + VIEW ALL viewmore
-     * back Eye Exam
-          + Cost of Eye Exams
-          + Types of Eye Exams
-          + VIEW ALL viewmore
-     * back Vision Health
-          + Alcohol, Nicotine, Drug Use
-          + Nutrition
-          + Sports
-          + UV protection
-          + VIEW ALL viewmore
-     * back Safety
-          + VIEW ALL viewmore
-     * back Eye Tests
-          + VIEW ALL viewmore
-     * back Parents & Kids
-          + VIEW ALL viewmore
-     * back Pets & Animals
-          + VIEW ALL viewmore
-     * back Road Safety
-          + VIEW ALL viewmore
-     * VIEW ALL viewmore
-
-     * back Drugs & Medications
-          + VIEW ALL viewmore
-     * back Remedies
-          + VIEW ALL viewmore
-     * back Vision Therapy
-          + VIEW ALL viewmore
-     * back Vision Surgery
-          + Cataract Surgery
-          + Corneal Surgery
-          + Cosmetic Surgery
-          + Glaucoma Surgery
-          + LASIK
-          + Other Surgery
-          + VIEW ALL viewmore
-     * VIEW ALL viewmore
-
-     * back Contact Lenses
-          + Contacts for Conditions
-          + Fit and Comfort
-          + Types of Contacts
-          + Buying Contact Lenses
-          + How to Use
-          + Contact Lens Solution
-          + VIEW ALL viewmore
-     * back Glasses
-          + Cost
-          + Facial Fit
-          + Frames & Styles
-          + Lenses
-          + Types of Glasses
-          + Buying Glasses
-          + Trends
-          + VIEW ALL viewmore
-     * back Sunglasses
-          + Cost
-          + Facial Fit
-          + Frames & Styles
-          + Lenses
-          + Types of Glasses
-          + Buying Sunglasses
-          + Trends
-          + VIEW ALL viewmore
-     * back Specialty
-          + VIEW ALL viewmore
-     * back Maintenance
-          + VIEW ALL viewmore
-     * VIEW ALL viewmore
-
-     * VIEW ALL viewmore
-
-     * back FSA/HSA
-          + VIEW ALL viewmore
-     * back Medicare/Medicaid
-          + VIEW ALL viewmore
-     * back Networks & Plans
-          + VIEW ALL viewmore
-     * back Providers
-          + VIEW ALL viewmore
-     * back Coverage & Benefits
-          + VIEW ALL viewmore
-     * VIEW ALL viewmore
-
-     * back Human Interest
-          + VIEW ALL viewmore
-     * back Infographics
-          + VIEW ALL viewmore
-     * back News & Current Events
-          + VIEW ALL viewmore
-     * back Newsletters
-          + VIEW ALL viewmore
-     * back Podcasts
-          + VIEW ALL viewmore
-     * back Quizzes
-          + VIEW ALL viewmore
-     * back Sponsored
-          + VIEW ALL viewmore
-     * back Videos
-          + VIEW ALL viewmore
-     * VIEW ALL viewmore
-
-     * back Conditions & Diseases
-     * back Eye Care
-     * back Treatments & Surgery
-     * back Eyewear
-     * back MedTech
-     * back Vision Insurance
-     * back Resources
-
-   Recent research
-   cta-image
-   Ready for an eye exam?
-
-   Explore doctors in your area.
-   (BUTTON) Find an Eye Doctor
-   Find an Eye Doctor
-
-   Eye movement and lying: Genuine or junk science?
-
-   By Autumn Sprabary
-
-   Don Henley once sang, “There ain’t no way to hide your lyin’ eyes.”
-
-   For years, communication experts believed that a person’s eye behavior
-   could tell whether they were lying. This idea has been the premise for
-   many movies and TV shows, which took the idea of “lying eyes” and made
-   it mainstream.
-
-   Since then, the validity of eye direction and lying has been called
-   into question. After studying the behaviors of honesty and deceit,
-   researchers believe that our understanding of lying eyes may be a lie
-   in itself.
-
-Eye direction and lying theory
-
-   Neuro Linguistic Programming (NLP) spawned the theory that eye
-   direction is related to telling lies vs. the truth. NLP is a system
-   developed in 1975 by Richard Bandler and John Grinder. The focus of NLP
-   was to understand how people’s personal experiences shape how they
-   process information.
-
-   The study of NLP inspired Bandler and Grinder to study eye positions
-   and information processing.
-
-   They claimed that a person who was pulling information from a memory
-   would look toward the top right corner of their visual field. This is
-   known as visual recall .
-
-   Someone who’s constructing an idea not from memory would look toward
-   the top left corner of their visual field. This is known as visual
-   construct .
-
-   Bandler and Grinder further hypothesized that when a person recalls a
-   sound, they would look laterally toward the right. This reaction is
-   known as verbal recall . If they were imagining a new sound, such as a
-   dog singing opera, they would look to the left. This reaction is called
-   verbal construct .
-
-   According to NLP, eye behaviors could label just about every aspect of
-   memory recall. Remembering how something feels (kinesthetic), or
-   processing inner dialogue (auditory digital) are also included.
-
-   The “right side” or “left side” is relative to the observer’s point of
-   view. The meaning behind each eye direction is reflective of a person
-   who is right handed. The rules would be the opposite for a left-handed
-   person.
-
-   Once these hypotheses were published, the public believed them and
-   spread the information. However, the accuracy of the statements weren’t
-   properly tested.
-
-The truth behind eye movement and lying
-
-   Three studies tested the reliability of Bandler and Grinder’s claim
-   about eye movement and truthfulness.
-
-   In the first study, right-handed participants were filmed both while
-   lying and telling the truth. Participants were aware that the study was
-   related to lying, but were not told that their eye movements would be
-   tracked.
-
-   While answering a series of questions, researchers tracked the number
-   of times a participant looked up and to the right, or up and to the
-   left. These movements were coded and compared to what NLP experts
-   hypothesized.
-
-   Study results did not support the hypotheses that upper right gaze
-   indicates lying. Nor that looking up and to the left indicates
-   truthfulness.
-
-   In the second experiment, 50 participants were split into two equal
-   groups. They were asked to watch the interviews recorded in the first
-   study. One group of participants was told about the NLP eye movement
-   theory and the other was not.
-
-   All participants marked whether they believed the subjects in the
-   videos were lying or telling the truth. They also indicated how
-   confident they were in their observation. Results showed no difference
-   between the accuracy or confidence of the two groups in their
-   assessment of the videos. These results provide no proof for NLP lie
-   detection claims.
-
-   In the final experiment, two independent raters watched videos of known
-   liars and truth tellers. Of all the videos viewed by the raters, there
-   were no instances of upper left or upper right gazes.
-
-   None of these studies provide any evidence that the NLP theory of eye
-   movement and lie detection are reliable or accurate.
-
-Nonverbal cues and lying
-
-   If you’re looking for surefire cues to rely on for pinpointing a liar,
-   you’ll likely end up disappointed. The more research that’s done on the
-   art of lying, the more experts realize that spotting a liar is tough,
-   and humans are particularly bad at finding them.
-
-   Scientific studies have been done to test how well police officers are
-   able to detect a truth versus a lie. Results found that the accuracy of
-   detecting when someone was being truthful was 67%. Detecting a lie had
-   an accuracy rate of only 44% — that’s less than chance.
-
-   Methods for gauging deceit haven’t improved over the years. The U.S.
-   Transportation Security Administration (TSA) uses a checklist to weed
-   out suspicious travelers going through airport security.
-
-   The behaviors on this checklist include:
-     * Whistling
-     * Averted gaze (avoiding eye contact)
-     * Excessive fidgeting or personal grooming
-     * Prolonged stare
-     * Rapid blinking
-     * Exaggerated yawning
-     * Complaining
-
-   Though TSA relies on these cues, they are not reliable and have been
-   debunked by researchers. Because what’s suspicious behavior to one
-   person may be normal behavior to another.
-
-   For example, avoiding eye contact is considered a sign of respect in
-   some cultures. So, while a TSA agent may view this behavior as
-   suspicious, it’s usually a cultural misunderstanding.
-
-   Approximately 3,700 complaints were filed against TSA within a two-year
-   and four-month period. The complaints alleged civil rights and civil
-   liberties violations related to passenger screenings. This further
-   proves that nonverbal cues are not a reliable or accurate indicator of
-   lying.
-
-   SEE RELATED: How important is eye contact to a child’s development?
-
-Verbal clues and lying
-
-   Nonverbal cues may not be a good way to spot a liar, but not all hope
-   is lost. Some verbal cues have proved to be more accurate for sniffing
-   out lies, but they’re still not ironclad evidence.
-
-   One hypothesis about verbal cues and lying is called the cognitive
-   hypothesis . It explains that the act of lying requires more brain
-   power than telling the truth. As a result, the liar’s behavior will be
-   affected.
-
-   This includes speech disturbances (lots of ums and uhs) caused by the
-   cognitive complexity of fabricating a lie. The more complex the lie,
-   the more the liar will hesitate or experience speech disturbances.
-
-   Another hypothesis is called the attempted control hypothesis . This
-   hypothesis says that a liar may be aware of the stereotypes or “signs”
-   of deceit. Because of this, they manage their speech, body language and
-   behavior to avoid suspicion.
-
-   Other verbal clues that may tip the scale toward falsehood include how
-   the person recalls certain events. Studies show that truth tellers
-   usually have a “tell them everything” strategy. Liars use a “keep it
-   simple” strategy, and provide very few details. They may also avoid
-   including themselves in the narrative.
-
-How to tell if someone is lying
-
-   When given the direct question of “is this person lying?” it can be
-   more difficult to trust your gut. However, analyzing details about a
-   person’s behavior can make your instinct a reliable source for lie
-   detection.
-
-   Dr. Bella DePaulo conducted a study in which participants were exposed
-   to various liars and truth tellers. The exposure included watching
-   videos, listening to audio clips, reading transcripts and face-to-face.
-
-   Participants were instructed to discern whether they thought the person
-   was lying or telling the truth. They were also asked non-direct
-   questions such as:
-     * How comfortable or uncomfortable did the person seem?
-     * How comfortable or suspicious did you feel with this person?
-
-   In nearly all instances of questioning, participants distinguished lies
-   from truths better when relying on their answers to the non-direct
-   questions.
-
-   So, if you’re trying to determine whether someone is lying to you,
-   relying on your intuition may be your best bet. Ask yourself smaller,
-   less direct questions about the encounter instead of the one big
-   question at hand.
-
-   Analyzing different details of the suspect, as well as how you felt
-   during the exchange, may help you uncover the truth you’re looking for.
-
-   READ NEXT : Eye behaviors of psychopaths
-
-   Sources
-
-   More Articles
-   red eyes in the photo
-
-   How to Fix the Red Eye Effect In Photos
-
-   Learn why your eyes look red in pictures but your pets' eyes glow, and
-   read tips to prevent and remove the red-eye effect in photos.
-   Thailand's blind athlete Kitsana Jorchuy runs with a guide at the track
-   and field event
-
-   Blind Athletes in the Paralympic and Olympic Games
-
-   Learn how visually impaired athletes qualify to compete in the
-   Paralympics, and whether they can perform in the Olympic games.
-   girl playing video games staring at the screen
-
-   Can Video Games Cause Health Problems?
-
-   Video games can be harmful to mental and physical health, but they can
-   also provide benefits. Learn more about the problems and the benefits.
-   woman spraying sunscreen on her face
-
-   Best Sunscreens That Won’t Burn Your Eyes
-
-   Have fun in the sun all summer long with these eye-friendly sunscreens.
-   looking at an ocean view through a rose colored glasses
-
-   Rose-Colored Glasses - All About Vision
-
-   Rose-colored glasses don’t just help us see the world in a more
-   favorable light. They also enhance vision and increase depth of field.
-   Eye monitoring, eye scan in virtual reality.
-
-   Understanding Eye Tracking Technology: How Does It Work?
-
-   Eye tracking technology is used to measure eye movement and pupil size,
-   revealing gaze points and visual interest. Learn how eye trackers work.
-   Large pupils
-
-   Psychopath Eyes: Behaviors That Point to Psychopathy
-
-   Research has found that certain eye behaviors are more common in
-   psychopaths. Learn what could be considered “psychopath eyes.”
-   Eye of providence on U.S. currency.
-
-   Eye Symbolism in Cultures: Meanings & Interpretations
-
-   Eye symbols have depicted good or evil. Discover the symbolism of eyes
-   across cultures, from the Eye of Providence to the Jewish evil eye.
-   illustration of animals reading children's books wearing glasses
-
-   16 Best Books About Wearing Glasses - All About Vision
-
-   Getting glasses can be a big change for a child of any age. These kids’
-   books about glasses can help turn the experience into an adventure.
-   closeup of a violet eye
-
-   What is Alexandria’s Genesis? - All About Vision
-
-   Alexandria’s genesis is a fictional disease said to cause purple eyes
-   and perfect vision.
-
-   aav-logo
-
-   All About Vision and AllAboutVision.com are registered trademarks
-   of Essilor Laboratories of America, Inc © 2000-2025 Essilor
-   Laboratories of America, Inc. The content on this site is for
-   informational purposes only. All About Vision does not provide medical
-   advice, diagnosis or treatment. Contact an eye doctor if you need
-   medical attention.
-
-   Hon Code
-
-   Select language:
-   English
-   Arabic
-   Chinese (Traditional)
-   English
-   French
-   German
-   Hindi
-   Indonesian
-   Italian
-   Japanese
-   Portuguese
-   Russian
-   Spanish
-   Thai
-   Turkish
-   Vietnamese
    About
-   Clinical Review
-   Contact Us
-   Terms of Use
-   Privacy Policy
+   Blog
+   Contact
+   (BUTTON) Open Menu Close Menu
+   its(t)artswithadam
+
+   About
+   Blog
+   Contact
+   (BUTTON) Open Menu Close Menu
+
+   About
+   Blog
+   Contact
+
+What is the ‘Gaze’ in Art?
+
+   Jan 31
+   Written By Adam Geczy
+
+   Most art and film enthusiasts have heard of the ‘male gaze’ and the
+   ‘colonial gaze’ and so on. These labels suggest that the gaze, way in
+   which we approach looking, is not innocent. It is caught up with a
+   whole set of presumptions and rules. These can boil down to what gender
+   we are, where we come from, what we know and what we expect.
+
+   One key thing to remember is that when it comes to art, gazing is
+   largely about power. It's rude to stare at a person for a long while
+   but we can stare at a work of art for as long as we want. But then we
+   need to consider the role and nature of the artist in his or her gaze
+   and how that effects of understanding of what is being represented.
+
+Introduction
+
+   To gaze is to look, specifically to look at which then means to look at
+   in a particular way? How does that particular way affect what we see?
+   When you’re hungry you’ll look at some delicious food in a different
+   way from when you’re no longer hungry. But then, can an artist
+   represent food in such a way that makes you feel hungry or remember
+   when you were? These are nuances of the gaze, but there are also some
+   delicate ideological concerns as well regarding race, nationality,
+   gender etc.
+
+   A brief look at the various key philosophical positions concerning the
+   gaze show that we seldom if at all just look. For our own part we bring
+   to the image as many assumptions and expectations as there are within
+   the artwork itself.
+
+   It is only by looking closely at this binary approach of imaging versus
+   gazing that we can begin to ask where the art object is located. For
+   what is seen is shaped by the viewer’s expectations, which are bound up
+   with an intricate combination of social mores; add to that subjective
+   expectations and the vicissitudes of feeling.
+
+   In the end the only answer is this: once the work of art ceases to
+   excite responses, no longer elicits our gaze, once it loses its
+   intrigue and the secret is uncovered, then as a object of contemplation
+   it is exists only as something dried out, inertly expended like a
+   filled-in crossword or a mastered computer game. The greatest works of
+   art continually pose alternatives to our habits of image formation, or
+   challenge the way we look at the world, or both.
+
+   A prime quality of looking at something that we know to be a work of
+   art is that we know that there is something more to what we are seeing.
+   When we see something, it is recognition, knowing.
+
+   When something is not formally recognized then it will be understood in
+   terms of similar qualities already seen. There is no such thing as an
+   innocent eye, nor is sight ever perfect. When art is successful it
+   compensates for the inadequacies of our sight, perception and knowledge
+   by rendering something visible in a way that is superior to mechanisms
+   available to us in everyday life.
+
+   Art has the capacity to displace what in everyday life is a limitation,
+   and to make things be seen as if shorn of what is habitual. Its
+   presentational clarity typically poses itself as a mystery. So, we are
+   back where we started: we have to look beyond what is before us.
+
+   The theories of looking with regard to art and society oscillate
+   between these two poles of either accounting for the inadequacy of
+   representation, or arguing that art at its finest exemplifies the
+   deeper sight of looking, vision, which strips away the world’s artifice
+   and gives us a deeper perception of the world that reveals itself to us
+   gradually, like a lesson.
+
+Prisoners of the cave
+
+   As introduced in the last chapter, Plato’s allegory of the cave makes
+   us prisoners of the inadequacy of our gaze. The famous passage is in
+   Book VII of the Republic:
+
+     Behold! Human beings living in an underground den; here they have
+     been from their childhood, and have their legs and necks chained so
+     they cannot move, and can only see before them, being prevented by
+     the chains from turning round their heads. Above and behind them a
+     fire is blazing at a distance […] and you will see, if you look, a
+     low wall built along the way, like the screen which marionette
+     players have in front of them, over which they show the puppets.
+
+   Condemned to see only shadows of the truth, Plato instructs us to
+   distrust everything we see, a distrust that defines Western vision,
+   which by nature distinguishes between different activities of seeing,
+   based on the degrees by which something calls for interpretation.
+
+   Linguistic and phenomenological philosophies of the twentieth century
+   have contested the validity of this distinction, since identifying
+   something is by nature interpretative, though perhaps not profoundly
+   so, and what we don’t identify or name we barely see, and it falls from
+   our consciousness and memory.
+
+The Kantian subject
+
+   While Kant retained the distinction between what he called
+   things-in-themselves (noumenon) and things-as-appearance (phenomenon),
+   he accounted for the incompleteness of our knowledge by arguing that we
+   are limited to seeing the world through the formal boundaries of space
+   and time.
+
+   How we see and what we choose to see are relative to these two
+   perimeters. Although we may be limited in our apprehension of the
+   world, we are nevertheless possessed of free will, and the sublime, the
+   experience of what exceeds our understanding, is abstract proof of
+   this.
+
+   Thus, the Kantian subject is no longer an object of understanding from
+   elsewhere (i.e. God), but his or her own object of understanding, a
+   free agent, capable of making independent decisions.
+
+   This independence opens a Pandora’s box that contains some of the
+   problems inherent in Modernity itself: political, social and artistic.
+   In the Romantics’ developments out of Kant (note again that they were
+   not in line with Kant’s own intentions), the subject has a point of
+   view that is indefinably his/hers, as opposed to what the philosopher
+   Foucault (1926-84) referred to as the classical subject whose point of
+   view was only an inferior facsimile of a unitary truth.
+
+   The Kantian subject is coterminous with the democratic subject who, by
+   the middle to late eighteenth century, has the luxury of entitlement to
+   an opinion and can self-consciously adopt an individual view of the
+   world, or Weltanschauung.
+
+   And as I have suggested already, the new rights of the Enlightenment
+   may have had salutary consequences for politics but the democracy of
+   the gaze engendered not one right way of seeing, but many.
+
+   The concept of external law gave over to internal consensus.
+
+   This dilemma was already located by Kant who stressed the limitations
+   of the thinking being. As Slovaj Zizek comments about Kant:
+
+     man’s finitude is not the simple finitude of an inner-worldly entity
+     lost in the overwhelming totality of the universe. The knowing
+     subject is a substanceless point of pure self-relating (the ‘I
+     Think’) which is not ‘part of the world’ but is, on the contrary,
+     correlative to ‘world’ as such and therefore ontologically
+     constitutive: ‘world’, ‘reality’ as we know them, can appear only
+     within the horizon of the subject’s finitude.
+
+   When we relate this back to the gaze we deal with a certain lack which
+   is both constitutive and the object of the gaze, which is the discovery
+   of Lacan (1901-81) via the thought of Sartre (1905-80).
+
+The gaze and the Other
+
+   Kant’s philosophy may be relevant to the shift in the agency of the
+   individual subject in relation to what he or she sees and knows, but
+   Sartre was the first philosopher to explore the gaze per se as a
+   function of the way we position ourselves in the world.
+
+   What separates the gaze from just a look is that the gaze is active as
+   opposed to passive and is performed with intent. In this dualism, there
+   is the subject and the Other (capitalized in the English because unlike
+   the French autrui, we do not have a special word for it).
+
+   Our understanding of ourselves, the self-reflection that defines us as
+   subjects, is reflected in others. However, we become aware of the
+   Other’s presence when we are subjected to the gaze, thereby noticing
+   that someone external to us has the power to discriminate similar to
+   ours.
+
+   The operable word here is power: in moments when we are startled, the
+   presence of the gaze is the most pronounced.
+
+   Sartre gives the example of the start we have when hearing a branch
+   crack behind us: the feeling of vulnerability begins with being the
+   recipient, not the agent, of the gaze. One of the most remarkable
+   aspects of Sartre’s observation is that the gaze is not necessarily
+   beholden to sight. Some suspenseful movies are built on this very
+   principle, as are cultural critiques by minorities, as I will show in a
+   moment.
+
+   In one of his famous examples, Sartre relates the shame we feel when
+   caught at spying through a keyhole that results in the gaze’s abrupt
+   reversal. Only then, as on object of the gaze, does one become aware of
+   the subjectivity that one had as holder of the gaze: ‘the person is
+   present in consciousness inasmuch as he/she is the object of the
+   Other.’
+
+   The shame that this realization engenders is
+
+     shame of oneself, being the recognition that I am well and am well
+     and truly the object that the other gazes at and judges. I am only
+     shamed by the loss of my freedom through becoming a given object.[…]
+     And this ‘me’ that I am is only within the world where the Other has
+     alienated me, […] [emphasis Sartre’s]
+
+   Sartre had taken the first step by stating that we are made conscious
+   of ourselves as subjects by another subject who makes us the object of
+   the gaze, at which point Jacques Lacan replies that the only acceptable
+   positioning of the gaze is therefore on the side of the Other.
+
+Lacan, the gaze and lack
+
+   Lacan agrees with Sartre’s insight that the gaze is not limited to
+   sight, but he emphasizes that the look and the gaze are a split
+   inherent in a drive that is manifested within ‘the scopic field’, an
+   overarching zone of vision that is enlisted by desire or, in Lacan’s
+   case lack, the cause of desire.
+
+   The gaze is a look driven by need. Without lack, there can be no gaze.
+   But Lacan goes even further: without lack there can be no
+   consciousness, as the gaze is the ‘underside’ of consciousness. Lack of
+   what? The phallus, but conceived of by Lacan in non-literal, mystical
+   terms: not limited to the penis, the phallus is what defines the split
+   between the sexes. For men it is what they have but is incomplete, for
+   women it is what they do not have and what they want. Both desire it,
+   but women want it more.
+
+   I will return to this touchy point. In his discourse on the gaze Lacan
+   sticks to the term object petit a, ‘a’ being the key term in the
+   algorithm of the gaze, where ‘a’ is the essence of the gaze. It is what
+   the gaze seeks—although we know now that seeking defines it—and what
+   eternally eludes it.
+
+   Hans Holbein the Younger. Jean de Dinteville and Georges de Selve ('The
+   Ambassadors'). 1533. The National Gallery, London. Via Artsy
+
+   In a wonderful ruse, Lacan calls upon Hans Holbein’s Ambassadors
+   (1533), to illustrate the gaze itself as a process of eluding. He draws
+   attention to the partly imperceptible thin diagonal form cutting across
+   the foreground, a skull distorted by anamorphosis, a technique popular
+   in Holbein’s time. Lacan makes the audacious suggestion that ‘Holbein
+   makes visible for us here something that is simply the subject that is
+   annihilated—annihilated in the form that is, strictly speaking, the
+   imagined embodiment of the minus-phi  [(-f)] of castration’.
+
+   If we are to see the phallus, to be in its presence, it can only be at
+   the expense of its own extinction and the anullment of the gaze itself,
+   hence the death of the one who sees; the stretched skull is the symbol
+   or better, proxy, for a black hole. It is through this confrontation
+   with ‘the anamorphic ghost’ that the gaze is then able to imagine
+   itself ‘in its pulsate, dazzling and spread out function’.
+
+   The painting locates precisely what Lacan says any picture is ‘a trap
+   for the gaze’. Since pictures are not people, we can gaze at them,
+   stare at them no less, without fear of reprisal, embarrassment—shame.
+
+   In looking closely and at length at a picture we are not just looking
+   at features of representation and description, rather our love of
+   illusion is what both empties out the gaze, sucks it up, but as much
+   momentarily satisfies it, makes it replete.
+
+Feminist revisions: the male gaze
+
+   The two major rebuttals to Lacan’s influential theses came with his
+   former student, Luce Irigaray (b. 1930) and the film theorist, Laura
+   Mulvey (b. 1941). Irigaray is one of the great feminist minds.
+
+   She mounted an assault on Lacan’s centredness of the phallus and posed
+   the alternative of the gap or cut, but also problematized binarization
+   itself, which is the cornerstone of Western logic and power, since
+   binarization seldom admits of parity. In dominant discourse Woman is
+   the other that defines Man.
+
+   But for Irgaray, Woman does not inhabit this binary; she is not an
+   alternative to man but a wholly different configuration, possessed of a
+   different kind of body and operating along different emotional and
+   intellectual lines.
+
+   The phallus may be elusive, says Irigaray, but the feminine eludes the
+   phallus. What we universally define as thought is properly called male,
+   or phallocentric thought whose persuasiveness comes at the expense of
+   excluding the feminine. Irigaray’s project is to reclaim a space for
+   the feminine through highlighting alternative values and avenues of
+   thought.
+
+   At roughly the same time as Irigaray, Laura Mulvey coined the term ‘the
+   male gaze’ in her 1973 essay ‘ Visual Pleasure and Narrative Cinema’ to
+   define the condition of the way in which women were viewed by postwar
+   Hollywood cinema.
+
+   Mulvey points to a ‘sexual imbalance, [wherein] pleasure in looking has
+   been split between active/male and passive/female’. This dichotomy
+   controls the narrative structure, reducing women to the status of
+   vulnerability as always being the receptors of the gaze.
+
+   Taking up the Lacanian assertion that the gaze is threatened by the
+   very thing it seeks—since to found something only affirms what the gaze
+   lacks—Mulvey states that the male gaze is subdivided into two seemingly
+   incompatible stereotypes, for which the feminist shorthand is
+   madonna/whore.
+
+   The first is ‘fetisihistic scopophilia’ (scopophilia—‘love of looking’)
+   in which women are beauteous items for visual delectation; the second,
+   ‘voyeurism’, is the obverse, a sadism that ends in submission and
+   defeat of its object/victim. More insidious still, as Mulvey argues,
+   narrative film forces women viewers into ownership of the male gaze as
+   well, since they see on behalf of the male protagonist who is supported
+   by the ostensibly universal, but actually male eye of the camera.
+
+   The artist who epitomizes the subjection of the female by the male gaze
+   is Cindy Sherman, particularly in the work that launched her career,
+   Untitled Film Stills (1977-80) which look like they have been extracted
+   from classic film noir. Although staged, with the artist the
+   centerpiece in different roles and costumes, one cannot help but be
+   disarmed by their air of authenticity.
+
+   The one constant is the manner in which the nameless woman is steeped
+   in vulnerability and sexual availability, in expectation of the male
+   presence of which she is a mere symptom. With her mime of
+   defenselessness and subordination, Sherman maneuvers her viewers
+   squarely into the shoes of the male gaze.
+   [i.TheGaze.png]
+
+Historical precursors
+
+   In light of Mulvey’s essay it is possible to say that the salient
+   historical precursor to the male gaze is found in Baudelaire’s flâneur.
+   Flâner is to amble or stroll, but as a result of his essay ‘The Painter
+   of Modern Life’ (1863), Baudelaire (1821-67) all but takes theoretical
+   ownership of the word.
+
+   The flâneur is the eternal observer of the modern city, the detached,
+   possibly bohemian (and therefore nobly indifferent to both the lower
+   and middle classes), consumer of the spectacle of the delightful,
+   ever-changing, dangerous, teeming city.
+
+   The Surrealist writer Louis Aragon (1897-1982) would later take up this
+   idea in his novel-cum-prose poem Paris Peasant (1926), in which the
+   writer-narrator seeks out an array of encounters with city
+   paraphernalia, odd people, motley scenes, singling out jarring
+   juxtapositions that average city dwellers take for granted.
+
+   But as feminists have shown, the Baudelairean flâneur is in confident
+   possession of the male gaze, not to mention the male body. In
+   nineteenth century cities women were not as free to wander the streets.
+   Their susceptibility to the gaze was a regular indication of their
+   limited freedoms in comparison to men.
+
+   The Paris in Baudelaire’s thrall was the Paris that evolved as a result
+   of the vast redevelopment at the hands of Napoleon III’s minister of
+   public works, Baron Hausmann, who tore up the tangle of rank old
+   streets which were narrow enough to be the potential shelter to
+   barricading revolutionaries.
+
+   In their place he installed the large sweeping boulevards for which
+   Paris is now known. With this the concept of public space were born,
+   and with it a new visibility.  Such spaces opened up new zones of
+   sociability where en masse people were able to indulge their joy of
+   seeing, which is still one of the charms of the great cafés of Europe.
+
+   ‘The artist, the true artist’, as Baudelaire proclaimed in his Salon de
+   1845, ‘will be the one who can extract what is epic from modern life’.
+   The expanded parameters and status of roving, free (male) seeing is a
+   chief characteristic of Modernity and was integral to the birth of
+   Impressionism, where, if one looks closely, delineates between private
+   and public space, the interior and the panorama.
+
+   Balcony, Boulevard Haussmann. By Gustave Caillebotte. 1880. Via Artsy
+
+   The cliché that Impressionists were obsessed by light oversteps the
+   issue of their responsiveness to all kinds of spectacle, high and low.
+   The emphasis on visibility reflected in the painterly technique of
+   Manet and the Impressionists is inseparable from the complex form of
+   social visibility that developed out of shifting social organization
+   that resulted from increased urbanization (the mass migration from
+   country to city that occurred around 1870) and the birth of the modern
+   metropolis.
+
+   Impressionism was also the first movement in art that publicly
+   encouraged the success of women, namely Marie Cassatt (1844-1926) and
+   Berthe Morisot (1841-95). In an approach analogous but more
+   historically extensive than Mulvey’s, Griselda Pollock compares their
+   works with the great male artists of the time, such as Manet (1832-83),
+   Pissarro (1830-1903), Degas (1834-1917), Monet (1840-1926) and
+   Caillebotte (1848-94), and observes a difference in the subject matter,
+   the deportment of the figures and the spaces they occupy, prompting the
+   question as to whether there really is a female vision.
+
+   Both Cassatt (who never bore children) and Morisot (who did)
+   concentrate a large part of their output on women, girls and children,
+   particularly the mother-child relationship. Pollock convincingly shows
+   how the strictures enforced on the middle-class female are mirrored in
+   pictorial spaces which are in many respects enclosed, whether through
+   tight compositions, the deportment of the female figures themselves, or
+   through privileging the domestic interior.
+
+   Concluding an analysis of a work by Cassatt, Pollock states the artist
+   ‘manipulated space and compositional structure to endow what women did
+   in the home with respect and seriousness, while at the same time being
+   able to make us recognize the limitations resulting from the
+   confinement of bourgeois women in the domestic sphere alone’.
+
+   The Child's Bath. By Mary Cassatt. 1893. Via Artsy
+
+   By contrast, in paintings by men there is a greater oscillation between
+   inside and outside space, with emphasis on the latter. As Pollock
+   notes, the everyday gendering of space—women inside, men
+   outside—affected pictorial representation. It is an open question,
+   however, as to whether this gendering of vision is essential or
+   conditioned.
+
+The Colonial subject, Orientalism and the Imperial Gaze
+
+   When it came those to which the active Enlightenment subject trained
+   his gaze, women were still treated as objects, as were non-Western
+   peoples, who were the objects of knowledge.
+
+   Evidently the modern, European subject believed himself to be the only
+   viable one, and until others were converted to their way of thinking,
+   they could not be treated as subjects. ‘Primitive’ cultures—African,
+   North American, South American, Indonesian, Pacific Islander,
+   Australasian, in short, the rest of the world—took their name because
+   they were considered by the Western eye to be in a state of arrested
+   development.
+
+   The appropriation of the East—a vast generalization in itself, covering
+   everything from Turkey to Siam (Thailand) to Madagascar—began in
+   earnest with the imperial wars between Holland, Portugal, Spain,
+   England and France at the end of the sixteenth century. In art it is
+   evident in the Moorish influence came much earlier and is everywhere in
+   the architecture of Venice and in paintings such as those of Jacopo
+   Bellini (c.1396 – c.1470).
+
+   In France in the seventeenth century many vestiary silks, wall
+   coverings and tapestries bore the mark of a new titilatory style,
+   ‘Chinoiserie’, which was about as generically unspecific as a packet of
+   dried ‘Asian’ flavoured noodles.
+
+   Well might the designation of Asian have entered into today’s popular
+   speech, but its crassness as a generalization—still worse France
+   continues to employ the anachronism ‘Orient’—lies in the fact that it
+   can be extended to over eighty percent of the world’s population.
+
+   Edward Said, who coined the term ‘Orientalism’, explains that it is an
+   idea that asserts Europe’s self-assured dominance:
+
+     In a quite constant way, Orientalism depends for its strategy on
+     this flexible positional superiority, which puts the Westerner in a
+     whole series of possible relationships with the Orient without ever
+     losing him the relative upper hand.
+
+   It is a double-standard that is played out to this very day with
+   Western tourism. We have the means to explore countries that are both
+   constricted by and dependent on our own, whose people have meager means
+   of survival let alone the ability to travel.
+
+   It was by the nineteenth century that this dominance became entrenched,
+   by which time the ‘Oriental’ was a style had permeated from the arts
+   into fashion and interior decoration. The academician Jean-Léon Gérôme
+   (1824-1904) made a career of turning out crisply painted canvases of
+   Middle eastern and North African scenes—snake charmers, harems, slave
+   traders—the men swarthy, brutish and usually indolent, the women
+   underclothed, nubile and frequently pallid, the boys lithe sexualized
+   ephebes.
+
+   In short, the Oriental ‘other’ is made into a fetishized stereotype
+   that reflects the Western male’s desires rather than observes
+   considerations of cultural respect.
+
+   The Snake Charmer. By Jean-Léon Gérôme. 1879. Photograph: Sterling and
+   Francine Clark Art Institute. Via The Guardian
+
+   Nonetheless, the exotic other had a definitive role to play for the
+   European avant-garde, and even in extraordinary cases such as Paul
+   Gauguin (1848-1903) or the German Expressionist Erich Heckel
+   (1883-1970), who had direct contact with the peoples who influenced
+   their art, the upper hand is still there.
+
+   The Seed of the Areoi, oil on burlap by Paul Gauguin. 1892. The Museum
+   of Modern Art, New York City. Via Britannica
+
+   For the ‘Primitive urge’ as it is expressed within late nineteenth and
+   early twentieth century painting rests upon a contradiction. The
+   ‘primitive’ other is elevated to an eminence that sets him/her/it above
+   the European.
+
+   By virtue of being ‘primitive’, such peoples were/are viewed as having
+   a vigour which the European thinks he has lost. By making use of the
+   ‘primitive’, the European is given a special boost to truth.
+
+   So, the superiority of the ‘primitive’ is a chimera, determined solely
+   according to the use to which the Westerner can put him. Moreover, the
+   appropriation of the ‘primitive’ is selective, without much concern for
+   the ritual meaning and uses of the motifs; the keynote is that the
+   ‘primitive’ is manipulated to make a new Western style whose art is
+   superior to the art or artifacts which it borrowed (stole).
+
+   In recent decades feminist scholars have rightly pointed out that the
+   contradiction was/is the same for men’s use of the female form: Woman
+   may be idolized, but this idolization is not positive as it drains her
+   of life; she is symbolic, inert and objectified for the purpose of
+   fulfilling particular uses and desires specific to men.
+
+   The objectification of the ‘primitive’ and of Woman converges in
+   paintings by Picasso, particularly in those during the time of his
+   co-discovery of Cubism around 1907. Here women are made the receptacle
+   of all of the artist’s harshest, darkest passions. Nameless and
+   characterless, they are a grade up from beasts, forces of nature given
+   shape, ugly and angular.
+
+   Les Demoiselles d’Avignon. By Pablo Picasso. 1907. Via MoMA
+
+   Circumstances of the presumptuous Imperial gaze may have shifted to a
+   more self-critical conscience within the academy, but they have not for
+   tourism or advertising which are ready to exploit anything with exotic
+   appeal.
+
+   (Note the woolly definition of exotic; and is something appealing for
+   being exotic or is something exotic appealing?)
+
+   A problem with the fraught legacy of colonialism is that resetting the
+   mark cannot be achieved ideologically or without due reflection. In
+   other words, the Orientalist critique cannot be mounted to discredit
+   writers and artists wholesale.
+
+   When we delve deeper into Gauguin’s experience for example, and read
+   his letters, and look longer at his later testimonial paintings, we
+   sense palpable disappointment at the plight of the Tahitians at Western
+   hands, an honest joy taken in their ritual, and a gratefulness at them
+   for teaching him ways of relating to the world differently. He was too
+   sensitive not to know that his own presence was a symptom of the
+   scourge of Europeanization (that brought smallpox and venereal disease)
+   that was ravaging the indigenous populations, and which consumed him as
+   well.
+
+   His final masterpiece, Where Do We Come From? What Are We? Where Are We
+   Going? (1897-8) is a spiritual allegory composed in the spirit of peace
+   and transcultural sympathy.
+
+   Paul Gauguin, Where Do We Come From? What Are We? Where Are We Going?
+   1897-8. Museum of Fine Arts, Boston.
+
+The gaze, knowledge and power
+
+   In the 1961 the philosopher Michel Foucault published the first of a
+   series of influential books about how dominance, power and control is
+   organized within Western society and thought since the seventeenth
+   century. Madness and Civilisation, recognized as an intellectual
+   milestone when it came out, dealt with the new phenomenon of
+   incarceration of abnormals that occurred in the ‘age of reason’ after
+   the Middle Ages.
+
+   Foucault’s reasoning seems almost self-evident: for the idea of reason
+   to hold sway it required qualifying contrast with an opposite,
+   unreason. But unreason could only be defined in terms of what reason
+   cannot define.
+
+   Madness was the social typology to fit into reason’s too-hard-basket,
+   conflating social misfits and mental illness.
+
+   Foucault followed similar trajectories in his subsequent
+   ‘archaeologies’, as he called them, of the clinic and of prisons. The
+   birth of the clinic at the beginning of the nineteenth century was
+   coterminous with the system of diagnosis in which doctors came to enjoy
+   special privileges based on their ability to discriminate, to see the
+   signs that erred from good health.
+
+   In Discipline and Punish, Foucault focused on the prison reform of
+   Jeremy Bentham, the inventor of the panopticon, an architectural device
+   of surveillance that exposed prisoners to an omnipresent gaze.
+
+   After the student riots in May 1968, Foucault’s questions about the
+   substance of power and who wields it gained in momentum. ‘Who owns the
+   gaze?’. The owner of power and knowledge.
+
+   Yet power and knowledge can never be said to have their permanent
+   source in one quality or thing. This means that whilst it is important
+   to locate the gaze in order to determine the locus of power, the holder
+   of the gaze is neither reducible to that power, nor is he or she ever
+   in complete possession of it.
+
+   Power and the gaze for Foucault is a configuration like a kaleidoscope:
+   any discernible pattern is one among many; the pattern changes, along
+   with the effect. ‘The question of power remains a total enigma’ says
+   Foucault. Power is ‘not in the hands of those who govern’, and
+   governance itself is a ‘fluid’ notion. ‘It is often difficult to say
+   who holds power in a precise sense, but it is easy to see who lacks
+   power’.
+
+   Las Meninas, 1656 (detail) by Diego Velázquez. Photograph: The Gallery
+   Collection/Corbis. Via The Guardian
+
+   Foucault’s insight that power is fundamentally irreducibile finds its
+   equivalent in art in his examination of Velasquez’s Las Meninas (1656)
+   that opens Les Mots et les choses (1966, translated as The Order of
+   Things). He draws our attention to the reflections of King Philip IV
+   and his spouse in the mirror at the rear of the room.
+
+   Their blurred image serves Foucault’s thesis perfectly: the ruler’s
+   presence is only a reflection, and so, being a painting, a
+   representation within a representation, stands outside of the picture,
+   a mere shadow.
+
+   Meanwhile it is the artist—working on a painting we cannot see or
+   perhaps the painting we are now seeing, and who gazes directly at
+   us—that has the greatest presence, signifying a possession of the gaze
+   made possible through artistic invention. The sources of power in this
+   picture find themselves continually displaced: for Velasquez the
+   artist, because it is mediated through representing self-presentation
+   (becoming both subject and object), and for the king and queen, through
+   a double mediation which drives home the truth that the king’s power is
+   bestowed by his subjects.
+
+   The power of each is interdependent and finite; like the king, the
+   artist’s power depends on the viewer’s recognition.
+
+   The idea that power is everywhere and nowhere has a potentially
+   destabilizing effect on foundational philosophies such as Marxism and
+   positivism, and consequently excited bitter antagonism, preeminently in
+   the German Hegelian Jürgen Habermas for whom power’s indeterminacy in
+   Foucault’s thought only defers efforts to discourage solutions to
+   power’s abuses.
+
+The Postcolonial and Postfeminist gaze
+
+   Once Foucault’s critique of the centralization of power in the modern
+   age is applied to the Western male Orientalist, it raises a gamut of
+   apposite yet thorny questions.
+
+   Who has ownership of the gaze and what are its entitlements? If an
+   indigenous society happens to approve of an outsider’s vision of them,
+   artistic or otherwise, does their chorus of opinion make it right? Can
+   a woman have the male gaze?
+
+   If you resemble the peoples of one culture and grow up in another
+   (Indians in England, Turks in Germany, Chinese in Australia, Koreans in
+   the U.S.) does this give you a special advance on your access to the
+   culture whence your family came? To what extent does identifying with a
+   culture have to do with genetic material?
+
+   In the absence of sure answers, these questions and others crave
+   reassessment on a periodic basis. In stable countries, identity is the
+   catchcry for artists and curators who fear the scourges of
+   globalization.
+
+   Whereas the Orientalist gaze of a superior us seeing an inferior them,
+   there is now as much the case of a ‘me’ seeing my own for the
+   delectation of a curious ‘them’. While many artists who identify with
+   minorities make worthwhile statements of what it means to feel
+   oppressed and subjected, just as many use parts of their background
+   because it has become fashionable to do so and lubricates their
+   possibilities to get into exhibitions; for there is never a shortage of
+   exhibitions that sentimentalize identity.
+
+   As events since the Cold War have shown, the imperial impulse has not
+   abated, especially evident in the tergiversations of American foreign
+   policy.
+
+   Yet America and Western Europe’s ability to dominate other nations is
+   sporadic and its inadequacies expose their local agendas and patchy
+   cultural understandings.
+
+   Nations under the weight of gratitude to international aid—for damage
+   that imperialism has wrought in the first place—such as many in Africa
+   can still be said to have what Homi Bhaba has called ‘the threatened
+   return of the look’, a gaze that, while subjected, is still forcefully
+   active as reproach.
+
+   Karina Eileras develops this notion with reference to the images by
+   Marc Garanger, photographer for the French army in 1960-2 at the time
+   of the Algerian revolution. In the photographs of women who submitted
+   to being photographed, Eileras notices a healthy pattern of tacit
+   resistance in covert markers such as pursed lips, uneven deportment,
+   skewed looks, all signs of displaced submission.
+
+   A photograph of an Algerian woman in a French regroupment village.
+   1960. Marc Garanger. Via TIME
+
+   Attentive analyses like hers are helpful in exposing the lack of
+   neutrality of the image, and the way that the gaze can intercepted and
+   deflected in a way that does not combat the West’s way of gazing,
+   (which, so the theory goes, would only duplicate its negative
+   power-play) but rather in a manner that comes at it from the back door.
+
+   But speaking on behalf of the Western white male, can there be said to
+   be a post-Orientalist gaze? This image, Affliction of the Protestant
+   (2005), by Phillip George indicates that the question can be answered
+   in the affirmative.
+
+   Affliction of the Protestant. By Phillip George. 2005.
+
+   George has captured three black hawk helicopters hovering over a mosque
+   under construction thereby deftly repositioning his own cultural
+   baggage as a Western observer through the visual decoy of observing the
+   considerably more dominant eye of the U.S. observing the East.
+
+   This is amplified by the work’s colour, the eerie emerald monochrome of
+   night vision, a metaphor for the covert intrusiveness of military
+   surveillance. The title considers the Western ignorance toward Muslims
+   as more illness than attitude.
+
+   This and this next work reveal the lengths that artists go to combat
+   the tortured legacy of the Orientalist gaze. The two stills below are
+   from the two channel video installation, Turbulent (1998), by the
+   U.S.-Iranian artist Shirin Neshat (b. 1957). It is a poetic yet
+   disturbing work that singularly recasts the stereotypical position of
+   the mute Muslim woman.
+
+   Shirin Neshat – Turbulent, 1998, black-and-white video installation.
+   Via Public Delivery
+
+   Shirin Neshat – Turbulent, 1998, black-and-white video installation.
+   Via Public Delivery
+
+   The work opens with a moving song from a man in a white shirt; facing
+   him on the opposite screen is the back of a woman clad entirely in
+   black. When he finishes, the woman turns and begins her own song, a
+   plaintive, wordless lament.
+
+   During each song words roll over the images, for the man in Latin and
+   English, for the woman, Arabic and Persian, enforcing the dichotomy.
+   The man, who is in the company of a male audience, sings in an
+   illuminated room, whereas the woman, alone, sings in darkness.
+
+   Neshat drew inspiration for this work from a blind girl performing in
+   the street in Istanbul, which made her reflect on Iran’s disregard for
+   female expression, since under the Khommeni regime, women were
+   expressly forbidden from performing.
+
+   For all its profound references, when physically experienced, Turbulent
+   lives up to its title; when he finishes his song, a quizzical
+   expression appears on the man’s face as he ‘watches’ the woman takes
+   her turn on the opposite screen.
+
+   The wordless hymn is like a desperately sad chant welling up from out
+   of a crack in a hard surface, be it the barrier of Western expectations
+   or the wall of male laws. Even with her eyes closed, we as viewers
+   nevertheless feel the weight of her gaze, as some form of corrective to
+   delinquent Western assumptions about what Middle Eastern women are, or
+   should be.
+
+The Prosthetic gaze
+
+   With the invention of photography came a whole new kind of observer, as
+   well as an eruption of conjecture about pictorial truth and evidence.
+   ‘Evidential’ is a stock term in photography to designate a category
+   rather than an essential quality. Critics of photography rightly
+   observe that its truth is qualitative: photographic truth.
+
+   The French word for the photographic negative, cliché, is a convenient
+   place to start when thinking of the uses to which the photographic
+   apparatus (analogue and digital both) is commonly put. Surely we too
+   have at one point set out to make a good photograph—seeing in terms of
+   an anticipated outcome—rather than just plainly seeing.
+
+   The apparatus determines to varying degrees what and how things are
+   seen—this will be explored more in the next chapter.
+
+   As we have seen already, it is hard if not impossible to locate the
+   gaze when it is refracted through a mediating lens whose power to
+   augment is at the expense of less perceptible constraints and
+   limitations.
+
+   Take the touristic gaze: the camera renders the gaze passive; the gaze
+   is annulled for the sake of the static reproduction: the event in situ
+   exists for the sake of the dour replica.
+
+   But when we think of two films about photographic vision, Hitchcock’s
+   Rear Window (1954) or Antonioni’s Blow-Up (1966), the prosthetic gaze
+   of the camera is the defining element in what is seen and understood,
+   which singles out the unassailable fact that each are films from the
+   first, a medium with its own particular forms of orchestration,
+   manipulation and deception.
+
+   In a pioneering work of performance art, Following Piece (1969), Vito
+   Acconci had himself photographed randomly following people in the
+   streets of New York.
+
+   Following Piece (1969). Vito Acconci. Via MoMA
+
+   At first, we are carried along by the ebb and flow of the images’
+   ongoing movement determined by the trajectory of the people whom the
+   artist is following. We initially assume that it is Acconci who is the
+   owner of the gaze, but it quickly dawns on us that his gaze is solely
+   at the behest of whom he follows.
+
+   Since he has no other motive but to follow them, it is they who possess
+   the gaze; the artist’s surveillance trick sustains itself only upon the
+   act of pursuit.
+
+   We too are complicit in this arbitrary magnetic game, since we are the
+   only ones who gaze upon both pursuer and pursued. But—to end the
+   loop—the artist has intended this to happen, so by default he has the
+   last laugh, binding us up in his work’s logic. Everyone is the object
+   of another’s gaze, none escape it.
+
+   These shifts and gaps are what caused Jacques Derrida to write Droit de
+   regards (‘right of inspection’, or ‘right to gaze) written to accompany
+   the photographs by Marie-Françoise Plissart. Plissart’s suite of images
+   half-narrates a story involving lesbians, a child in commedia dell’arte
+   make-up and finally an interloping male.
+
+   I say ‘half-narrates’ because what preoccupies Derrida are the lacunae,
+   the mid-spaces that force the viewer’s assumptions. The kinds of
+   transactions that occur within the images convolute the
+   self-consciousness of the gaze.
+
+   In other words, we do not know in what capacity we look—as man or
+   woman—and whether we are entitled to look at all or at what. Derrida
+   goes so far as to claim that the photographs are neither referential
+   nor evidential but rather embody a wish, they are symbols or phantoms
+   of what we want to see but is not ‘really’ there.
+
+   Taking up from Lacan, Sartre and Merleau-Ponty, Derrida’s ambling
+   excursus, also with its implicit subtexts of stock photographic theory
+   and from French poetics, is more memorable than the photographs
+   themselves. He locates a critical area in which the gaze is fractured
+   and multi-layered.
+
+The global and sci-fi techno-gaze
+
+   When we get to cyberspace this split of the gaze is constant and
+   intricate. There is a chain of mediations whose source is difficult if
+   not impossible to locate. With Spyware, surveillance, intrusion takes
+   on a new and sinister face.
+
+   The gaze can become small and local and, in the next breath,
+   macrocosmic and global, as with Google Earth which is a commercial
+   offshoot of ‘Digital Earth’.
+
+   The ‘Digital Earth’ project as it has come to be named was an
+   initiative of Al Gore begun in 1998 via NASA and was envisioned to
+   bring together disparate communities, a ‘grassroots effort’ as Gore
+   described it that would be the next great innovation of the web. It was
+   part of the deregulation of digital technologies in the 1990s designed
+   to stimulate a range of economic and social activities.
+
+   But consonant again with technology that vaunts itself too strongly as
+   progressive (utopian?), its present uses are markedly different from
+   initially intended. As would maybe be expected, the outcome is
+   decidedly cynical. Digital Earth technology serves the corporate
+   entities that made the technology possible from the start, for the
+   viewer will always be part of the network, absorbed within it like a
+   worker bee within a hive.
+
+   As Lisa Parks remarks in her essay on this subject, the promise of
+   recentralization obscures a media infrastructure which is itself
+   decentralized. Whereas the models that Digital Earth propagates are
+   linear and smooth, the spaces it traverses are not. It proposes to
+   reduce a domain that encompasses the social, global, inner, outer,
+   local and national, corporate and individual, to a common denominator.
+
+   As Parks asserts, Digital Earth conceals the struggles taking place
+   within the world and ‘instead naturalizes these spaces as the rightful
+   property of the spectator/navigator’.
+
+   The viewer assumes false ownership of the world with the help of
+   interfaces like Work Bench which enable anyone to zoom in and twirl the
+   world at will. In short the viewer is lulled into a false sense of
+   agency with the power to lord over the hemisphere like a pagan god,
+   when in reality he or she is dupe to the medium, where the distinctions
+   between real and virtual are obscured forever.
+
+   These prostheses of the gaze end up becoming imperceptibly incorporated
+   within the gaze. We cannot imagine an alternative, believing ourselves
+   bereft, incapacitated or non-functional without them.
+     __________________________________________________________________
+
+Further Reading
+
+   Apter, Emily, ‘The Garden of Scopic Perversion from Monet to Mirbeau’,
+   October 47, 1988.
+
+   Ashton, Dore, Rosa Bonheur: A Life and a Legend, London, Secker and
+   Warburg, 1981.
+
+   Benjamin, Roger, Orientalist Aesthetics: Art, Colonialism and French
+   North Africa, 1880-1930, Berkeley and London, California U.P., 2003.
+
+   Bhaba, Homi, The Location of Culture, London and New York, Routledge,
+   1994.
+
+   Bowie, Malcolm, Lacan, London, Fontana, 1991.
+
+   Butler, Judith, gender Trouble: Feminism and the Subversion of
+   Identity, New York and London, Routledge, 1990.
+
+   Cannadine, Ornamentalism: How the British Saw Their Empire, Oxford,
+   Oxford U.P., 2001.
+
+   Caplan, Jay, Framed Narratives: Diderot’s Genealogy of the Beholder,
+   Manchester, Manchester U.P., 1986.
+
+   Descombes, Vincent, Modern French Philosophy (1979), trans. L.
+   Scott-Fox and J. M. Harding, Cambridge, Cambridge U.P., 1980.
+
+   Fauconnier, Bernard, Cézanne, Paris, Gallimard, 2006.
+
+   Ferguson, Frances, Solitude and the Sublime: Romanticism and the
+   aesthetics of Individuation, New York and London, Routledge, 1992.
+
+   Foucault, Michel, Politics, Philosophy, Culture: Interviews and Other
+   Writings, 1977-1984, ed. Lawrence Kritzman, trans. Alan Sheridan et.
+   al., London, Routledge, 1988.
+
+   Geczy, Adam, ‘Phillip George: Night Vision and the Post-Oriental’, Art
+   Asia Pacific, 47, 2005.
+
+   Irigaray, Luce, Speculum, Paris, Minuit, 1974.
+
+   Garb, Tamar, Bodies of Modernity: Figures and Flesh in Fin-de-siècle
+   France, London, Thames and Hudson, 1998.
+
+   Grosz, Elizabeth, Sexual Subversions, Sydney, Allen and Unwin, 1989.
+
+   Kemp, Martin, Behind the Picture. Art and Evidence min the Italian
+   Renaissance, New Haven and London, Yale U.P., 1997.
+
+   Lacan, Jacques, Ecrits I & II, Paris, Seuil, 1966.
+
+   Lynn, Victoria, Voiceovers, exn cat., Sydney, Art Gallery of New South
+   Wales, 1999.
+
+   Mehlman, Jeffrey, Walter Benjamin for Children. An Essay on His Radio
+   Years, Chicago and London, Chicago U.P., 1993.
+
+   Merleau-Ponty, Maurice, ‘Cézanne’s doubt’, Sense and Non-Sense (1948),
+   trans. Hubert Dreyfus and Patricia Allen Dreyfus, Northwestern U.P.,
+   1964.
+
+   Moore-Gilbert, Bart, Postcolonial Theory, London and New York, Verso,
+   1997.
+
+   Pollock, Griselda, Cassatt, painter of Modern Women, London, Thames and
+   Hudson, 1998.
+
+   Rajchman, John, ‘Foucault’s Art of Seeing’, Philosophical Events, New
+   York, Columbia U.P., 1991.
+
+   Rewald, John, Studies in Post-Impressionism, New York, Abrams, 1986.
+
+   Rhodes, Colin, Primitivism and Modern Art, London, Thames and Hudson,
+   1994.
+
+   Ross, Christine, ‘Vision and Insufficiency at the turn of the
+   Millenium: Rosemarie Trockel’s Distracted Eye’, October, 96, Spring
+   2001.
+
+   Said, Culture and Imperialism, London, Chatto and Windus, 1993.
+
+   Whitford, Margaret, Luce Irigaray: Philosophy in the Feminine, London,
+   Routledge, 1991.
+   Adam Geczy
+
+   Artist, Educator and Writer… I'm a dedicated teacher, currently
+   lecturing at Sydney College of the Arts, Australia. I have exhibited
+   extensively in Europe, across Australia and in Asia in a variety of
+   media, from painting to video and installation. As a writer, I have
+   authored numerous critical articles and essays and has published some
+   20 books.
+
+   Previous
+   Previous
+
+What can Adorno & Walter Benjamin Teach us About NFTs & Art
+
+   Next
+   Next
+
+Monet and the Impressionists
+
+   © Adam Geczy 2021 | About | Blog | Contact | Privacy | Terms﻿

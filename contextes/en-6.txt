@@ -1,86 +1,81 @@
-     Examples
 
-   Synonyms
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Nerves and muscles
+     * 2 Conjugate gaze
+     * 3 See also
+     * 4 References
+     * 5 External links
 
-gaze
+   [ ] Toggle the table of contents
 
-   American
-   (BUTTON) [geyz] / geɪz /
+Gaze (physiology)
 
-verb (used without object)
+   [ ] 3 languages
+     * العربية
+     * Français
+--
 
-   gazed, gazing
-    1. to look steadily and intently, as with great curiosity, interest,
-       pleasure, or wonder.
-     __________________________________________________________________
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   For other uses, see Gaze (disambiguation).
 
-noun
+   The term gaze is frequently used in physiology to describe coordinated
+   motion of the eyes and neck. The lateral gaze is controlled by the
+   paramedian pontine reticular formation (PPRF).^[1] The vertical gaze is
+   controlled by the rostral interstitial nucleus of medial longitudinal
+   fasciculus and the interstitial nucleus of Cajal.^[2]
 
-    1. a steady or intent look.
-    2. Heraldry. at gaze, (of a deer or deerlike animal) represented as
-       seen from the side with the head looking toward the spectator.
+Nerves and muscles
+--
+   intorsion, and is a component of focusing the eyes on an object close
+   to the face. The oculomotor nerve controls all the other extraocular
+   muscles, as well as a muscle of the upper eyelid.^[3]
 
-     a stag at gaze.
+Conjugate gaze
 
-   gaze British
-   / ɡeɪz /
+   [edit]
 
-verb
+   The conjugate gaze is the motion of both eyes in the same direction at
+   the same time, and conjugate gaze palsy refers to an impairment of this
+   function. The conjugate gaze is controlled by four different
+   mechanisms:^[4]
+     * the saccadic system that allows for voluntary direction of the gaze
+     * the pursuit system that allows the subject to follow a moving
+       object
+     * nystagmus which includes both vestibular nystagmus and optokinetic
+       nystagmus. The vestibular system restores gaze in compensation for
+       the rotation of the head whereas the optokinetic system restores
+       gaze despite movements of the outside world.
+     * the vestibulo-ocular reflex system (VOR system) that corrects for
+       the movements of the head to preserve the stable visual image of
+       the world
 
 --
-   Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012
+     * http://www.med.yale.edu/caim/cnerves/cn6/cn6_8.html
+     *
 
-Related Words
-
-   Gaze, stare, gape suggest looking fixedly at something. To gaze is to
-   look steadily and intently at something, especially at that which
-   excites admiration, curiosity, or interest: to gaze at scenery, at a
-   scientific experiment. To stare is to gaze with eyes wide open, as from
-   surprise, wonder, alarm, stupidity, or impertinence: to stare
-   unbelievingly or rudely. Gape is a word with uncomplimentary
-   connotations; it suggests open-mouthed, often ignorant or rustic
-   wonderment or curiosity: to gape at a tall building or a circus parade.
-
-Other Word Forms
-
-     * gazeless adjective
-     * gazer noun
-     * gazingly adverb
-     * outgaze verb (used with object)
-     * ungazing adjective
-
-Etymology
-
-Origin of gaze
-
-   First recorded in 1350–1400; Middle English gasen; compare Norwegian,
-   Swedish (dialect) gasa “to look”
-
+   Versino, M; Simonetti, F; Egitto, M G; Ceroni, M; Cosi, V; Versino, M;
+   Ceroni, M; Cosi, V; Beltrami, G (1999). "Lateral gaze synkinesis on
+   downward saccade attempts with paramedian thalamic and midbrain
+   infarct". Journal of Neurology, Neurosurgery & Psychiatry. 67 (5):
+   696–7. doi:10.1136/jnnp.67.5.696. PMC 1736620. PMID 10577040.
+     * v
 --
-   context. Any opinions expressed do not reflect the views of
-   Dictionary.com.
+     * Tactile illusions
+     * Temporal illusion
 
-     Inside an abandoned control room at Ukraine's Chernobyl nuclear
-     power plant, a worker in an orange hardhat gazed at a grey wall of
-     seemingly endless dials, screens and gauges that were supposed to
-     prevent disaster.
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Gaze_(physiology)&oldid=130
+   0691938"
 
-     From Barron's
+   Categories:
+     * Eye
+--
+   ____________________
+   (BUTTON) Search
 
-     After a year at the centre receiving ongoing treatment, Edouard
-     recounted the horrors of his experience with a shy smile and a
-     lively, excitable gaze.
-
-     From Barron's
-
-     Ben Martill often gazes out of his window to watch the deer roaming
-     below.
-
-     From BBC
-
-     One Christmas night, as we drove him back to Fall River from the
-     family party, he gazed out the car window at the festooned Joseph P.
-     Kennedy before suddenly turning away and shaking his head.
-
-     From Salon
-
+   [ ] Toggle the table of contents
+   Gaze (physiology)
+   (BUTTON) 3 languages Add topic

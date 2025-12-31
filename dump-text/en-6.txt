@@ -1,179 +1,285 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TXC5GP
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-   (BUTTON)
-     * Featured
-     * Games
-     * Cultural
-     * Writing tips
+   Jump to content
 
-   Dictionary.com
-   (BUTTON) ____________________ Skip to content
-   (BUTTON) (BUTTON)
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   Popular Searches
-     * buoy
-     * ultrawide
-     * CIA
-     * volatile
-     * disinterested
-     * mirific
-     * beat around the bush
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Thesaurus.com
-     American
-     British
-     Related Words
-     Other Word Forms
-     Etymology
-     Examples
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
 
-   Synonyms
+   [ ] Appearance
 
-gaze
+     * Donate
+     * Create account
+     * Log in
 
-   American
-   (BUTTON) [geyz] / geɪz /
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
 
-verb (used without object)
+Contents
 
-   gazed, gazing
-    1. to look steadily and intently, as with great curiosity, interest,
-       pleasure, or wonder.
-     __________________________________________________________________
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Nerves and muscles
+     * 2 Conjugate gaze
+     * 3 See also
+     * 4 References
+     * 5 External links
 
-noun
+   [ ] Toggle the table of contents
 
-    1. a steady or intent look.
-    2. Heraldry. at gaze, (of a deer or deerlike animal) represented as
-       seen from the side with the head looking toward the spectator.
+Gaze (physiology)
 
-     a stag at gaze.
+   [ ] 3 languages
+     * العربية
+     * Français
+     * 한국어
 
-   gaze British
-   / ɡeɪz /
+   Edit links
 
-verb
+     * Article
+     * Talk
 
-    1. (intr) to look long and fixedly, esp in wonder or admiration
+   [ ] English
 
-   "Collins English Dictionary — Complete & Unabridged" 2012 Digital
-   Edition © William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins
-   Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012
-     __________________________________________________________________
+     * Read
+     * Edit
+     * View history
 
-noun
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
 
-    1. a fixed look; stare
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
 
-   "Collins English Dictionary — Complete & Unabridged" 2012 Digital
-   Edition © William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins
-   Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012
+   Print/export
+     * Download as PDF
+     * Printable version
 
-Related Words
+   In other projects
+     * Wikidata item
 
-   Gaze, stare, gape suggest looking fixedly at something. To gaze is to
-   look steadily and intently at something, especially at that which
-   excites admiration, curiosity, or interest: to gaze at scenery, at a
-   scientific experiment. To stare is to gaze with eyes wide open, as from
-   surprise, wonder, alarm, stupidity, or impertinence: to stare
-   unbelievingly or rudely. Gape is a word with uncomplimentary
-   connotations; it suggests open-mouthed, often ignorant or rustic
-   wonderment or curiosity: to gape at a tall building or a circus parade.
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   For other uses, see Gaze (disambiguation).
 
-Other Word Forms
+   The term gaze is frequently used in physiology to describe coordinated
+   motion of the eyes and neck. The lateral gaze is controlled by the
+   paramedian pontine reticular formation (PPRF).^[1] The vertical gaze is
+   controlled by the rostral interstitial nucleus of medial longitudinal
+   fasciculus and the interstitial nucleus of Cajal.^[2]
 
-     * gazeless adjective
-     * gazer noun
-     * gazingly adverb
-     * outgaze verb (used with object)
-     * ungazing adjective
+Nerves and muscles
 
-Etymology
+   [edit]
 
-Origin of gaze
+   The three nerves that control the extraocular muscles are the
+   oculomotor, trochlear, and abducens nerves, which are the third,
+   fourth, and sixth cranial nerves. the abducens nerve is responsible for
+   abducting the eye, which it controls through contraction of the lateral
+   rectus muscle. The trochlear nerve controls the superior oblique muscle
+   to rotate the eye along its axis in the orbit medially, which is called
+   intorsion, and is a component of focusing the eyes on an object close
+   to the face. The oculomotor nerve controls all the other extraocular
+   muscles, as well as a muscle of the upper eyelid.^[3]
 
-   First recorded in 1350–1400; Middle English gasen; compare Norwegian,
-   Swedish (dialect) gasa “to look”
+Conjugate gaze
 
-Example Sentences
+   [edit]
 
-   Examples are provided to illustrate real-world usage of words in
-   context. Any opinions expressed do not reflect the views of
-   Dictionary.com.
+   The conjugate gaze is the motion of both eyes in the same direction at
+   the same time, and conjugate gaze palsy refers to an impairment of this
+   function. The conjugate gaze is controlled by four different
+   mechanisms:^[4]
+     * the saccadic system that allows for voluntary direction of the gaze
+     * the pursuit system that allows the subject to follow a moving
+       object
+     * nystagmus which includes both vestibular nystagmus and optokinetic
+       nystagmus. The vestibular system restores gaze in compensation for
+       the rotation of the head whereas the optokinetic system restores
+       gaze despite movements of the outside world.
+     * the vestibulo-ocular reflex system (VOR system) that corrects for
+       the movements of the head to preserve the stable visual image of
+       the world
 
-     Inside an abandoned control room at Ukraine's Chernobyl nuclear
-     power plant, a worker in an orange hardhat gazed at a grey wall of
-     seemingly endless dials, screens and gauges that were supposed to
-     prevent disaster.
+See also
 
-     From Barron's
+   [edit]
+     * Paramedian pontine reticular formation
+     * Conjugate eye movement
 
-     After a year at the centre receiving ongoing treatment, Edouard
-     recounted the horrors of his experience with a shy smile and a
-     lively, excitable gaze.
+References
 
-     From Barron's
+   [edit]
+    1. ^ "Neural Control of Saccadic Eye Movements -- Neuroscience -- NCBI
+       Bookshelf". Retrieved 2009-11-29.
+    2. ^ Fukushima, Kikuro (1991). "The interstitial nucleus of Cajal in
+       the midbrain reticular formation and vertical eye movement".
+       Neuroscience Research. 10 (3): 159–87.
+       doi:10.1016/0168-0102(91)90055-4. PMID 1650435. S2CID 24272577.
+    3. ^  This article incorporates text available under the CC BY 4.0
+       license.Betts, J Gordon; Desaix, Peter; Johnson, Eddie; Johnson,
+       Jody E; Korol, Oksana; Kruse, Dean; Poe, Brandon; Wise, James;
+       Womble, Mark D; Young, Kelly A (May 14, 2023). Anatomy &
+       Physiology. Houston: OpenStax CNX. 16.3 The Cranial Nerve Exam.
+       ISBN 978-1-947172-04-3.
+    4. ^ Fowler, Timothy J.; John W. Scadding (2003). Clinical Neurology
+       (3rd ed.). Arnold. ISBN 978-0-340-80798-9.
 
-     Ben Martill often gazes out of his window to watch the deer roaming
-     below.
+External links
 
-     From BBC
+   [edit]
+     * http://www.med.yale.edu/caim/cnerves/cn6/cn6_8.html
+     *
 
-     One Christmas night, as we drove him back to Fall River from the
-     family party, he gazed out the car window at the festooned Joseph P.
-     Kennedy before suddenly turning away and shaking his head.
+   Versino, M; Simonetti, F; Egitto, M G; Ceroni, M; Cosi, V; Versino, M;
+   Ceroni, M; Cosi, V; Beltrami, G (1999). "Lateral gaze synkinesis on
+   downward saccade attempts with paramedian thalamic and midbrain
+   infarct". Journal of Neurology, Neurosurgery & Psychiatry. 67 (5):
+   696–7. doi:10.1136/jnnp.67.5.696. PMC 1736620. PMID 10577040.
+     * v
+     * t
+     * e
 
-     From Salon
+   Optical illusions (list)
+   Illusions
+     * Afterimage
+     * Ambigram
+     * Ambiguous image
+     * Ames room
+     * Autostereogram
+     * Barberpole
+     * Bezold
+     * Café wall
+     * Checker shadow
+     * Chubb
+     * Cornsweet
+     * Delboeuf
+     * Ebbinghaus
+     * Ehrenstein
+     * Flash lag
+     * Fraser spiral
+     * Gravity hill
+          + list
+     * Grid
+     * Hering
+     * Illusory contour
+     * Impossible cube
+     * Impossible trident
+     * Irradiation
+     * Jastrow
+     * Lilac chaser
+     * Mach bands
+     * McCollough
+     * Müller-Lyer
+     * Necker cube
+     * Neon color spreading
+     * Oppel–Kundt
+     * Orbison
+     * Penrose stairs
+     * Penrose triangle
+     * Peripheral drift
+     * Poggendorff
+     * Ponzo
+     * Rubin vase
+     * Sander
+     * Schroeder stairs
+     * Shepard tables
+     * Spinning dancer
+     * Ternus
+     * Vertical–horizontal
+     * Watercolor
+     * White's
+     * Wundt
+     * Zöllner
 
-     Foreign visitors, mostly young, are seen daily wandering through
-     gentrified neighborhoods gazing at their cellphones, following
-     directions to the latest hip spots hyped on Instagram and TikTok.
+   [40px-Optical_Illustion-Ambiguous_Patterns.svg.png]
+   Popular culture
+     * Op art
+     * Trompe-l'œil
+     * Spectropia (1864 book)
+     * Ascending and Descending (1960 drawing)
+     * Waterfall (1961 drawing)
+     * The dress (2015 photograph)
 
-     From Los Angeles Times
+   Related
 
-   Definitions and idiom definitions from Dictionary.com Unabridged, based
-   on the Random House Unabridged Dictionary, © Random House, Inc. 2023
+     * Accidental viewpoint
+     * Auditory illusions
+     * Illusions
+     * Tactile illusions
+     * Temporal illusion
 
-   Idioms from The American Heritage® Idioms Dictionary copyright © 2002,
-   2001, 1995 by Houghton Mifflin Harcourt Publishing Company. Published
-   by Houghton Mifflin Harcourt Publishing Company.
-   Word of the Day
-   brumal
-   (BUTTON) [broo-muhl]
-   (BUTTON) Get the Word of the Day
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Gaze_(physiology)&oldid=130
+   0691938"
 
-   Over 500,000 expert-authored dictionary and thesaurus entries
-   Entry list Careers Contact us Help Cookies, terms & privacy
+   Categories:
+     * Eye
+     * Neurophysiology
 
-   IXL Learning's Dictionary Media Group reaches over 500,000,000 learners
-   each year
+   Hidden category:
+     * Articles with imported Creative Commons Attribution 4.0 text
 
-   Essential reference for synonyms and antonyms
+     * This page was last edited on 15 July 2025, at 21:43 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
 
-   Adaptive learning for English vocabulary
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
 
-   Fun daily word games
+     * Wikimedia Foundation
+     * Powered by MediaWiki
 
-   English dictionary and learning for Spanish speakers
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
 
-   Spanish-English dictionary, translator, and learning
-
-   French-English dictionary, translator, and learning
-
-   Immersive learning for 25 languages
-
-   Comprehensive K-12 personalized learning
-
-   Marketplace for millions of educator-created resources
-
-   35,000+ worksheets, games, and lesson plans
-
-   Fun educational games for kids
-
-   Trusted tutors for 300+ subjects
-
-   Math games and learning resources for kids
-
-   © 2025 Dictionary Media Group, Inc., a division of IXL Learning
-   (BUTTON) Opt out of sale of personal data and targeted advertising
-   Quantcast
+   [ ] Toggle the table of contents
+   Gaze (physiology)
+   (BUTTON) 3 languages Add topic
