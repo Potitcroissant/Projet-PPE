@@ -1,0 +1,315 @@
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Histoire
+     * 2 Le regard dans les systèmes de pouvoir
+       (BUTTON) Afficher / masquer la sous-section Le regard dans les
+       systèmes de pouvoir
+          + 2.1 Le regard masculin
+               o 2.1.1 Le regard opposé
+          + 2.2 Le regard féminin
+          + 2.3 Regard impérial
+          + 2.4 Regard postcolonial
+               o 2.4.1 Le regard du touriste masculin
+     * 3 Notes et références
+     * 4 Voir également
+       (BUTTON) Afficher / masquer la sous-section Voir également
+          + 4.1 Bibliographie
+          + 4.2 Liens externes
+
+   [ ] Basculer la table des matières
+
+Regard (sciences sociales)
+
+   [ ] 12 langues
+     * العربية
+     * অসমীয়া
+--
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour les articles homonymes, voir Regard (homonymie).
+   [330px-School_Begins_%28Puck_Magazine_1-25-1899%29.jpg] Caricature
+   montrant l'Oncle Sam faisant la leçon à quatre enfants étiquetés
+   Philippines, Hawaii, Porto Rico et Cuba devant des enfants tenant des
+   livres étiquetés de divers États américains. À l'arrière-plan, on voit
+   un Amérindien tenant un livre à l'envers, un jeune Chinois à la porte
+   et un jeune Noir nettoyant une fenêtre.
+
+   En sociologie, le regard (parfois noté avec une majuscule : « Regard »)
+   est la manière dont un individu ou un groupe d'individus (le
+   « regardant ») perçoit et se représente son environnement et en
+   particulier soi-même et les autres individus. Nombre de ces théories
+   insistent sur la façon dont l'attitude du « regardant » ou même le seul
+   fait d'être soumis au regard peut modifier le « regardé »
+
+   Le thème du regard en psychologie, sociologie et dans ce qui est
+   désigné dans le milieu académique anglo-saxon comme les cultural
+   studies fut popularisé après que la philosophie postmoderne et les
+   théories sociales furent introduites dans les années 1960 par Jean-Paul
+   Sartre, Jacques Lacan et Michel Foucault^[1].
+
+   Dans le champ social, le concept de regard joue un rôle important pour
+   certaines théories qui en font un enjeu de pouvoir entre groupes
+   sociaux. Ainsi selon certaines féministes^[Lesquelles ?], la manière
+   dont les hommes regardent les femmes influence directement la manière
+   dont les femmes se perçoivent elles-mêmes.^[réf. nécessaire]
+
+Histoire
+
+   [modifier | modifier le code]
+
+   Le concept et les applications sociales du regard ont été définis et
+   développés par les philosophies existentialistes et phénoménologique.
+   Jean-Paul Sartre a décrit le regard (ou « le regard ») dans L'Être et
+   le Néant (1943)^[2]. Michel Foucault, dans Discipliner et punir : la
+   naissance de la prison (1975) a développé le concept de regard pour
+   illustrer la dynamique des relations de pouvoir socio-politiques et la
+   dynamique sociale des mécanismes disciplinaires de la société. Jacques
+   Derrida, dans L'animal qui donc je suis (Plus à venir) (1997), a
+   développé les relations inter-espèces qui existent entre les êtres
+   humains et les autres animaux, qui s'établissent par le biais du
+   regard.
+
+   il est par la suite popularisé dans les milieux académiques anglo-saxon
+   comme les cultural studies.
+
+Le regard dans les systèmes de pouvoir
+
+   [modifier | modifier le code]
+
+   Le regard peut être compris en termes psychologiques : « regarder
+   implique plus que regarder – cela signifie une relation psychologique
+   de pouvoir, dans laquelle le regardeur est supérieur à l'objet du
+   regard^[3]. »
+
+   Dans Practices of Looking: An Introduction to Visual Culture (2009),
+   Marita Sturken et Lisa Cartwright ont déclaré que « le regard fait
+   [conceptuellement] partie intégrante des systèmes de pouvoir et [des]
+   idées sur la connaissance » ; que pratiquer le regard, c'est entrer
+   dans une relation personnelle avec la personne regardée^[4]. Les
+   concepts foucaultais de panoptisme, de binaire pouvoir/savoir et de
+   biopouvoir abordent les modes d'autorégulation personnelle qu'une
+   personne pratique lorsqu'elle est sous surveillance ; la modification
+   du comportement personnel par le biais de la surveillance
+   institutionnelle^[5].
+
+   Dans La Naissance de la clinique (1963), Michel Foucault à d'abord
+   appliqué le regard médical pour décrire et expliquer conceptuellement
+   l'acte de regarder, dans le cadre du processus de diagnostic médical ;
+   la dynamique de pouvoir inégale entre médecins et patients ; et l'
+   hégémonie culturelle de l'autorité intellectuelle qu'une société
+   accorde au savoir médical et aux guérisseurs. Dans Surveiller et punir
+   (1975), Foucault développe le regard comme un appareil de pouvoir basé
+   sur la dynamique sociale des relations de pouvoir et la dynamique
+   sociale des mécanismes disciplinaires, tels que la surveillance et
+   l'autorégulation personnelle, comme pratiques en prison et dans une
+   école.
+
+Le regard masculin
+
+   [modifier | modifier le code]
+   Article détaillé : Regard masculin.
+   [250px-G%C3%A9r%C3%B4me%2C_Achat_d%27une_esclave%2C_1857_%285613508015%
+   29.jpg] Le regard masculin consiste à représenter les femmes comme des
+   objets sexuels pour le plaisir du spectateur masculin hétérosexuel.
+
+   Le concept de regard masculin a été utilisé pour la première fois par
+   le critique d'art anglais John Berger dans Ways of Seeing, une série de
+   films pour la BBC diffusée en janvier 1972, puis un livre, dans le
+   cadre de son analyse du traitement du nu dans Peinture européenne. Il
+   est rapidement devenu populaire parmi les féministes, dont la critique
+--
+   jouaient les modèles du voyeurisme et de la scopophilie^[7]. Le concept
+   a par la suite exercé une influence sur la théorie du cinéma féministe
+   et les études médiatiques^[8].
+
+Le regard opposé
+
+   [modifier | modifier le code]
+
+   Dans son essai de 1992 intitulé The Oppositional Gaze: Black Female
+   Spectatorship^[9], bell hooks s'oppose à la notion de regard masculin
+   de Laura Mulvey en introduisant le regard oppositionnel des femmes
+   noires. Ce concept existe comme la réciproque du regard normatif d'un
+   spectateur blanc. Alors que l'essai de Laura Mulvey^[10] contextualise
+   le regard masculin et son objectivation des femmes blanches, l'essai de
+   hooks^[9] ouvre « l'opposition [comme] un paradigme clé dans l'analyse
+   féministe du “regard” et des régimes scopophiles dans la culture
+   occidentale^[11]. »
+
+   Le regard d'opposition reste une critique de rébellion en raison de la
+   représentation erronée, soutenue et délibérée, des femmes noires au
+   cinéma comme étant typiquement Mammy, Jézabel ou Sapphire^[12].
+
+Le regard féminin
+
+   [modifier | modifier le code]
+   Article détaillé : Regard féminin.
+
+   Dans le livre Trouble dans le genre (1990), Judith Butler propose
+   l'idée du regard féminin comme moyen par lequel les hommes choisissent
+   d'exercer leur masculinité en utilisant les femmes comme celles qui
+   forcent les hommes à s'autoréguler. La réalisatrice Deborah Kampmeier
+   rejette l'idée du regard féminin de préférence à l'expérience féminine.
+   Elle affirme :
+
+     « Pour moi personnellement, ce n'est pas (à propos) un regard
+     féminin. C'est l'expérience féminine. Je ne regarde pas, je me
+     déplace réellement à travers le monde, ressentant le monde
+     émotionnellement et sensoriellement et dans mon corps^[13]. »
+
+Regard impérial
+
+   [modifier | modifier le code]
+
+   E. Ann Kaplan a introduit le concept postcolonial du regard impérial,
+   dans lequel l'observé se trouve défini en termes de l'ensemble de
+   valeurs-préférences de l'observateur privilégié^[14]. Du point de vue
+   du colonisé, le regard impérial infantilise et banalise ce sur quoi il
+   tombe^[15], affirmant ainsi sa fonction de commandement et
+   d'ordonnancement^[16].
+
+   Kaplan commente : « Le regard impérial reflète l'hypothèse selon
+   laquelle le sujet occidental blanc est central tout comme le regard
+   masculin suppose la centralité du sujet masculin^[17]. »
+
+Regard postcolonial
+
+   [modifier | modifier le code]
+
+   Introduit par Edward Saïd sous le nom d'« orientalisme », le terme
+   « regard post-colonial » est utilisé pour expliquer les relations que
+   les pouvoirs coloniaux vis à vis des peuples des pays colonisés^[18].
+   Placer le colonisé à la place de « l' autre » a contribué à façonner et
+   à asseoir l'identité du colonisateur comme celle d'un conquérant et à
+   agir comme tel^[19]. Le regard postcolonial « a pour fonction d'établir
+   la relation sujet/objet ... il indique à son point d'émanation
+   l'emplacement du sujet, et à son point de contact l'emplacement de
+   l'objet^[20]. » Essentiellement, cela signifie que la relation
+   colonisateur/colonisé permet une compréhension pour le colonisateur et
+   le colonisé d'eux-mêmes et de leur identité^[19]. Le rôle de
+   l'appropriation du pouvoir est central pour comprendre comment les
+   colonisateurs ont influencé les pays qu'ils ont colonisés et est
+   profondément lié au développement de la théorie post-coloniale.
+   L'utilisation de la théorie du regard postcolonial permet aux sociétés
+   anciennement colonisées de surmonter les barrières socialement
+   construites qui les empêchent souvent d'exprimer leurs véritables
+   droits^[19].
+
+Le regard du touriste masculin
+
+   [modifier | modifier le code]
+
+   L'image du tourisme se crée à travers des constructions culturelles et
+   idéologiques et des agences de publicité dominées par les hommes. Ce
+   qui est représenté par les médias suppose un type particulier de
+   touriste : blanc, occidental, masculin et hétérosexuel, privilégiant le
+   regard du « sujet maître » sur les autres^[21]. Cette représentation
+   s'explique par la prépondérence d'hommes occidentaux dans les
+   différents agences de production médiatiques. Grâce à ces influences,
+   les caractéristiques féminines telles que la jeunesse, la beauté, la
+   sexualité ou la possession d'un homme sont souhaitables, tandis que la
+--
+       de Wikipédia en anglais intitulé « Gaze » (voir la liste des
+       auteurs).
+
+    1. ↑ Foucault, Michel, 1926-1984., Naissance de la clinique : une
+       archéologie du regard médical, Presses universitaires de France,
+       1983 (ISBN 2-13-037951-6 et 978-2-13-037951-5, OCLC 10981310, lire
+       en ligne)
+       où est développé la notion de regard clinique
+    2. ↑ Jean-Paul Sartre L'Être et le Néant, 3^e partie, chapitre 1.
+    3. ↑ Jonathan Schroeder, Representing Consumers: Voices, Views and
+       Visions, New York, Routledge, 1998, 208 p. (ISBN 978-0415184144),
+       « Consuming Representation: A Visual Approach to Consumer
+--
+     * de Zegher, Catherine, Dans le visible, Presse MIT, 1996
+     * Ettinger, Bracha, "The Matrixial Gaze" (1995), réimprimé sous le
+       titre Ch. 1 dans : L'Espace frontalier matriciel . Presses de
+       l'Université du Minnesota, 2006
+     * Felluga, Dino, « Modules sur Lacan : sur le regard », Guide
+       d'introduction à la théorie critique
+     * Florence, Penny et Pollock, Griselda, Regard sur le futur. G & B
+       Arts, 2001
+     * Gardner-McTaggart, A. (à paraître), Capitale internationale, écoles
+       internationales, leadership et christianisme, sociétés de
+       mondialisation et éducation. Taylor et François.
+     * Jacobsson, Eva-Maria, Un regard féminin ? (1999)
+     * Kress, Gunther & Theo van Leeuwen, Lecture d'images : la grammaire
+       du design visuel (1996)
+     * Lacan, Jacques, Séminaire XI : Les quatre concepts fondamentaux de
+       la psychanalyse . NY et Londres, WW Norton and Co., 1978
+     * Lacan, Jacques, Séminaire 1 : Les Papiers de Freud sur la technique
+       (1988)
+     * Lutz, Catherine & Jane Collins, La Photographie comme intersection
+       de regards : l'exemple de National Geographic (1994). Dans :
+       Visualizing Theory : Selected Essays from VAR 1990-1994. Edité par
+       Lucien Taylor. New York : Routledge. p. 363-384
+     * Mulvey, Laura, Plaisir visuel et cinéma narratif (1975, 1992)
+     * Pollock, Griselda (éd. ), La Psychanalyse et l'image . Blackwell,
+       2006
+     * Sturken, Marita et Lisa Cartwright, Pratiques du regard : une
+       introduction à la culture visuelle. Oxford University Press, 2009.
+       p. 94, 103
+     * Paul, Nalini, The Female Gaze
+     * Pollock, Griselda, « La modernité et les espaces de la féminité »,
+--
+       Approach to Consumer Research
+     * Théorie, Culture et Société, volume 21, n° 1, 2004
+     * Jean-Paul Sartre, L'Être et le Néant. Essai d’ontologie
+       phénoménologique (1943), Gallimard, coll. « Tel », 1976
+     * Carl Havelange, De l’œil et du monde. Une histoire du regard au
+       seuil de la modernité, Fayard, 1998
+     * Alexis Rosenbaum, Regards imaginaires. Essais préliminaires à une
+       écologie visuelle, L'Harmattan, 2003
+     * Collectif, Le Sens du regard, revue Communications, numéro 75, 2004
+     * Daniel Marcelli, Les Yeux dans les yeux. L'énigme du regard, Albin
+       Michel, 2006
+     * Bruno Levy, « Des gens droits dans leurs regards », dans : Le
+       Portrait, Pearson Education France, 2010, p. 100-103
+     * Pascale Samson, « Le regard dans la communication », Le Guide des
+       relations, 26 avril 2011
+     * Sophie Flouquet, « Paula Modersohn-Becker, l'intensité d'un
+       regard », Beaux-Arts Magazine, 2016
+     * (en) Charlotte Jansen, Girl on Girl. Art and Photography in the Age
+       of Female Gaze, Laurence King Publishing, 2017
+
+Liens externes
+
+   [modifier | modifier le code]
+     * Notes sur le regard
+     * Robert Doisneau, Un regard oblique, 1948 — photographie illustrant
+       le regard
+     * The Male Gaze, avec des photographies de plusieurs publicités
+     * Aux Fenêtres de l'âme ( Windows of the Soul ), un film de Ron
+       Padova
+
+--
+     * Sentiment
+     * Sensation
+     * Satisfaction
+     * Rasa
+     * Regard
+
+   Catégories
+     * Agréable
+     * Avant-garde
+--
+     * icône décorative Portail de la psychologie
+     * icône décorative Portail de la sociologie
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Regard_(sciences_sociales)
+   &oldid=231157270 ».
+   Catégories :
+     * Féminisme postmoderne
+     * Communication humaine
+--
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Regard (sciences sociales)
+   (BUTTON) 12 langues Ajouter un sujet
