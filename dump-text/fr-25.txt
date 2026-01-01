@@ -1,3 +1,23 @@
+   #RDF+XML BibTeX RDF+N-Triples JSON OAI-ETDMS Dublin Core Atom Simple
+   Metadata Refer METS Interoperability Metadata Standard for Electronic
+   Theses and Dissertations - OAI Schema HTML Citation ASCII Citation
+   OpenURL ContextObject EndNote MODS OpenURL ContextObject in Span
+   MPEG-21 DIDL EP3 XML Reference Manager RDF+N3 Grid (abstract) Multiline
+   CSV Top Search Search
+
+     * Bibliothèques
+     * Bottin
+     * Moodle
+     * Répertoire des professeurs
+     *
+
+   UQAM – Université du Québec à Montréal
+   Bannière
+     * UQAM
+     * Archipel
+
+   Archipel
+   rectagnle deposer rectagnle obtenir du soutien
    Connexion
    ACCUEIL       DÉPOSER       POLITIQUE DE DÉPÔT       FAQ       CONTACT
          À PROPOS
@@ -10,7 +30,19 @@ d'Afrique subsaharienne par la géographie savante francophone
    savante francophone » Mémoire. Montréal (Québec), Université du Québec
    à Montréal, Maîtrise en géographie.
    Fichier(s) associé(s) à ce document :
---
+   [img]
+   Prévisualisation
+   PDF
+   Télécharger (1MB)
+
+Résumé
+
+   Les villes et urbanités subsahariennes, s’exprimant par des modes
+   d’habiter et des pratiques socioterritoriales si novateurs et
+   hybridants par rapport aux référents urbains occidentaux, demeureraient
+   généralement peu ou mal comprises dans toutes leurs nuances et
+   complexités, ce en raison de modes d’appréhension jusqu’ici préconisés
+   insuffisamment bien nantis pour les réfléchir. À ce sujet, une
    littérature anglo-saxonne, articulée en une Southern Urban Critique, en
    appelle d’une désoccidentalisation des imaginaires façonnant les modes
    de lecture, ce afin que les villes des Suds puissent s’exprimer avec
@@ -20,3 +52,66 @@ d'Afrique subsaharienne par la géographie savante francophone
    ce mémoire, nous souhaitons réfléchir aux imaginaires et diktats
    cognitifs présidant aux allants de soi épistémologiques qui
    caractérisent la géographie savante francophone dans l’étude des villes
+   et urbanités subsahariennes. Nous proposons d’explorer l’hypothèse
+   selon laquelle cette même géographique, dans ses moyens et pratiques,
+   est surdéterminée par une colonialité de la pensée (Quijano, 1994)
+   foncièrement occidentalo-centrique qui bride, voire ampute, sa capacité
+   à pleinement engager et traiter les imaginaires et la géographicité
+   subsahariennes. Afin d’éprouver pareille hypothèse, nous avons mené une
+   analyse critique du discours sur 134 articles publiés dans des revues
+   de géographie francophone issues à la fois de l’Occident que de
+   l’Afrique francophone, ce de 2002 à 2020. Pour ce faire, nous avons
+   fait nôtres les velléités des géographies postcoloniales, qui
+   interrogent l’autorité des discours et imaginaires occidentaux et leur
+   nature hégémonique dans la lecture de notre condition habitante.
+   L’analyse des résultats révèle des constats de trois ordres : d’abord,
+   une faible actualisation des tenants épistémologiques à l’aune des
+   réalités urbaines subsahariennes; ensuite, la prégnance d’un imaginaire
+   reproducteur de l’urbain qui recourt mécaniquement aux caractéristiques
+   des villes occidentales pour traiter et lire les villes et urbanités
+   subsahariennes; enfin, une quasi-absence de dialogue scientifique entre
+   les géographies occidentaux-ales et afro-continentaux-ales. Notre étude
+   permet ainsi d’éclairer les modes de production de connaissances
+   géographiques sur les villes et urbanités subsahariennes, ce alors que
+   comment on les comprend et ce qu’on en sait déterminent à plusieurs
+   égards le geste urbanistique et aménagiste, que d’aucun-e-s souhaitent
+   plus respectueux et au diapason des typicités urbaines subsahariennes
+   et, dès lors, plus pérenne.
+   _______________________________________________________________________
+   ______ MOTS-CLÉS DE L’AUTEUR : postcolonialisme, épistémologie de la
+   géographie, imaginaire géographique, villes subsahariennes, urbanité
+   Type: Mémoire accepté
+   Informations complémentaires: Fichier numérique reçu et enrichi en
+   format PDF/A.
+   Directeur de thèse: Bédard, Mario
+   Mots-clés ou Sujets: Villes / Afrique subsaharienne / Géographie /
+   Épistémologie / Postcolonialisme
+   Unité d'appartenance: Faculté des sciences humaines > Département de
+   géographie
+   Déposé par: Service des bibliothèques
+   Date de dépôt: 08 mai 2023 11:24
+   Dernière modification: 08 mai 2023 11:24
+   Adresse URL : http://archipel.uqam.ca/id/eprint/16531
+   Modifier les métadonnées (propriétaire du document)
+
+Statistiques
+
+   Voir les statistiques sur cinq ans...
+   rechercher RECHERCHER
+   __________________________ Chercher
+   __________________________ Chercher
+   __________________________ Chercher
+   rechercheavance
+   rechercher PARCOURIR
+   Année
+   Auteur
+   Unité d'appartenance
+   libre-accès LIBRE ACCÈS
+     * Libre Accès à l'UQAM
+     * Politique Gouvernement du Canada
+     * Politique des Fonds de recherche du Québec
+     * Open policy finder
+
+     *   UQAM - Université du Québec à Montréal
+     * Archipel fleche-courriel Nous écrire
+     * Connexion

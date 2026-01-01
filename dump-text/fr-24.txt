@@ -1,3 +1,83 @@
+     * Aller au contenu
+     * Aller au menu
+     * Aller à la recherche
+
+   Cairn.info, Droit et Administration Cairn.info, Droit et Administration
+
+   Rechercher dans la bibliothèque numérique ____________________
+   (BUTTON)
+
+   Recherches récentes
+     * ipsum facilis
+     * eos praesentium
+     * rerum nostrum
+     * iure voluptatem
+     * nihil illo
+
+   (BUTTON) Effacer
+
+   Des idées pour vous
+   voluptate velit et et ut debitis
+   (BUTTON)
+   voluptate velit et et ut debitis
+
+   Aucune suggestion trouvée
+
+   (BUTTON)
+   (BUTTON) Se connecter
+
+Compte personnel
+
+   * Champs obligatoires
+   ____________________ Adresse email *
+   ____________________ Mon mot de passe *
+   [ ] Rester connecté(e)
+   Mot de passe oublié ? Vous serez redirigé vers une page pour
+   réinitialiser votre mot de passe
+   (BUTTON) Se connecter
+
+   Pas encore de compte ?
+
+   Créer un compte Vous serez redirigé vers le formulaire d'inscription
+   pour créer un nouveau compte
+
+Accès institutions
+
+   Non connecté(e)
+   Authentifiez-vous
+   (BUTTON)
+
+   Sciences Humaines et Sociales
+
+   Sciences, Techniques et Médecine
+
+   Droit et Administration
+   (*) Français
+   ( ) English
+   ( ) Español
+     * À propos de cairn.info
+     * Contact
+     * Aide
+
+   Rechercher dans la bibliothèque numérique ____________________
+   (BUTTON)
+
+   Recherches récentes
+     * quia sit
+     * atque tempora
+     * explicabo omnis
+     * eveniet impedit
+     * quidem quidem
+
+   (BUTTON) Effacer
+
+   Des idées pour vous
+   qui impedit distinctio consectetur ipsam excepturi
+   (BUTTON)
+   qui impedit distinctio consectetur ipsam excepturi
+
+   Aucune suggestion trouvée
+   (BUTTON)
 
    Postcolonialisme et droit : perspectives épistémologiques 2020
    Chapitre d’ouvrage
@@ -7,7 +87,19 @@ décolonisation équivoque
 
      * Par Léa Havard
 
---
+   Pages 67 à 89
+   Citoyenneté
+   (BUTTON)
+   Citoyenneté
+
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+
+Citer ce chapitre
+
+   (BUTTON)
+   (BUTTON) APA (BUTTON) MLA (BUTTON) ISO 690 (BUTTON) DOI
      __________________________________________________________________
 
      * HAVARD, Léa,
@@ -17,7 +109,11 @@ décolonisation équivoque
      * GESLIN, Albane,
      * HERRERA, Carlos Miguel
      * et PONTHOREAU, Marie-Claire,
---
+
+   Postcolonialisme et droit : perspectives épistémologiques. Paris :
+   Éditions Kimé. Nomos & Normes, p.67-89. DOI :
+   10.3917/kime.gesli.2020.01.0067. URL :
+   https://droit.cairn.info/postcolonialisme-et-droit-perspectives-epistem
    olog--9782841749881-page-67?lang=fr.
    (BUTTON)
      * Havard, Léa.
@@ -35,7 +131,559 @@ décolonisation équivoque
      * A. Geslin,
      * C. Herrera
      * et M. Ponthoreau
---
+
+   Postcolonialisme et droit : perspectives épistémologiques (p. 67-89).
+   Éditions Kimé. https://doi.org/10.3917/kime.gesli.2020.01.0067.
+   (BUTTON)
+
+   https://doi.org/10.3917/kime.gesli.2020.01.0067
+   (BUTTON)
+     __________________________________________________________________
+
+   Zotero (.ris) Refworks (.ris)
+   Article
+   Auteur(e)s
+   Sur un sujet proche
+   Acheter
+     *
+     *
+
+   (BUTTON) Notes
+
+   (BUTTON)
+    1.
+         1.
+
+Notes
+
+     * [1]
+       Tout du moins à court terme car l’Accord de Nouméa prévoit à son
+       point 5 la possibilité d’organiser un deuxième référendum en cas de
+       réponse négative à la première consultation, puis, si le résultat
+       était à nouveau négatif, la possibilité d’organiser un troisième
+       référendum. Les deuxième et troisième référendums ne peuvent être
+       déclenchés que par un tiers des membres du congrès calédonien et,
+       s’ils avaient lieu, doivent porter sur la même question que celle
+       posée le 4 novembre 2018.
+     * [2]
+       V. Goesel-Le Bihan, « La Nouvelle-Calédonie et l’accord de Nouméa,
+       un processus inédit de décolonisation », AFDI, vol. 44, 1998, pp.
+       24-75 ; F. Melin-Soucramanien, « La République française et la
+       Nouvelle-Calédonie : réussir (enfin) une décolonisation ? »,
+       Espaces du service public. Mélanges en l’honneur de Jean du Bois de
+       Gaudusson, Bordeaux, Presses Universitaires de Bordeaux, 2013, pp.
+       1239-1249, spéc. p. 1244. Voir également, F. Melin-Soucramanien,
+       « Les politiques françaises de décolonisation. L’émergence d’une
+       politique de décolonisation par différenciation en
+       Nouvelle-Calédonie », Mélanges offerts au Doyen Charles Cadoux,
+       Aix-en-Provence, PUAM, 1999, pp. 205-212.
+     * [3]
+       Pour une chronologie complète de l’histoire de la
+       Nouvelle-Calédonie, voir I. Leblic, « Chronologie de la
+       Nouvelle-Calédonie », Le Journal de la Société des Océanistes, n°
+       117, 2002-2003, pp. 299-312. Voir aussi S. Mohamed-Gaillard, « De
+       la prise de possession à l’accord de Nouméa : 150 ans de liens
+       institutionnels et politiques entre la France et la
+       Nouvelle-Calédonie », Le Journal de la Société des Océanistes, n°
+       117, 2002-2003, pp. 171-186 ; F. Angleviel, Histoire de la
+       Nouvelle-Calédonie, Paris, Vendemiaire, 2018.
+     * [4]
+       L. Rolland, P. Lampue, Précis de législation coloniale, Paris,
+       Dalloz, 2^e éd., 1936, p. 4 ; G. Perville, De l’Empire français à
+       la décolonisation, cit., pp. 67. Sur la politique de colonisation
+       de peuplement en Nouvelle-Calédonie, voir H. Mokaddem, « Le destin
+       commun à l’épreuve du corps électoral en Nouvelle-Calédonie », site
+       du Centre des études sur le Pacifique, 2007, [en ligne]
+       http://cnep.univ-nc.nc/IMG/pdf/Mokaddem_la_question_du_coprs_electo
+       ral.pdf, (consulté le 15 octobre 2018), pp. 1-31.
+     * [5]
+       I. Merle, « De la “légalisation” de la violence en contexte
+       colonial. Le régime de l’indigénat en question », Politix, 2004,
+       vol. 17, n° 66, pp. 137-162.
+     * [6]
+       S. Graff, « Visibilité du destin commun et invisibilité de
+       l’histoire : discours, célébrations et construction de la
+       citoyenneté en Nouvelle-Calédonie », Anthrovision, 2016, [En ligne]
+       http://journals.openedition.org/anthrovision/2250 (consulté le 09
+       octobre 2018), spéc. p. 1.
+     * [7]
+       Le 22 avril 1988, sur fond de rivalité entre indépendantistes Kanak
+       et non-indépendantistes Caldoches (populations calédoniennes
+       d’origine européenne), un groupe de Kanak souhaitait occuper une
+       gendarmerie en signe de protestation. La manifestation qui se
+       voulait pacifique marque en réalité le début du drame. Quatre
+       gendarmes sont tués et vingt sept autres sont pris en otage dans la
+       grotte d’Ouvéa pendant plusieurs jours. Le 3 mai, le gouvernement
+       français lance un assaut au cours duquel dix neuf Kanak et deux
+       militaires sont tués. Les conditions de la mort des ravisseurs
+       kanak restent aujourd’hui toujours contestées. Voir C. Michalski,
+       L’assaut de la grotte d’Ouvéa : analyse juridique, Paris,
+       L’Harmattan, 2004.
+     * [8]
+       « Les Événements » est l’expression utilisée pudiquement en
+       Nouvelle-Calédonie pour faire référence à la période
+       d’affrontements entre indépendantistes et non-indépendantistes qui
+       a fait, entre ١٩٨٤ et ١٩٨٨, plus de ٨٠ morts.
+     * [9]
+       Les articles 76 et 77 de la Constitution issus de la révision
+       constitutionnelle du 20 juillet 1998 citent expressément l’accord
+       de Nouméa et l’article 77 précise que « l’évolution de la
+       Nouvelle-Calédonie [devra avoir lieu] dans le respect des
+       orientations définies par cet accord ». L’accord de Nouméa, composé
+       d’un préambule et d’un document d’orientation, a par là même acquis
+       valeur constitutionnelle. Voir C. cass., Ass. Plen., ٢ juin ٢٠٠٠,
+       Melle Fraisse, Bull. civ., AP, n° 4 p. 7 ; CC, Décision n° 2004-500
+       DC du 29 juillet 2004 Loi organique relative à l’autonomie
+       financière des collectivités territoriales, JORF du 30 juillet
+       2004, p. 13562.
+     * [10]
+       Loi organique n° 99-209 du 19 mars 1999 relative à la
+       Nouvelle-Calédonie, JORF du 21 mars 1999, p. 4197.
+     * [11]
+       M. Chauchat, Les institutions en Nouvelle-Calédonie. Institutions
+       politiques et administratives, Nouméa, Scérén, CDP de
+       Nouvelle-Calédonie, 2011 ; J.-Y. Faberon, Des institutions pour un
+       pays : la Nouvelle-Calédonie en devenir, Aix-en-Provence, PUAM,
+       2012.
+     * [12]
+       S. Camille, La population de Nouvelle-Calédonie, 2016, Maison de la
+       Nouvelle-Calédonie, p. 17.
+     * [13]
+       En France, la conception républicaine du principe d’égalité
+       interdit en principe le recours aux statistiques ethniques.
+       Cependant, la loi n° 78-17 du 6 janvier 1978 relative à
+       l’informatique, aux fichiers et aux libertés prévoit la possibilité
+       de déroger à cette interdiction si cela est justifié par un
+       « l’intérêt public ». C’est le cas en Nouvelle-Calédonie, où lors
+       des neuf recensements effectués sur le territoire depuis la seconde
+       guerre mondiale (sauf celui de 2004), les habitants ont été invités
+       à se prononcer sur leur communauté d’appartenance. D’après le
+       dernier recensement de 2014, 39 % de la population appartient à la
+       communauté Kanak, 27 % est européenne, puis viennent les Wallisiens
+       et Futuniens qui représentent 8 % de la population, ainsi que les
+       communautés tahitienne, indonésienne, vietnamienne ou encore
+       vanuatuane. Voir Site de l’Institut de la statistique et des études
+       économiques, [en ligne]
+       http://www.isee.nc/population/recensement/communautes (consulté le
+       16 octobre 2018).
+     * [14]
+       S. Pierre-Caps, Nation et peuples dans les constitutions modernes,
+       Nancy, Presses universitaires de Nancy, 1987, p. 279. Voir pour la
+       notion de nation : D. Schnapper, La communauté des citoyens : sur
+       l’idée moderne de nation, Paris, Gallimard, 2^e éd., 2003, pp.
+       43-72.
+     * [15]
+       E. Renan, Discours et conférences, Paris, Calmann-Lévy, 1882, p.
+       306. En opposition à cette conception subjective, la doctrine
+       allemande, portée par J. Fichte, repose sur l’existence d’éléments
+       matériels. De ce point de vue, l’unité nationale résulterait de
+       l’homogénéité linguistique, culturelle et religieuse de ses
+       membres, ainsi que de leur appartenance à une même zone
+       géographique. En réalité, cette distinction, largement diffusée,
+       doit être nuancée puisque toutes les nations sont à la fois
+       ethniques et civiques, chacune d’entre elles exprimant son identité
+       à travers sa propre articulation de ces deux éléments (D.
+       Schnapper, La communauté des citoyens, cit., pp. 166-168).
+     * [16]
+       E. Renan, Discours et conférences, cit., p. 307.
+     * [17]
+       M. Chauchat, « La citoyenneté calédonienne », Cahiers du Conseil
+       constitutionnel, n° 23, 2008, pp. 56-60, spéc. p. 58.
+     * [18]
+       M.-C. Smouts, « Les études postcoloniales en France : émergence et
+       résistances », in Ruptures postcoloniales. Les nouveaux visages de
+       la société française, Paris, La Découverte, 2010, p. 309-316, spéc.
+       p. 316.
+     * [19]
+       Y. Clavaron, Petite introduction aux postcolonial studies, Paris,
+       Kimé, 2015 ; D. Otto, « Postcolonialism and Law ? », Third World
+       Legal Studies, 1999, vol. 15, pp. 1-18 ; A. Mbembe et al.,
+       « Qu’est-ce que la pensée postcoloniale ? », Esprit, 2006/12, pp.
+       117-133 ; M.-C. Smouts « Introduction/Le postcolonial pour quoi
+       faire ? », in La situation postcoloniale. Les postcolonial studies
+       dans le débat français, Paris, Presses de Sciences Po, Paris, 2007,
+       pp. 25-66 ; A. Roy, « Postcolonial Theory and Law : A Critical
+       Introduction », Adelaide Law Review, 2008, n° 29, pp. 315-357 ; D.
+       Ferreira da Silva, M. Harris (dir.), Postcolonialism and the Law :
+       Critical Concepts in Law, London-New-York, Routledge, 2018.
+     * [20]
+       M.-C. Smouts, « Les études postcoloniales en France… », cit., p.
+       316.
+     * [21]
+       Sur la colonisation des esprits, voir F. Fanon, Les damnés de la
+       terre (1961), Paris, La Découverte, 2002.
+     * [22]
+       C. Schmitt, Théorie de la Constitution (1928), Paris, PUF, 2^e éd.,
+       2013, p. 183.
+     * [23]
+       P. Jean, « Le temps des accords : textes de la déclaration de
+       Nainville-les-roches, des accords de Matignon et Oudinot et de
+       l’accord de Nouméa », Revue juridique, politique et économique de
+       la Nouvelle-Calédonie, 2007, n° 2, pp. 2-13, spéc. p. 2.
+     * [24]
+       Déclaration finale de la table ronde de Nainville-les-Roches, ١٢
+       juillet ١٩٨٣.
+     * [25]
+       Déclaration finale de la table ronde de Nainville-les-Roches, ١٢
+       juillet ١٩٨٣.
+     * [26]
+       S. Graff, « Visibilité du destin commun et invisibilité de
+       l’histoire : discours, célébrations et construction de la
+       citoyenneté en Nouvelle-Calédonie », préc., spéc. p. 3
+     * [27]
+       C. Klein, « Pourquoi écrit-on une Constitution ? », in L. Jaume, M.
+       Troper (dir.), 1789 et l’invention de la Constitution, Paris, LGDJ,
+       1994, pp. 86-99, spéc. p. 94 ; M. C. Ponthoreau, Droit(s)
+       constitutionnel(s) comparé(s), Paris, Economica, 2010, pp.
+       270-275 ; J. Chevallier, « Essai d’analyse structurale du
+       Préambule », in Le Préambule de la Constitution de 1946 :
+       antinomies juridiques et contradictions politiques, Paris, PUF,
+       1996, pp. 13-36 ; L. Heuschling, « La Constitution formelle », in
+       M. Troper, D. Chagnollaud (dir.), Traité international de droit
+       constitutionnel, t. 1, Paris, Dalloz, 2012, spéc. pp. 279-290.
+     * [28]
+       H. Mokaddem, « Qui est peuple en Nouvelle-Calédonie
+       aujourd’hui ? », in J.-Y. Faberon, V. Fayaud, J.-M. Regnault
+       (dir.), Destins des Collectivités politiques d’Océanie : Peuples,
+       populations, nations, États, territoires, pays, patries,
+       communautés, frontières, t. 2, Aix-en-Provence, PUAM, 2011, pp.
+       615-623, spéc. p. 617.
+     * [29]
+       H. Mokaddem, « La reformulation permanente de la souveraineté de la
+       Kanaky/Nouvelle-Calédonie », in N. Gagne, M. Salaün (dir.), Visages
+       de la souveraineté en Océanie, Paris, L’Harmattan, 2010, pp.
+       185-209, spéc. p. 187.
+     * [30]
+       Accord de Nouméa, 5 mai 1998, préambule.
+     * [31]
+       P. Bretenier, J.-Y. Faberon, « Identités communautaires plurielles
+       et destin commun », in J.Y. Faberon, V. Fayaud, J. M. Regnault
+       (dir.), Destins des Collectivités politiques d’Océanie : Peuples,
+       populations, nations, États, territoires, pays, patries,
+       communautés, frontières, Aix-en-Provence, PUAM, 2011, t. 2, pp.
+       605-612 ; H. Mokaddem, « Qui est le peuple en Nouvelle-Calédonie
+       aujourd’hui ? », in J.Y. Faberon, V. Fayaud, J. M. Regnault (dir.),
+       Destins des Collectivités politiques d’Océanie…, cit., pp. 615-623,
+       spéc. p. 616.
+     * [32]
+       F. Garde, « Le préambule de l’Accord de Nouméa, prologue d’une
+       histoire officielle ? », in E. Wadrawane, F. Angleviel (dir.), La
+       Nouvelle-Calédonie : les Kanaks et l’histoire, Les Indes savantes,
+       vol. 2, 2008, pp. 79-86, spéc. p. 81.
+     * [33]
+       Accord de Nouméa, 5 mai 1998, point 1.5.
+     * [34]
+       Loi du pays n° 2010-11 du 9 septembre 2010 relative à trois signes
+       identitaires de la Nouvelle-Calédonie.
+     * [35]
+       Charte des valeurs calédoniennes, 27 juillet 2018, [en ligne]
+       http://www.nouvelle-caledonie.gouv.fr/content/download/4794/37118/f
+       ile/20180727%20Charte%20des%20valeurs%20cale%CC%81doniennes.pdf
+       (consulté le 18 octobre 2018).
+     * [36]
+       C. Chaumont, « Le droit des peuples à témoigner d’eux-mêmes »,
+       Annuaire du tiers monde, 1976, pp. 1531. Dans le même sens,
+       définissant le peuple essentiellement à travers la revendication
+       d’indépendance, voir G. Gottlieb, Nation Against State. À New
+       Approach to Ethnic Conflicts and the Decline of Sovereignty, New
+       York, Council of Foreign Relations Press, 1993.
+     * [37]
+       « L’autoaffirmation est l’acte primordial par lequel se constitue
+       une collectivité, un peuple » (G. Heraud, « Modèle pour une
+       application générale du droit d’autodétermination », préc., p. ٤٥).
+     * [38]
+       Décision n° ٩١-٢٩٠ DC du ٩ mai ١٩٩١, Loi portant statut de la
+       collectivité territoriale de Corse, JORF du 14 mai 1991, p. 6350.
+     * [39]
+       Voir N. Clinchamps, « Distorsions et corps électoraux en
+       Nouvelle-Calédonie », Pouvoirs, n° 127, 2008, pp. 151-165 ; M.
+       Chauchat, « La citoyenneté calédonienne », cit., pp. 56-60. ; F.
+       Garde, « Naissance et avatars de la citoyenneté calédonienne », in
+       J.Y. Faberon, V. Fayaud, J. M. Regnault (dir.), Destins des
+       Collectivités politiques d’Océanie…, cit. t. 2, pp. 583-590 ; in
+       J.Y. Faberon (dir.), Citoyenneté et destin commun en
+       Nouvelle-Calédonie, Aix-en-Provence, PUAM, 2013.
+     * [40]
+       D. Schnapper, Qu’est-ce que la citoyenneté ?, Paris, Gallimard,
+       2000.
+     * [41]
+       Accord de Nouméa, 5 mai 1998, préambule.
+     * [42]
+       Accord de Nouméa, 5 mai 1998, point 2.
+     * [43]
+       Accord de Nouméa, ٥ mai ١٩٩٨, point ٥ : « Afin de tenir compte de
+       l’étroitesse du marché du travail, des dispositions seront définies
+       pour favoriser l’accès à l’emploi local des personnes durablement
+       établies en Nouvelle-Calédonie ».
+     * [44]
+       Article 24 de la loi organique du 19 mars 1999 relative à la
+       Nouvelle-Calédonie.
+     * [45]
+       Voir A. Chirez, « Droit au travail et préférence locale : les
+       exemples de la Polynésie française et de la Nouvelle-Calédonie »,
+       in J.Y. Faberon, V. Fayaud, J. M. Regnault (dir.), Destins des
+       Collectivités politiques d’Océanie…, cit., vol. 2, pp. 715-724 ; F.
+       Garde, « Qu’est-ce que l’accord de Nouméa dit du rééquilibrage ? »,
+       in J.Y. Faberon, T. Mennesson (dir.), Peuple premier et cohésion
+       sociale en Nouvelle-Calédonie. Identités et rééquilibrages,
+       Aix-en-Provence, PUAM, 2012, 177-186.
+     * [46]
+       Accord de Nouméa, 5 mai 1998, point 2.
+     * [47]
+       Là où la citoyenneté européenne est « un plus » par rapport à la
+       citoyenneté française, la citoyenneté calédonienne représente « un
+       moins » puisqu’elle restreint les droits des français non-citoyens
+       calédoniens. Cela n’est pas propre à la citoyenneté calédonienne.
+       La citoyenneté, en tant qu’institution, se caractérise
+       traditionnellement par des mécanismes d’exclusion : exclusion par
+       l’argent avec le suffrage censitaire, exclusion des femmes du droit
+       de vote ou encore exclusion des immigrés. Voir P. Guillaume,
+       « Nationalité et citoyenneté en France, au Québec et au Canada.
+       Approche historique », in D. Colas, C. Emeri, J. Zylberberg (dir.),
+       Citoyenneté et nationalité : perspectives en France et au Québec,
+       Paris, PUF, 1991, pp. 103-110.
+     * [48]
+       La révision constitutionnelle de 1998 a introduit dans la
+       Constitution française un titre XIII « Dispositions transitoires
+       relatives à la Nouvelle-Calédonie ». Ce titre a permis d’organiser
+       les dérogations à la Constitution induites par la mise en œuvre de
+       l’accord de Nouméa, notamment en matière de droit de vote.
+     * [49]
+       Voir l’article 188 de la loi organique du 19 mars 1999 pour les
+       conditions d’inscription sur la liste électorale pour les élections
+       provinciales et l’article 218 de la même loi pour les conditions
+       d’inscription sur la liste électorale spéciale de la consultation
+       d’accession à la pleine souveraineté.
+     * [50]
+       Constitution du 4 octobre 1958, article 77.
+     * [51]
+       Dix ans pour participer aux élections provinciales, vingt ans (en
+       étant nécessairement arrivé sur le territoire au plus tard en 1998)
+       pour participer à la consultation d’accession à la pleine
+       souveraineté de la Nouvelle-Calédonie.
+     * [52]
+       L. Wamytan, « Le peuple kanak face aux défis du droit français »,
+       in Destins des Collectivités politiques d’Océanie…, cit., pp.
+       625-635 ; J.-Y. Faberon, Des institutions pour un pays : la
+       Nouvelle-Calédonie en devenir, Aix-en-Provence, PUAM, 2012, pp.
+       147-160.
+     * [53]
+       Voir Comité des droits de l’homme des Nations unies, Constatations
+       au titre du paragraphe 4, de l’article 5 du Protocole facultatif se
+       rapportant au Pacte International relatif aux droits civils et
+       politiques, Communication n° 932/2000 du 26 juillet 2002 ; Cour
+       EDH, 11 janvier 2005, M. Py c/ France, req. n° 66289/01.
+     * [54]
+       Constitution du 4 octobre 1958, titre xii « Dispositions
+       transitoires relatives à la Nouvelle-Calédonie ».
+     * [55]
+       N. Clinchamps, « Distorsions et corps électoraux en
+       Nouvelle-Calédonie », préc.
+     * [56]
+       Assemblée générale des Nations Unies, Résolution 41/41A du 2
+       décembre 1986, « Application de la Déclaration sur l’octroi de
+       l’indépendance aux pays et aux peuples coloniaux ». Voir S.
+       Mohamed-Gaillard, « Parcours de l’indépendance kanak de la
+       Nouvelle-Calédonie aux Nations Unies », in E. Wadrawane, F.
+       Angleviel (dir.), La Nouvelle-Calédonie : les Kanaks et l’histoire,
+       cit., vol. 2, Paris, 2008, pp. 349-364 ; J. M. Regnault, L’ONU, la
+       France et les décolonisations tardives : l’exemple des terres
+       françaises d’Océanie, Aix-en-Provence, PUAM, 2013, pp. 83-157.
+     * [57]
+       Voir R. Carré de Malberg, Contribution à la théorie générale de
+       l’État : spécialement d’après les données fournies par le droit
+       constitutionnel français (1920), rééd., Paris, Dalloz, 2003, t. 1,
+       pp. 13-15 ; J. Chevallier, « L’État-nation », RDP, n° 5, 1980, pp.
+       1271-1302 ; D. de Rougemont, « État-nation », in D. de Rougemont,
+       F. Saint-Ouen (dir.) Dictionnaire international du Fédéralisme,
+       Bruxelles, Bruylant, 1994, pp. 58-63 ; O. Beaud, La puissance de
+       l’État, Paris, PUF, 1994.
+     * [58]
+       Voir R. Debbasch, Le principe révolutionnaire d’unité et
+       d’indivisibilité de la République, Aix-en-Provence Economica, PUAM,
+       1988 ; B. Matthieu, M. Verpeaux (dir.), L’indivisibilité de la
+       République, Paris, Economica, 1996, pp. 79-102, pp. 95-102 ; F.
+       Melin-Soucramanien, Le principe d’égalité dans la jurisprudence du
+       Conseil constitutionnel, Paris, Economica, PUAM, 1997, pp. 58-66 ;
+       F. Lemaire, Le principe d’indivisibilité de la République : mythe
+       et réalité, Rennes, Presses universitaires de Rennes, 2010.
+     * [59]
+       CC, Décision n° 91-290 DC du 9 mai 1991, Loi portant statut de la
+       collectivité territoriale de Corse, JORF du 14 mai 1991, p. 6350,
+       cons. 13.
+     * [60]
+       R. Carré de Malberg Contribution à la théorie générale de l’État,
+       cit. ; J. Chevallier, « L’État-nation », cit. ; O. Beaud, La
+       puissance de l’État, cit. ; J.-D. Mouton « L’État selon le droit
+       international : diversité et unité », in SFDI, L’État souverain à
+       l’aube du XXI^e siècle, Paris, Pedone, 1994, pp. 79-106.
+     * [61]
+       F. Borella, Éléments de droit constitutionnel, Paris, Presses de la
+       FNSP, 2008, p. 361.
+     * [62]
+       J. Chevallier, L’État, Paris, Dalloz, 2^e éd., ٢٠١١, pp. ٨١-82 ; H.
+       Ruiz-Fabri, « Genèse et disparition de l’État à l’époque
+       contemporaine », AFDI, vol. 38, 1992, pp. 153-178.
+     * [63]
+       Accord de Nouméa, 5 mais 1998, préambule : « La décolonisation est
+       le moyen de refonder un lien social durable entre les communautés
+       qui vivent aujourd’hui en Nouvelle-Calédonie, en permettant au
+       peuple kanak d’établir avec la France des relations nouvelles
+       correspondant aux réalités de notre temps ». Voir F.
+       Melin-Soucramanien, « Les politiques françaises de
+       décolonisation… », cit., pp. 205-212 ; F. Melin-Soucramanien, « La
+       République française et la Nouvelle-Calédonie : réussir (enfin) une
+       décolonisation ? », cit., pp. 1239-1249.
+     * [64]
+       O. Bui-Xuan, Le droit public français entre universalisme et
+       différentialisme, Paris, Economica, 2004. Tel n’a pas été le chemin
+       suivi par d’autres territoires où vivent des sociétés qui, lors de
+       leur décolonisation, ont fait le choix d’une forme de l’État
+       alternative à l’État Nation, à savoir l’État associé. Voir L.
+       Havard, L’État associé. Recherches sur une nouvelle forme de l’État
+       dans le Pacifique Sud, Aix-Marseille, PUAM, 2018.
+     * [65]
+       Le point 1 de l’accord de Nouméa porte sur l’identité kanak. Il met
+       en place une série de dispositifs ayant vocation à assurer la
+       promotion de cette dernière. Les kanak peuvent ainsi disposer d’un
+       statut civil de droit coutumier, un Sénat coutumier a été créé et
+       est consulté pour toute affaire ayant trait à l’identité kanak, les
+       terres coutumières ont été reconnues, etc.
+     * [66]
+       S. Graff, « Visibilité du destin commun et invisibilité de
+       l’histoire … », cit., p. 2.
+     * [67]
+       Accord de Nouméa, 5 mai 1998, préambule.
+     * [68]
+       « Communautés », Site de l’Institut de la statistique et des études
+       économiques, [en ligne]
+       http://www.isee.nc/population/recensement/communautes (consulté le
+       16 octobre 2018).
+     * [69]
+       Le 24 septembre est la date à laquelle, en 1853, l’amiral Fébvrier
+       Despointes prit possession de la Nouvelle-Calédonie au nom de la
+       France.
+     * [70]
+       B. Carteron, « Le Mwâ Kââ, vers la manifestation d’une appartenance
+       commune en Nouvelle-Calédonie ? », Le Journal de la Société des
+       Océanistes, n° 134, 2012, pp. 45-60, spéc. p. 49.
+     * [71]
+       Idem, spéc. p. 59.
+     * [72]
+       Le multiculturalisme peut être défini comme « l’état dans lequel se
+       trouve une société qui entreprend de coordonner des ensembles de
+       valeurs et de croyances auxquels s’identifient des groupes
+       d’individus qui la constituent, notamment exprimés par des
+       sentiments d’appartenance religieuse et d’identité linguistique »
+       (N. Rouland, « Le droit français devient-il multiculturel ? »,
+       Droit et société, n° 46, 2000, pp. 519-545, spéc. p. 520).
+     * [73]
+       D. Turpin, « Patries et communautés », in, Destins des
+       Collectivités politiques d’Océanie…, cit., t. 1, pp. 143-152 ; H.
+       Mokaddem, « Qui est peuple en Nouvelle-Calédonie aujourd’hui ? »,
+       in, Destins des Collectivités politiques d’Océanie…, cit., t. 2,
+       pp. 615-623.
+     * [74]
+       J.-F. Dobelle, « Référendum et droit à l’autodétermination »,
+       Pouvoirs, n° 77, 1996, pp. 42-61, spéc. p. 20 ; P. Daillier, M.
+       Forteau, A. Pellet, Droit international public, préc., p. 581.
+     * [75]
+       Accord de Nouméa, 5 mai 1998, point 5.
+     * [76]
+       Accord de Nouméa, 5 mai 1998, préambule.
+     * [77]
+       Article 2, Décret n° 2018-457 du 6 juin 2018 portant convocation
+       des électeurs et organisation de la consultation sur l’accession à
+       la pleine souveraineté de la Nouvelle-Calédonie, JORF n° 0129 du 7
+       juin 2018.
+     * [78]
+       Article 216, Loi organique n° 99-209 du 19 mars 1999 relative à la
+       Nouvelle-Calédonie, JORF du 21 mars 1999, p. 4197.
+     * [79]
+       H. Amiel, « La pratique française des plébiscites internationaux »,
+       cit., p. 450. Sur la notion de plébiscite et l’évolution de son
+       contenu, voir M. Merle, « Les plébiscites organisés par les Nations
+       Unies », cit. ; F. Lemaire, La République française et le droit
+       d’autodétermination, préc., pp. 477-525 ; D. Alland, Droit
+       international public, Paris, PUF, 2000, p. 121.
+     * [80]
+       À titre d’exemples, des référendums d’autodétermination ont eu lieu
+       en Algérie le 8 janvier 1961, à Djibouti le 19 mars 1967, aux
+       Comores le 22 décembre 1974 ou encore à Mayotte le 8 février 1976.
+     * [81]
+       J.-F. Dobelle, « Référendum et droit à l’autodétermination », cit.,
+       spéc. p. 47.
+     * [82]
+       A. Lijphart, « La négociation dans les démocraties majoritaires et
+       de consensus », Négociations 2014/1 (n° 21), p. 13-19, spéc. p. 16.
+     * [83]
+       « Cultures juridiques en Océanie », in A.-J. Arnaud (dir.),
+       Dictionnaire encyclopédique de théorie et de sociologie du droit,
+       Paris, LGDJ, 2^e éd., 1993, pp. 161-163.
+     * [84]
+       M. Joyau, E.-P. Guiselin, « États et Constitutions du Pacifique
+       Sud : l’empreinte de la “Pacific Way” », RJP, Hors-série XI, 2010,
+       pp. 1-18, spéc. p. 7.
+     * [85]
+       I.-C. Campbell, J.-P. Latouche, Les insulaires du Pacifique.
+       Histoire et situation politique, Paris, PUF, 2001, p. 265.
+     * [86]
+       P. Fizin, « Histoire et évolutions politiques. La démocratie, une
+       plante exotique en cours d’acclimatation en Mélanésie ? », in F.
+       Faberon (dir.), Diversité de la démocratie. Théorie et
+       comparatisme : les pays de la Mélanésie, Clermont-Ferrand, LGDJ,
+       2016, pp. 121-136, spéc. pp. 122-125.
+     * [87]
+       A. Lijphart, « La négociation dans les démocraties majoritaires et
+       de consensus », cit., p. 13.
+     * [88]
+       F. Feral, A.-L. Madinier, « Le pluralisme juridique en Mélanésie »,
+       in, Diversité de la démocratie…, cit., pp. 301-316, spéc. p. 311.
+       Voir aussi G. Agniel, « Démocratie et colonialisme dans le
+       Pacifique », Pouvoirs, 2007, n° 127, p. 135-149, spéc. p. 137.
+     * [89]
+       Par exemple, le Sénat Coutumier, institution issue de l’accord de
+       Nouméa, est composé de 16 membres désignés par chaque conseil
+       coutumier selon les usages reconnus par la coutume.
+     * [90]
+       J.-Y. Faberon, « Débats », in F. Faberon (dir.), Diversité de la
+       démocratie…, cit., spéc. p. 480. J.-F. Dobelle, « Référendum et
+       droit à l’autodétermination », cit., spéc. p. 47.
+     * [91]
+       G. Agniel, « Démocratie et colonialisme dans le Pacifique », cit.
+     * [92]
+       « Décolonisation », in J. Salmon (dir.), Dictionnaire de droit
+       international public, Bruxelles, Bruylant, 2001, p. 305
+     * [93]
+       J.-P. Rioux, « La décolonisation, cette histoire sans fin »,
+       Vingtième siècle. Revue d’histoire, n° 96, 2007, pp. 225-234. Dans
+       le même sens, voir l’ensemble du chapitre I, « “Colonisation”,
+       “décolonisation” : des concepts à définir » in G. Perville (dir.),
+       De l’Empire français à la décolonisation, Paris, Hachette, 1991,
+       pp. 4-23.
+     * [94]
+       H. Abdelhamid, « Les paradigmes postmodernes et la démarche
+       pluraliste dans la recherche juridique », in G. Otis (dir.),
+       Méthodologie du pluralisme juridique, Paris, Karthala, 2012, pp.
+       135-182, spéc. p. 175.
+
+   bb.accessibility.search.fulltext.inputLabel
+   ____________________ (BUTTON)
+
+   (BUTTON)
+   Acheter
+   (BUTTON)
+
+   (BUTTON)
+    1.
+         1.
+
+     * (BUTTON) Citer ou exporter
+     * (BUTTON) Voir les métriques
+     * Chapitre suivant
+     * Chapitre précédent
+
+Citer ce chapitre
      __________________________________________________________________
 
      * Havard, L.
@@ -45,7 +693,10 @@ décolonisation équivoque
      * A. Geslin,
      * C. Herrera
      * et M. Ponthoreau
---
+
+   Postcolonialisme et droit : perspectives épistémologiques (p. 67-89).
+   Éditions Kimé. https://doi.org/10.3917/kime.gesli.2020.01.0067.
+   (BUTTON)
      __________________________________________________________________
 
      * Havard, Léa.
@@ -55,7 +706,7 @@ décolonisation équivoque
    épistémologiques, Éditions Kimé, 2020. p.67-89. CAIRN.INFO,
    droit.cairn.info/postcolonialisme-et-droit-perspectives-epistemolog--97
    82841749881-page-67?lang=fr.
---
+   (BUTTON)
      __________________________________________________________________
 
      * HAVARD, Léa,
@@ -65,3 +716,664 @@ décolonisation équivoque
      * GESLIN, Albane,
      * HERRERA, Carlos Miguel
      * et PONTHOREAU, Marie-Claire,
+
+   Postcolonialisme et droit : perspectives épistémologiques. Paris :
+   Éditions Kimé. Nomos & Normes, p.67-89. DOI :
+   10.3917/kime.gesli.2020.01.0067. URL :
+   https://droit.cairn.info/postcolonialisme-et-droit-perspectives-epistem
+   olog--9782841749881-page-67?lang=fr.
+   (BUTTON)
+     __________________________________________________________________
+
+   https://doi.org/10.3917/kime.gesli.2020.01.0067
+   (BUTTON)
+     __________________________________________________________________
+
+   Zotero (.ris) Refworks (.ris)
+   bb.accessibility.search.fulltext.inputLabel
+   ____________________ (BUTTON)
+
+Notes
+
+     * [1]
+       Tout du moins à court terme car l’Accord de Nouméa prévoit à son
+       point 5 la possibilité d’organiser un deuxième référendum en cas de
+       réponse négative à la première consultation, puis, si le résultat
+       était à nouveau négatif, la possibilité d’organiser un troisième
+       référendum. Les deuxième et troisième référendums ne peuvent être
+       déclenchés que par un tiers des membres du congrès calédonien et,
+       s’ils avaient lieu, doivent porter sur la même question que celle
+       posée le 4 novembre 2018.
+     * [2]
+       V. Goesel-Le Bihan, « La Nouvelle-Calédonie et l’accord de Nouméa,
+       un processus inédit de décolonisation », AFDI, vol. 44, 1998, pp.
+       24-75 ; F. Melin-Soucramanien, « La République française et la
+       Nouvelle-Calédonie : réussir (enfin) une décolonisation ? »,
+       Espaces du service public. Mélanges en l’honneur de Jean du Bois de
+       Gaudusson, Bordeaux, Presses Universitaires de Bordeaux, 2013, pp.
+       1239-1249, spéc. p. 1244. Voir également, F. Melin-Soucramanien,
+       « Les politiques françaises de décolonisation. L’émergence d’une
+       politique de décolonisation par différenciation en
+       Nouvelle-Calédonie », Mélanges offerts au Doyen Charles Cadoux,
+       Aix-en-Provence, PUAM, 1999, pp. 205-212.
+     * [3]
+       Pour une chronologie complète de l’histoire de la
+       Nouvelle-Calédonie, voir I. Leblic, « Chronologie de la
+       Nouvelle-Calédonie », Le Journal de la Société des Océanistes, n°
+       117, 2002-2003, pp. 299-312. Voir aussi S. Mohamed-Gaillard, « De
+       la prise de possession à l’accord de Nouméa : 150 ans de liens
+       institutionnels et politiques entre la France et la
+       Nouvelle-Calédonie », Le Journal de la Société des Océanistes, n°
+       117, 2002-2003, pp. 171-186 ; F. Angleviel, Histoire de la
+       Nouvelle-Calédonie, Paris, Vendemiaire, 2018.
+     * [4]
+       L. Rolland, P. Lampue, Précis de législation coloniale, Paris,
+       Dalloz, 2^e éd., 1936, p. 4 ; G. Perville, De l’Empire français à
+       la décolonisation, cit., pp. 67. Sur la politique de colonisation
+       de peuplement en Nouvelle-Calédonie, voir H. Mokaddem, « Le destin
+       commun à l’épreuve du corps électoral en Nouvelle-Calédonie », site
+       du Centre des études sur le Pacifique, 2007, [en ligne]
+       http://cnep.univ-nc.nc/IMG/pdf/Mokaddem_la_question_du_coprs_electo
+       ral.pdf, (consulté le 15 octobre 2018), pp. 1-31.
+     * [5]
+       I. Merle, « De la “légalisation” de la violence en contexte
+       colonial. Le régime de l’indigénat en question », Politix, 2004,
+       vol. 17, n° 66, pp. 137-162.
+     * [6]
+       S. Graff, « Visibilité du destin commun et invisibilité de
+       l’histoire : discours, célébrations et construction de la
+       citoyenneté en Nouvelle-Calédonie », Anthrovision, 2016, [En ligne]
+       http://journals.openedition.org/anthrovision/2250 (consulté le 09
+       octobre 2018), spéc. p. 1.
+     * [7]
+       Le 22 avril 1988, sur fond de rivalité entre indépendantistes Kanak
+       et non-indépendantistes Caldoches (populations calédoniennes
+       d’origine européenne), un groupe de Kanak souhaitait occuper une
+       gendarmerie en signe de protestation. La manifestation qui se
+       voulait pacifique marque en réalité le début du drame. Quatre
+       gendarmes sont tués et vingt sept autres sont pris en otage dans la
+       grotte d’Ouvéa pendant plusieurs jours. Le 3 mai, le gouvernement
+       français lance un assaut au cours duquel dix neuf Kanak et deux
+       militaires sont tués. Les conditions de la mort des ravisseurs
+       kanak restent aujourd’hui toujours contestées. Voir C. Michalski,
+       L’assaut de la grotte d’Ouvéa : analyse juridique, Paris,
+       L’Harmattan, 2004.
+     * [8]
+       « Les Événements » est l’expression utilisée pudiquement en
+       Nouvelle-Calédonie pour faire référence à la période
+       d’affrontements entre indépendantistes et non-indépendantistes qui
+       a fait, entre ١٩٨٤ et ١٩٨٨, plus de ٨٠ morts.
+     * [9]
+       Les articles 76 et 77 de la Constitution issus de la révision
+       constitutionnelle du 20 juillet 1998 citent expressément l’accord
+       de Nouméa et l’article 77 précise que « l’évolution de la
+       Nouvelle-Calédonie [devra avoir lieu] dans le respect des
+       orientations définies par cet accord ». L’accord de Nouméa, composé
+       d’un préambule et d’un document d’orientation, a par là même acquis
+       valeur constitutionnelle. Voir C. cass., Ass. Plen., ٢ juin ٢٠٠٠,
+       Melle Fraisse, Bull. civ., AP, n° 4 p. 7 ; CC, Décision n° 2004-500
+       DC du 29 juillet 2004 Loi organique relative à l’autonomie
+       financière des collectivités territoriales, JORF du 30 juillet
+       2004, p. 13562.
+     * [10]
+       Loi organique n° 99-209 du 19 mars 1999 relative à la
+       Nouvelle-Calédonie, JORF du 21 mars 1999, p. 4197.
+     * [11]
+       M. Chauchat, Les institutions en Nouvelle-Calédonie. Institutions
+       politiques et administratives, Nouméa, Scérén, CDP de
+       Nouvelle-Calédonie, 2011 ; J.-Y. Faberon, Des institutions pour un
+       pays : la Nouvelle-Calédonie en devenir, Aix-en-Provence, PUAM,
+       2012.
+     * [12]
+       S. Camille, La population de Nouvelle-Calédonie, 2016, Maison de la
+       Nouvelle-Calédonie, p. 17.
+     * [13]
+       En France, la conception républicaine du principe d’égalité
+       interdit en principe le recours aux statistiques ethniques.
+       Cependant, la loi n° 78-17 du 6 janvier 1978 relative à
+       l’informatique, aux fichiers et aux libertés prévoit la possibilité
+       de déroger à cette interdiction si cela est justifié par un
+       « l’intérêt public ». C’est le cas en Nouvelle-Calédonie, où lors
+       des neuf recensements effectués sur le territoire depuis la seconde
+       guerre mondiale (sauf celui de 2004), les habitants ont été invités
+       à se prononcer sur leur communauté d’appartenance. D’après le
+       dernier recensement de 2014, 39 % de la population appartient à la
+       communauté Kanak, 27 % est européenne, puis viennent les Wallisiens
+       et Futuniens qui représentent 8 % de la population, ainsi que les
+       communautés tahitienne, indonésienne, vietnamienne ou encore
+       vanuatuane. Voir Site de l’Institut de la statistique et des études
+       économiques, [en ligne]
+       http://www.isee.nc/population/recensement/communautes (consulté le
+       16 octobre 2018).
+     * [14]
+       S. Pierre-Caps, Nation et peuples dans les constitutions modernes,
+       Nancy, Presses universitaires de Nancy, 1987, p. 279. Voir pour la
+       notion de nation : D. Schnapper, La communauté des citoyens : sur
+       l’idée moderne de nation, Paris, Gallimard, 2^e éd., 2003, pp.
+       43-72.
+     * [15]
+       E. Renan, Discours et conférences, Paris, Calmann-Lévy, 1882, p.
+       306. En opposition à cette conception subjective, la doctrine
+       allemande, portée par J. Fichte, repose sur l’existence d’éléments
+       matériels. De ce point de vue, l’unité nationale résulterait de
+       l’homogénéité linguistique, culturelle et religieuse de ses
+       membres, ainsi que de leur appartenance à une même zone
+       géographique. En réalité, cette distinction, largement diffusée,
+       doit être nuancée puisque toutes les nations sont à la fois
+       ethniques et civiques, chacune d’entre elles exprimant son identité
+       à travers sa propre articulation de ces deux éléments (D.
+       Schnapper, La communauté des citoyens, cit., pp. 166-168).
+     * [16]
+       E. Renan, Discours et conférences, cit., p. 307.
+     * [17]
+       M. Chauchat, « La citoyenneté calédonienne », Cahiers du Conseil
+       constitutionnel, n° 23, 2008, pp. 56-60, spéc. p. 58.
+     * [18]
+       M.-C. Smouts, « Les études postcoloniales en France : émergence et
+       résistances », in Ruptures postcoloniales. Les nouveaux visages de
+       la société française, Paris, La Découverte, 2010, p. 309-316, spéc.
+       p. 316.
+     * [19]
+       Y. Clavaron, Petite introduction aux postcolonial studies, Paris,
+       Kimé, 2015 ; D. Otto, « Postcolonialism and Law ? », Third World
+       Legal Studies, 1999, vol. 15, pp. 1-18 ; A. Mbembe et al.,
+       « Qu’est-ce que la pensée postcoloniale ? », Esprit, 2006/12, pp.
+       117-133 ; M.-C. Smouts « Introduction/Le postcolonial pour quoi
+       faire ? », in La situation postcoloniale. Les postcolonial studies
+       dans le débat français, Paris, Presses de Sciences Po, Paris, 2007,
+       pp. 25-66 ; A. Roy, « Postcolonial Theory and Law : A Critical
+       Introduction », Adelaide Law Review, 2008, n° 29, pp. 315-357 ; D.
+       Ferreira da Silva, M. Harris (dir.), Postcolonialism and the Law :
+       Critical Concepts in Law, London-New-York, Routledge, 2018.
+     * [20]
+       M.-C. Smouts, « Les études postcoloniales en France… », cit., p.
+       316.
+     * [21]
+       Sur la colonisation des esprits, voir F. Fanon, Les damnés de la
+       terre (1961), Paris, La Découverte, 2002.
+     * [22]
+       C. Schmitt, Théorie de la Constitution (1928), Paris, PUF, 2^e éd.,
+       2013, p. 183.
+     * [23]
+       P. Jean, « Le temps des accords : textes de la déclaration de
+       Nainville-les-roches, des accords de Matignon et Oudinot et de
+       l’accord de Nouméa », Revue juridique, politique et économique de
+       la Nouvelle-Calédonie, 2007, n° 2, pp. 2-13, spéc. p. 2.
+     * [24]
+       Déclaration finale de la table ronde de Nainville-les-Roches, ١٢
+       juillet ١٩٨٣.
+     * [25]
+       Déclaration finale de la table ronde de Nainville-les-Roches, ١٢
+       juillet ١٩٨٣.
+     * [26]
+       S. Graff, « Visibilité du destin commun et invisibilité de
+       l’histoire : discours, célébrations et construction de la
+       citoyenneté en Nouvelle-Calédonie », préc., spéc. p. 3
+     * [27]
+       C. Klein, « Pourquoi écrit-on une Constitution ? », in L. Jaume, M.
+       Troper (dir.), 1789 et l’invention de la Constitution, Paris, LGDJ,
+       1994, pp. 86-99, spéc. p. 94 ; M. C. Ponthoreau, Droit(s)
+       constitutionnel(s) comparé(s), Paris, Economica, 2010, pp.
+       270-275 ; J. Chevallier, « Essai d’analyse structurale du
+       Préambule », in Le Préambule de la Constitution de 1946 :
+       antinomies juridiques et contradictions politiques, Paris, PUF,
+       1996, pp. 13-36 ; L. Heuschling, « La Constitution formelle », in
+       M. Troper, D. Chagnollaud (dir.), Traité international de droit
+       constitutionnel, t. 1, Paris, Dalloz, 2012, spéc. pp. 279-290.
+     * [28]
+       H. Mokaddem, « Qui est peuple en Nouvelle-Calédonie
+       aujourd’hui ? », in J.-Y. Faberon, V. Fayaud, J.-M. Regnault
+       (dir.), Destins des Collectivités politiques d’Océanie : Peuples,
+       populations, nations, États, territoires, pays, patries,
+       communautés, frontières, t. 2, Aix-en-Provence, PUAM, 2011, pp.
+       615-623, spéc. p. 617.
+     * [29]
+       H. Mokaddem, « La reformulation permanente de la souveraineté de la
+       Kanaky/Nouvelle-Calédonie », in N. Gagne, M. Salaün (dir.), Visages
+       de la souveraineté en Océanie, Paris, L’Harmattan, 2010, pp.
+       185-209, spéc. p. 187.
+     * [30]
+       Accord de Nouméa, 5 mai 1998, préambule.
+     * [31]
+       P. Bretenier, J.-Y. Faberon, « Identités communautaires plurielles
+       et destin commun », in J.Y. Faberon, V. Fayaud, J. M. Regnault
+       (dir.), Destins des Collectivités politiques d’Océanie : Peuples,
+       populations, nations, États, territoires, pays, patries,
+       communautés, frontières, Aix-en-Provence, PUAM, 2011, t. 2, pp.
+       605-612 ; H. Mokaddem, « Qui est le peuple en Nouvelle-Calédonie
+       aujourd’hui ? », in J.Y. Faberon, V. Fayaud, J. M. Regnault (dir.),
+       Destins des Collectivités politiques d’Océanie…, cit., pp. 615-623,
+       spéc. p. 616.
+     * [32]
+       F. Garde, « Le préambule de l’Accord de Nouméa, prologue d’une
+       histoire officielle ? », in E. Wadrawane, F. Angleviel (dir.), La
+       Nouvelle-Calédonie : les Kanaks et l’histoire, Les Indes savantes,
+       vol. 2, 2008, pp. 79-86, spéc. p. 81.
+     * [33]
+       Accord de Nouméa, 5 mai 1998, point 1.5.
+     * [34]
+       Loi du pays n° 2010-11 du 9 septembre 2010 relative à trois signes
+       identitaires de la Nouvelle-Calédonie.
+     * [35]
+       Charte des valeurs calédoniennes, 27 juillet 2018, [en ligne]
+       http://www.nouvelle-caledonie.gouv.fr/content/download/4794/37118/f
+       ile/20180727%20Charte%20des%20valeurs%20cale%CC%81doniennes.pdf
+       (consulté le 18 octobre 2018).
+     * [36]
+       C. Chaumont, « Le droit des peuples à témoigner d’eux-mêmes »,
+       Annuaire du tiers monde, 1976, pp. 1531. Dans le même sens,
+       définissant le peuple essentiellement à travers la revendication
+       d’indépendance, voir G. Gottlieb, Nation Against State. À New
+       Approach to Ethnic Conflicts and the Decline of Sovereignty, New
+       York, Council of Foreign Relations Press, 1993.
+     * [37]
+       « L’autoaffirmation est l’acte primordial par lequel se constitue
+       une collectivité, un peuple » (G. Heraud, « Modèle pour une
+       application générale du droit d’autodétermination », préc., p. ٤٥).
+     * [38]
+       Décision n° ٩١-٢٩٠ DC du ٩ mai ١٩٩١, Loi portant statut de la
+       collectivité territoriale de Corse, JORF du 14 mai 1991, p. 6350.
+     * [39]
+       Voir N. Clinchamps, « Distorsions et corps électoraux en
+       Nouvelle-Calédonie », Pouvoirs, n° 127, 2008, pp. 151-165 ; M.
+       Chauchat, « La citoyenneté calédonienne », cit., pp. 56-60. ; F.
+       Garde, « Naissance et avatars de la citoyenneté calédonienne », in
+       J.Y. Faberon, V. Fayaud, J. M. Regnault (dir.), Destins des
+       Collectivités politiques d’Océanie…, cit. t. 2, pp. 583-590 ; in
+       J.Y. Faberon (dir.), Citoyenneté et destin commun en
+       Nouvelle-Calédonie, Aix-en-Provence, PUAM, 2013.
+     * [40]
+       D. Schnapper, Qu’est-ce que la citoyenneté ?, Paris, Gallimard,
+       2000.
+     * [41]
+       Accord de Nouméa, 5 mai 1998, préambule.
+     * [42]
+       Accord de Nouméa, 5 mai 1998, point 2.
+     * [43]
+       Accord de Nouméa, ٥ mai ١٩٩٨, point ٥ : « Afin de tenir compte de
+       l’étroitesse du marché du travail, des dispositions seront définies
+       pour favoriser l’accès à l’emploi local des personnes durablement
+       établies en Nouvelle-Calédonie ».
+     * [44]
+       Article 24 de la loi organique du 19 mars 1999 relative à la
+       Nouvelle-Calédonie.
+     * [45]
+       Voir A. Chirez, « Droit au travail et préférence locale : les
+       exemples de la Polynésie française et de la Nouvelle-Calédonie »,
+       in J.Y. Faberon, V. Fayaud, J. M. Regnault (dir.), Destins des
+       Collectivités politiques d’Océanie…, cit., vol. 2, pp. 715-724 ; F.
+       Garde, « Qu’est-ce que l’accord de Nouméa dit du rééquilibrage ? »,
+       in J.Y. Faberon, T. Mennesson (dir.), Peuple premier et cohésion
+       sociale en Nouvelle-Calédonie. Identités et rééquilibrages,
+       Aix-en-Provence, PUAM, 2012, 177-186.
+     * [46]
+       Accord de Nouméa, 5 mai 1998, point 2.
+     * [47]
+       Là où la citoyenneté européenne est « un plus » par rapport à la
+       citoyenneté française, la citoyenneté calédonienne représente « un
+       moins » puisqu’elle restreint les droits des français non-citoyens
+       calédoniens. Cela n’est pas propre à la citoyenneté calédonienne.
+       La citoyenneté, en tant qu’institution, se caractérise
+       traditionnellement par des mécanismes d’exclusion : exclusion par
+       l’argent avec le suffrage censitaire, exclusion des femmes du droit
+       de vote ou encore exclusion des immigrés. Voir P. Guillaume,
+       « Nationalité et citoyenneté en France, au Québec et au Canada.
+       Approche historique », in D. Colas, C. Emeri, J. Zylberberg (dir.),
+       Citoyenneté et nationalité : perspectives en France et au Québec,
+       Paris, PUF, 1991, pp. 103-110.
+     * [48]
+       La révision constitutionnelle de 1998 a introduit dans la
+       Constitution française un titre XIII « Dispositions transitoires
+       relatives à la Nouvelle-Calédonie ». Ce titre a permis d’organiser
+       les dérogations à la Constitution induites par la mise en œuvre de
+       l’accord de Nouméa, notamment en matière de droit de vote.
+     * [49]
+       Voir l’article 188 de la loi organique du 19 mars 1999 pour les
+       conditions d’inscription sur la liste électorale pour les élections
+       provinciales et l’article 218 de la même loi pour les conditions
+       d’inscription sur la liste électorale spéciale de la consultation
+       d’accession à la pleine souveraineté.
+     * [50]
+       Constitution du 4 octobre 1958, article 77.
+     * [51]
+       Dix ans pour participer aux élections provinciales, vingt ans (en
+       étant nécessairement arrivé sur le territoire au plus tard en 1998)
+       pour participer à la consultation d’accession à la pleine
+       souveraineté de la Nouvelle-Calédonie.
+     * [52]
+       L. Wamytan, « Le peuple kanak face aux défis du droit français »,
+       in Destins des Collectivités politiques d’Océanie…, cit., pp.
+       625-635 ; J.-Y. Faberon, Des institutions pour un pays : la
+       Nouvelle-Calédonie en devenir, Aix-en-Provence, PUAM, 2012, pp.
+       147-160.
+     * [53]
+       Voir Comité des droits de l’homme des Nations unies, Constatations
+       au titre du paragraphe 4, de l’article 5 du Protocole facultatif se
+       rapportant au Pacte International relatif aux droits civils et
+       politiques, Communication n° 932/2000 du 26 juillet 2002 ; Cour
+       EDH, 11 janvier 2005, M. Py c/ France, req. n° 66289/01.
+     * [54]
+       Constitution du 4 octobre 1958, titre xii « Dispositions
+       transitoires relatives à la Nouvelle-Calédonie ».
+     * [55]
+       N. Clinchamps, « Distorsions et corps électoraux en
+       Nouvelle-Calédonie », préc.
+     * [56]
+       Assemblée générale des Nations Unies, Résolution 41/41A du 2
+       décembre 1986, « Application de la Déclaration sur l’octroi de
+       l’indépendance aux pays et aux peuples coloniaux ». Voir S.
+       Mohamed-Gaillard, « Parcours de l’indépendance kanak de la
+       Nouvelle-Calédonie aux Nations Unies », in E. Wadrawane, F.
+       Angleviel (dir.), La Nouvelle-Calédonie : les Kanaks et l’histoire,
+       cit., vol. 2, Paris, 2008, pp. 349-364 ; J. M. Regnault, L’ONU, la
+       France et les décolonisations tardives : l’exemple des terres
+       françaises d’Océanie, Aix-en-Provence, PUAM, 2013, pp. 83-157.
+     * [57]
+       Voir R. Carré de Malberg, Contribution à la théorie générale de
+       l’État : spécialement d’après les données fournies par le droit
+       constitutionnel français (1920), rééd., Paris, Dalloz, 2003, t. 1,
+       pp. 13-15 ; J. Chevallier, « L’État-nation », RDP, n° 5, 1980, pp.
+       1271-1302 ; D. de Rougemont, « État-nation », in D. de Rougemont,
+       F. Saint-Ouen (dir.) Dictionnaire international du Fédéralisme,
+       Bruxelles, Bruylant, 1994, pp. 58-63 ; O. Beaud, La puissance de
+       l’État, Paris, PUF, 1994.
+     * [58]
+       Voir R. Debbasch, Le principe révolutionnaire d’unité et
+       d’indivisibilité de la République, Aix-en-Provence Economica, PUAM,
+       1988 ; B. Matthieu, M. Verpeaux (dir.), L’indivisibilité de la
+       République, Paris, Economica, 1996, pp. 79-102, pp. 95-102 ; F.
+       Melin-Soucramanien, Le principe d’égalité dans la jurisprudence du
+       Conseil constitutionnel, Paris, Economica, PUAM, 1997, pp. 58-66 ;
+       F. Lemaire, Le principe d’indivisibilité de la République : mythe
+       et réalité, Rennes, Presses universitaires de Rennes, 2010.
+     * [59]
+       CC, Décision n° 91-290 DC du 9 mai 1991, Loi portant statut de la
+       collectivité territoriale de Corse, JORF du 14 mai 1991, p. 6350,
+       cons. 13.
+     * [60]
+       R. Carré de Malberg Contribution à la théorie générale de l’État,
+       cit. ; J. Chevallier, « L’État-nation », cit. ; O. Beaud, La
+       puissance de l’État, cit. ; J.-D. Mouton « L’État selon le droit
+       international : diversité et unité », in SFDI, L’État souverain à
+       l’aube du XXI^e siècle, Paris, Pedone, 1994, pp. 79-106.
+     * [61]
+       F. Borella, Éléments de droit constitutionnel, Paris, Presses de la
+       FNSP, 2008, p. 361.
+     * [62]
+       J. Chevallier, L’État, Paris, Dalloz, 2^e éd., ٢٠١١, pp. ٨١-82 ; H.
+       Ruiz-Fabri, « Genèse et disparition de l’État à l’époque
+       contemporaine », AFDI, vol. 38, 1992, pp. 153-178.
+     * [63]
+       Accord de Nouméa, 5 mais 1998, préambule : « La décolonisation est
+       le moyen de refonder un lien social durable entre les communautés
+       qui vivent aujourd’hui en Nouvelle-Calédonie, en permettant au
+       peuple kanak d’établir avec la France des relations nouvelles
+       correspondant aux réalités de notre temps ». Voir F.
+       Melin-Soucramanien, « Les politiques françaises de
+       décolonisation… », cit., pp. 205-212 ; F. Melin-Soucramanien, « La
+       République française et la Nouvelle-Calédonie : réussir (enfin) une
+       décolonisation ? », cit., pp. 1239-1249.
+     * [64]
+       O. Bui-Xuan, Le droit public français entre universalisme et
+       différentialisme, Paris, Economica, 2004. Tel n’a pas été le chemin
+       suivi par d’autres territoires où vivent des sociétés qui, lors de
+       leur décolonisation, ont fait le choix d’une forme de l’État
+       alternative à l’État Nation, à savoir l’État associé. Voir L.
+       Havard, L’État associé. Recherches sur une nouvelle forme de l’État
+       dans le Pacifique Sud, Aix-Marseille, PUAM, 2018.
+     * [65]
+       Le point 1 de l’accord de Nouméa porte sur l’identité kanak. Il met
+       en place une série de dispositifs ayant vocation à assurer la
+       promotion de cette dernière. Les kanak peuvent ainsi disposer d’un
+       statut civil de droit coutumier, un Sénat coutumier a été créé et
+       est consulté pour toute affaire ayant trait à l’identité kanak, les
+       terres coutumières ont été reconnues, etc.
+     * [66]
+       S. Graff, « Visibilité du destin commun et invisibilité de
+       l’histoire … », cit., p. 2.
+     * [67]
+       Accord de Nouméa, 5 mai 1998, préambule.
+     * [68]
+       « Communautés », Site de l’Institut de la statistique et des études
+       économiques, [en ligne]
+       http://www.isee.nc/population/recensement/communautes (consulté le
+       16 octobre 2018).
+     * [69]
+       Le 24 septembre est la date à laquelle, en 1853, l’amiral Fébvrier
+       Despointes prit possession de la Nouvelle-Calédonie au nom de la
+       France.
+     * [70]
+       B. Carteron, « Le Mwâ Kââ, vers la manifestation d’une appartenance
+       commune en Nouvelle-Calédonie ? », Le Journal de la Société des
+       Océanistes, n° 134, 2012, pp. 45-60, spéc. p. 49.
+     * [71]
+       Idem, spéc. p. 59.
+     * [72]
+       Le multiculturalisme peut être défini comme « l’état dans lequel se
+       trouve une société qui entreprend de coordonner des ensembles de
+       valeurs et de croyances auxquels s’identifient des groupes
+       d’individus qui la constituent, notamment exprimés par des
+       sentiments d’appartenance religieuse et d’identité linguistique »
+       (N. Rouland, « Le droit français devient-il multiculturel ? »,
+       Droit et société, n° 46, 2000, pp. 519-545, spéc. p. 520).
+     * [73]
+       D. Turpin, « Patries et communautés », in, Destins des
+       Collectivités politiques d’Océanie…, cit., t. 1, pp. 143-152 ; H.
+       Mokaddem, « Qui est peuple en Nouvelle-Calédonie aujourd’hui ? »,
+       in, Destins des Collectivités politiques d’Océanie…, cit., t. 2,
+       pp. 615-623.
+     * [74]
+       J.-F. Dobelle, « Référendum et droit à l’autodétermination »,
+       Pouvoirs, n° 77, 1996, pp. 42-61, spéc. p. 20 ; P. Daillier, M.
+       Forteau, A. Pellet, Droit international public, préc., p. 581.
+     * [75]
+       Accord de Nouméa, 5 mai 1998, point 5.
+     * [76]
+       Accord de Nouméa, 5 mai 1998, préambule.
+     * [77]
+       Article 2, Décret n° 2018-457 du 6 juin 2018 portant convocation
+       des électeurs et organisation de la consultation sur l’accession à
+       la pleine souveraineté de la Nouvelle-Calédonie, JORF n° 0129 du 7
+       juin 2018.
+     * [78]
+       Article 216, Loi organique n° 99-209 du 19 mars 1999 relative à la
+       Nouvelle-Calédonie, JORF du 21 mars 1999, p. 4197.
+     * [79]
+       H. Amiel, « La pratique française des plébiscites internationaux »,
+       cit., p. 450. Sur la notion de plébiscite et l’évolution de son
+       contenu, voir M. Merle, « Les plébiscites organisés par les Nations
+       Unies », cit. ; F. Lemaire, La République française et le droit
+       d’autodétermination, préc., pp. 477-525 ; D. Alland, Droit
+       international public, Paris, PUF, 2000, p. 121.
+     * [80]
+       À titre d’exemples, des référendums d’autodétermination ont eu lieu
+       en Algérie le 8 janvier 1961, à Djibouti le 19 mars 1967, aux
+       Comores le 22 décembre 1974 ou encore à Mayotte le 8 février 1976.
+     * [81]
+       J.-F. Dobelle, « Référendum et droit à l’autodétermination », cit.,
+       spéc. p. 47.
+     * [82]
+       A. Lijphart, « La négociation dans les démocraties majoritaires et
+       de consensus », Négociations 2014/1 (n° 21), p. 13-19, spéc. p. 16.
+     * [83]
+       « Cultures juridiques en Océanie », in A.-J. Arnaud (dir.),
+       Dictionnaire encyclopédique de théorie et de sociologie du droit,
+       Paris, LGDJ, 2^e éd., 1993, pp. 161-163.
+     * [84]
+       M. Joyau, E.-P. Guiselin, « États et Constitutions du Pacifique
+       Sud : l’empreinte de la “Pacific Way” », RJP, Hors-série XI, 2010,
+       pp. 1-18, spéc. p. 7.
+     * [85]
+       I.-C. Campbell, J.-P. Latouche, Les insulaires du Pacifique.
+       Histoire et situation politique, Paris, PUF, 2001, p. 265.
+     * [86]
+       P. Fizin, « Histoire et évolutions politiques. La démocratie, une
+       plante exotique en cours d’acclimatation en Mélanésie ? », in F.
+       Faberon (dir.), Diversité de la démocratie. Théorie et
+       comparatisme : les pays de la Mélanésie, Clermont-Ferrand, LGDJ,
+       2016, pp. 121-136, spéc. pp. 122-125.
+     * [87]
+       A. Lijphart, « La négociation dans les démocraties majoritaires et
+       de consensus », cit., p. 13.
+     * [88]
+       F. Feral, A.-L. Madinier, « Le pluralisme juridique en Mélanésie »,
+       in, Diversité de la démocratie…, cit., pp. 301-316, spéc. p. 311.
+       Voir aussi G. Agniel, « Démocratie et colonialisme dans le
+       Pacifique », Pouvoirs, 2007, n° 127, p. 135-149, spéc. p. 137.
+     * [89]
+       Par exemple, le Sénat Coutumier, institution issue de l’accord de
+       Nouméa, est composé de 16 membres désignés par chaque conseil
+       coutumier selon les usages reconnus par la coutume.
+     * [90]
+       J.-Y. Faberon, « Débats », in F. Faberon (dir.), Diversité de la
+       démocratie…, cit., spéc. p. 480. J.-F. Dobelle, « Référendum et
+       droit à l’autodétermination », cit., spéc. p. 47.
+     * [91]
+       G. Agniel, « Démocratie et colonialisme dans le Pacifique », cit.
+     * [92]
+       « Décolonisation », in J. Salmon (dir.), Dictionnaire de droit
+       international public, Bruxelles, Bruylant, 2001, p. 305
+     * [93]
+       J.-P. Rioux, « La décolonisation, cette histoire sans fin »,
+       Vingtième siècle. Revue d’histoire, n° 96, 2007, pp. 225-234. Dans
+       le même sens, voir l’ensemble du chapitre I, « “Colonisation”,
+       “décolonisation” : des concepts à définir » in G. Perville (dir.),
+       De l’Empire français à la décolonisation, Paris, Hachette, 1991,
+       pp. 4-23.
+     * [94]
+       H. Abdelhamid, « Les paradigmes postmodernes et la démarche
+       pluraliste dans la recherche juridique », in G. Otis (dir.),
+       Méthodologie du pluralisme juridique, Paris, Karthala, 2012, pp.
+       135-182, spéc. p. 175.
+
+   Le 4 novembre 2018 a été et restera une date historique pour la
+   Nouvelle-Calédonie. Ce jour a marqué une étape essentielle dans le
+   processus de décolonisation de cet archipel du Pacifique Sud : le
+   peuple calédonien s’est autodéterminé. « Voulez-vous que la
+   Nouvelle-Calédonie accède à l’indépendance et à la pleine
+   souveraineté ? », telle est la question à laquelle ont répondu
+   massivement plus de ٨٠ ٪ des Calédoniens. La réponse est sans appel
+   puisqu’ils ont décidé à ٥٧ ٪ de rester dans la République française. À
+   la fois auteur, acteur et objet de cette décolonisation inédite dans
+   l’Histoire de France, le peuple calédonien constitue la pierre
+   angulaire de l’ensemble du processus. Paradoxalement, il est aussi
+   celui qui soulève le plus de controverses : qui est le peuple
+   calédonien ? Existe-t-il seulement ? Quelle est sa légitimité ? Une
+   identité calédonienne transcende-t-elle les identités mélanésienne et
+   européenne ? Autant de questions qu’il s’agit d’éclairer grâce à
+   l’approche postcoloniale.
+   Avant tout, la compréhension du peuple calédonien passe par son
+   histoire, une histoire profondément marquée par la colonisation.
+   Devenue possession française en 1853, la Nouvelle-Calédonie a subi une
+   colonisation violente – si tant est qu’une colonisation puisse être
+   non-violente –, bouleversant la vie de la population autochtone, les
+   Kanak, établis sur l’archipel depuis plusieurs milliers d’années. Comme
+   en Algérie, la France y a mené une colonisation de peuplement. À
+   l’inverse de la colonisation d’exploitation ou de comptoir où la
+   puissance coloniale se contentait d’exploiter les ressources du
+   territoire grâce à une administration indirecte (conservation des
+   structures locales placées sous l’autorité de l’administration
+   coloniale), la colonisation de peuplement avait vocation à assurer la
+   présence pérenne du colonisateur, notamment grâce à une immigration
+   spontanée, suscitée voire forcée, et à une administration directe
+   (remplacement des organisations traditionnelles par une administration
+   coloniale modifiant en profondeur la structure de la société colonisée…
+     __________________________________________________________________
+
+   Date de mise en ligne : 03/02/2022
+   https://doi.org/10.3917/kime.gesli.2020.01.0067
+
+Ce chapitre est en accès conditionnel
+
+Acheter ce chapitre
+
+   5,00 €
+   23 pages format électronique (HTML, PDF et feuilletage)
+   (BUTTON)
+
+   Ajouter au panier
+   Déjà abonné(e) à Cairn Pro ? Membre d'une institution cliente ?
+   (BUTTON) Voir moins d'options) Voir plus d'options)
+
+Domaines
+
+   Sciences Humaines et Sociales
+
+   Sciences, Techniques et Médecine
+
+   Droit et Administration
+
+   Logo Cairn.info
+
+   Cairn.info, plateforme de référence pour les publications scientifiques
+   francophones, vise à favoriser la découverte d’une recherche de qualité
+   tout en cultivant l’indépendance et la diversité des acteurs de
+   l’écosystème du savoir.
+
+   Raccourcis
+     * Revues
+     * Ouvrages
+     * Que sais-je ? / Repères
+     * Magazines
+     * Rencontres
+     * Dossiers
+     * Listes de lectures
+
+   Domaines
+     * Sciences Humaines et Sociales
+     * Sciences, Techniques et Médecine
+     * Droit et Administration
+
+   Cairn.info
+     * Connexion
+     * Cairn Pro
+     * À propos
+     * Contact
+     * Aide
+
+   Langues
+     * Français
+     * English
+     * Español
+
+   Retrouvez Cairn.info sur
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Avec le soutien de
+     * Logo CNL (Centre national du livre)
+     * Logo CFC (Centre français d'exploitation du droit de copie)
+
+     * Conditions d’utilisation
+     * Conditions de vente
+     * Politique de confidentialité
+     * Gestion des cookies
+     * Accessibilité : partiellement conforme
+
+     * (BUTTON) Accès institutions
+
+   37.67.47.158
+
+   (BUTTON)
+
+   (BUTTON)
+
+Accès institutions
+
+   Rechercher
+   ____________________ (BUTTON) Pays, région ou institution
+
+Toutes les institutions
+     __________________________________________________________________
+
+     *
+     __________________________________________________________________
+
+   ​

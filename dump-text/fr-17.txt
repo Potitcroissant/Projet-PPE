@@ -1,3 +1,27 @@
+    #JSON oEmbed (JSON) oEmbed (XML)
+
+     * Search for: ____________________ (BUTTON) Search
+     * Se connecter
+
+     * menu
+     * Accueil
+     * Notices
+          + Alphabétique
+          + Familles
+               o Acteurs et métiers
+               o Dispositifs et lieux
+               o Genres et discours
+               o Notions et théories
+               o Pratiques et usages
+     * Auteur·e·s
+     * Comités
+     * Projet
+          + Présentation
+          + Participer
+     * Liens
+          + Liens institutionnels
+          + Liens thématiques
+
 Male gaze
      __________________________________________________________________
 
@@ -23,7 +47,11 @@ Male gaze
    espaces universitaires et militants, aux espaces médiatiques. Une
    consultation de la base de données Europresse donne une idée générale
    de sa percée dans l’espace publique médiatique français avec la
---
+   première citation recensée dans Le Monde en 2014. Si le terme a
+   largement gagné en popularité grâce à la critique cinématographique
+   féministe depuis les années 2000, et dans le sillage du féminisme pop,
+   son usage s’est banalisé dans les médias à la fin de la décennie 2010,
+   notamment à la suite du mouvement #MeToo.
 
 
    Définition du male gaze et discussion par sa créatrice Laura Mulvey
@@ -45,7 +73,12 @@ Male gaze
    l’expérience du miroir décrite par Jacques Lacan (1901-1981 ; 1973)
    dans la mesure où le cinéma présente essentiellement des figures
    humaines. La fascination exercée par le cinéma provient donc d’une
---
+   tension entre la suspension de l’égo du spectateur et, dans le même
+   temps, son renforcement – ce dernier s’identifiant à l’image perçue à
+   l’écran, médiée par la figure de la star, où le glamour se fait passer
+   pour de l’ordinaire (ibid. : 18).
+
+   Laura Mulvey à Wrocław (Pologne), 24 juill. 2010.
    Source : Mariusz Kubik (Wikimédia, CC BY 3.0)
 
 
@@ -58,7 +91,9 @@ Male gaze
    narration, la présence visuelle de la femme est un élément essentiel du
    spectacle mais, dans le même temps, elle bloque le développement de
    l’intrigue, par un moment de contemplation érotique, souvent focalisé
---
+   sur un corps féminin fragmenté. De la même manière, cette division
+   hétérosexuelle « actif/passif » contrôle la structure narrative. Le
+   corps masculin ne pouvant pas faire l’objet d’une objectification
    sexuelle, le film est structuré autour d’une figure principale
    masculine à laquelle le spectateur peut s’identifier (l’ego du
    processus d’identification). Cette figure masculine fait avancer
@@ -75,7 +110,9 @@ Male gaze
    personnage masculin, il s’agit donc de la dévaluer (dans un processus
    sadique) ou de l’hyper-valoriser, dans un processus fétichiste ou
    voyeuriste.
---
+
+   Marilyn Monroe dans Rivière sans retour (1954). Source : Otto Preminger
+   (Wikimédia, domaine public)
 
 
    Aucun de ces mécanismes n’est intrinsèque au cinéma, rappelle
@@ -95,7 +132,29 @@ Male gaze
    privilège de « l’invité invisible » seront certainement détruits, les
    femmes, « dont l’image a été continuellement volée […] risquent de
    n’éprouver à ce déclin des formes cinématographiques traditionnelles
---
+   rien de plus qu’une vague nostalgie » (sentimental regret ;
+   ibid. : 26).
+
+   En 1989, l’autrice répond aux questionnements suscités par son article,
+   en interrogeant la manière dont les spectatrices négocient avec ce male
+   gaze, dans « Afterthoughts on “Visual Pleasure and Narrative Cinema”
+   inspired by King Vidor’s Duel in the Sun (1946) ». Pour elle, les
+   femmes, peuvent soit se sentir tellement extérieures à ce qu’elles
+   voient à l’écran que le charme de la fascination en est rompu, soit
+   elles peuvent prendre plaisir secrètement, presque inconsciemment, à la
+   liberté d’agir et au sentiment de contrôle procurés par
+   l’identification au héros. En effet, les films classiques
+   hollywoodiens, structurés autour du plaisir masculin et qui offrent une
+   identification avec le point de vue actif, permettent aux spectatrices
+   de redécouvrir cet aspect oublié de leur identité sexuelle, ce socle
+   jamais totalement refoulé de la névrose féminine. L. Mulvey (1989 : 33)
+   rappelle que, pour les femmes (et ce depuis l’enfance),
+   « l’identification trans-sex est une habitude qui devient très
+   facilement une seconde nature ». L’identification des spectatrices au
+   héros masculin ‒ dans son aspect phallique ‒ réactive un fantasme
+   « d’action » (trouvant son expression dans la métaphore de la
+   masculinité, utilisée par S. Freud) que les demandes de la féminité
+   convenable demandent de réprimer.
 
    Le concept de male gaze présente un double aspect ainsi que plusieurs
    implications. La dualité de ce concept vient de la double acception que
@@ -123,7 +182,13 @@ Male gaze
    psychanalytique, dans le cadre de la pensée critique féministe.
 
    Footlight Parade, 1933 « Les 300 femmes plus belles et talentueuses du
---
+   monde ». Source : Anonyme (Wikimédia, domaine public)
+
+
+   De l’analyse psychanalytique à la perspective critique
+
+   Hors de la psychanalyse, le male gaze a trouvé une portée politique
+   beaucoup plus large au sein de la pensée critique féministe. La
    constitution d’une approche critique du concept a été amorcée par la
    chercheuse féministe bell hooks (1992), s’interrogeant sur la réception
    du cinéma par les spectatrices noires. Dépassant la perspective
@@ -133,7 +198,8 @@ Male gaze
    deux aspects : elle est en premier lieu un système de « relations de
    pouvoir » se reproduisant en différents endroits par le biais
    d’appareils, stratégies et mécanismes de contrôle ; elle se caractérise
---
+   en second lieu par le fait que, dans toutes les relations de pouvoir,
+   « il y a résistance » (Foucault, 1976 : 184). M. Foucault invite ainsi
    la pensée critique à chercher ces espaces en marge où la capacité
    d’agir (agentivité, « agency ») peut être trouvée.
 
@@ -165,7 +231,8 @@ Male gaze
    du film parce qu’une telle identification les contraint
    (« disenabling »). La déconstruction faisant partie de l’expérience de
    spectatrice noire peut aussi être un plaisir qui aide à construire son
---
+   identité en interrogeant les représentations, dans une perspective
+   critique.
 
    bell hooks. Source : Wikimedia (domaine public).
 
@@ -192,7 +259,14 @@ Male gaze
    fonctionne, selon le concept foucaldien, comme une « technologie
    sociale », on conçoit que le male gaze relève d’une technologie de
    genre qui construit le genre en le représentant (Lauretis, 2007 : 41).
---
+   Dès lors, l’analyse du male gaze peut se déployer depuis l’analyse
+   cinématographique à celle de toutes les productions culturelles
+   (rappelant le lien, établi par Jacques Rancière [2000], entre
+   esthétique et politique), en passant plus généralement par les
+   représentations sociales.
+
+   En effet, si l’on se place dans la perspective des Cultural Studies,
+   les représentations nous constituent en termes d’identité comme sujets
    (Hall, 1989). Par ses schèmes narratifs et visuels, ses idées et
    idéologies, le cinéma possède une puissance singulière pour fabriquer
    notre imaginaire et façonner « les opinions, le goût, la langue,
@@ -233,7 +307,23 @@ Male gaze
      pas devant l’écran pour assister à une séance, ils deviennent
      eux-mêmes acteurs et actrices de cette expérience. La performance a
      lieu aussi bien sur l’écran que dans la salle. […] L’approche
---
+     phénoménologique nous permet de réfléchir au female gaze de deux
+     façons. D’abord, en réfléchissant à ce qui se passe au sein du film
+     : comment est-ce que le personnage de fiction féminin est un corps
+     traversé par une histoire ? Comment l’expérience vécue de ce
+     personnage est mise en scène ? Ensuite, en nous permettant de sortir
+     d’une réflexion sur l’identification des spectateur·trice·s aux
+     personnages pour se focaliser sur le ressenti. Comment est-ce que
+     nous ressentons l’expérience spécifiquement féminine du personnage
+     en tant que spectateur et spectatrice ? »
+
+   La sortie du male gaze passe donc par un partage du ressenti, par
+   opposition à une objectification.
+   L’usage du concept de male gaze s’est étendu des publications
+   académiques vers la « critique féministe profane », avec l’apparition
+   du web 2.0 à la fin des années 2000. Cette critique militante s’attache
+   non seulement à la sexualisation des personnages féminins mais
+   également à leur « manque d’épaisseur psychologique […] et leur
    réduction à quelques traits caricaturaux » (Breda, 2017 : 101). Ainsi
    le male gaze devient-il un outil d’analyse partagé dans la critique
    culturelle militante. La question du ressenti et de la corporéité se
@@ -246,7 +336,15 @@ Male gaze
    vulnérabilité des actrices suite la révélation en octobre 2017 par le
    New York Times et le New Yorker des cas de harcèlement, d’agressions
    sexuelles et d’intimidations commises par le très influent producteur
---
+   de cinéma américain Harvey Weinstein, a fait de la remise en question
+   du male gaze dans l’ensemble des productions culturelles, une dimension
+   importante de ce que les historiennes Bibia Pavard, Florence Rochefort
+   et Michelle Zancarini-Fournel (2020 : 453) appellent le « moment
+   #MeToo » (voir aussi Ruffio, 2020). Ce moment désigne non seulement le
+   surgissement de l’événement mais « son inscription dans une période de
+   transformation politique, sociale et culturelle plus longue », et signe
+   son entrée dans l’arsenal conceptuel de la culture féministe populaire.
+   L’approche critique du male gazeconstruit certes un spectatorat
    oppositionnel, mais aussi un public actif et créateur de points de vue
    alternatifs. Plus généralement, cette approche féministe critique remet
    en cause l’universalité traditionnellement supposée du public, mais
@@ -256,7 +354,8 @@ Male gaze
      __________________________________________________________________
 
 Bibliographie
---
+
+   Breda H., 2017, « La critique féministe profane en ligne de films et de
    séries télévisées », Réseaux. Communication, technologie, société 20,
    pp. 87-114. Accès :
    https://www.cairn.info/journal-reseaux-2017-1-page-87.htm.
@@ -275,3 +374,118 @@ Bibliographie
    trans’ à travers les miroirs, Mémoire de master en sciences de
    l’information et de la communication, Université Lumière Lyon 2.
 
+   Foucault M., 1975, Surveiller et punir, Paris, Gallimard.
+
+   Foucault M., 1976, Histoire de la sexualité. 1, La volonté de savoir,
+   Paris, Gallimard, 2013.
+
+   Freud S., 1905, Trois essais sur la théorie sexuelle, trad. de
+   l’allemand par B. Reverchon-Jouve et B. Groethuysen, Paris, Gallimard,
+   1923.
+
+   Hall S., 1989, « Cultural indentity and cinematic representation »,
+   Framework. The Journal of Cinema and Media, 36, pp. 68-81.
+
+   Harding S., 1992, « Rethinking standpoint epistemology: What is “strong
+   objectivity?” », The Centennial Review, 36 (3), pp. 437-70.
+
+   hooks b., 1992, « The Oppositional Gaze: Black female spectators »,
+   pp. 94-105, in : Jones A., dir., The Feminism and Visual Cultural
+   Reader, London and New York, Routledge, 2002.
+
+   Lacan J., 1973, Les Quatre concepts fondamentaux de la psychanalyse. Le
+   Séminaire, livre XI, (1963-1964), Paris, Éd. Le Seuil.
+
+   Lauretis, T. de, 2007, Théorie queer et cultures populaires : de
+   Foucault à Cronenberg, trad. de l’anglais (États-Unis) par M.-H.
+   Bourcier, Paris, Éd. La Dispute.
+
+   Loofbourow L., 2018, « The Male Glance », VQR Online, vol 94, 1. Accès
+   : https://www.vqronline.org/essays-articles/2018/03/male-glance.
+   Consulté le 14 avr. 2021.
+
+   Marks L., 2000, The Skin of the Film. Intercultural Ccinema,
+   Embodiment, and the Senses, Durham and London, Duke University Press.
+
+   Merleau-Ponty M., 1945, Phénoménologie de la perception, Paris,
+   Gallimard.
+
+   Mulvey L., 1975, « Visual Pleasure and Narrative Cinema », Screen 16
+   (3), pp. 6-18.
+
+   Mulvey L., 1989, « Afterthoughts on “Visual Pleasure and Narrative
+   Cinema” inspired by King Vidor’s Duel in the Sun (1946) », pp. 29-38,
+   in : Visual and other pleasures, London, Palgrave Macmillan.
+
+   Nussbaum M., 1995, « Objectification », Philosophy & Public Affairs, 24
+   (4), pp. 249-291.
+
+   Panofsky E., 1996, « Style et matière du septième art », pp. 109-145,
+   in : Trois Essais sur le style, traduit de l’anglais (Allemagne) par
+   Turle B., Paris, Gallimard.
+
+   Pavard B., Rochefort F., Zancarini-Fournel M., 2020, Ne nous libérez
+   pas, on s’en charge. Une histoire des féminismes de 1789 à nos jours,
+   Paris, Éd. La Découverte.
+
+   Rancière J., 2000, Le Partage du sensible. Esthétique et politique,
+   Paris, Éd. La Fabrique.
+
+   Ruffio C., 2020, « #MeToo », Publictionnaire. Dictionnaire
+   encyclopédique et critique des publics. Mis en ligne le 6 mars 2020.
+   Accès : http://publictionnaire.huma-num.fr/notice/metoo.
+
+   Sobchack V., 1992, The Address of the Eye: A Phenomenolgy of Film
+   Experience, Princeton, Princeton University Press.
+
+   Uzel J.-P., 1998, « Le montage, de la vision à l’action », Cinéma.
+   Revue d’études cinématographiques, 9 (1), pp. 63-68.
+
+Famille
+
+     * Notions et théories Notions et théories
+
+Auteur·e·s
+
+Olivesi Aurélie
+
+   Équipe de recherche de Lyon en sciences de l’information et de la
+   communication Université Claude Bernard Lyon 1
+
+Citer la notice
+
+   Olivesi Aurélie, « Male gaze » Publictionnaire. Dictionnaire
+   encyclopédique et critique des publics. Mis en ligne le 08 juin 2021.
+   Dernière modification le 10 mars 2023.
+   Accès : https://publictionnaire.huma-num.fr/notice/male-gaze.
+   (BUTTON) Copier Copié
+
+Voir aussi
+
+    1. #MeToo
+    2. boyd (danah)
+    3. Corps et public
+    4. Cultural Studies
+    5. De la spectatrice et de la manière d’en parler
+    6. Foucault (Michel)
+    7. Gender/Genre
+    8. Geraghty (Christine)
+    9. hooks (bell)
+   10. Invisibilisation de la pensée des femmes
+   11. McRobbie (Angela)
+   12. Oscillation
+   13. Personnage de fiction
+   14. Publics de la pornographie
+   15. Réception
+   16. Spectature
+
+   Télécharger en pdf
+
+     * Contact
+     * Mentions légales
+     * Se connecter
+
+   footer
+
+   Copyright © 2026 Publictionnaire - Tous droits réservés - ISSN
+   2609-6404

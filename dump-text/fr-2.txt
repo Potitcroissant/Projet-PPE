@@ -1,3 +1,51 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Définition
+     * 2 Anthropologie
+       (BUTTON) Afficher / masquer la sous-section Anthropologie
+          + 2.1 Masculin / féminin
+     * 3 Culture
+       (BUTTON) Afficher / masquer la sous-section Culture
+          + 3.1 Culture d'images
+          + 3.2 Histoire, peinture, sexualité
      * 4 Psychanalyse
        (BUTTON) Afficher / masquer la sous-section Psychanalyse
           + 4.1 La Tête de Méduse
@@ -7,7 +55,7 @@
      * 7 Voir aussi
        (BUTTON) Afficher / masquer la sous-section Voir aussi
           + 7.1 Bibliographie
---
+          + 7.2 Articles connexes
           + 7.3 Liens externes
 
    [ ] Basculer la table des matières
@@ -17,7 +65,45 @@ Regard
    [ ] Ajouter des langues
 
    Ajouter des liens
---
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Élément Wikidata
+
+   Apparence
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Un article de Wikipédia, l'encyclopédie libre.
    Page d’aide sur l’homonymie
@@ -47,7 +133,8 @@ Définition
    l'attente d'une image et le découpage du champ visuel »^[2].
 
 Anthropologie
---
+
+   [modifier | modifier le code]
    [250px-Portrait_in_hijab%2C_3064633.jpg] Portrait en hijab.
 
    À la question que lui pose Claudine Haroche, de savoir s'il y des
@@ -83,7 +170,10 @@ Masculin / féminin
    sur les hommes »^[3].
 
 Culture
---
+
+   [modifier | modifier le code]
+
+Culture d'images
 
    [modifier | modifier le code]
 
@@ -102,7 +192,8 @@ Culture
 Histoire, peinture, sexualité
 
    [modifier | modifier le code]
---
+
+   En présentant Le sexe et l'effroi à la quatrième de couverture de son
    livre, l'écrivain Pascal Quignard rapporte qu'au moment de l'histoire,
    où Auguste réorganise le monde romain sous la forme de l'empire,
    « l'érotisme joyeux, anthropomorphe et précis des Grecs » se transforme
@@ -115,7 +206,14 @@ Histoire, peinture, sexualité
    années qu'il lui a fallu pour écrire ce livre, Pascal Quignard observe
    qu'il se serait agi pour lui d'« affronter ce mystère : c'est le
    plaisir qui est puritain. La jouissance arrache la vision de ce que le
---
+   désir n'avait fait que commencer de dévoiler »^[5].
+   [250px-Cental_panel_of_a_mosaic_floor_with_the_head_of_Medusa%2C_1st-2n
+   d_century_AD%2C_National_Museum_of_Rome%2C_Baths_of_Diocletian%2C_Rome_
+   %2813270181615%29.jpg] Panneau central d’un sol en mosaïque avec la
+   tête de Méduse, I^er – II^e siècle après JC, Musée national de Rome,
+   Thermes de Dioclétien, Rome
+
+Psychanalyse
 
    [modifier | modifier le code]
 
@@ -126,7 +224,7 @@ Histoire, peinture, sexualité
    ailleurs à Arnold Zweig en 1930^[7] :
 
      « Par la brèche de la rétine, on pourrait voir profondément dans
---
+     l’inconscient. »
 
    — Freud à A. Zweig, le 10 septembre 1930^[7]
 
@@ -139,7 +237,13 @@ Histoire, peinture, sexualité
    de « désir » est surtout développé par la doctrine lacanienne, et à sa
    suite par la psychanalyse française, mais selon Laplanche, « les choses
    sont en réalité plus complexes » dans la terminologie freudienne^[6].
---
+   Lust est un « désir qui inclut le plaisir visé, et porte plutôt sur une
+   action (un “but”, au sens freudien) que sur un objet. Dénué de
+   concupiscence, à l'inverse de Begierde, il pourrait être rendu par
+   “envie de” »^[6].
+
+La Tête de Méduse
+
    [modifier | modifier le code]
    Article détaillé : La Tête de Méduse.
 
@@ -153,7 +257,9 @@ Histoire, peinture, sexualité
    Méduse, 1923), Freud interprète la tête de Méduse « comme une
    représentation des organes génitaux féminins et plus précisément de la
    mère » : la vue du sexe féminin appelle « la représentation de la
---
+   castration »^[8].
+
+Pulsion scopique
 
    [modifier | modifier le code]
    Article détaillé : pulsion scopique.
@@ -216,7 +322,8 @@ Notes et références
        10.3917/rfp.831.0025. [lire en ligne]
     8. ↑ ^a et b Catherine Desprats-Péquignot, « fascination », dans Alain
        de Mijolla (dir.), Dictionnaire international de la psychanalyse,
---
+       Paris, Hachette Littératures, 2005 (ISBN 2-7021-2530-1),
+       p. 612-613.
     9. ↑ Alain de Mijolla, « scoptophilie, scopophilie », dans Alain de
        Mijolla (dir.), Dictionnaire international de la psychanalyse,
        Paris, Hachette Littératures, 2005 (ISBN 2-7021-2530-1),
@@ -235,7 +342,7 @@ Voir aussi
 Bibliographie
 
    [modifier | modifier le code]
---
+
    Document utilisé pour la rédaction de l’article  : document utilisé
    comme source pour la rédaction de cet article.
 
@@ -289,7 +396,8 @@ Bibliographie
      * Alain de Mijolla, « scoptophilie, scopophilie », dans Alain de
        Mijolla (dir.), Dictionnaire international de la psychanalyse,
        Paris, Hachette Littératures, 2005 (ISBN 2-7021-2530-1),
---
+       p. 1626-1627. Document utilisé pour la rédaction de l’article
+     * Pascal Quignard, Le sexe et l'effroi (1994), Paris, Gallimard,
        1997, (ISBN 2070115844), présentation sur le site de l'éditeur [2]
        Document utilisé pour la rédaction de l’article
      * Alain Rey (dir.), Le Robert. Dictionnaire historique de la langue
@@ -320,7 +428,203 @@ Articles connexes
      * La Tête de Méduse
 
 Liens externes
---
+
+   [modifier | modifier le code]
+
+     *
+     *
+     *
+     *
+
+   v · m
+   Psychanalyse
+            Généralités
+     * Histoire
+     * Métapsychologie
+     * Cure psychanalytique
+     * Psychanalyse dans le monde
+          + Allemagne
+          + France
+          + Grande-Bretagne
+          + Suisse
+     * Écoles
+     * Psychanalyste
+     * Inconscient
+
+   Concepts
+   (Liste)
+     * Angoisse de perte d'objet
+     * Réalité psychique
+     * Fantasme (psychologie)
+     * Fantasme originaire
+     * Théorie de la séduction
+     * Théorie de la séduction généralisée
+     * Sexualité infantile
+          + Stade autoérotique
+          + Stade oral
+          + Stade anal
+          + Stade phallique
+          + Période de latence
+          + Stade génital
+     * Scène primitive
+     * Scène primitive (masochisme)
+     * Stade du miroir
+     * Appareil psychique
+     * Travail du rêve
+     * Régression
+     * Première topique
+          + Conscient
+          + Préconscient
+          + Inconscient
+     * Seconde topique
+          + Ça
+          + Moi
+          + Surmoi
+     * Libido
+     * Narcissisme
+          + Narcissisme primaire
+          + Idéal du Moi - Moi idéal
+
+     *
+          + Narcissisme des petites différences
+     * Transfert
+     * Névrose de transfert
+     * Contre-transfert
+     * Sublimation
+     * Résistance
+     * Mécanisme de défense
+     * Principe de plaisir
+     * Principe de réalité
+     * Pulsions
+     * Pulsion de mort
+     * Pulsion de vie
+     * Position dépressive
+     * Complexe d'Œdipe
+          + Complexe de castration
+          + Envie du pénis
+     * Métaphore du Nom-du-père
+     * Forclusion (psychanalyse)
+     * Réel, symbolique et imaginaire
+     * Ambivalence
+     * Névrose (Hystérie)
+     * Psychose
+     * Projection
+     * Introjection
+     * Position schizo-paranoïde
+     * Identification projective
+     * Clivage du Moi
+     * Déni
+     * Perversion
+     * Après-coup
+     * Association libre
+     * Auto-analyse
+     * Attention flottante
+     * Envie et gratitude
+     * Perlaboration
+     * Refoulement
+     * Refoulement originaire
+     * Souvenir-écran
+     * Idéalisation
+     * Identification
+     * Identification à l'agresseur
+
+   Courants
+     * Européens
+          + Kleinisme
+          + Mouvement lacanien
+     * Américains
+          + Ego psychology
+          + Self psychology
+     * Dissidents
+          + Jungien
+          + Adlérien
+
+   Psychanalystes
+   (Liste)
+     * Karl Abraham
+     * Lou Andreas-Salomé
+     * Didier Anzieu
+     * Piera Aulagnier
+     * Wilfred Bion
+     * Marie Bonaparte
+     * Janine Chasseguet-Smirgel
+     * Francesco Corrao
+     * Françoise Dolto
+     * Erik Erikson
+     * Horacio Etchegoyen
+     * Nicole Fabre
+     * Paul Federn
+     * Ernst Federn
+     * Pierre Fédida
+     * Sándor Ferenczi
+     * Anna Freud
+     * Sigmund Freud
+     * Roland Gori
+     * Wladimir Granoff
+     * André Green
+     * Germaine Guex
+     * Patrick Guyomard
+     * Ernest Jones
+     * Melanie Klein
+     * Heinz Kohut
+     * Jacques Lacan
+     * Jean Laplanche
+     * Maud Mannoni
+     * Octave Mannoni
+     * Alain de Mijolla
+     * Sophie de Mijolla-Mellor
+     * Jacques-Alain Miller
+     * Herman Nunberg
+     * Francis Pasche
+     * François Perrier
+     * Paul-Claude Racamier
+     * Otto Rank
+     * Theodor Reik
+     * Élisabeth Roudinesco
+     * Hermann Rorschach
+     * Guy Rosolato
+     * Jacques Sédat
+     * Hanna Segal
+     * Conrad Stein
+     * Donald Winnicott
+
+   Critiques
+     * Pierre Janet
+     * Carl Gustav Jung
+     * Karl Popper
+     * Mikkel Borch-Jacobsen
+     * Critiques de la psychanalyse
+
+   Associations
+     * Association psychanalytique internationale
+     * Fédération européenne de psychanalyse
+     * Association internationale d'histoire de la psychanalyse (puis
+       Association internationale Interactions de la psychanalyse)
+     * En Allemagne
+          + Sanatorium Schloss Tegel, clinique psychanalytique
+          + Société allemande de psychanalyse
+          + Institut psychanalytique de Berlin
+          + Institut psychanalytique de Francfort
+     * Société britannique de psychanalyse
+     * Société psychanalytique italienne
+     * Société suisse de psychanalyse
+     * En France
+          + Société psychanalytique de Paris
+          + Société de psychanalyse freudienne
+          + Société française de psychanalyse
+          + École freudienne de Paris
+          + Association psychanalytique de France
+          + Espace analytique
+          + Quatrième Groupe
+          + Associations lacaniennes
+          + École de la cause freudienne
+
+     * Bibliographie
+     * Liste de revues
+     * Arborescence
+
+     * icône décorative Portail de l’anthropologie
+     * icône décorative Portail du genre
      * icône décorative Portail de la psychologie
      * icône décorative Portail de l’œil et de la vue
 
@@ -330,7 +634,57 @@ Liens externes
      * Visage
      * Physiologie
      * Communication
---
+     * Communication non verbale
+     * Relation humaine
+     * Psychanalyse
+     * Genre (sciences sociales)
+     * Féminisme
+     * Sociologie politique
+     * Pouvoir (sociologie)
+     * Autisme
+
+   Catégories cachées :
+     * Page utilisant un modèle Bases inactif
+     * Article utilisant le modèle Dictionnaires inactif
+     * Page utilisant le modèle Autorité inactif
+     * Page utilisant Palette Psychanalyse
+     * Portail:Anthropologie/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Société/Articles liés
+     * Portail:Genre/Articles liés
+     * Portail:Psychologie/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Œil et vue/Articles liés
+     * Portail:Physiologie/Articles liés
+     * Portail:Biologie/Articles liés
+
+     * La dernière modification de cette page a été faite le 27 septembre
+       2025 à 00:09.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
    ____________________
    (BUTTON) Rechercher
 

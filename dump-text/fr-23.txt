@@ -4,7 +4,40 @@
    Aammari Flux des commentaires oEmbed (JSON) oEmbed (XML) JSON
 
    Facebook Instagram Twitter Youtube
---
+     * Insight
+     * Éditorial
+     * Politique
+     * Monde
+     * Économie
+     * Culture
+     * Société
+     * Sports
+     * Contributions
+
+   Recherche ____________________
+
+   jeudi 1 janvier 2026
+     * Nous contacter
+
+   ____________________ Recherche
+   Se connecter
+   Bienvenue ! Connectez-vous à votre compte :
+   ____________________votre nom d'utilisateur
+   ____________________votre mot de passe
+   [BUTTON Input] (not implemented)____________
+   Mot de passe oublié? obtenir de l'aide
+   Récupération de mot de passe
+   Récupérer votre mot de passe
+   ____________________votre email
+   [BUTTON Input] (not implemented)________________________
+   Un mot de passe vous sera envoyé par email.
+   Article19.ma
+     * Insight
+     * Éditorial
+     * Politique
+     * Monde
+     * Économie
+     * Culture
      * Société
      * Sports
      * Contributions
@@ -21,7 +54,120 @@ British Travel Writers in Morocco, 1856–1937 de Lahoucine Aammari
 
    30 novembre 2025
    Facebook
---
+   Twitter
+   WhatsApp
+   Email
+   Copy URL
+
+   Par Dr Mohamed Chtatou
+     __________________________________________________________________
+
+   Objet et corpus de l’ouvrage
+
+   [IMG_1147-696x1053.jpeg] [Medina-300x250-1.jpg]
+
+   Le livre de Lahoucine Aammari propose une cartographie minutieuse des
+   discours produits par une série de voyageurs britanniques sur le Maroc
+   entre la fin du XIXᵉ siècle et l’entre-deux-guerres. Il s’inscrit dans
+   la collection Studies in the Global Nineteenth Century de Liverpool
+   University Press et examine un ensemble de textes de figures
+   emblématiques telles que Walter Burton Harris, Joseph Thomson, Robert
+   S. Watson, Emily Keene et divers envoyés diplomatiques britanniques.
+
+   L’ambition de l’ouvrage n’est pas de faire une simple histoire
+   factuelle du voyage au Maroc, mais de montrer comment ces récits
+   participent à la constitution d’un imaginaire discursifsur le Maroc
+   précolonial et proto-colonial. Le sous-titre, Discursive Encounters,
+   signale d’emblée l’enjeu : il s’agit de lire ces textes comme des lieux
+   de rencontre – et de friction – entre représentations britanniques et
+   réalités marocaines, à la fois dans le registre esthétique, politique
+   et idéologique.
+
+   Cadre théorique : postcolonialisme et études du voyage
+
+   Sur le plan méthodologique, Aammari s’inscrit dans le croisement des
+   travel studies et de la théorie postcoloniale. Ses travaux antérieurs
+   sur le désir d’Orient, les fractures idéologiques et la chasse
+   impériale dans les récits britanniques précoloniaux annonçaient déjà
+   cette orientation, en interrogeant les liens entre texte de voyage,
+   empire et production de l’Autre.
+
+   L’ouvrage mobilise de manière implicite ou explicite des références
+   majeures : Edward Said et l’orientalisme comme grille de lecture des
+   représentations déséquilibrées entre Orient et Occident ; Mary Louise
+   Pratt et la notion de « contact zone » où le texte de voyage devient
+   scène d’énonciation asymétrique ; Homi Bhabha et la logique
+   d’ambivalence, de mimétisme et de différence dans les discours
+   coloniaux. Sans se perdre dans le jargon théorique, Aammari s’en sert
+   pour déplier les strates de pouvoir, de désir et de peur qui traversent
+   les descriptions du Maroc et des Marocains.
+
+   Cette posture théorique permet d’éviter deux écueils :
+   1. La célébration naïve de l’écriture de voyage comme simple aventure
+   exotique.
+   2. La dénonciation purement idéologique, qui réduirait les auteurs
+   britanniques à de simples agents de l’empire.
+
+   Aammari montre au contraire que ces textes sont internements traversés
+   par des tensions, des contradictions, parfois même des failles qui
+   laissent apparaître d’autres lectures possibles du Maroc.
+
+   Structure et démarche analytique
+
+   La structure du livre – telle qu’on peut la déduire du résumé éditorial
+   – combine une approche chronologique (de 1856 à 1937) et thématique.
+   • Une première partie situe les récits dans leur contexte historique :
+   ouverture progressive du Maroc au commerce britannique, rivalités
+   franco-britanniques, marche vers le protectorat, puis recomposition des
+   relations sous la domination française et espagnole.
+   • Des chapitres centraux sont consacrés à des figures et motifs
+   récurrents : le désert et la montagne comme espaces de danger et de
+   désir, la ville marocaine comme scène de désordre ou de pittoresque, la
+   cour makhzénienne comme théâtre de diplomatie et de complot.
+   • Une dernière section interroge les continuités et discontinuités
+   discursive sur près de huit décennies, mettant en lumière ce qui change
+   – et ce qui persiste – dans la manière britannique de dire le Maroc.
+
+   Chaque chapitre articule lecture rapprochée des textes (close reading)
+   et mise en contexte historique et politique, ce qui donne à l’ensemble
+   une cohérence à la fois littéraire et historiographique.
+
+   L’Orientalisme britannique face au Maroc : exotisme, danger et désir
+
+   Un apport majeur du livre réside dans la manière dont Aammari montre la
+   spécificité marocaine à l’intérieur de l’orientalisme britannique. Le
+   Maroc apparaît comme un espace liminal :
+   • À la fois africain et méditerranéen,
+   • Musulman mais fissuré par des clivages ethniques, tribaux et
+   régionaux,
+   • Proche de l’Europe mais représenté comme en marge de la «
+   civilisation ».
+
+   Les récits étudiés mettent en scène un Maroc violent, insoumis, tribal,
+   où l’absence d’État moderne est souvent invoquée pour légitimer
+   l’ingérence européenne. La figure du caïd rebelle, du brigand
+   montagnard ou du sultan faiblealimente ainsi la rhétorique impériale de
+   la mission civilisatrice.
+
+   Mais Aammari montre aussi comment, chez certains auteurs, le Maroc
+   devient un espace de fascination, de liberté et même de critique
+   implicite de la société victorienne : le voyageur se projette dans le «
+   chaos » marocain pour dire, en creux, les rigidités de son propre
+   monde. Cette ambivalence – à la fois peur de la barbarie et désir de
+   l’Autre – est au cœur de la dimension « discursive » de ces rencontres.
+
+   Genre, race et religion : figures du Marocain et de la Marocaine
+
+   L’analyse d’Aammari ne se limite pas à l’opposition binaire « Europe
+   civilisée / Maroc arriéré ». Il prête une attention particulière à la
+   construction des figures marocaines :
+   • Le Musulman fanatique, brandi comme l’ennemi par certains voyageurs
+   lorsque surgissent des épisodes de violence anti-chrétienne.
+   • Le Juif marocain, souvent décrit à travers des stéréotypes racialisés
+   et socio-économiques, mais parfois aussi comme médiateur entre mondes
+   musulman et européen.
+   • La Marocaine – femme musulmane ou juive – figée dans l’image du
+   harem, de la réclusion, mais qui, chez certains auteurs, acquiert une
    épaisseur psychologique inattendue.
 
    La présence d’Emily Keene, épouse britannique d’un notable marocain,
@@ -31,3 +177,180 @@ British Travel Writers in Morocco, 1856–1937 de Lahoucine Aammari
    race.
 
    Cette attention aux croisements de genre, de race et de religion donne
+   au livre une dimension intersectionnelle qui le rapproche des travaux
+   contemporains sur les identités multiples en contexte colonial.
+
+   Diplomatie, empire et écriture de voyage
+
+   Un autre mérite de l’ouvrage est de montrer comment le voyageur n’est
+   jamais un simple touriste, mais souvent un acteur périphérique ou
+   central des jeux impériaux. Plusieurs des auteurs étudiés furent
+   correspondants de presse, consuls ou envoyés officiels auprès du
+   Makhzen. C’est le cas, notamment, de Walter Burton Harris, journaliste
+   du Times, dont la position entre diplomatie, espionnage, propagande et
+   récit d’aventure est emblématique.
+
+   Aammari met en lumière la manière dont ces écrivains :
+   • Préparent l’opinion publique britannique à accepter certaines
+   orientations de politique étrangère ;
+   • Servent de relais entre administrations européennes rivales
+   (britannique, française, allemande) ;
+   • Construisent une image du Maroc qui justifie, a posteriori, le
+   partage colonial entériné en 1912.
+
+   L’écriture de voyage apparaît ainsi comme un dispositif
+   para-diplomatique, contribuant à naturaliser l’idée que le Maroc serait
+   incapable de se gouverner seul et qu’il aurait besoin de la tutelle
+   européenne. Le livre montre néanmoins que certains textes contestent
+   subtilement cette logique, en décrivant la complexité des structures
+   politiques marocaines et la dignité des acteurs locaux.
+
+   Apport de l’ouvrage à l’historiographie et aux études littéraires
+
+   Sur le plan de l’historiographie marocaine et anglo-marocaine, British
+   Travel Writers in Morocco, 1856–1937 offre une synthèse inédite :
+   jusqu’ici, les études se focalisaient soit sur quelques figures
+   (Harris, Keene, etc.), soit sur des périodes partielles. Aammari
+   propose une vision d’ensemble couvrant plus de huit décennies, en
+   mettant en relation textes littéraires, documents diplomatiques et
+   contexte géopolitique.
+
+   Pour les études littéraires, l’ouvrage apporte :
+   • Une relecture fine de récits parfois négligés ou considérés comme
+   mineurs ;
+   • Une mise en valeur du voyage comme genre hybride, à la frontière du
+   reportage, du roman d’aventure, du document ethnographique et du
+   manifeste idéologique ;
+   • Une recontextualisation du Maroc dans la cartographie plus large des
+   « Orients » britanniques (Égypte, Inde, Proche-Orient), en montrant ce
+   qui fait la singularité maghrébine dans l’imaginaire impérial.
+
+   Enfin, pour les postcolonial Moroccan studies, le livre fournit un
+   matériau précieux pour comprendre comment l’image coloniale du Maroc a
+   été fabriquée, diffusée puis, plus tard, déconstruite. Il rejoint ainsi
+   les efforts d’une génération de chercheurs marocains qui re-lisent les
+   archives coloniales pour reconstruire une histoire vue aussi depuis le
+   Sud.
+
+   Limites et pistes de prolongement
+
+   Comme tout travail centré sur des sources britanniques, l’ouvrage court
+   le risque de recentrer le récit sur le point de vue européen. Aammari
+   atténue ce biais en insistant sur les résistances marocaines, sur la
+   densité des pratiques locales et sur la pluralité des acteurs
+   autochtones ; mais le matériau reste essentiellement un corpus de
+   textes anglais, écrits pour un public britannique.
+
+   Une piste de prolongement consisterait à mettre davantage en dialogue
+   ces récits avec des sources marocaines contemporaines – chroniques,
+   fatwas, correspondances makhzéniennes, témoignages oraux – afin de
+   faire émerger, en parallèle du « récit de voyage », un contre-récit
+   indigène.
+
+   De même, le cadre chronologique pourrait être étendu vers
+   l’après-indépendance, pour mesurer la persistance de certains
+   stéréotypes dans les écritures britanniques du Maroc post-colonial, ou
+   au contraire l’émergence de nouvelles sensibilités, plus dialogiques et
+   moins hiérarchiques.
+
+   Conclusion : un jalon important pour les études anglo-marocaines
+
+   En définitive, British Travel Writers in Morocco, 1856–1937:Discursive
+   Encounters constitue un jalon important dans l’étude des relations
+   anglo-marocaines et de la représentation de l’Autre maghrébin dans la
+   culture britannique. En combinant rigueur archivistique, sensibilité
+   littéraire et outils de la théorie postcoloniale, Lahoucine Aammari
+   propose une lecture nuancée où le Maroc n’est plus un simple décor
+   exotique, mais un espace de négociation de sens, de pouvoir et
+   d’identité.
+
+   L’ouvrage éclaire, en profondeur, la manière dont les récits de voyage
+   ont contribué à installer durablement certaines images du Maroc –
+   parfois encore à l’œuvre aujourd’hui dans les médias et les imaginaires
+   touristiques – tout en montrant que ces textes contiennent aussi les
+   germes d’une re-lectureplus égalitaire, ouverte à la reconnaissance de
+   l’altérité marocaine. À ce titre, il offre aux chercheurs, étudiants et
+   lecteurs intéressés par le Maroc, le voyage et l’Empire britannique un
+   outil critique de première importance.
+   Jean-François Portaels – Beauté marcaine avec des fleurs(19e siècle)
+
+   Vous pouvez suivre le Professeur Mohamed Chtatou sur X : @Ayuriu
+
+   Article19.ma
+
+   Facebook
+   Twitter
+   WhatsApp
+   Email
+   Copy URL
+
+   Article précédentÉdito – Génération Z-212 – Les enfants du vent
+   numérique à la recherche d’un pays qui respire à leur rythme
+   Article suivantVidéo – À partir de Dakhla, le CNDH lance la caravane
+   nationale pour la lutte contre les violences numériques faites aux
+   Marocaines
+   Article19.ma
+
+LAISSER UN COMMENTAIRE Annuler la réponse
+
+   Connecter pour laisser un commentaire
+
+EDITORIAL
+
+Cyberespace 2026 : pendant que le monde se barricade, le Maroc...
+
+   1 janvier 2026
+
+   [fda5bdd7-7272-44d4-b92a-54474822a586-100x70.jpeg]
+   [300x600-SURF-VF.png]
+
+À la une
+
+Cyberespace 2026 : pendant que le monde se barricade, le Maroc...
+
+   1 janvier 2026
+
+Conjoncture – Maroc : l’économie nationale maintient une croissance solide
+de...
+
+   31 décembre 2025
+
+Affaire Pegasus – Madrid se tournerait vers Eurojust dans un contexte...
+
+   30 décembre 2025
+
+CAN 2026 – Maroc-Zambie : quand les Lions de l’Atlas rugissent...
+
+   29 décembre 2025
+
+Arrêt sur images / Intempéries – Les zones montagneuses sous pression,...
+
+   29 décembre 2025
+
+Points de vue
+
+Point de vue – Journaliste sous régime d’exception
+
+   28 décembre 2025
+
+Analyse – La Boutchichiyya au Maroc : Un Mouvement Soufi de...
+
+   26 décembre 2025
+
+Point de vue – Le migrant « halal » : une...
+
+   8 décembre 2025
+
+Nos confrères ont écrit
+
+Confusion des genres (Le Figaro)
+
+   20 mars 2024
+
+   © Article19.ma - 2026
+   10 Rue Al Yamama, N° 4 - 10.000 - Rabat / Maroc
+   Contactez-nous: [email protected]
+   Facebook Instagram Twitter Youtube
+     * Nous contacter
+
+   © # Article19.ma - 2026

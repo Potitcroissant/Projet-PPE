@@ -1,3 +1,23 @@
+   (BUTTON) Le blog d'Ada Tech School
+   (BUTTON)
+     * Le blog d'Ada Tech School
+     * FORMATIONS TECH & IA
+     * PÉDAGOGIE
+     * FINANCEMENT
+     * NOS ÉVÈNEMENTS
+     * BLOG
+     * CANDIDATER
+     * BROCHURE
+
+    1. Home
+
+     / Féminisme
+
+     / "Female gaze" au cinéma : de quoi parle-t-on ?
+
+"Female gaze" au cinéma : de quoi parle-t-on ?
+
+   Féminisme • 24 mai 2024
    (BUTTON)
 
    Combien de films en 2023 continuent de présenter des femmes dans les
@@ -25,7 +45,14 @@
    reconnaître le female gaze au cinéma ?
 
    Dans cet article, on vous explique ce qu'est "le female gaze" au
---
+   cinéma.
+
+Qui a théorisé le "female gaze" ?
+
+   Le concept de “female gaze” a pris racine en contradiction avec le
+   concept du “male gaze”, qui a été théorisé par Laura Mulvey en 1975
+   dans son article “Plaisir visuel et cinéma narratif” et dont il est
+   important de parler.
    Image du "male gaze", by Pinterest
 
    Dans cet essai, Laura Mulvey, critique de cinéma, réalisatrice et
@@ -73,7 +100,10 @@
    l'existence du "female gaze".
 
 Qu’est-ce que le « female gaze » au cinéma ?
---
+
+   Qu'est-ce que le female gaze au cinéma ? by Oceane Lock
+
+   Rentrons maintenant dans l'analyse théorique du "female gaze" : quelle
    est sa définition ? Quelles sont ses différences avec le "male gaze" ?
 
    Joey Soloway définit le "female gaze" comme une façon de faire
@@ -83,7 +113,12 @@ Qu’est-ce que le « female gaze » au cinéma ?
    Mulvey pour définir le "male gaze".
 
    Qu'est-ce que "l'expérience féminine vécue" selon Joey Soloway ? Elle
---
+   divise cette expérience en trois composantes cumulatives, qui
+   permettent de définir le "female gaze" :
+     * "La caméra de sentiment", dans laquelle les émotions sont
+       prioritaires sur l'action ; comme l'expliquait Joey, "on pourrait
+       le voir comme une caméra subjective qui tente de pénétrer à
+       l'intérieur du protagoniste". C'est une manière de faire ressentir
        quelque chose aux spectateur·trice·s et non forcément de lui faire
        voir quelque chose. Le corps exprime une action de sentiment.
        L'intention de la réalisation est bien de "se réapproprier son
@@ -120,7 +155,8 @@ Qu’est-ce que le « female gaze » au cinéma ?
    pas que le fait des hommes. De nombreuses réalisatrices satisfont le
    "male gaze". Inversement, certains hommes optent pour le "female gaze".
    Bon... On n'est pas dupe et Iris Brey non plus, la plupart des
---
+   personnes empruntant la mouvance du "female gaze" sont des
+   réalisatrices. Néanmoins, en clarifiant ce détail, Iris Brey rappelle
    que "le female gaze" ne dépend pas du genre des réalisateurs et a un
    objectif qui transcende cette distinction.
 
@@ -139,7 +175,13 @@ Comment reconnaitre le female gaze ?
    Iris Brey livre 6 critères :
 
    "Il faut narrativement que :
---
+     * le personnage principal s’identifie en tant que femme ;
+     * l’histoire soit racontée de son point de vue ;
+     * son histoire remette en question l’ordre patriarcal ;
+
+   Il faut d’un point de vue formel que :
+     * grâce à la mise en scène, le spectateur ou la spectatrice ressente
+       l’expérience féminine ;
      * si les corps sont érotisés, le geste doit être conscientisé ;
      * le plaisir des spectateurs ou spectatrices ne découle pas d’une
        pulsion scopique"
@@ -153,7 +195,20 @@ Comment reconnaitre le female gaze ?
    définition est assez théorique). Reprends les critères d'Iris Brey et
    observe avec attention si les films suivant y répondent.
    Notre selection de films "female gaze", by blavity.com
---
+
+   Les films :
+     * "Portrait de la jeune fille en feu" de Céline Sciamma
+     * "La leçon de piano" de Jane Campion
+     * "Titanic" de James Cameron
+     * "Je, tu, il, elle" de Chantal Akerman
+     * "Thelma et Louise" de Ridley Scott
+     * "Sibyl" de Justine Triet
+     * "Wonder Woman" de Patty Jenkins
+
+   Les séries :
+     * "I love dick" de Jill Soloway et Sarah Gubbins
+     * "La servante écarlate" de Bruce Miller
+
    Aujourd'hui, le "female gaze" est un engagement féministe et une lutte
    pour l'égalité. Le cinéma est un miroir de notre société. Il est
    politique. Il dénonce. Il rend compte d'une réalité. Il évolue. Il
@@ -163,3 +218,95 @@ Comment reconnaitre le female gaze ?
    Ada Tech School est une école d'informatique à la pédagogie inclusive.
    Nous prônons des valeurs comme l'inclusion, la bienveillance,
    l'entraide, la singularité. Pour cela, nous avons une méthode
+   d'apprentissage innovante basée sur le faire et grâce à laquelle tu
+   apprends à ton rythme. Notre objectif ? Que tu deviennes un·e
+   développeur·se professionnel·le et recherché·e par les entreprises.
+   Comme le "female gaze" au cinéma, notre école lutte contre les
+   stéréotypes des femmes dans le milieu de la tech. Nous mettons tout en
+   place pour que tu apprennes dans un environnement sain.
+
+   Rejoins notre formation de développeur·se web !
+
+À propos d’Ada Tech School
+
+   Ada Tech School est une école d’informatique inclusive, qui forme au
+   métier de développeur·se en 21 mois. Elle a trois campus : Paris,
+   Nantes  et Lyon. Au sein de l'école, les apprenant·e·s apprennent en
+   faisant grâce à une pédagogie alternative inspirée de Montessori,
+   approchant le code comme une langue vivante et favorisant la
+   collaboration et l’entraide grâce à des projets collectifs. L’école
+   doit son nom à Ada Lovelace, qui fut la première programmeuse de
+   l’histoire.
+
+   Après neuf mois de formation, les apprenant·e·s sont opérationnel·le·s
+   et prêt·e·s à réaliser leur apprentissage - rémunéré - pendant douze
+   mois dans une des entreprises partenaires de l’école (Trainline,
+   Deezer, Blablacar, JellySmack, Back Market, ...).
+   Aucun pré-requis technique n’est exigé pour candidater. Il suffit
+   d’avoir plus de 18 ans. La sélection se fait en deux temps : formulaire
+   de candidature puis entretien avec une réponse sous 2 semaines. Pour
+   plus d’informations sur la formation, télécharge notre brochure de
+   présentation.
+
+   Sources :
+     * ART SCHOOL PORTAL
+     * Wikipédia
+     * Potiches
+     * Centre Pompidou
+     * Konbini
+
+Salomée David Baousson
+
+   Rédactrice web
+
+Recommandé pour vous
+
+   Féminisme
+
+Femmes & Open Source : pourquoi leur participation reste faible et comment la
+booster
+
+   il y a 23 jours • 5 min de lecture
+   Féminisme
+
+Pourquoi les femmes sont sous-représentées dans la tech et comment inverser
+la tendance
+
+   il y a un mois • 8 min de lecture
+   Féminisme
+
+Égalité professionnelle : et si tout commençait par la culture d’entreprise
+chez AIS ?
+
+   il y a 2 mois • 2 min de lecture
+
+   (BUTTON)
+
+   ____________________
+
+   Pas de résultat pour votre recherche, essayez autre chose.
+
+   Ada - Empowerment, Créer -> Comprendre -> Partager -> Apprendre à
+   apprendre, Join the revolution, Change the future
+
+   28 rue du Petit Musc
+
+   75004 Paris
+
+   09 71 29 95 92
+
+   À propos Qui sommes-nous ? École informatique à Paris École
+   informatique à Nantes École informatique à Lyon FAQ Plan du site
+   Nos valeurs L'école Montessori de la Tech Notre formation
+   développeur.se full stack Devenir développeur.se Se former à
+   l'informatique Se former aux différents langages du web
+   Ada tech School Datadock
+
+   Super ! Vous vous êtes inscrit avec succès. (BUTTON)
+
+   Super ! Effectuez le paiement pour obtenir l'accès complet. (BUTTON)
+
+   Bon retour parmi nous ! Vous vous êtes connecté avec succès. (BUTTON)
+
+   Parfait ! Votre compte est entièrement activé, vous avez désormais
+   accès à tout le contenu. (BUTTON)

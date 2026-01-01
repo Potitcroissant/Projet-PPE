@@ -3,7 +3,64 @@
 
    Aller au contenuAller au menuAller à la recherche
 
---
+   (BUTTON)
+
+   Menu
+
+     *
+
+   Psychologies, Genre et Société
+
+Menu principal
+
+   ____________________
+   (BUTTON)
+
+Derniers numéros
+
+     * 5 | 2025
+       Varia
+     * 4 | 2025
+       Varia
+     * 3 | 2024
+       Varia
+     * 2 | 2024
+       Varia
+
+Numéros en texte intégral
+
+     * 1 | 2023
+       Varia
+
+   Tous les numéros
+
+Index
+
+     * Auteur·ices
+     * Mots-clés
+
+La revue
+
+     * Présentation
+     * Comités de la revue
+     * Proposer un article
+     * Normes de rédaction
+     * Crédits du site
+
+Informations
+
+     * Politique de confidentialité
+
+Affiliations/partenaires
+
+     * Logo du site IDEX/France 23
+     * Logo du site Cité du genre
+     * Logo du site Centre de Recherche Psychanalyse, Médecine et Société
+     * Logo du site Laboratoire de Psychologie Sociale
+
+     * Numéros
+     * 4 | 2025 : Varia
+     * Contribution théorique
 
    Citer cet article
    Fac-similé [PDF, 0k]
@@ -13,7 +70,13 @@ Du regard masculin à la norme male gaze
      * From male look to male-gaze norm
 
    Géraldine Carranante
---
+
+   DOI : 10.71616/483
+
+Résumés
+
+     * Français
+     * English
 
    Le male gaze peut être compris comme norme visuelle de production
    d’images de corps genrés, à travers laquelle les corps féminins sont
@@ -29,7 +92,7 @@ Du regard masculin à la norme male gaze
    revenant sur le contexte intellectuel d’élaboration du concept pour
    mieux m’en extraire, je soutiens que mettre en évidence la norme
    male-gaze dans la culture visuelle permet de restructurer la lutte pour
---
+   émanciper tous les corps d’un langage visuel sexiste.
 
    Male gaze can be understood as a visual norm in the production of
    images of gendered bodies, through which female bodies are
@@ -39,7 +102,13 @@ Du regard masculin à la norme male gaze
    at women, both within and outside of cinema. This interpretation echoes
    Laura Mulvey’s article of 1975, who coined the concept, but it obscures
    nowadays a major issue of everyday gender discrimination, i.e. the
---
+   existence of a sexist visual norm that trains everybody to see, judge,
+   and represent bodies differently depending on their gender. By
+   revisiting the intellectual context of the concept’s development, I
+   argue that highlighting the male-gaze norm in visual culture allows us
+   to help fighting for the emancipation of all bodies from a sexist
+   visual language.
+
 Index
 
 Mots-clés
@@ -61,7 +130,10 @@ Plan
           + Autonomisation, invisibilisation et internalisation
           + Matérialité
      * Renouvellement d’un outil de lutte
---
+          + Des représentations hors-norme
+          + Rendre visible la norme
+     * Conclusion
+
 Texte
 
 Introduction
@@ -71,7 +143,21 @@ Introduction
    britannique et féministe de la deuxième vague. Le concept apparaît pour
    la première fois en 1975, dans l’article séminal de Laura Mulvey
    intitulé « Plaisir visuel et cinéma narratif2 », publié dans la revue
---
+   Screen. Laura Mulvey, alors réalisatrice et critique de cinéma, pointe
+   du doigt un phénomène omniprésent dans le cinéma hollywoodien des
+   années 1950 à 1970 : un traitement différencié des corps genrés à
+   l’écran, dans lequel les corps féminins sont filmés et présentés comme
+   des objets passifs de désirs, et les corps masculins comme des agents
+   actifs, soutenant l’avancée du récit et l’identification des
+   spectateur·trices.
+
+   Depuis lors, le concept de « male gaze » a connu une utilisation
+   controversée, à la fois dans les milieux militants féministes, mais
+   également dans les milieux de critique de cinéma et des cultural
+   studies. Au niveau académique, le concept et le cadre psychanalytique
+   de son élaboration ont été critiqués comme véhiculant une norme
+   hétérosexuelle et occultant les rapports raciaux (Cervulle, 2023). Dans
+   les milieux militants, et depuis quelques années dans les médias plus
    traditionnels, ce concept a été repris de manière plus ou moins vague
    pour désigner des phénomènes différents comme la sexualisation des
    femmes au cinéma, ou la sous-représentation des femmes dans les métiers
@@ -87,7 +173,9 @@ Introduction
    d’objet sexuel. La violence est d’autant plus forte que cette situation
    est considérée comme normale par l’entourage, les collègues ou les
    pairs, demandant aux femmes de supporter la situation en silence au
---
+   risque d’être objet de représailles, de mépris ou de haine3. Il n’est
+   pas question ici de remettre en question l’existence de ce phénomène de
+   sexisme ordinaire, ni de critiquer les mots utilisés pour s’en emparer
    et lutter contre. L’objectif de cet article est de mettre en lumière un
    autre phénomène saisi à l’origine par le concept de « male gaze » et
    obscurci par l’omniprésence de l’interprétation sus-mentionnée de
@@ -106,7 +194,32 @@ Introduction
    cadre psychanalytique utilisé par Laura Mulvey dans « Plaisir visuel et
    cinéma narratif », ainsi qu’au contexte militant féministe des années
    1970 au Royaume-Uni.
---
+
+   Un premier objectif de ce travail est de mettre en évidence le
+   traitement visuel différencié des corps genrés comme une dimension
+   souvent oubliée du male gaze et présente dès la formulation originelle
+   du concept par Laura Mulvey en 1975. Ce travail ne s’arrête cependant
+   pas à une explicitation du concept d’origine, mais prétend montrer que
+   cette dimension du « male gaze » peut se comprendre en tant que norme
+   de représentation sexiste qui façonne tous les corps genrés, masculins
+   comme féminins. Enfin, un dernier objectif de ce travail est de montrer
+   que la mise en évidence de cette norme renouvelle le concept de male
+   gaze comme outil de lutte politique pour l’égalité. Pour parler de la
+   norme, le concept doit s’entendre comme un adjectif : on parlera d’un
+   film male-gaze, d’une image male-gaze ou d’une publicité male-gaze.
+   Cette norme de représentation est constituée d’un régime de production
+   d’images, sous-tendu par un ensemble d’outils techniques de fabrication
+   d’objets visuels, véhiculant certaines significations et valeurs. Le
+   travail d’origine de Laura Mulvey à propos des outils techniques de
+   cadrage, de montage, de mise en scène et de narration qui fabriquent le
+   traitement différencié des corps à l’écran est la source principale
+   d’analyse de ce travail. Les travaux d’Iris Brey (2020) et de Nina
+   Menkes (2022) renouvellent l’analyse des techniques en prenant comme
+   objet d’étude des productions visuelles récentes, montrant ainsi que le
+   traitement visuel différencié des corps genrés est toujours
+   d’actualité. Dans cet article théorique, je n’étudierai pas à
+   proprement parler de productions visuelles. Je me repose pour
+   l’essentiel sur les travaux de mes consœurs et confrères en études de
    communication et de cinéma pour travailler le concept de « male gaze »
    par un geste philosophique d’analyse conceptuelle. A l’aune des enjeux
    politiques et théoriques actuels entourant la manière dont les images
@@ -118,7 +231,7 @@ Introduction
    Après une première partie d’analyse du concept historique, j’explique
    la manière dont le phénomène du traitement différencié des corps peut
    se comprendre comme une norme de représentation. Dans une troisième et
---
+   dernière partie, j’esquisse les contours des formes de lutte que ce
    renouvellement conceptuel laisse entrevoir, rapprochant dans un même
    mouvement de résistance des gestes de production visuelle qui
    pourraient sembler à première vue s’opposer.
@@ -128,7 +241,22 @@ Pourquoi ce regard est-il masculin ?
    Dans la préface d’« Au-delà du plaisir visuel », recueil de textes de
    Laura Mulvey publié en 2017 aux éditions Mimésis, Laura Mulvey revient
    sur le contexte d’élaboration de son concept de male gaze. Ce contexte
---
+   est marqué par une grande influence intellectuelle de la théorie
+   psychanalytique, par un ancrage dans le mouvement de libération des
+   femmes, ainsi qu’une focalisation sur le cinéma classique hollywoodien
+   tel qu’il était matériellement présent dans les années 1970. C’est dans
+   cette perspective très particulière que Laura Mulvey révèle le
+   phénomène de traitement différencié des corps genrés comme un langage
+   filmique omniprésent dans le cinéma hollywoodien. Elle déploie alors de
+   nombreux exemples de films et d’outils techniques pour mettre en
+   évidence le fait que les personnages masculins sont déployés dans un
+   langage narratif et filmique qui les rend moteur de la narration, de
+   telle sorte qu’ils déclenchent une identification des
+   spectateur·trices, tandis que les personnages féminins sont donnés en
+   spectacle et fétichisés à des fins de plaisir visuel voyeuriste de ces
+   même spectateur·trices. Enfin, elle défend que cette division du
+   travail à l’écran est déterminée par la structure inconsciente des
+   individus dans un système patriarcal, dans lequel cette fétichisation
    du corps de la femme est une réponse à l’angoisse de castration.
 
    Dans cette première partie, mon objectif est de distinguer, à des fins
@@ -187,7 +315,17 @@ Regard dominant, regard masculin
      Notre manière de marcher, de s’asseoir, de rire, les jeux
 
      que les hommes nous imposent et oh, Déesse Mère, les jeux
---
+
+     qu’on s’impose entre nous - voilà comment nous passons inaperçues,
+
+     devant les Conquérants.
+
+     Toujours ils surveillent,
+
+     électrodes invisibles dans nos cerveaux,
+
+     pour s’assurer que notre rage implose les unes contre les autres,
+
      et pas contre eux4. (Morgan, 1970, p.xxxviii)
 
    On retrouve dans ce texte la profonde influence de Simone de Beauvoir
@@ -211,7 +349,11 @@ Regard dominant, regard masculin
      ne trouvent aucun plaisir à se promener seules dans Paris parce que,
      sans cesse importunées, il leur faut sans cesse être sur le
      qui-vive : tout leur plaisir est gâché. Si des étudiantes dévalent
---
+     les rues en bandes joyeuses comme le font les étudiants, elles se
+     donnent en spectacle ; marcher à grands pas, chanter, parler fort,
+     rire haut, manger une pomme, c’est une provocation, elles se feront
+     insulter ou suivre ou aborder. L’insouciance devient tout de suite
+     un manque de tenue ; ce contrôle de soi auquel la femme est obligée
      et qui devient une seconde nature chez « la jeune fille bien
      élevée » tue la spontanéité. (De Beauvoir, 1949, p. 96)
 
@@ -254,7 +396,16 @@ Regard dominant, regard masculin
    visuelles, comme le suggère les travaux de John Berger. Laura Mulvey
    puise alors dans la théorie psychanalytique les moyens de mettre en
    évidence ce dispositif en jeu dans le cinéma.
---
+
+Les plaisirs visuels du cinéma et le dispositif technique
+
+   Laura Mulvey soutient que le but du cinéma classique hollywoodien est
+   de divertir en procurant au spectateur·trice un plaisir visuel. Elle
+   identifie alors, à travers la théorie psychanalytique, deux formes de
+   plaisir visuel satisfaits par ce type de cinéma : un plaisir
+   narcissique et un plaisir scopique. Le plaisir narcissique est produit
+   par l’identification du ou de la spectateur·trice au héros du film,
+   héros qui surmontera des épreuves, vivra des aventures, et en sortira
    vainqueur. C’est un plaisir que l’autrice rapproche du stade du miroir
    chez Lacan, où l’identification à une image plus puissante, plus
    parfaite de soi, procure du plaisir. Le plaisir scopique, quant à lui,
@@ -264,7 +415,47 @@ Regard dominant, regard masculin
    le voyeurisme, où le sujet voit sans être vu.
 
    À partir de ces plaisirs visuels, Laura Mulvey identifie alors une
---
+   forme de division hétérosexuelle et patriarcale du travail à l’écran
+   des différents personnages. Le plaisir narcissique repose en effet
+   exclusivement sur les personnages masculins et seuls les personnages
+   féminins suscitent le plaisir scopique pour le ou la spectateur·trice.
+   Cette division du travail se concrétise par un traitement différencié à
+   l’image des personnages masculins et féminins, à la fois dans leurs
+   rôles narratifs et dans la représentation de leur corps et de leurs
+   actions. La grande force de « Plaisir visuel et cinéma narratif » est
+   de mettre en évidence les dispositifs techniques mettant en œuvre cette
+   production ségrégée du plaisir visuel : les hommes à l’action, les
+   femmes au spectacle. Il s’agit de dispositifs narratifs, de cadrage, de
+   montage, c’est-à-dire des dispositifs techniques de production
+   d’images, de structuration du langage cinématographique.
+
+   Au niveau narratif, les personnages masculins sont actifs, ils font
+   avancer l’histoire, la narration. Au contraire, les personnages
+   féminins sont passifs et n’ont pour la plupart peu ou pas d’impact sur
+   l’avancée de l’intrigue. Ils sont en revanche objet du désir voyeuriste
+   à la fois du héros et du spectateur·trice. L’identification au
+   personnage masculin est permise par la manière dont le corps du héros
+   et ses actions sont filmés dans un espace tridimensionnel. Entre
+   autres, les personnages masculins sont cadrés en pied, la caméra suit
+   les mouvements de l’action du héros masculin, alors même qu’il y a
+   plusieurs personnages à l’écran, et seules les aventures du héros sont
+   filmées en caméra subjective. On voit également leur environnement et
+   on les voit évoluer dans cet environnement, ce qui nous permet de
+   comprendre leurs actions et les intentions qui les guident. Associé à
+   des dispositifs de grande profondeur de champ6, ce qui permet de
+   reproduire l’effet de la vision naturelle, le spectateur a accès au
+   point de vue du personnage, ce qui favorise l’identification à ce
+   personnage. En d’autres termes, la manière de filmer les personnages
+   masculins nous donne accès en tant que spectateur·trice à l’expérience
+   et la subjectivité de ces derniers. Par contraste, le cadrage des
+   personnages féminins est différent. Les corps féminins sont filmés en
+   gros plan à l’écran et de manière morcelée. La femme entière est
+   beaucoup moins filmée que l’homme entier. Les gros plans sont souvent
+   faits sur la poitrine, les fesses, les jambes, c’est-à-dire les parties
+   supposément intéressantes du corps féminin pour le plaisir scopique. Le
+   morcellement et les gros plans, invisibilisant l’environnement dans
+   lequel les actions des personnages féminins prennent place, ne donne
+   pas accès aux intentions des femmes, et aucune attention n’est portée à
    leurs actions et à leur agentivité (Mulvey, 1975).
 
    Si ces dispositifs génèrent si bien ces plaisirs visuels, c’est parce
@@ -325,7 +516,40 @@ De la superposition des regards à la norme
 Une norme sexiste, mais pas masculine
 
    Le traitement visuel des corps genrés que Laura Mulvey met en évidence
---
+   au sein de ce cinéma hollywoodien peut s’exprimer comme une liste de
+   caractéristiques visuelles et techniques de ce qui fait une
+   représentation typique, à l’écran, d’un corps masculin ou féminin. Pour
+   n’en citer que quelques-uns : une femme est filmée de manière morcelée,
+   en gros plan, principalement en contre-champ. Un homme est filmé en
+   pied, les mouvements de la caméra suivent ses déplacements et ses
+   actions. Il ne sera pas ici question de détailler les caractéristiques
+   formelles de ces représentations typiques (Mulvey, 1975 ; Brey, 2020).
+   L’objectif est de montrer la pertinence d’une approche du male gaze en
+   tant que norme de représentation englobant tous les corps.
+
+   En effet, en isolant le langage visuel, le dispositif en lui-même, on
+   s’aperçoit que ce langage édicte des règles, autant sur les corps
+   masculins que sur les corps féminins, et transmet des valeurs éthiques
+   et esthétiques à propos des genres : « une femme est bien et belle
+   lorsqu’elle correspond à ce type de représentation, un homme est bien
+   et beau lorsqu’il correspond à ce type de représentation ». Pour le
+   dire autrement, le langage du film, s’il est pris pour lui-même, révèle
+   une structure qui modèle tous les corps genrés par des obligations et
+   des interdits : s’il faut que le corps féminin soit objectivé, il est
+   interdit de faire de même pour un corps masculin. On peut alors définir
+   la norme de représentation male-gaze comme un régime de production
+   d’images de corps genrés, sous-tendu par un ensemble d’outils
+   techniques de fabrication d’objets visuels, véhiculant certaines
+   significations et valeurs. Cette production d’image est structurée par
+   des règles implicites déterminant un ensemble de représentations
+   cinématographiques des corps genrés. Le male gaze, en tant que régime
+   d’image, représente le corps masculin en tant que sujet, habité d’une
+   agentivité, et le féminin en tant qu’objet passif et morcelé. Il s’agit
+   d’un langage, voire même d’une structure perceptive, qui associe une
+   donnée sensorielle complexe à une catégorie symbolique, à savoir le
+   genre et son rôle sexuel. La norme est en ce sens une règle de
+   conversion entre l’image et le symbole, au même titre que chaque langue
+   orale contient une règle de conversion d’indices acoustiques complexes
    en phonèmes. C’est pour cela que j’entends utiliser le terme male gaze
    comme un adjectif : un film male-gaze ou une image male-gaze sont des
    représentations de corps genrés conformes à la règle de conversion.
@@ -335,7 +559,7 @@ Une norme sexiste, mais pas masculine
    hétérosexuelles du patriarcat, dans laquelle une femme est typiquement
    représentée en tant qu’objet sexuel pour les hommes, et les hommes sont
    représentés comme sujet prenant plaisir à la possession scopique de
---
+   l’image de la femme. Il s’agit donc d’une norme hétéro-sexiste,
    patriarcale, mais pas masculine.
 
    Cet élément normatif du male gaze englobant les corps à la fois
@@ -368,7 +592,11 @@ Autonomisation, invisibilisation et internalisation
    paradigme de production visuelle devient par la suite sa propre force
    de reproduction : un ou une producteur·trice d’image filmera et mettra
    en scène un corps féminin ou masculin en suivant ce langage visuel pour
---
+   la seule raison qu’il s’agit là de la manière classique de mettre en
+   scène les corps genrés. Il n’y a plus à ce moment-là d’influence du
+   genre de celui ou celle qui fabrique l’image. Sur ce point, je rejoins
+   Iris Brey qui, à l’opposé d’Alicia Malone (Malone, 2018), soutient que
+   « le genre d’un cinéaste ne conditionne pas sa manière de filmer les
    personnages féminins » (Brey, 2020, p. 35).
 
    Cette normalisation des représentations male-gaze s’opère par
@@ -378,7 +606,8 @@ Autonomisation, invisibilisation et internalisation
    représentation va gagner une forme d’autonomie. C’est peut-être en tant
    que dispositif invisible qu’une norme agit le mieux dans un processus
    de conformation. Pour mettre en évidence l’intériorisation de ces
---
+   normes, faisons un détour par la publicité et la presse féminine. En
+   1977, Erving Goffman analyse les poses féminines prises par les
    mannequins dans les photographies de mode et de publicité, et met en
    évidence des caractéristiques récurrentes sur la pose des corps
    féminins et masculins. Ces caractéristiques sont comprises comme autant
@@ -393,7 +622,63 @@ Autonomisation, invisibilisation et internalisation
    Elles ont aussi des positions qu’Erving Goffman caractérise
    d’enfantine, de vulnérable, comme le fait d’avoir un doigt dans ou sur
    la bouche, et des mains touchant leur visage. Ce travail rappelle ceux
---
+   de John Berger à propos des peintures de nu, mais avec une différence
+   notoire : il s’agit ici de photographies destinées à un public féminin,
+   à travers la presse féminine. L’objectif ne peut donc pas être celui
+   d’une gratification scopique pour un spectateur supposément masculin et
+   hétérosexuel, mais bien l’expression d’une norme de représentation qui
+   s’est imposée comme naturelle, et donc facilement lisible pour un large
+   public (ce qui est recherché par les publicitaires). Cette recherche du
+   « naturel » à travers la norme de représentation male-gaze est bien
+   illustrée par la conclusion de l’article d’Erving Goffman où il écrit :
+
+     Nous venons donc de découvrir un certain nombre d’expressions
+     « naturelles » de la féminité et de la masculinité, pour autant
+     qu’elles se laissent représenter dans les images publicitaires par
+     le truchement de styles de comportements visuellement perceptibles.
+     […] Les photographies publicitaires sont faites de poses
+     soigneusement étudiées pour apparaître « toutes naturelles ».
+     (Goffman, 1977, p. 50)
+
+   Il est difficile de mettre en évidence une norme internalisée comme
+   naturelle. Si une grande littérature scientifique est aujourd’hui
+   disponible sur la sexualisation et l’objectivation des corps dans les
+   médias, il n’existe pas, à ma connaissance, de travaux scientifiques
+   quantitatifs explorant le jugement de naturalité [naturalness] des
+   types de représentation des corps genrés, bien que des travaux en
+   psychophysique et neuroscience étudient depuis quelques années la
+   perception des corps genrés en général (voir le travail de synthèse de
+   Bernard et al., 2018). Je souhaite malgré tout proposer ici une
+   illustration qui me semble appropriée : la reproduction parodique de
+   photos de mode féminine avec des sujets masculins, générant un décalage
+   humoristique. En 2002, des étudiants du professeur Thomas Streeter, ont
+   fait l’exercice de prendre en photo des jeunes hommes prenant les mêmes
+   poses que des femmes en couverture de magazines féminins. Le résultat
+   est frappant : les couvertures originales transmettent une impression
+   de naturel, la reproduction masculine une impression de mauvaise
+   parodie (Streeter et al., 2002). Plus récemment, le groupe The Try
+   Guys, constitué de quatre hommes produisant des contenus sur YouTube,
+   ont publié une vidéo intitulée The Try Guys Get Photoshopped Like Women
+   (The Try Guys, 2016) dans laquelle ils reproduisent quatre photos
+   connus de stars féminines dans des conditions réelles de maquillage,
+   prises de vue et altération finale par ordinateur. Le propos de la
+   courte vidéo est la mise en évidence à la fois de la sexualisation de
+   ces femmes, de l’artificialisation des images par les outils
+   numériques, et de la difficulté des gestes du mannequin, que les sujets
+   peinent à reproduire. Mais il est intéressant également de noter
+   l’effet final de la reproduction, décalé, et qui fait rire les quatre
+   hommes au moment de la révélation.
+
+   Ces remarques doivent être prises comme des indications préliminaires
+   ouvrant un champ de réflexion sur la manière dont les normes de
+   représentations peuvent être intériorisées jusqu’à produire des
+   jugements perceptifs de naturalité, à la fois sur les corps féminins et
+   masculins. Créent-elles des biais inconscients sur le jugement des
+   corps ? Des préjugés ? Ou bien, transforme-t-elle jusqu’à la manière
+   dont les processus perceptuels dits « de bas-niveau » sont affectés par
+   les corps genrés ? Cette question nécessite encore quelques années de
+   recherche. En revanche, qu’importe la manière dont il s’internalise
+   psychologiquement, le langage visuel male-gaze s’inscrit inconsciemment
    dans le geste de tout individu qui produit des images de corps.
 
 Matérialité
@@ -403,7 +688,25 @@ Matérialité
    effet, une norme de représentation peut et doit se comprendre au niveau
    de sa matérialité, de sa structure formelle, de ses gestes techniques.
    Ces gestes et choix artistiques, artisanaux même, sont souvent
---
+   invisibilisés au profit de l’intention, du propos. Or, nous venons de
+   voir que c’est l’invisibilisation d’un dispositif normatif qui lui
+   donne un pouvoir de conformation et d’internalisation en devenant
+   « naturel ». Pourquoi ces gestes sont-ils peu visibles ? À l’image des
+   paradigmes scientifiques chez Thomas Kuhn (1962), les règles de cette
+   norme sont probablement plus facilement approchables par des exemples
+   paradigmatiques. Ainsi, pour montrer la mise en spectacle du corps de
+   la femme par suspension artificielle du flux de la diégèse, il est plus
+   rapide et facile de lister les exemples célèbres des scènes de show
+   girl, que d’extraire la liste des choix et des gestes techniques de
+   production qui — bout à bout - fabriquent ces images. Ce sont pourtant
+   bien ces gestes - de cadrage, de montage, etc. - qui déterminent la
+   matérialité de l’image et sa conformité aux normes de représentation.
+   Tous ces dispositifs techniques sont déjà présents dans l’article de
+   1975 de Laura Mulvey. Dans une anecdote plus récente racontée par la
+   cinéaste Desiree Akhavan sur le tournage de la série The Bisexual
+   (2018), on voit apparaître la dimension gestuelle, corporelle, de ces
+   dispositifs techniques :
+
      J’ai poussé physiquement mon chef op pour que le corps de la
      comédienne passe du milieu au bord du cadre et, immédiatement,
      l’impact de l’image a changé, ses seins n’étaient plus le point
@@ -413,7 +716,38 @@ Matérialité
 
    L’image du corps de l’actrice passe ici d’une représentation male-gaze
    à une représentation qui ne l’est pas. Le changement de type de
---
+   représentation se fait par un changement de cadrage, et ce dernier est
+   ici bien illustré dans sa matérialité : il fallait bouger le corps du
+   chef opérateur pour qu’il se place différemment vis-à-vis du corps de
+   l’actrice. Une norme internalisée, ce sont donc aussi des gestes de
+   production, un certain rapport corporel de celui ou celle qui fabrique
+   l’image, ce dernier se conformant au langage male-gaze. Tout comme une
+   langue que l’on parle, on apprend à l’entendre, la comprendre, ainsi
+   qu’à produire les sons qui nous feront être compris d’autrui. C’est ce
+   qu’on appelle le lien perception-production dans l’apprentissage de la
+   parole. L’apprentissage du langage visuel serait donc en même temps
+   perceptif et productif.
+
+   Or, ce rapport entre la perception et la production paraît crucial à
+   l’heure où la production d’images de corps humains connaît une
+   démocratisation sans précédent. Je pense ici à la fois aux outils de
+   prise d’image, qui sont aujourd’hui dans toutes les poches sous forme
+   de smartphone, et la mise en scène quotidienne de soi et de son corps
+   via les réseaux sociaux. Ces réseaux sont d’une part des espaces de
+   diffusion de normes de représentation d’une grande puissance, mais sont
+   aussi diffuseurs d’outils numériques de production d’image qui imposent
+   un langage visuel aux créateur·trices de contenu. Les filtres instagram
+   ou les outils de création de séquences TikTok par intelligence
+   artificielle en sont des exemples typiques. La démocratisation de
+   l’intelligence artificielle dans la production d’image est également
+   une nouvelle source de conformation via le numérique : étant entraînée
+   sur la base d’un très grand nombre de représentations existantes,
+   l’intelligence artificielle est une machine à reproduire les normes
+   majoritaires de représentation.
+
+   En résumé, la société n’a jamais eu autant de créateur·trices d’images
+   de corps, capables de diffuser leurs créations à tou·tes. Leurs gestes
+   de mise en image des corps reproduisent les propositions
    d’influenceur·ceuses, à l’aide d’outils de création d’image qui aident
    à conformer de manière invisible leur corps à la norme désirée.
    Invisibiliser ces normes de représentation - dont la norme male-gaze
@@ -423,7 +757,7 @@ Matérialité
 Renouvellement d’un outil de lutte
 
    Laura Mulvey donnait à son travail une portée politique militante. Dès
---
+   l’introduction de « Plaisir visuel et cinéma narratif », elle annonce
    « un usage politique de la psychanalyse » (Mulvey, 1975, p. 6), et « la
    destruction du plaisir [phallocentrique] comme arme radicale » (ibid.,
    p. 7). Il peut paraître à première vue défavorable à la lutte pour
@@ -439,7 +773,13 @@ Renouvellement d’un outil de lutte
    effervescence, le sens du concept de male gaze est souvent flottant, et
    il est parfois difficile de comprendre le propos de celui ou celle qui
    l’utilise. En conséquence, le male gaze finit souvent par être réduit à
---
+   une expression de moralité féministe, voire puritaine, sans aucune
+   portée critique. Dans cette dernière partie, mon but est de montrer que
+   la mise en évidence de la norme male-gaze de représentation permet de
+   porter un propos politique clair, en restructurant les oppositions et
+   les manières de lutter contre des représentations qui propagent un
+   langage visuel sexiste.
+
    En 2022, la réalisatrice Nina Menkes réalise un documentaire intitulé
    « Brainwashed, le sexisme au cinéma », dans lequel elle met en
    évidence, extraits de films à l’appui, que les thèses de Laura Mulvey
@@ -449,7 +789,58 @@ Renouvellement d’un outil de lutte
    « aberrante » du concept de male gaze dans la critique de film, mettant
    en avant que l’utilisation de ce concept, en absence de toute
    contextualisation historique ou narratif, produit des critiques
---
+   nécessairement vides de sens. L’illustration choisie pour montrer
+   l’absurdité du concept est la comparaison entre deux scènes :
+
+     Nina Menkes fait défiler à l’écran des morceaux de films qui ne
+     durent souvent pas plus de cinq secondes, sans les restituer jamais,
+     ni dans le contexte de leur production, ni dans le récit global du
+     film. Ça donne des séquences aberrantes - ce moment par exemple où
+     elle utilise pour démontrer l’omniprésence de plans voyeuristes sur
+     le corps d’un personnage qui ne se sait pas filmé, la scène
+     d’ouverture d’Eyes Wide Shut de Stanley Kubrick, Nicole Kidman
+     rentre chez elle, et debout fait glisser une élégante robe noire au
+     sol sur l’air de la valse viennoise de Chostakovitch et […] le
+     générique de Barbarella de Roger Vadim, où on voit Jane Fonda
+     quitter sur une chanson pop rigolote une tenue de cosmonaute en alu
+     pour se retrouver dans le plus simple appareil. À aucun niveau
+     historique, théorique, critique, la comparaison ne fonctionne.
+     (Commeaux, 2023)
+
+   En effet, à aucun niveau historique ou peut-être critique la
+   comparaison ne fonctionne. Elle ne fonctionne que par abstraction du
+   langage visuel utilisé à l’écran dans le traitement de ces deux
+   personnages féminins. C’est justement parce que ces deux scènes n’ont
+   absolument rien en commun à part ce langage visuel que cette
+   comparaison met en évidence le traitement systématiquement différent
+   des corps genrés à l’écran. Car s’il est possible de trouver des scènes
+   voyeuristes sur des femmes qui se dénudent dans des films aussi
+   différents qu’Eyes Wide Shut (Kubrick, 1999) et Barbarella (Vadim,
+   1968), il est en revanche peu de films où on voit des corps masculins
+   se dénuder de la même manière. Le concept de norme devient ici opérant,
+   là où le concept de male gaze compris comme « monopole d’une
+   perspective genrée au cinéma » (Commeaux, 2023) rend en effet la
+   comparaison peu explicative.
+
+   La norme, en tant qu’objet de lutte, permet de s’extraire de la
+   question morale concernant l’image individuelle pour questionner la
+   production visuelle comme véhicule de normes perceptuelles. On peut
+   laisser de côté la question de savoir si la représentation visuelle
+   d’un individu en tant qu’objet sexuel est éthiquement problématique ;
+   et maintenir que, lorsque qu’un individu se voit imposer une manière de
+   présenter son corps au monde et l’intériorise, il s’agit bien d’une
+   perte de liberté. De plus, cette perte de liberté est subie, bien que
+   différemment, par tous les corps, à la fois féminins et masculins. Tous
+   les corps représentés se voient refuser un certain mode d’être au monde
+   au risque de subir une forme de violence. Toujours la même violence :
+   celle de la domination masculine sur les femmes. Car si les femmes se
+   voient obligées d’adopter le rôle d’objet sexuel dans la société et
+   d’en subir toutes les conséquences, dont le mépris et la violence, tout
+   homme qui portera par son corps les attributs dévolus à ce rôle féminin
+   subira d’un même coup le même mépris et la même violence. Les hommes se
+   doivent de se conformer à la norme male-gaze tout autant que les
+   femmes, au risque d’en subir également les conséquences violentes.
+   Notons également la binarité obligatoire que porte cette norme, étant
    donné qu’il s’agit d’une norme qui distingue visuellement le masculin
    et le féminin. On peut oser alors une redéfinition du champ de la
    lutte, entre ceux qui servent la norme male-gaze par intérêt et ceux
@@ -459,7 +850,46 @@ Renouvellement d’un outil de lutte
    économiques, politiques et sociaux qui ont intérêt à maintenir un
    contrôle des corps par l’image, et ceux qui ont tout à gagner à s’en
    émanciper.
---
+
+   Comment s’en émanciper ? La norme s’intériorise et agit parce qu’elle
+   est omniprésente et invisible. Il y a donc deux axes de lutte : (1) lui
+   disputer l’espace visuel avec des représentations différentes de corps
+   genrés, des représentations hors-normes, et (2) la rendre visible en
+   tant que norme. Ces deux propositions peuvent sembler contradictoire à
+   première vue, mais la mise en évidence de la norme male-gaze souligne
+   leur complémentarité.
+
+Des représentations hors-norme
+
+   Dès l’article de 1975, Laura Mulvey soutient ce qu’elle appelle un
+   « cinéma alternatif », qui « permet l’émergence d’un cinéma radical
+   dans un double sens esthétique et politique, qui met en question les
+   présupposés fondamentaux des films grand public » (pp. 7-8). En
+   introduisant la norme male-gaze, on peut comprendre une représentation
+   alternative comme une représentation qui ne se conforme pas —
+   totalement ou partiellement — à l’ensemble des règles classiques de
+   conversion entre l’image et le genre. La bonne nouvelle est que s’il
+   n’y a qu’une seule manière de se conformer à la norme, il y a une
+   infinité de manières de s’en distinguer. Donnons quelques exemples. Il
+   peut s’agir de traiter visuellement tous les personnages, masculins
+   comme féminins, de la même manière, soit en les traitant tous comme des
+   sujets, soit en les traitant tous comme des objets du plaisir scopique
+   sexuel. Mais l’égalité de traitement est loin d’être la seule solution.
+   Un retournement des rôles genrés est également hors-norme, tout comme
+   les inventions infinies qui mettent en scène les corps individuels dans
+   des rôles et des postures aux marges des genres binaires classiques.
+
+   Ce champ du hors-norme est un espace à travailler, à organiser. Il
+   s’agit de se poser la question de savoir quel rapport aux corps nous
+   voulons pour nous-même et notre société. Cette question est
+   initialement prise en charge par la norme male-gaze, qui la pense pour
+   nous. S’en libérer appelle dès lors un travail de questionnement
+   éthique et politique sur la représentation des corps, des genres et de
+   la sexualité. La distinction entre « normalisation » et « normativité »
+   de Pierre Niedergang (2023) me paraît faire ressortir exactement cet
+   élément. La norme male-gaze s’est imposée comme la règle dominante à
+   suivre socialement, dans un processus de normalisation. Si combattre la
+   puissance de conformation de la norme male-gaze nécessite de s’en
    extraire et de la subvertir, il ne s’agit pas pour autant de rejeter
    toute forme de normativité. Il nous faut déterminer collectivement des
    valeurs à porter, et s’en inspirer pour créer des espaces hors-normes
@@ -469,7 +899,14 @@ Renouvellement d’un outil de lutte
    à la fois masculins et féminins, jusque dans le traitement des scènes
    de sexe au cinéma, Iris Brey (2020) propose un cadre normatif à une
    représentation des corps humains au cinéma. Ce cadre est assurément
---
+   hors-norme.
+
+Rendre visible la norme
+
+   Il ne faut pas sous-estimer la difficulté de produire des
+   représentations hors-norme, car il s’agit de s’émanciper d’un langage
+   visuel qui nous est bien souvent inconscient. Est-il alors possible de
+   combattre une norme depuis l’intérieur de la norme ? Oui, en rendant la
    norme visible en tant que norme. C’est ainsi que j’interprète une des
    propositions finales de Laura Mulvey en 1975 :
 
@@ -491,7 +928,38 @@ Renouvellement d’un outil de lutte
    qui visait à encourager la réflexion critique et la prise de conscience
    des mécanismes sociaux et politiques en jeu dans la représentation
    théâtrale, en déployant des techniques de mise en évidence de la
---
+   représentation en tant que représentation. Il a été défendu ailleurs
+   que cette invisibilisation de la norme, qui rendrait captif le ou la
+   spectateur·trice d’une interprétation codée dans le langage visuel est
+   une abstraction fausse de la réception réelle, toujours beaucoup plus
+   complexe et libre, d’un contenu visuel par un individu spécifique
+   (Cervulle, 2023). Si c’est le cas, tant mieux. C’est par là qu’une
+   résistance perceptuelle pourra émerger contre les outils toujours plus
+   automatisés de production d’images.
+
+Conclusion
+
+   Dans cet article, j’ai proposé une nouvelle analyse du concept mulveyen
+   de male gaze tel que développé dans l’article séminal de 1975. Comme la
+   plupart des innovations conceptuelles, la formulation initiale de
+   l’autrice porte en elle plusieurs dimensions que je me suis efforcée de
+   distinguer pour isoler la dimension de norme de représentation. Cette
+   dernière, que j’ai par la suite nommée norme male-gaze, mérite notre
+   plus grande attention à l’heure des enjeux actuels de production et de
+   diffusion d’images de corps. J’ai montré comment cette norme male-gaze
+   n’est pas à proprement masculine mais plutôt hétéronormative et sexiste
+   et contrôle tous les corps. J’ai mis en évidence certaines
+   caractéristiques de la norme qui la rendent difficile à saisir — et
+   donc difficile à combattre : son invisibilité et son intériorisation
+   par les individus qui d’une part perçoivent comme naturelles les images
+   conformes à la norme, et d’autre part se conforment eux-mêmes à la
+   norme dans leurs gestes de production d’images de corps. Plusieurs
+   routes se dessinent pour l’avenir de la recherche à ce propos.
+
+   De mon côté, et avec ma double casquette de psychophysicienne et
+   philosophe de la perception, je m’interroge sur le processus
+   d’internalisation et je me demande dans quelle mesure cette norme
+   influence jusqu’à nos mécanismes perceptifs les plus précoces, ceux qui
    déterminent le visible et l’invisible. D’une certaine manière, je
    cherche à rendre visible la norme perceptuelle de représentation des
    corps au niveau psychique. Pour l’heure, je défends que la notion de
@@ -509,7 +977,11 @@ Renouvellement d’un outil de lutte
    Conflits d’intérêts
 
    Aucun conflit d’intérêt déclaré.
---
+
+   1 Je remercie Marie-Lou Reymondon, Aurore Franco, Vincent Haasser,
+   Louis Rouillé et Elie Grinfeder pour leur aide dans l’élaboration de ce
+   texte…
+
    2 Le titre original est « Visual pleasure and narrative cinema ». La
    traduction utilisée pour les citations est celle de Florent Lahache et
    Marlène…
@@ -519,7 +991,35 @@ Renouvellement d’un outil de lutte
    dans l’…
 
    4 Traduction personnelle, revue par Elie Grinfeder.
---
+
+   5 Ces émissions ont été sous-titrées en français par Louis Rouillé et
+   disponible en libre accès sur le site internet de l’Académie de
+   Normandie.
+
+   6 La profondeur de champ correspond à la zone de netteté d’une image.
+   Une grande profondeur de champ donne à voir un personnage dans son
+   environnement…
+
+   7 Je reprends ici le terme à Laura Mulvey, qui appelle ainsi les scènes
+   dans lesquelles une femme s’offre en spectacle à l’intérieur même du
+   récit (…
+
+   8 Un champ-contrechamp au cinéma est une alternance de plans où une
+   scène est filmée sous un certain angle, puis sous un angle opposé (à
+   180° du…
+
+Bibliographie
+
+   Berger, J. (Réalisateur). (1972). Ways of seeing (2) [Émission]. BBC.
+   https://pod.ac-normandie.fr/video/26581-john-berger-1972-ways-of-seeing
+   -24-vostfr/
+
+   Berger, J. (1975). Voir le voir. Éditions B42.
+
+   Bernard, P., Content, J., Deltenre, P., & Colin, C. (2018). When the
+   body becomes no more than the sum of its parts : The neural correlates
+   of scrambled versus intact sexualized bodies. NeuroReport, 29(1), 48.
+   https://doi.org/10.1097/WNR.0000000000000926
 
    Brecht, B. (1948). Petit organon pour le théâtre suivi de Additifs au
    Petit organon. Arche.
@@ -529,7 +1029,9 @@ Renouvellement d’un outil de lutte
 
    Brey, I., & Joyard, O. (2018, décembre 3). The Bisexual : La série qui
    montre qu’« il y a du pouvoir dans le plaisir ». Les Inrockuptibles.
---
+
+   Cervulle, M. (2023). Malaise dans le « male gaze » : Généalogie
+   critique d’un concept controversé. Études de communication, 61(2),
    189‑212. https://doi.org/10.4000/edc.16351
 
    Commeaux, L. (Réalisateur). (2023). Le « male gaze » : Outil partout,
@@ -540,7 +1042,93 @@ Renouvellement d’un outil de lutte
    Corneau, S., Després, L., Caruso, J., & Idibouo, C. (2017). Les hommes
    noirs de Montréal qui ont des relations sexuelles avec d’autres hommes
    et le racisme sexuel : Défis, mécanismes de résilience et pistes
---
+   d’intervention. Nouvelles pratiques sociales, 28(1), 125‑140.
+   https://doi.org/10.7202/1039177ar
+
+   De Beauvoir, S. (1949). Le deuxième sexe : L’ expérience vécue.
+   Gallimard.
+
+   Evans, C., & Gamman, L. (1995). The gaze revisited, or reviewing queer
+   viewing. In P. Burston, C. Richardson, & P. B. Nfa (Éds.), A Queer
+   Romance : Lesbians, Gay Men, and Popular Culture. Routledge Ebsco
+   Publishing.
+
+   Foucault, M. (1975). Surveiller et punir : Naissance de la prison.
+   Gallimard.
+
+   Freud, S. (1905). Trois essais sur la théorie sexuelle. Gallimard.
+
+   Goffman, E. (1977). La ritualisation de la féminité. Actes de la
+   Recherche en Sciences Sociales, 14(1), 34‑50.
+   https://doi.org/10.3406/arss.1977.2553
+
+   Hawks, H. (Réalisateur). (1944). Le port de l’angoisse [Enregistrement
+   vidéo]. Warner Bros. Pictures.
+
+   Hooks, B. (1992). The Oppositional Gaze : Black Female Spectators. In
+   Black Looks : Race and Representation (pp. 115‑131). South End Press.
+
+   Kechiche, A. (Réalisateur). (2017). Mektoub, My Love : Canto Uno
+   [Enregistrement vidéo]. Quat’sous Films, France 2, Cinéma Pathé, Bianca
+   Film SRL, Good Films.
+
+   Kubrick, S. (Réalisateur). (1999). Eyes wide shut [Enregistrement
+   vidéo]. Warner Bros.
+
+   Kuhn, T. S. (1962). The structure of scientific revolutions. University
+   of Chicago Press.
+
+   Le Collectif 50/50. (2022). La parité derrière la caméra : 2013-2022.
+   Collectif 50/50, Mission Diversité-Egalité-Prévention des
+   discriminations.
+   https://collectif5050.com/la-parite-derriere-la-camera-2013-2022/
+
+   Malone, A. (2018). The female gaze : Essential movies made by women.
+   Mango.
+
+   Menkes, N. (Réalisateur). (2022). Brainwashed, le sexisme au cinéma
+   [Documentaire]. MenkesFilm.
+
+   Morgan, R. (Éd.). (1970). Sisterhood is powerful : An anthology of
+   writings from the Women’s Liberation Movement. Vintage Books.
+
+   Mulvey, L. (1975). Visual Pleasure and Narrative Cinema. Screen, 16(3),
+   6‑18. https://doi.org/10.1093/screen/16.3.6
+
+   Mulvey, L. (2017). Au-delà du plaisir visuel : Féminisme, énigmes,
+   cinéphilie. Éditions Mimésis.
+
+   Niedergang, P. (2023). Vers la normativité queer. Blast.
+
+   Preminger, O. (Réalisateur). (1954). Rivière sans retour
+   [Enregistrement vidéo]. 20th Century Fox.
+
+   Streeter, T., Hintlian, N., Chipetz, S., & Callender, S. (2002). This
+   is Not Sex : A Web Essay on the Male Gaze, Fashion Advertising, and the
+   Pose. [Archive] Université Du Vermont.
+   https://archive.wikiwix.com/cache/index2.php ?url =http %3A %2F %2Fwww.
+   uvm.edu %2F %7Etstreete %2Fpowerpose %2Findex.html#federation =archive.
+   wikiwix.com
+
+   The Try Guys (Réalisateur). (2016). The Try Guys Get Photoshopped Like
+   Women [Émission]. In BuzzFeedVideo.
+   https://www.youtube.com/watch ?v =2Zw634ZZiek
+
+   Vadim, R. (Réalisateur). (1968). Barbarella [Enregistrement vidéo].
+   Dino De Laurentiis Cinematografica
+
+Notes
+
+   1 Je remercie Marie-Lou Reymondon, Aurore Franco, Vincent Haasser,
+   Louis Rouillé et Elie Grinfeder pour leur aide dans l’élaboration de ce
+   texte, ainsi que les organisateurs et participants de la journée
+   « Éléments de philosophie féministe » de l’Académie de Normandie du 12
+   septembre 2022 à Mont-Saint-Aignan. Je remercie également les deux
+   évaluateurs anonymes de la revue pour leurs retours sérieux et
+   enthousiastes. Retour au texte
+
+   2 Le titre original est « Visual pleasure and narrative cinema ». La
+   traduction utilisée pour les citations est celle de Florent Lahache et
    Marlène Monteiro, publié dans « Au-delà du plaisir visuel », en 2017,
    aux éditions Mimésis. La pagination est celle de l’article original.
    Retour au texte
@@ -550,13 +1138,73 @@ Renouvellement d’un outil de lutte
    dans l’espace et l’imaginaire social. C’est le cas par exemple d’hommes
    faisant partie à la fois de minorités sexuelles et raciales, confrontés
    au fétichisme sexuel. Dans une étude sur le racisme sexuel dans le
---
+   milieu gai québécois, plus de la moitié des hommes gais racisés
+   interrogés ont déjà « eu l’impression d’être vu comme un objet sexuel
+   par les hommes blancs » (Corneau et al., 2017, p. 133). Retour au texte
+
+   4 Traduction personnelle, revue par Elie Grinfeder. Retour au texte
+
+   5 Ces émissions ont été sous-titrées en français par Louis Rouillé et
+   disponible en libre accès sur le site internet de l’Académie de
+   Normandie. Retour au texte
+
+   6 La profondeur de champ correspond à la zone de netteté d’une image.
+   Une grande profondeur de champ donne à voir un personnage dans son
+   environnement, là où une petite profondeur de champ se focalise sur le
+   sujet, en floutant l’arrière-plan. Retour au texte
+
+   7 Je reprends ici le terme à Laura Mulvey, qui appelle ainsi les scènes
+   dans lesquelles une femme s’offre en spectacle à l’intérieur même du
+   récit (Mulvey, 1975, p. 12). Elle prend comme exemple paradigmatique la
+   première apparition de Marilyn Monroe dans La rivière sans retour
+   (Preminger, 1954) ou les scènes chantées de Lauren Bacall dans Le port
+   de l’angoisse (Hawks, 1944). Pour actualiser les références, on peut
+   citer la séquence dans la boite de nuit de Mektoub My Love : canto uno
+   (Kechiche, 2017). Retour au texte
+
+   8 Un champ-contrechamp au cinéma est une alternance de plans où une
+   scène est filmée sous un certain angle, puis sous un angle opposé (à
+   180° du premier). Cette technique est beaucoup utilisée pour filmer les
+   dialogues. Retour au texte
+
 Citer cet article
 
 Référence électronique
 
    Géraldine Carranante, « Du regard masculin à la norme male gaze »,
    Psychologies, Genre et Société [En ligne], 4 | 2025, mis en ligne le 05
-   juin 2025, consulté le 31 décembre 2025. URL :
+   juin 2025, consulté le 01 janvier 2026. URL :
    https://www.psygenresociete.org/483
 
+Auteur·ice
+
+Géraldine Carranante
+
+   Docteure en philosophie des sciences cognitives, Géraldine Carranante
+   est actuellement A.T.E.R. à Nantes Université et chercheuse associée au
+   CAPhi (Centre Atlantique de philosophie). Son objet d’étude principal
+   est la perception humaine et son étude par les sciences cognitives
+   contemporaines. Sa thèse, soutenue en 2020 à l’École Normale
+   Supérieure, entend montrer que le concept scientifique de
+   « perception » est multiple et que l’interdisciplinarité à son propos
+   nécessite une forme de traduction conceptuelle. Elle est par ailleurs
+   formée à la psychophysique et s’intéresse à l’apprentissage perceptuel
+   sous l’effet des normes sociales.
+
+Droits d’auteur·ices
+
+   Le texte seul est utilisable sous licence CC BY-NC-ND 4.0. Les autres
+   éléments (illustrations, fichiers annexes importés) sont « Tous droits
+   réservés », sauf mention contraire.
+     * Numéros
+     * 4 | 2025 : Varia
+     * Contribution théorique
+
+   ISSN électronique 3001-5960
+
+     * Plan du site
+     * Politique de confidentialité
+
+     * Conception : Chapitre neuf
+     * Édité avec Lodel
+     * Accès réservé

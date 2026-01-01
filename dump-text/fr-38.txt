@@ -1,3 +1,85 @@
+     * Aller au contenu
+     * Aller au menu
+     * Aller à la recherche
+
+   Cairn.info, Sciences, Techniques et Médecine Cairn.info, Sciences,
+   Techniques et Médecine
+
+   Rechercher dans la bibliothèque numérique ____________________
+   (BUTTON)
+
+   Recherches récentes
+     * non nam
+     * quod pariatur
+     * nisi delectus
+     * ut quae
+     * voluptatibus sit
+
+   (BUTTON) Effacer
+
+   Des idées pour vous
+   sunt sed aut hic debitis quam
+   (BUTTON)
+   sunt sed aut hic debitis quam
+
+   Aucune suggestion trouvée
+
+   (BUTTON)
+   (BUTTON) Se connecter
+
+Compte personnel
+
+   * Champs obligatoires
+   ____________________ Adresse email *
+   ____________________ Mon mot de passe *
+   [ ] Rester connecté(e)
+   Mot de passe oublié ? Vous serez redirigé vers une page pour
+   réinitialiser votre mot de passe
+   (BUTTON) Se connecter
+
+   Pas encore de compte ?
+
+   Créer un compte Vous serez redirigé vers le formulaire d'inscription
+   pour créer un nouveau compte
+
+Accès institutions
+
+   Non connecté(e)
+   Authentifiez-vous
+   (BUTTON)
+
+   Sciences Humaines et Sociales
+
+   Sciences, Techniques et Médecine
+
+   Droit et Administration
+   (*) Français
+   ( ) English
+   ( ) Español
+     * À propos de cairn.info
+     * Contact
+     * Aide
+
+   Rechercher dans la bibliothèque numérique ____________________
+   (BUTTON)
+
+   Recherches récentes
+     * eos ipsam
+     * sit aut
+     * voluptatem rem
+     * sint possimus
+     * est reiciendis
+
+   (BUTTON) Effacer
+
+   Des idées pour vous
+   qui omnis molestiae corrupti a eligendi
+   (BUTTON)
+   qui omnis molestiae corrupti a eligendi
+
+   Aucune suggestion trouvée
+   (BUTTON)
+
    Laennec 2002/2 Tome 50
    (BUTTON) Suivre la revue (BUTTON) Suivre la revue
    Article de revue
@@ -7,7 +89,18 @@ Question de regard
      * Par Danielle Moyse
 
    Pages 64 à 75
---
+   Handicap
+   (BUTTON)
+   Handicap
+
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+
+Citer cet article
+
+   (BUTTON)
+   (BUTTON) APA (BUTTON) MLA (BUTTON) ISO 690 (BUTTON) DOI
      __________________________________________________________________
 
      * MOYSE, Danielle,
@@ -28,7 +121,30 @@ Question de regard
    (BUTTON)
 
    https://doi.org/10.3917/lae.022.0064
---
+   (BUTTON)
+     __________________________________________________________________
+
+   Zotero (.ris) Refworks (.ris)
+   Article
+   Résumé
+   Auteur(e)s
+   Cité par
+   Sur un sujet proche
+
+   PDF
+     * (BUTTON)
+     * (BUTTON)
+
+     *
+     *
+
+     * (BUTTON)
+
+   (BUTTON) Plan (BUTTON) Notes
+
+   (BUTTON)
+    1.
+         1.
 
 Notes
 
@@ -38,7 +154,46 @@ Notes
      * [2]
        Émission d’Antoine Mercier, 29 avril 2001, sur l’affectivité et la
        parentalité des « personnes handicapées mentales ».
---
+     * [3]
+       Puisqu’il était question d’apporter à l’enfant les sommes d’argent
+       que la société ne lui donne pas spontanément pour lui assurer une
+       éducation décente.
+     * [4]
+       C’est-à-dire prêt à écouter ce sermon.
+     * [5]
+       MERLEAU-PONTY M. Phénoménologie de la perception, Gallimard, 216.
+     * [6]
+       Nous soulignons.
+     * [7]
+       MERLEAU-PONTY M. op. cit., 82.
+     * [8]
+       Nous soulignons.
+     * [9]
+       Ibid., 81.
+     * [10]
+       Ibid., 269-270.
+     * [11]
+       Ibid.
+     * [12]
+       Cet homme est médecin.
+     * [13]
+       Au cours d’une journée d’étude à l’Université de Lyon II, sur le
+       rôle des Comités d’éthique, 9 avril 2001.
+     * [14]
+       CTNERHI La détection des anomalies fœtales, 71-72.
+     * [15]
+       Degas Danse Dessin Œuvre II, Pléiade, 1240.
+     * [16]
+       MERLEAU-PONTY M. op. cit., 82.
+     * [17]
+       Jalmalv, mars 91, 24.
+     * [18]
+       MERLEAU-PONTY M. op. cit., 414.
+     * [19]
+       DIEDERICH N. Devenir sujet aujourd’hui, in : Connaître le handicap,
+       reconnaître la personne, Gardou et Col. Erès, nov. 1999. N.
+       Diederich propose de donner à voir d’une autre manière en
+       « s’exposant à entendre ».
      * [20]
        MOYSE D., DIEDERICH N. Les personnes handicapées face au diagnostic
        prénatal, avril 2001.
@@ -48,7 +203,23 @@ Notes
 
    bb.accessibility.search.fulltext.inputLabel
    ____________________ (BUTTON)
---
+
+   (BUTTON)
+   (BUTTON) (BUTTON) (BUTTON)
+
+   (BUTTON)
+    1.
+         1.
+
+     * (BUTTON) Notes
+     * Télécharger
+     * (BUTTON) Citer ou exporter
+     * (BUTTON) Voir les métriques
+     * Chapitre suivant
+     * Chapitre précédent
+     * (BUTTON) Suivre la revue (BUTTON) Suivre la revue
+
+Citer cet article
      __________________________________________________________________
 
      * Moyse, D.
@@ -72,7 +243,14 @@ Notes
    https://stm.cairn.info/revue-laennec-2002-2-page-64?lang=fr.
    (BUTTON)
      __________________________________________________________________
---
+
+   https://doi.org/10.3917/lae.022.0064
+   (BUTTON)
+     __________________________________________________________________
+
+   Zotero (.ris) Refworks (.ris)
+   bb.accessibility.search.fulltext.inputLabel
+   ____________________ (BUTTON)
 
 Notes
 
@@ -82,7 +260,46 @@ Notes
      * [2]
        Émission d’Antoine Mercier, 29 avril 2001, sur l’affectivité et la
        parentalité des « personnes handicapées mentales ».
---
+     * [3]
+       Puisqu’il était question d’apporter à l’enfant les sommes d’argent
+       que la société ne lui donne pas spontanément pour lui assurer une
+       éducation décente.
+     * [4]
+       C’est-à-dire prêt à écouter ce sermon.
+     * [5]
+       MERLEAU-PONTY M. Phénoménologie de la perception, Gallimard, 216.
+     * [6]
+       Nous soulignons.
+     * [7]
+       MERLEAU-PONTY M. op. cit., 82.
+     * [8]
+       Nous soulignons.
+     * [9]
+       Ibid., 81.
+     * [10]
+       Ibid., 269-270.
+     * [11]
+       Ibid.
+     * [12]
+       Cet homme est médecin.
+     * [13]
+       Au cours d’une journée d’étude à l’Université de Lyon II, sur le
+       rôle des Comités d’éthique, 9 avril 2001.
+     * [14]
+       CTNERHI La détection des anomalies fœtales, 71-72.
+     * [15]
+       Degas Danse Dessin Œuvre II, Pléiade, 1240.
+     * [16]
+       MERLEAU-PONTY M. op. cit., 82.
+     * [17]
+       Jalmalv, mars 91, 24.
+     * [18]
+       MERLEAU-PONTY M. op. cit., 414.
+     * [19]
+       DIEDERICH N. Devenir sujet aujourd’hui, in : Connaître le handicap,
+       reconnaître la personne, Gardou et Col. Erès, nov. 1999. N.
+       Diederich propose de donner à voir d’une autre manière en
+       « s’exposant à entendre ».
      * [20]
        MOYSE D., DIEDERICH N. Les personnes handicapées face au diagnostic
        prénatal, avril 2001.
@@ -95,7 +312,19 @@ Notes
    pour le savoir.
 
    2Ainsi le film de David Lynch, « Elephant man », le montre-t-il avec
---
+   une grande force : John, auquel son visage déformé a valu son terrible
+   surnom, se suicide. Son protecteur, médecin humaniste, lui avait
+   pourtant permis, apparemment, d’échapper au rôle infamant de monstre de
+   foire que son « propriétaire » se croyait autorisé à lui faire jouer.
+   Malheureusement, ce médecin l’emmène un soir au théâtre. À l’issue de
+   la représentation, l’actrice vedette, déjà venue lui rendre visite,
+   annonce au public qu’elle dédie cette soirée à son « ami John », assis
+   dans une loge du premier balcon. Le public, curieux, se lève et se met
+   à applaudir le « phénomène », vers lequel se penche son bienfaiteur en
+   lui disant : « Levez-vous John, ils veulent vous voir ! » Comprenant
+   alors qu’il ne sera jamais qu’une monstruosité à exhiber (fût-elle
+   battue par un « propriétaire » brutal ou choyée par un riche médecin au
+   bon cœur), John décide de se coucher pour ne plus se relever.
 
    3Cet épisode manifeste de façon radicale comment, à vouloir voir
    l’autre au lieu de s’effacer devant sa vérité, à se laisser aller à
@@ -163,7 +392,28 @@ Perception et jugement
    sublime et qu’il juge des choses par leur nature sans s’arrêter à ces
    vaines circonstances qui ne blessent que l’imagination des faibles.
    Voyez-le entrer dans un sermon [4] où il apporte un zèle tout dévot
---
+   renforçant la solidité de sa raison par l’ardeur de sa charité […] Que
+   le prédicateur vienne à paraître, si la nature lui a donné une voix
+   enrouée et un tour de visage bizarre, que son barbier l’ait mal rasé,
+   si le hasard l’a encore barbouillé de surcroît, quelque grande vérité
+   qu’il annonce, je parie la perte de la gravité de notre sénateur.
+   Blaise Pascal, Pensées, Éd. Brunschvicg, fragment 82.
+
+   8Comme le note Maurice Merleau-Ponty, « nous sommes au monde par notre
+   corps », et notre rencontre avec les autres et avec les choses n’est
+   jamais désincarnée. C’est donc inévitablement à l’occasion d’un
+   ensemble de perceptions que s’établit le contact avec eux. « C’est par
+   mon corps que je perçois autrui comme c’est par mon corps que je
+   perçois des choses » [5], écrit Merleau-Ponty.
+
+   9D’où l’insistance de Pascal sur le prestige qu’a l’apparence d’autrui
+   sur notre façon de l’appréhender, que nous soyons superficiels ou
+   sages.
+
+De l’impression à la rencontre
+
+   10Ainsi fait-il partie de notre condition de rencontrer l’autre par la
+   perception et d’être agréablement ou désagréablement impressionnés par
    cette dernière. Et s’il suffit qu’un texte nous soit mal lu pour que sa
    beauté nous devienne plus inaccessible, il est tout aussi certain
    qu’une impression désagréable donnée par la façon dont, en raison de
@@ -182,7 +432,10 @@ Perception et jugement
    enfin de nous voir les uns les autres ?
 
    12Loin s’en faut en réalité que la perception soit une « saisie
---
+   objective » de ce qui est perçu. Nous ne voyons pas d’abord les choses
+   ou les autres tels qu’ils sont, mais à partir de ce que nous sommes ou,
+   plus exactement, avons l’habitude d’être. Certains croient pouvoir
+   s’assurer de la justesse d’une conviction ou d’une croyance par « ce
    qu’ils voient » ; mais ils négligent alors ce fait : nous ne voyons que
    ce que nous sommes préparés à voir, et de la manière dont nous avons
    l’habitude de voir.
@@ -199,7 +452,8 @@ Perception et jugement
    comprendre que le même Marcel Nuss évoqué précédemment, blessé par
    l’attitude des passants revenant sur leurs pas pour le dévisager,
    suscite pourtant de son épouse la remarque suivante : « Ah moi, son
---
+   corps ? Non, il n’y a pas de problème ; je le trouve beau. » Des
+   réactions si diamétralement opposées font évidemment voler en éclat
    l’hypothèse d’une saisie de l’autre tel qu’en lui-même par la seule
    entremise des sens, qui nous amènerait tous à le percevoir de la même
    façon.
@@ -245,7 +499,9 @@ Regarder en vérité
    même temps à toute prétention à l’appropriation : « Chaque aspect de la
    chose qui tombe sous notre perception n’est encore qu’une invitation à
    percevoir au-delà et qu’un arrêt momentané dans le processus perceptif.
---
+   Si la chose même était atteinte, elle serait désormais étalée devant
+   nous et sans mystère. Elle cesserait d’exister comme chose au moment
+   même où nous croirions la posséder. Ce qui fait la « réalité » de la
    chose est donc justement ce qui la dérobe à notre possession. » [10]
 
 L’illusion du « tout voir »
@@ -256,7 +512,8 @@ L’illusion du « tout voir »
    Malheureusement, loin s’en faut que l’illusion d’un « tout voir » ait
    desserré son emprise, dans un contexte où la television accrédite
    notamment cette idée qu’en plaçant des jeunes gens dans un lieu clos,
---
+   il est possible de les « avoir sous les yeux » afin que, d’eux, tout
+   nous soit dévoilé. D’où la déception inévitable de bien des gens,
    frappés du fait qu’en réalité, et au bout du compte, « on ne voyait pas
    grand-chose ». Caricature du voyeurisme, en fait le plus impropre à
    voir ce qui devrait être vu, à commencer par ceci : voir d’une manière
@@ -266,7 +523,25 @@ L’illusion du « tout voir »
    encore à ce propos de la « présence irrécusable de la chose et [de]
    l’absence en laquelle elle se retranche. » [11]
 
---
+   20Il ajoute que ce qui est vrai de la position spatiale de l’objet
+   l’est également de sa dimension temporelle : chaque chose, loin d’être
+   réduite à ce qu’elle me présente sur le moment, porte en elle ce
+   qu’elle a été et ce qu’elle pourra être. Ainsi les choses nous
+   ouvrent-elles à la fois au passé dont elles viennent et à l’avenir
+   auquel elles nous convient.
+
+   21Or, ce qui peut être dit de la chose peut évidemment l’être à propos
+   d’un homme ou d’une femme, suivant les modalités spécifiques de leur
+   rapport au passé ou à l’avenir. En effet, si la chose manifeste le
+   passé dont elle est issue et porte l’avenir auquel son existence et sa
+   permanence nous appellent déjà, l’être humain est, quant à lui, ouvert
+   à ce qu’il a été et à ce qu’il peut être. Dès qu’il vient au monde, il
+   est déjà davantage qu’un être réduit au seul moment de sa naissance,
+   comme l’indique d’ailleurs l’expression de « venue-au-monde » : naître,
+   c’est s’inscrire d’emblée dans un monde qui nous précède, qui s’est
+   constitué sans nous, mais dont nous sommes pourtant aussitôt partie
+   prenante.
+
    22Par conséquent, voir un être humain, c’est bien sûr ne pas le limiter
    ni le réduire jamais à ce qu’il nous montre, mais d’emblée prendre
    conscience du fait que, au-delà de ce qui se présente, ce qui le
@@ -282,7 +557,11 @@ L’illusion du « tout voir »
    Perruche » en soient la manifestation en même temps que la ratification
    et le renforcement.
 
---
+Impact des techniques de vision prénatale
+
+   24Rapportant son expérience, le père d’une petite fille atteinte de
+   trisomie 21 m’avait dit : « Avant la naissance, heureusement, nous
+   n’avons pas su. Mais à la naissance, j’ai vu tout de suite. » [12]
    Comme je lui demandais : « Qu’est-ce qui vous a alors aidé ? », il m’a
    répondu : « Le fait d’avoir pu la toucher, la prendre dans mes bras.
    Ensuite, ses frères et sœurs, pour qui c’était d’abord la “petite
@@ -292,7 +571,18 @@ L’illusion du « tout voir »
    possibilité de sentir qu’elle était d’abord une enfant, ayant un corps
    d’enfant, des frères et sœurs…, et non « un enfant trisomique » ; comme
    si son existence entière absorbait sa déficience, au lieu que cette
---
+   dernière l’ait anéantie si l’on n’avait pu voir qu’elle.
+
+   25Olivier de Dinechin racontait dernièrement [13] une histoire qui
+   donne singulièrement à penser. Une petite fille naît. Il lui manque une
+   main. Les médecins mettent l’enfant dans les bras de son père qui,
+   singulièrement, ne voit pas l’anomalie et commence à s’extasier sur son
+   « beau bébé » ; les médecins lui signalent l’agénésie, à l’annonce de
+   laquelle il réagit après un bref moment de stupeur par : « Ça ne fait
+   rien, c’est d’abord mon enfant. » Que se serait-il passé en cas de
+   diagnostic prénatal ? Ce témoignage ne le dit pas. Quant au père de
+   l’enfant atteinte de trisomie 21, il m’avait dit en toute honnêteté :
+   « Je ne sais pas ce que nous aurions fait, ma femme et moi, si nous
    avions su par avance. »
 
    26Bien entendu, on peut supposer que le savoir prénatal d’une anomalie
@@ -308,7 +598,29 @@ L’illusion du « tout voir »
    symptômes, une histoire humaine à travers eux, et des potentialités
    malgré eux. De sorte que, parmi les propos recueillis par Anne Dusart
    auprès de personnels de santé sur les techniques de détection
---
+   prénatale, on trouve ce témoignage hautement significatif d’une
+   sage-femme :
+
+   27« Avant le diagnostic anténatal, il y avait en effet des fœtus
+   malformés, c’était très dur, mais je pense que le fœtus existait et ne
+   pouvait jamais être réduit à sa malformation. Je pense à un cas très
+   particulier : un couple, physiquement le mari et la femme, c’était une
+   splendeur ! Le gynécologue leur dit : « Beaux comme vous êtes, quel
+   bébé vous allez avoir ! » En plus, il y avait la belle-mère qui était
+   là et qui dit : « Mais nous sommes toujours beaux dans la famille ! »
+   Eh bien, naît un enfant porteur d’une fente palatine ! Ça a été
+   l’effondrement chez la belle–mère qui a dit : « Ça ne peut pas être un
+   enfant de la famille. » Or, la mère, après tout de même un petit temps
+   de révolte, a très bien accepté [l’enfant] alors que ce diagnostic
+   aurait été fait en anténatal, je suis sûre qu’elle aurait eu recours à
+   l’interruption de grossesse…Je crois que c’est ça, l’effet fondamental
+   du diagnostic prénatal, c’est que le fœtus qui n’est pas là, il n’est
+   qu’une malformation dans la tête des parents… Il y a peu de temps, on a
+   eu une agénésie d’une main, eh bien le couple a demandé tout de suite
+   une interruption de grossesse… Le fœtus, c’est la main qui manque,
+   c’est tout ! Je pense que ça, c’est un effet pervers du diagnostic
+   prénatal. » [14]
+
 L’être « étiqueté »
 
    28À l’évidence, comme le prouvent les réactions ordinaires ou les
@@ -318,7 +630,33 @@ L’être « étiqueté »
    dimension du problème, au cœur de la seule démarche scientifique, les
    efforts de classification font sans doute déjà partie des facteurs qui
    renforcent cette tendance. Ainsi, préparant cette communication, je
---
+   n’arrivais pas à me satisfaire d’un titre comprenant l’expression de
+   « personne handicapée » ; comme si, instinctivement, et sans que je
+   puisse d’abord me l’expliquer, je sentais qu’ainsi estampillé la femme
+   ou l’homme en question perdait déjà ses chances d’être appréhendé dans
+   la singularité de son histoire et de son être. Alors même qu’il ne
+   parle pas de « catégorie » mais seulement de nom, Paul Valéry propose
+   déjà d’« oublier le nom des choses qu’on voit » [15], de l’oublier pour
+   mieux les voir, tant les noms peuvent oblitérer la perception qu’on en
+   a. Quand il s’agit de catégories nosographiques, l’étiquetage d’un être
+   futur par leur intermédiaire absorbe toutes ses autres
+   caractéristiques, gomme sa singularité et interdit par avance toute
+   appréhension de l’autre comme être en devenir ; un être possédant
+   certes des aptitudes physiques ou même intellectuelles réduites par
+   rapport à la moyenne, mais malgré tout capable d’un essor et d’un
+   déploiement. De sorte que le diagnostic prénatal vient peut-être
+   révéler ce phénomène d’occultation de l’autre par les classifications
+   diverses dont chacun peut aujourd’hui faire l’objet et, génétique
+   aidant, est en passe de faire de plus en plus l’objet. Il montre en
+   l’occurrence que, de l’occultation à l’annulation pure et simple, la
+   distance n’est pas toujours si grande puisque, dans 95% des cas, le
+   diagnostic de trisomie 21 (par exemple) est suivi d’une interruption de
+   grossesse.
+
+L’être privé d’horizons
+
+   29Qu’il s’agisse en fait de la perception d’une anomalie sur l’écran de
+   l’échographiste ou d’un diagnostic posé à partir d’un résultat
    d’analyse, ce diagnostic a souvent pour effet de priver un être de ses
    horizons, notamment de ceux qui, généralement, nous seront restitués
    par la parole que l’autre nous adressera, quand bien même nous
@@ -328,7 +666,10 @@ L’être « étiqueté »
    30Quand le diagnostic a lieu en effet à partir d’une image saisie sur
    un écran, l’aspect qui nous est proposé du futur enfant est sans autre
    perspective : il n’est plus futur enfant de tel homme et de telle
---
+   femme, eux-mêmes héritiers de telle ou telle histoire, ayant peut-être
+   tel ou tel autre enfant. Le futur enfant est alors le plus souvent
+   victime de la double illusion que tout nous est livré de lui par le
+   diagnostic, et que ce « tout » se réduit à un symptôme. « Quand dans un
    film, écrit Merleau-Ponty, l’appareil se braque sur un objet et s’en
    approche pour nous le donner en gros plan, nous pouvons bien nous
    rappeler qu’il s’agit […] de la main d’un personnage, nous ne
@@ -338,7 +679,31 @@ L’être « étiqueté »
    dimensions de sa personne restent là, même si elles m’échappent, alors
    qu’une image sur un écran les annule.
 
---
+   31En 1991, Emmanuel Goldenberg avait fait la présentation critique d’un
+   film tourné en 1980 par un militant de l’euthanasie, qui montrait une
+   femme atteinte d’un cancer de la face. Le dialogue entre la malade et
+   le médecin commençait ainsi : « Vous ne voulez plus continuer à vivre,
+   pourquoi ? » Et, comme pour anticiper la réponse de la pauvre femme, la
+   caméra proposait un gros plan de son visage déformé avant qu’elle ne
+   réponde : « Parce que je souffre toute la journée et la nuit aussi.
+   D’ailleurs le médecin m’a dit : “On ne peut pas continuer à vous
+   charcuter comme ça, on ne peut pas enlever tout le visage, tout de
+   même.” » [17]
+
+   32Le médecin présent demandant à ce moment ce qu’elle ferait si on ne
+   l’ « aidait » pas, la malade laissait entendre que, dans ce cas, elle
+   se suiciderait. À la suite de quoi son interlocuteur l’assurait qu’il
+   viendrait le soir pour l’« aider », après l’avoir vivement remerciée de
+   l’avoir autorisé à la filmer pour que cela puisse « servir » à d’autres
+   malades. Ainsi, quelque position que l’on ait vis-à-vis de
+   l’euthanasie, il était particulièrement frappant, dans ce film, de
+   constater que nous ne savions rien de la femme présentée, et ne
+   pouvions voir d’elle que son visage déformé. Soulignant encore sa
+   difformité, le médecin ajoutait d’ailleurs que, pour la remercier
+   d’avoir œuvré à la cause de l’euthanasie, on afficherait dans l’hôpital
+   une photo d’elle « venue de jours meilleurs ». Paroles comme images
+   convergeaient donc vers l’exhibition d’une souffrance incontestablement
+   insupportable, contextualisée par la seule « cause de l’euthanasie ».
    L’écran nous interdisait non seulement l’appréhension de tout autre
    aspect de la personne en cause, mais aussi la perception de la maladie
    vécue par cette femme-là. Que pouvait-elle faire connaître d’elle au
@@ -361,7 +726,22 @@ L’être « étiqueté »
    prend soin d’écouter, afin que l’autre nous apparaisse dans la
    globalité de son histoire et de sa temporalité [19]. Au cours de
    l’étude menée par Nicole Diederich et moi-même, visant à recueillir les
---
+   propos d’hommes et de femmes atteints de déficiences physiques sur la
+   question du diagnostic prénatal et de la réanimation néonatale,
+   plusieurs personnes ont insisté sur la volonté de prendre place dans
+   les discussions et d’être entendues dans la globalité de leur
+   expérience. A-S. Parisot, atteinte d’une forme sévère de myopathie,
+   avait ainsi affirmé : « Il faut lutter par tous les moyens contre
+   l’actuelle usurpation de la parole dont souffrent les personnes
+   malades, notamment dans les débats sur l’éthique, les tests de
+   dépistages, le tri embryonnaire, les avortements dits
+   “thérapeutiques”. » [20]
+
+   34Malheureusement, quand l’« autre » n’est encore qu’à l’état de fœtus,
+   et qu’il se trouve de plus réduit à une image sur un écran, cela n’est
+   pas possible. Après sa naissance, il ne sera d’ailleurs pour un certain
+   temps que l’enfant, l’infans, celui qui ne parle pas. Il le demeurera
+   peut-être, s’il est atteint dans ses capacités intellectuelles ou
    relationnelles. Est-ce une raison pour lui prêter des demandes qu’il ne
    peut faire lui-même ? Ainsi, comment ne pas être frappé par la façon
    dont l’« arrêt Perruche » impute à un jeune homme une « plainte » que
@@ -381,3 +761,88 @@ L’être « étiqueté »
    inévitablement la mort.
      __________________________________________________________________
 
+   Date de mise en ligne : 01/01/2012
+   https://doi.org/10.3917/lae.022.0064
+
+Domaines
+
+   Sciences Humaines et Sociales
+
+   Sciences, Techniques et Médecine
+
+   Droit et Administration
+
+   Logo Cairn.info
+
+   Cairn.info, plateforme de référence pour les publications scientifiques
+   francophones, vise à favoriser la découverte d’une recherche de qualité
+   tout en cultivant l’indépendance et la diversité des acteurs de
+   l’écosystème du savoir.
+
+   Raccourcis
+     * Revues
+     * Ouvrages
+     * Que sais-je ? / Repères
+     * Magazines
+     * Rencontres
+     * Dossiers
+     * Listes de lectures
+
+   Domaines
+     * Sciences Humaines et Sociales
+     * Sciences, Techniques et Médecine
+     * Droit et Administration
+
+   Cairn.info
+     * Connexion
+     * Cairn Pro
+     * À propos
+     * Contact
+     * Aide
+
+   Langues
+     * Français
+     * English
+     * Español
+
+   Retrouvez Cairn.info sur
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Avec le soutien de
+     * Logo CNL (Centre national du livre)
+     * Logo CFC (Centre français d'exploitation du droit de copie)
+
+     * Conditions d’utilisation
+     * Conditions de vente
+     * Politique de confidentialité
+     * Gestion des cookies
+     * Accessibilité : partiellement conforme
+
+     * (BUTTON) Accès institutions
+
+   37.67.47.158
+
+   (BUTTON)
+
+   (BUTTON)
+
+Accès institutions
+
+   Rechercher
+   ____________________ (BUTTON) Pays, région ou institution
+
+Toutes les institutions
+     __________________________________________________________________
+
+     *
+     __________________________________________________________________
+
+   ​

@@ -1,3 +1,27 @@
+    [tr?id={{app_id}}&ev=PageView&noscript=1]
+
+   NEURO ENVIRONNEMENT
+     * Accueil
+     * NEWS
+     * LES VEDETTES DU MOIS
+     * LE SYSTÈME NERVEUX DANS SON ENVIRONNEMENT
+     * IMAGES ET IMAGERIE
+     * PENSÉE ÉCOLOGIQUE
+     * LECTURES
+     * VOTRE CONTACT
+     * LECTURES
+     * POUR LE PLAISIR
+
+
+   NEURO ENVIRONNEMENT
+
+     * Accueil
+     * NEWS
+     * LES VEDETTES DU MOIS
+     * LE SYSTÈME NERVEUX DANS SON ENVIRONNEMENT
+     * IMAGES ET IMAGERIE
+     * PENSÉE ÉCOLOGIQUE
+     * LECTURES
      * VOTRE CONTACT
      * LECTURES
      * POUR LE PLAISIR
@@ -25,7 +49,14 @@ L'ÉCHANGE PAR LE REGARD
    et au Proche-Orient, il est ressenti comme un organe ambivalent : à la
      fois récepteur du monde et émetteur de force vivante. Cette force
 s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte le
---
+                                    nom.
+
+                                Alain Berthoz
+
+                      Professeur au Collège de France,
+
+                           Membre de l’Institut,
+
        Directeur du Laboratoire de Physiologie de la Perception et de
                                  l’Action.
 
@@ -81,7 +112,15 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    J.-C.) déclare que l’intérieur de la vue est du feu, autour duquel se
    trouvent de l’eau, de la terre et de l’air à travers lesquels il peut
    passer grâce à sa subtilité, à la façon de la lumière dans les
---
+   lanternes. Les pores du feu et de l’eau sont disposés en quinconces. À
+   travers le feu, nous percevons les objets blancs, à travers l’eau les
+   noirs. Chaque donnée sensible s’harmonise à chaque type de pore. Les
+   couleurs viennent à la vue par l’« effluve ». Sa théorie dite de l’ «
+   extra-mission » suppose que ce feu interne produit de la lumière qui se
+   reflète sur les objets et retourne vers l’œil. Platon (426-348 av.
+   J.-C.) a proposé une théorie dite de l’« interaction ». Des rayons
+   visuels seraient produits par l’organisme et entreraient en interaction
+   avec la lumière ambiante et formeraient le « cône de vision » dont le
    sommet est dans l’œil et la base sur l’objet. Ce cône touche l’objet
    qui le met en vibration, laquelle est transmise à l’œil. Ce signal
    vient activer les composantes cognitives de l’âme qui sont situées dans
@@ -114,7 +153,11 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    par Bach-y-Rita dans ses expériences célèbres qui ont permis de faire «
    voir » des aveugles de naissance en leur appliquant sur la peau des
    vibrations. Cette technique est limitée et n’est pas aussi efficace que
---
+   la lecture en braille, qui utilise sans doute l’exploration active
+   tactile par le sujet, mais elle a démontré que les prévisions de Sartre
+   qui avait annoncé que le sens tactile était l’« analogon » de la vision
+   étaient justes. Une expérience récente d’imagerie cérébrale vient de
+   confirmer l’intuition du philosophe (Keysers et coll., 2004). Lorsqu’on
    présente à des sujets une image de leur propre jambe en train d’être
    caressée par  une main, il se produit une activation dans les aires du
    cerveau qui sont aussi activées lorsqu’on touche réellement la jambe du
@@ -140,7 +183,36 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    désignons aussi par ce terme des changements implicites de la direction
    de l’attention.
 
---
+
+   L’orientation vers une source sensorielle est un comportement que l’on
+   retrouve chez les organismes les plus simples. Il a été généralement
+   décrit sous le nom de « taxie » par les éthologistes qui ont ainsi
+   distingué « phototaxie », « héliotaxie », « thermotaxie», etc. Chez les
+   insectes comme la mouche, les mouvements d’orientation sont réalisés
+   grâce à des mécanismes automatiques d’une grande subtilité. Mais ces
+   circuits sont relativement rigides en ce sens qu’ils ne comprennent que
+   très peu de stations. Lorenz a beaucoup insisté sur le rôle fondamental
+   qu’a joué l’insight. Il a montré par exemple que les mouvements
+   d’orientation des bébés oiseaux vers la mère revenant au nid avec de la
+   nourriture contiennent en réalité deux éléments du répertoire moteur :
+   un mouvement d’élévation du bec vers la mère, distinct d’un véritable
+   mouvement d’orientation qui, lui, dépend de la direction de laquelle
+   vient la mère. Il a par ailleurs insisté sur le fait qu’une partie des
+   synergies qui sont mises en jeu dans les mouvements sont parfaitement
+   indépendantes des entrées sensorielles. Chez les psychologues, bien
+   qu’elle soit loin de l’analyse des mécanismes neuronaux, la théorie
+   dite « écologique » de Gibson nous rappelle que le développement de la
+   vision fovéale qui s’est accompagnée de la migration des yeux d’une
+   position latérale à une position frontale a permis la mesure de la
+   distance frontale des objets, sans doute pour faciliter la capture
+   manuelle et pour la poursuite oculaire. Mais les avantages de la vision
+   frontale ont eu pour conséquence que les animaux ont dû développer des
+   mécanismes pour prélever successivement des échantillons du monde
+   visuel.
+
+
+
+   Il fallut que des mouvements de la tête apparaissent et que la
    coordination des mouvements d’exploration permette un recouvrement des
    images successives qui, d’après Gibson, est essentielle pour assurer la
    cohérence de la représentation de l’ensemble d’une pièce dans laquelle
@@ -151,7 +223,15 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    La réponse, d’après lui, doit être que des structures intéressantes de
    la scène – et des morceaux intéressants de structure, plus
    particulièrement des mouvements – entraînent la fovéa vers elles. Les
---
+   variables de la structure optique contiennent de l’information et du
+   sens et spécifient les actions qu’ils permettent de faire (affordances,
+   en anglais). La capacité d’explorer l’espace activement par des
+   mouvements d’orientation produits non pas seulement en réponse à des
+   stimulations de l’environnement, mais en fonction des désirs du sujet,
+   est donc un aspect important des mouvements d’orientation qui nous
+   intéressent.
+
+
    Parmi les physiologistes, Pavlov (1927) a donné cette description de la
    réaction d’orientation : « L’apparence d’un stimulus nouveau évoque
    immédiatement un réflexe de recherche, l’animal fixe tous ses
@@ -161,7 +241,19 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    qui n’est pas spécifique à une seule modalité sensorielle.
 
 
---
+   Pour expliquer le fait que la réponse au stimulus disparaît avec la
+   répétition (extinction), Sokolov a introduit un concept fondamental de
+   « modèle neuronal du stimulus ». On retrouve aujourd’hui ce concept
+   dans bien des spéculations sous les noms de « modèle interne », «
+   estimation centrale », « prédiction », « hypothèse intrinsèque ». Ce
+   concept est celui d’une trace qui enregistre les propriétés du
+   stimulus. Donc le réflexe d’orientation n’implique pas seulement des
+   boucles sensori-motrices courtes : il implique une connexion entre le
+   néocortex comme mécanisme de base de l’analyse des signaux et
+   l’hippocampe comme système détecteur de nouveauté. Dans la littérature
+   soviétique, la réaction d’orientation est donc plus une préparation à
+   l’action qu’une simple réaction.
+
 
    On doit aussi citer les travaux de Hess en Allemagne. Il fit de
    nombreuses expériences de stimulation électrique concernant le rôle des
@@ -190,7 +282,7 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    envisagée. C’est ce qui fait la difficulté de son étude. Elle n’est pas
    seulement un mouvement, mais un mouvement orienté vers un but et
    préparatoire de l’action. Il y aura donc plusieurs façons de s’orienter
---
+   vers un même but. De plus, elle fait sans doute appel à un répertoire,
    prédéterminé génétiquement, de comportements d’orientation.
 
 
@@ -231,7 +323,8 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    coordination car, si elle se révélait déficitaire, il serait peut-être
    possible d’aider les enfants à retrouver une coordination par
    l’entraînement.
---
+
+
 
 
 
@@ -248,7 +341,12 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    mouvements utilisée par la chorégraphe israélienne Eshkol. Cette
    technique consiste à décrire par une simple notation manuelle les
    mouvements des danseurs dans trois référentiels différents et
---
+   simultanés : un référentiel dit « corporel » que nous pourrions
+   appelerégocentrique, un référentiel « environnemental » que nous
+   pourrions nommer allocentrique, et enfin un référentiel « lié aux deux
+   partenaires » lorsque deux danseurs dansent ensemble. C’est
+   enexploitant ce dernier référentiel que Golani pu décrire un lien
+   extraordinairement rigide entre les yeux des deux chiens qui
    s’observent avant de se sauter à la gorge. En effet, les conditions
    concrètes qui permettent à un chien de sauter à la gorge de l’autresont
    telles qu’il suffit d’un écart de position relative de quelques
@@ -281,7 +379,31 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
 
 
    Bref, la vertu proprement féminine, la lah’ia, pudeur, retenue,
---
+   réserve, oriente tout le corps féminin vers le bas, vers la terre, vers
+   l’intérieur, vers la maison, tandis que l’excellence masculine, le nif,
+   s’affirme dans le mouvement vers le haut, vers le dehors, vers les
+   autres hommes. »
+
+
+   Dans cette définition extrême de la réaction d’orientation, le stimulus
+   n’est plus simplement une configuration de stimuli sensoriels. Comme le
+   précise Bourdieu dans les définitions qu’il donne, « les stimuli
+   n’existent pas pour la pratique dans leur vérité objective de
+   déclencheurs conditionnels et conventionnels, n’agissant que sous
+   condition de rencontrer des agents conditionnés à les reconnaître…
+   L’habitus ne peut produire la réponse objectivement inscrite dans sa
+   “formule” que pour autant qu’il confère à la situation son efficacité
+   de déclencheur en la constituant selon ses principes, c’est-à-dire en
+   la faisant exister comme question pertinente par référence à une
+   manière particulière d’interroger la réalité ». Ce texte est à mon avis
+   fondamental, car il montre que le sociologue, comme le physiologiste,
+   arrive à la conclusion que le cerveau ne se contente pas de subir
+   l’ensemble des événements sensoriels du monde environnant, mais au
+   contraire l’interroge en fonction de présupposés sur la réalité. Une
+   véritable physiologie de l’action est fondée sur ce principe.
+
+
+
 
 
 
@@ -319,7 +441,10 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    du Kathakali à leurs élèves stipule que là où vont les mains pour
    représenter une action, là doivent se poser les yeux ; là où vont les
    yeux, là doit suivre l’intellect, et l’action représentée par les mains
---
+   doit donner naissance à un sentiment déterminé qui se reflète sur le
+   visage de l’acteur.
+
+
 
    Le Kathakali joue donc sur deux registres : le visage qui exprime
    l’émotion et les réactions subjectives du personnage dans les
@@ -329,7 +454,31 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    communauté de Kérala connue pour ses acteurs excellents. Le premier
    jour, l’élève s’assied pour exercer ses yeux dès que la lune fait son
    apparition. Ses yeux sont oints avec du beurre. Il tourne ses iris
---
+   autour de la lune sans cesse jusqu’à la disparition de l’astre. Le
+   premier jour, cet exercice dure environ une heure, temps de passage de
+   la lune dans le ciel. Le deuxième jour, l’élève s’assied à la même
+   heure en s’appliquant au même genre d’exercice qui, cette fois, durera
+   deux fois plus longtemps, car tel est le laps de temps entre
+   l’apparition et la disparition de l’astre nocturne. De même le
+   troisième jour. Il continue ainsi à exercer ses yeux chaque nuit, la
+   durée de l’exercice augmentant toujours. Le quinzième jour, nuit de
+   pleine lune, l’élève est assis de six heures du soir à six heures du
+   matin, bougeant sans interruption ses iris en haut et en bas, à gauche
+   et à droite, en rond et en diagonale, d’un coin à l’autre. Il ne
+   s’arrête qu’à l’aube. Le beurre est utilisé pour donner un effet
+   rafraîchissant à la rotation continuelle des iris. Ce système est connu
+   sous le nom de Nilavirikkuka, littéralement « être assis au clair de
+   lune ». Les acteurs s’entraînent au moins une heure par jour pendant
+   huit ans ! L’entraînement à l’orientation vers un objet est le suivant
+   : les yeux sont grands ouverts et la tête tourne tout en observant,
+   comme si les iris conduisaient les mouvements de la tête. Soudain, d’un
+   mouvement brusque, la tête s’arrête, et les iris se fixent sur un objet
+   qui n’est pas le but décidé. La tête reste dans sa position immobile
+   tandis que les iris se déplacent (lentement ou rapidement selon
+   l’intention) vers le but fixé à l’avance et l’atteignent. Alors
+   seulement la tête se tourne vers le but et, au moment où elle arrive
+   sur celui-ci, le visage assume une expression particulière (haine,
+   mépris, joie, etc.).
 
 
 
@@ -365,7 +514,7 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    partage de l’attention. On a proposé récemment que, chez le primate en
    tout cas, la capacité d’imiter un geste soit liée à la capacité
    d’attention conjointe ;
---
+
 
    – la théorie de l’esprit dans laquelle le sujet attribue à autrui une
    intention sur l’objet comme dans le cas de l’enfant qui attribue à la
@@ -404,7 +553,13 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    « blanc de l’oeil » pour que l’amygdale soit activée de façon massive
    si le visage dont on a extrait le blanc de l’oeil exprime la peur par
    exemple (Whalen et Schreibman, 2003). De plus, les cortex cérébraux
---
+   droit et gauche ne traitent pas les visages de la même façon.
+   L’implication de l’amygdale dans les mécanismes émotionnels est bien
+   connue.
+
+
+   Le cortex droit semble être impliqué de façon prépondérante et non
+   consciente dans le caractère émotionnel de l’expression faciale. De
    même, dans le cas du syndrome de Capgras, on a fait l’hypothèse que
    l’impossibilité pour le patient d’identifier le visage d’autrui est due
    à une interruption du lien entre le traitement cognitif de l’identité
@@ -440,7 +595,18 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    préfrontal n’est pas à sa disposition (Diamond et Goldman-Rakic, 1989).
 
 
---
+   L’attention conjointe simple, sans échange réciproque, suppose
+   l’apparition chez l’enfant d’un mécanisme qui intègre la perception de
+   l’espace égocentré liant les objets au corps propre, ce qui correspond
+   à des stades décrits par Piaget sur l’appréhension de l’espace et la
+   différentiation du corps propre et des objets par exemple. C’est pour
+   cela que les parties du lobe temporal qui sont impliquées dans
+   l’élaboration multimodale du corps propre, la perception du mouvement
+   biologique, la perception des visages seront concernées, ce que
+   suggèrent à mon avis les travaux de M. Zilbovicius.
+
+
+   L’attention conjointe avec désignation suppose, elle, comme l’ont
    proposé Degos et Bachoud-Lévi, l’établissement d’une triade (je-tu-il)
    et un changement de référentiel qui permette à l’enfant de sortir de
    son référentiel égocentré, de changer de point de vue, ce qu’il ne fait
@@ -450,7 +616,17 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    peut réellement envisager, comme dans l’expérience des « trois
    montagnes » de Piaget(Piaget et Inhelder, 1981), le monde perçu de
    plusieurs points de vue.
---
+
+
+
+
+
+                            QUELQUES HYPOTHÈSES
+
+
+   L’idée qu’il est possible de proposer une théorie fonctionnelle qui
+   rende compte des déficits de communication induits par les anomalies
+   génétiques de l’autisme a été renforcée par les travauxpionniers du
    groupe de Baron-Cohen qui a proposé une « théorie amygdalienne de
    l’autisme » (Baron-Cohen, 2004 ; Baron-Cohen et coll., 2000) après
    avoir observé une très faible activation de l’amygdale chez les
@@ -460,7 +636,16 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    des régions anormales dans l’autisme. Par exemple, deux aires du
    système limbique sont impliquées dans l’émotion : l’amygdale et le
    cortex orbito-frontal. On sait maintenant le rôle décisif du cortex
---
+   orbito-frontal à la fois dans l’évaluation (appraisal) de
+   l’environnement et dans la capacité de changer le jugement que l’on
+   fait de la valeur d’un stimulus (reversal), alors que l’amygdale est,
+   semble-t-il, plus impliquée chez l’animal en tout cas dans
+   l’association assez rigide d’une valeur à une configuration de stimuli.
+
+
+   Il est, à mon avis, important d’explorer aussi plus avant la fonction
+   du lobe temporal dans ses fonctions d’élaboration de la conscience de
+   soi : il joue un rôle essentiel dans l’orientation spatiale (Kahane et
    coll., 2003).
 
 
@@ -503,7 +688,23 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
    de « percevoir » le monde, de le saisir dans ses mouvements, ses
    relations, etc. Elle permet aussi beaucoup plus d’analyse fine que l’on
    croit : des expériences de psychologie réalisées dans les années 1950
---
+   ont montré par exemple que, si l’on demande à un sujet de fixer un
+   point et qu’on lui présente à la périphérie du champ visuel un chiffre,
+   il dira qu’il ne peut pas lire ce chiffre. Toutefois, si on lui demande
+   de dire un chiffre au hasard, celui-ci est souvent parfaitement correct
+   ! J’ai parlé dans Le sens du mouvement de ces enfants amblyopes
+   profonds qui, au lycée pour aveugles de Montgeron, pouvaient jouer au
+   ping-pong. Ils ne pouvaient pas lire car leur vision fovéale était très
+   pauvre mais pouvaient percevoir le mouvement, sans doute avec la vision
+   sous-corticale. Attention donc à ce que j’appelle la « perception
+   inconsciente ».
+
+
+   On accorde aujourd’hui beaucoup trop d’importance aux formes
+   conscientes de perception, alors qu’une partie importante de notre
+   perception résulte de mécanismes sous-corticaux parfaitement
+   inconscients qui pourtant influencent profondément nos,pensées et notre
+   relation avec le monde.
 
 
 
@@ -523,7 +724,15 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
 
 
 
---
+   Pour certains, l’attention est un processus indépendant, superposé aux
+   fonctions motrices et cognitives, mettant en jeu des modules cérébraux
+   distincts et spécialisés qui exercent des actions de filtrage, de
+   modulation, etc., sur les traitements sensoriel et moteur. Je pense
+   personnellement que cette vue est erronée : l’« attention » est, comme
+   la « décision », un terme qui désigne un ensemble complexe hiérarchisé
+   de processus fondamentaux du fonctionnement cérébral lié au fait que le
+   cerveau est essentiellement une machine qui prédit, présélectionne,
+   anticipe, etc. S’il est juste d’étudier les mécanismes de cette
    sélection il est, à mon avis, faux de les séparer dans une fonction
    unique que l’on appellerait l’« attention » au singulier.
 
@@ -568,7 +777,7 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
 
 
    Mon hypothèse est que si, comme le suggèrent de nombreux travaux,
---
+   l’enfant autiste a du mal à construire une perception cohérente des
    relations entre son corps et le monde, comment pourrait-il prendre
    cette décision de consacrer, même un instant, toute son attention à un
    seul petit morceau du monde – puisqu’il n’a pas construit un monde qui
@@ -617,7 +826,8 @@ s’écoule comme l’eau d’une source dont l’œil, en langue arabe, porte l
 
 
 
---
+
+   En savoir plus
    La jeune fille à la perle
 
 La jeune fille à la perle
@@ -634,7 +844,15 @@ La jeune fille à la perle
    présence. La jeune fille est la vraie Joconde : sa beauté nous éclaire
    depuis presque 400 ans, son visage à la courbe si fine, au teint si
    délicat, fragile comme cette perle pendant à son oreille légère.
---
+
+
+   Il est probable que le personnage soit la plus âgée des filles de
+   Johannes Vermeer, alors adolescente. Celle-ci pourrait
+   d’ailleurs apparaître dans plusieurs de ses tableaux. L’artiste
+   néerlandais a peint des dizaines de tableaux représentant des femmes :
+   il semble qu’il ait souhaité reproduire les différents rôles
+   domestiques quotidiens des femmes de son entourage, ménagères
+   travaillant à garder le foyer hors du chaos, œuvrant sans relâche à
    éduquer la génération suivante.
 
 
@@ -644,7 +862,12 @@ La jeune fille à la perle
    couleur ocre n’attire pas l’œil sur elle mais sur le col d’un blanc pur
    qui, lui même, se reflète dans la perle, symbole de chasteté et de
    pureté, peut-être de l’idée religieuse. Le blanc se retrouve également
---
+   dans les yeux et les lèvres humides qui eux, évoquent l’étonnement. La
+   couleur blanche permet en réalité d’exprimer la lumière. Le turban,
+   enroulé autour de sa tête, est d’un bleu profond, drapé d’une façon
+   presque géométrique : tout, ici, est extrêmement précis. Sa bouche est
+   légèrement entrouverte, renforce l’effet de surprise et fait le lien.
+   La bouche à la fois innocente et sensuelle. Le nez est fondu dans la
    joue droite, rajoute au mystère. Vermeer, comme souvent, maîtrise
    parfaitement l’ombre et la lumière.
 
@@ -654,7 +877,286 @@ La jeune fille à la perle
    fulgure, comme fulgure la perle dans les ténèbres, jaillit un secret,
    un mystère aussi dense et éternel que celui que l’on peut trouver dans
    la « Mona Lisa » de Léonard de Vinci. Il est probable que Vermeer se
---
+   soit servi d’une « camera oscura » ( sorte de projecteur qui reproduit
+   une image sur une surface plane ). Mais le génie du maître est
+   toutefois évident, lorsqu’il parvient à donner vie à la lumière
+   elle-même. Le positionnement du visage permet un jeu d’ombres élaboré
+   qui trouve son point d’orgue dans le reflet scintillant de la perle.
+
+
+   Le tableau, peint à l’huile sur une toile de dimension moyenne – 44,5 x
+   39 – et présenté dans un cadre de bois sculpté avec des motifs floraux,
+   n’est pas daté. On estime cependant que sa réalisation date des
+   environs de l’année 1665. Il semblerait que le tableau soit une
+   commande d’un des clients et protecteurs du peintre : soit le boulanger
+   Hendrick van Buyten, soit un riche percepteur nommé Pieter van Ruijven,
+   principal mécène de l’artiste. Vendu aux enchères à Amsterdam le 16 mai
+   1696, le tableau appartient alors à un lot numéroté 38, 39 et 40. Il
+   passe ensuite entre les mains de notables de Delft, ville dans laquelle
+   est né le peintre, avant de tomber dans l’oubli pendant deux
+   siècles. Au début du 20ème siècle, Victor de Stuers, découvre cette
+   œuvre non signée et pense qu’il s’agit d’une œuvre de Vermeer : il en
+   parle à son ami collectionneur Arnoldus Andries des Tombe, qui l’achète
+   aux enchères pour quelques florins. L’hypothèse se révèle juste : le
+   nettoyage de la toile fait apparaître le nom du
+   peintre. Le collectionneur lèguera l’œuvre, en 1903, au musée du
+   Mauritshuis, à La Haye. Le tableau y est toujours conservé et exposé.
+
+
+   Au départ, le tableau de Vermeer n’avait pas de nom : on l’appelait
+   simplement Tronie, du nom du genre de peinture très en vogue dans les
+   provinces unies au milieu du 17ème siècle, distinctif de l’âge d’or de
+   la peinture néerlandaise ( le mot néerlandais signifie « visage » ). En
+   1908, il est appelé « La Jeune Fille » ou « Tête de jeune fille ».
+   Après la seconde Guerre Mondiale, on l’intitule « Jeune Fille au turban
+   ». En 1995, le Mauritshuis lui-même appelle le tableau « La Jeune Fille
+   à la perle ».
+   En savoir plus
+   Des yeux... au caractère
+
+Des yeux... au caractère
+
+   La couleur des yeux livre de précieuses indications sur le tempérament
+   d'une personne. Mais jusqu'où tirer des conclusions, sans verser dans
+   le réductionnisme ?
+
+
+
+   Le physique n'est certes pas la chose la plus importante dans la vie.
+   Mais on ne peut nier son influence sur les relations sociales... Par
+   exemple, la taille a un impact sur la réussite professionnelle, les
+   hommes les plus grands ayant plus de succès en société. Les individus
+   les plus beaux ont aussi des situations professionnelles plus élevées….
+   Le sourire augmente les chances que nos interlocuteurs se souviennent
+   de nous. Que dire des yeux, miroirs de l'âme, et notamment de leur
+   couleur ?
+
+
+   La couleur des yeux reflète un héritage génétique issu de la mère et du
+   père ; or le psychologue britannique Anthony Little et ses collègues,
+   de l'Université Saint-Andrews à Fife au Royaume-Uni, ont montré que les
+   hommes et les femmes recherchent plus volontiers un partenaire ayant
+   une couleur des yeux proche de la leur. Cela expliquerait pourquoi on
+   observe souvent une concentration de telle ou telle couleur des yeux
+   dans certaines zones géographiques. Toutefois, l'effet de la couleur
+   des yeux ne s'arrête pas à la préférence des partenaires potentiels :
+   des travaux montrent aujourd'hui que ce critère peut être révélateur de
+   certains traits de personnalité.
+
+
+   À l'Université de Dallas au Texas, le psychologue William Tedford a
+   montré que la réactivité dans certains tests des personnes ayant des
+   yeux de couleur foncée est supérieure à celle des personnes aux yeux
+   clairs. Dans cette expérience, des étudiants masculins et féminins
+   devaient appuyer le plus rapidement possible sur une barre de contact
+   pour éteindre une lumière dès qu'elle s'allumait. La vitesse
+   d'exécution était alors prise en compte. Les résultats montrent que les
+   personnes ayant les yeux foncés (noirs ou marron) ont été plus rapides
+   à cette tâche.
+
+
+   Pour expliquer ce constat, les chercheurs invoquent une hypothèse dite
+   de « l'instinctivité » : les personnes aux yeux sombres exerceraient un
+   contrôle moins strict sur leurs comportements que celles ayant les yeux
+   clairs, ce qui se traduirait par des temps de réaction plus brefs dans
+   divers domaines. Cette explication peut sembler étrange, mais la
+   théorie de la réactivité est volontiers invoquée par les chercheurs
+   travaillant sur l'influence de la couleur des yeux.
+
+
+Yeux bruns : instinct et rapidité
+
+
+   Certaines expériences montrent ainsi que, dans le domaine sportif, des
+   différences de performances s'observent selon la couleur des yeux.
+   Ainsi, John Beer et Paula Fleming, de l'Université du Kansas, ont fait
+   réaliser à des élèves de primaire une tâche de précision consistant à
+   faire passer un disque à l'intérieur d'un anneau. Les performances des
+   enfants étaient enregistrées en même temps que la couleur de leurs
+   yeux. Les résultats ont montré que les enfants aux yeux marron ont été
+   plus précis que ceux ayant des yeux clairs, bleus ou verts par exemple.
+
+
+   La théorie de la réactivité (dite aussi de plus faible inhibition),
+   tout comme celle de l'instinctivité, suppose que les personnes aux yeux
+   foncés seraient plus réactives, car elles inhiberaient moins leurs
+   réactions spontanées : elles seraient plus rapides dans les activités
+   sportives. Les personnes aux yeux clairs seraient, en revanche, plus
+   analytiques, plus observatrices, de sorte que leurs temps de réaction
+   seraient supérieurs. En contrepartie, elles inhiberaient plus
+   facilement certaines réactions inappropriées.
+
+
+   Et dans le domaine sportif, cette dernière faculté confère des
+   avantages : certains sports requièrent une capacité de réaction
+   instinctive immédiate, d'autres nécessitant de pouvoir freiner les
+   mouvements impulsifs. De fait, les recherches scientifiques mettent en
+   évidence des différences de performances sportives selon la couleur des
+   yeux. Ainsi, en boxe, on constate que les sportifs aux yeux foncés
+   obtiennent de meilleures performances que ceux dont les yeux sont
+   clairs – réflexe, esquive et coup d'œil sont décisifs. C'est nettement
+   moins le cas au bowling, au golf, au tir à l'arc où l'on peut prendre
+   le temps de préparer son coup. Or dans ces disciplines, les sportifs
+   aux yeux clairs se révèlent meilleurs que ceux aux yeux foncés…
+
+
+   Dans un même sport, selon la position occupée, l'un ou l'autre prend
+   l'avantage. Par exemple, au base-ball, les frappeurs aux yeux foncés
+   qui doivent taper à l'instinct avant l'arrivée de la balle ont le
+   dessus, tandis que ceux qui envoient la balle au frappeur, analysent sa
+   position à l'avance et anticipent la trajectoire de la balle, sont
+   statistiquement meilleurs lorsqu'ils ont les yeux clairs.
+
+
+   Cette différence entre tempérament instinctif et analytique influe
+   également sur les jugements esthétiques. La psychologue Cynthia
+   Whissell, de l'Université de l'Ontario au Canada, a montré que, dans le
+   domaine du jugement esthétique de formes géométriques, les personnes
+   aux yeux foncés sont plus sensibles à la symétrie, alors que les
+   personnes aux yeux plus clairs portent un intérêt également aux formes
+   asymétriques, par nature plus complexes. Encore une fois, la théorie de
+   la réactivité est invoquée. Les personnes aux yeux foncés repèrent
+   instinctivement l'absence de symétrie, ce qui, immédiatement, influe
+   sur le jugement de ce type de forme moins structurée, normalisée. À
+   l'inverse, une forme dissymétrique est plus complexe et, dès lors,
+   intéresse plus les esprits analytiques, apparemment plus représentés
+   chez les personnes aux yeux clairs.
+
+
+   Constatant ce tempérament plus instinctif des personnes aux yeux
+   foncés, le psychologue Alan Markle, du Centre de santé de
+   Huntsville-Madison aux États-Unis, a fait l'hypothèse d'une plus grande
+   réactivité de ces personnes à des stimulations survenant dans leur
+   environnement. Dans une de ses expériences, des étudiants aux yeux
+   marron ou bleus, masculins et féminins, devaient écouter des séries de
+   mots enregistrés, dont certains étaient neutres et d'autres choquants.
+   Dans une autre tâche, on leur présentait des diapositives présentant
+   des scènes neutres (paysages), violentes (accidents de voiture) ou
+   sexuelles. Le stimulus violent, choquant ou sexuel survenait à
+   l'improviste, étant mêlé de façon imprévisible à d'autres stimulations
+   à caractère neutre. Les personnes soumises à ces stimulus étaient
+   reliées à un instrument enregistrant leurs paramètres physiologiques :
+   rythme respiratoire, rythme cardiaque, pression artérielle,
+   conductivité électrique de la peau. Les résultats ont révélé que les
+   hommes – tout comme les femmes – aux yeux marron ont manifesté des
+   réactions physiologiques plus intenses que les participant(e)s aux yeux
+   bleus. Ce serait, une fois de plus, la preuve d'une plus forte
+   réactivité instinctive des personnes aux yeux foncés.
+
+
+   Une telle sensibilité à l'environnement expliquerait également
+   certaines différences de comportement alimentaire, selon la couleur des
+   yeux. Ainsi, les psychologues Charles Salter et Helen Bloom, du
+   Laboratoire militaire de recherche et de développement de Natick aux
+   États-Unis, ont étudié la fréquence de consommation de produits de
+   restauration rapide chez des hommes et des femmes de type caucasien,
+   selon la couleur de leurs yeux. Ils ont ainsi découvert que les
+   personnes aux yeux sombres sont de plus grands consommateurs de
+   restauration rapide que celles aux yeux clairs. Ces personnes seraient
+   plus sensibles aux indices présents dans leur environnement, et
+   obéiraient davantage aux publicités pour la restauration rapide.
+
+
+Hormones et couleur d'iris
+
+
+   Comment expliquer que les personnes aux yeux sombres soient plus
+   instinctives, et celles aux yeux clairs plus analytiques ? Partant de
+   l'observation selon laquelle les différences de réactivité apparaissent
+   dès l'enfance, le psychologue Robert Kaplan et ses collègues de
+   l'Université d'Ottawa, au Canada, ont demandé à des enseignants
+   d'évaluer les comportements d'enfants âgés de quatre à cinq ans. Ils
+   ont constaté que les petits garçons aux yeux bleus (mais pas les
+   petites filles) sont perçus par les professeurs comme étant plus
+   inhibés, présentant des comportements plus réservés et ayant plus de
+   difficultés personnelles que les enfants aux yeux marron. On trouverait
+   chez eux, toujours d'après les enseignants, plus de réserve, de retenue
+   et de prudence.
+
+
+   Selon R. Kaplan, une des causes serait de nature biologique, certaines
+   hormones étant produites en quantité variable chez les individus aux
+   yeux clairs ou aux yeux foncés. Ainsi, chez les personnes aux yeux
+   bleus, la production de l'hormone alpha stimulatrice des mélanocytes
+   (a-msh), impliquée dans la pigmentation, serait moindre. Or un des
+   facteurs limitant la production de cette hormone est la présence de
+   fortes concentrations de cortisol et de noradrénaline, deux hormones
+   associées aux réactions de stress. Cela expliquerait que les enfants en
+   produisant beaucoup sont plus inquiets et inhibés dans leurs
+   comportements.
+
+
+Et les filles ?
+
+
+   Mais cette hypothèse a un talon d'Achille : pourquoi les filles
+   échapperaient-elles à cet effet ? Des différences d'éducation
+   entreraient également en ligne de compte. Notamment, certaines normes
+   sociales dans l'éducation des filles tendraient à réprimer certaines
+   réactions trop spontanées ou exubérantes, de sorte que, devenues
+   adultes, elles seraient plus inhibées. Et quand l'enfant grandit, il
+   conserverait ou amplifierait sa tendance initiale. Ainsi, les
+   psychologues Gary Davis et Paul de Vivo, de l'Université du Tennessee,
+   ont montré que les personnes aux yeux foncés, lors d'une réunion en
+   groupe, font des révélations plus intimes sur leur vie que les
+   personnes aux yeux clairs, plus réservées. Quant aux individus dont les
+   yeux ont une teinte intermédiaire, ils se confieraient plus que ceux
+   aux yeux clairs, mais moins que ceux aux yeux foncés...
+
+
+   Voilà qui suggère quelques recommandations utiles : lors d'une séance
+   de travail en psychothérapie, le thérapeute gagnera à développer des
+   stratégies mettant en confiance une personne aux yeux clairs, afin
+   qu'elle accepte de se livrer. Les différences observées dans la
+   tendance à s'épancher pourraient expliquer d'autres phénomènes
+   jusqu'alors énigmatiques. Par exemple, Jonathan Bassett et James Dabbs,
+   de l'Université de Géorgie, ont montré, dans deux études distinctes
+   menées auprès d'Américains blancs, que les personnes ayant des yeux
+   clairs ont plus souvent des problèmes liés à l'alcool, que celles aux
+   yeux foncés. Le lien entre ces observations pourrait être le suivant :
+   étant plus inhibées et confiant moins facilement à autrui leurs
+   difficultés, les personnes aux yeux clairs auraient plus de risques de
+   trouver un refuge (illusoire) dans l'alcool, ou d'utiliser cette
+   substance pour surmonter leurs inhibitions.
+
+
+   Évidemment, les yeux ont également un effet sur l'entourage, et
+   suscitent des impressions ou des jugements contrastés. Les psychologues
+   Stephen Franzoi et Mary Herzog, de l'Université du Wisconsin, ont
+   montré notamment que les yeux constituent le deuxième critère physique
+   que les femmes observent chez un homme (après les mains), alors que
+   c'est seulement le cinquième critère de séduction pris en compte par
+   les hommes (ces derniers accordent plus d'importances à d'autres
+   critères morphologiques). D'ailleurs, lorsque des étudiants masculins
+   ou féminins doivent se rappeler les caractéristiques physiques de
+   visages d'hommes ou de femmes observés préalablement, la couleur des
+   yeux est plus souvent évoquée par les femmes.
+
+
+   Bien entendu, la couleur des yeux n'est pas seulement prise en compte
+   dans les rencontres amoureuses. Dans de multiples situations de la vie
+   (cadre professionnel, amical, scolaire), nous fondons certaines de nos
+   impressions ou jugements sur la couleur des yeux. Par exemple, le
+   psychologue Karel Kleisner et ses collègues de l'Université de Prague
+   ont présenté à des étudiants des photos d'hommes et de femmes dont on
+   avait, selon les cas, colorisé les yeux en marron ou en bleu. Afin
+   d'éviter que d'autres effets n'interviennent, les expérimentateurs
+   avaient pris soin de choisir des personnes n'ayant le teint ni trop
+   pâle ni trop foncé, et des cheveux châtains.
+
+
+   L'expérience consistait, pour les participants, à évaluer le niveau de
+   dominance de chacun des individus présentés : a-t-il tendance à
+   s'imposer en groupe ? Préfère-t-il dire aux autres ce qu'il faut faire,
+   ou plutôt faire ce qu'on lui demande ? Les résultats ont montré que si
+   la couleur des yeux n'a pas d'impact sur le jugement de dominance porté
+   sur les femmes, elle en a un chez les hommes : des visages d'hommes
+   dont les yeux avaient été colorisés en marron ont été perçus comme plus
+   dominants que les mêmes visages dont les yeux avaient été colorés en
+   bleu.
+
+
+Les yeux marron des dominants
 
 
    De multiples explications peuvent être fournies à ce phénomène.
@@ -664,7 +1166,56 @@ La jeune fille à la perle
    des individus aux yeux sombres. Nous les jugerions, en partie pour
    cette raison et de façon inconsciente, plus agressifs ou dominateurs.
 
---
+
+   Toutefois, une surprise est apparue lorsque K. Kleisner et ses
+   collègues ont reproduit leur expérience en inversant la couleur des
+   yeux des participants : les hommes aux yeux marron ont été retouchés de
+   façon à avoir les yeux bleus, et vice versa. Dans ces conditions, il
+   s'est avéré que les observateurs jugeaient toujours les hommes ayant
+   initialement les yeux marron plus dominants (malgré le changement de
+   couleur de leurs yeux). Cela pouvait indiquer que d'autres éléments du
+   visage traduisent une impression de dominance. Les psychologues se sont
+   alors aperçus que les hommes aux yeux bruns ont généralement des
+   mentons plus larges et plus robustes, des nez plus forts, les yeux plus
+   rapprochés et des sourcils plus proéminents que les hommes aux yeux
+   bleus : or ce sont des caractéristiques associées à la dominance.
+
+
+Une influence jusque dans la mort !
+
+
+   Outre d'éventuels facteurs génétiques et biologiques à explorer (on
+   évoque la piste de la testostérone comme facteur influant à la fois sur
+   la couleur des yeux et sur la forme du visage), comment expliquer de
+   tels liens entre la physionomie, la couleur des yeux et la dominance ?
+   Dans le registre des conjectures, les chercheurs proposent que les
+   personnes aux yeux bruns, perçues comme plus dominantes, seraient
+   accoutumées à voir leur entourage les traiter comme telles, en adoptant
+   des comportements soumis ou conciliants. Ces individus finiraient par
+   devenir réellement plus dominants, jusqu'à ce que certaines expressions
+   de domination s'impriment dans les contractions de leurs muscles
+   faciaux, aboutissant sur le long terme à une physionomie exprimant ce
+   trait de personnalité. Signalons que, contrairement à ce que
+   laisseraient supposer certains clichés, la couleur des yeux ne semble
+   pas avoir d'influence sur le caractère plus ou moins attirant des
+   hommes pour les femmes.
+
+
+   Enfin, jusque dans la mort, des différences s'observent selon la
+   couleur des yeux. Le psychologue David Lester a étudié les modes de
+   suicides employés par des Blancs américains, et observé que la
+   pendaison et le poison seraient plus utilisés par les hommes aux yeux
+   bruns, les armes à feux ou la noyade par ceux qui ont les yeux bleus.
+   Ainsi, pour des comportements extrêmes, expliqués par la détresse et la
+   souffrance psychologique, des variations comportementales liées à la
+   couleur des yeux semblent se manifester. C'est dire que ce facteur a de
+   fortes probabilités d'intéresser, pour longtemps encore, les chercheurs
+   en psychologie et en biologie, notamment pour élucider les causes
+   possibles de ces étonnantes différences.
+
+
+   Nicolas Guéguen
+   En savoir plus
    Modigliani: les yeux des autres
 
 Modigliani: les yeux des autres
@@ -674,7 +1225,10 @@ Modigliani: les yeux des autres
    comme dans les portraits de Modigliani." Gérard Saccoccini
 
    Presque tous les personnages que Modigliani s’attache à peindre
---
+   semblent dégager une note dominante de mélancolie, de solitude. Ce sont
+   les petits modèles qui s’ennuient et attendent patiemment que la séance
+   de pose soit finie, des servantes aux mains jointes, épuisées d’avoir
+   tant peiné pour survivre, des enfants mal aimés ou parfois oubliés. Si
    Modigliani a su peindre tous ces êtres de la misère, il a su leur
    opposer aussi les satisfaits, les pleins d’eux-mêmes, ceux à qui tout
    réussit, à qui la vie sourit. Ces hommes et ces femmes séparés par un
@@ -695,3 +1249,141 @@ Modigliani: les yeux des autres
    l’intérieur. Comme un ciel qui s’éteint pour accueillir et laisser
    briller ses étoiles.
 
+   [2000_5cc311b2b6221.jpg]
+
+   [2000_5cc311cb6e6f6.jpg]
+
+   [2000_5cc311e257bbc.jpg]
+
+   [2000_5cc311f30fc04.jpg]
+
+   En savoir plus
+   A quoi servent nos sourcils ? Des évolutionnistes suggèrent une réponse
+
+A quoi servent nos sourcils ? Des évolutionnistes suggèrent une réponse
+
+   Savez-vous que vos sourcils sont un de vos principaux outils de
+   socialisation ?
+
+   Pourquoi les humains archaïques avaient-ils des arcades sourcilières si
+   prononcées ? Pourquoi notre espèce Homo sapiens les a-t-elle bien moins
+   proéminentes ? Voici ce qu'en dit une nouvelle étude.
+
+
+   Alors que nos lointains ancêtres Homo arboraient des arcades
+   sourcilières proéminentes, l'espèce sapiens les a perdues, tout en
+   gagnant en pilosité (sourcils).
+
+
+   Comme en évolution rien n'est gratuit ou presque, cette transformation
+   de la face est supposée nous avoir donné un avantage évolutif. Mais
+   lequel ?
+
+
+   Une nouvelle étude sur l'évolution des humains, basée sur une
+   méthodologie originale, apporte une réponse probable.
+
+
+Une protection physique ?
+
+
+   En réalité le questionnement des évolutionnistes est double car la
+   raison d'être des ces arcades proéminentes dans la lignée des anciens
+   Homo n'est pas non plus connue. De nombreuses hypothèses ont été
+   émises, et c'est en les testant que les chercheurs ont aussi répondu à
+   l'autre question, celle de leur disparition.
+
+
+   En effet, depuis les années 1960 dans les débats autour des arcades
+   archaïques, les évolutionnistes ont beaucoup postulé : elles auraient
+   servi à amortir les micro-chocs de la mastication sur le cerveau, à
+   protéger les yeux contre les coups ou les morsures, à maintenir la
+   sueur et les cheveux hors des yeux...
+
+
+Numérisation et test mécanique
+
+
+   Les chercheurs ont testé ces hypothèses avec le crâne fossilisé d'un
+   Homo heidelbergensis nommé Kabwe 1 (en Zambie), dont on suppose qu'il a
+   vécu voici 300 000 à 125 000 ans, un contemporain des premiers Homo
+   sapiens mais aux traits ancestraux (la situation de Kabwe 1 est encore
+   débattue).
+
+
+   Numérisé en 3D, sa structure faciale à été soumise a un modèle de
+   calcul basée sur... l'ingénierie civile (bâtiments, ponts) ou
+   l'aéronautique, afin de quantifier les contraintes mécaniques agissant
+   sur cette partie de leur anatomie et ses effets.
+
+
+   Conclusion : des arcades plus petites auraient suffit. Si leur fonction
+   avait été la protection structurelle, la loi de sélection naturelle
+   n'aurait jamais pu conduire à une telle proéminence. Mauvaise réponse
+   donc. D'autres hypothèses mécaniques ont également été invalidées.
+
+
+Un postiche qui fait peur
+
+
+   Les chercheurs ont alors moulé ces arcades afin de les tester sur eux
+   et vérifier si elles étaient un bouclier efficace contre les
+   "projections" (eau de pluie, sueur, soleil, cheveux, etc.).
+
+
+   L'expérience s'est révélée non probante... Mais la réaction apeurée des
+   gens dans la rue, à la vue d'une "personne" (un des scientifiques avec
+   le postiche) aux arcades si développées, leur a soufflé une idée : la
+   proéminence aurait pu avoir une fonction (sociale) en accentuant
+   l'aspect dominateur voire agressif pour intimider.
+
+
+   Selon les chercheurs, le fait que des arcades proéminentes sont plus
+   fréquentes chez les hommes que chez les femmes pourrait indiquer que la
+   structure s'est développée par sélection sexuelle.
+
+
+Leur hypothèse
+
+
+   Le fait est qu'ils ont alors émis une hypothèse sur sa disparition chez
+   Homo sapiens : en devenant plus lisses et discrètes, les arcades ont
+   rendu cette partie du visage plus visible et mobile - les muscles du
+   front et du cuir chevelu pouvant agir plus efficacement sur les
+   sourcils, qui se sont étoffés.
+
+
+   L'avantage ? Gagner en subtilité dans la communication non-verbale en
+   ouvrant tout un univers de signes avec les sourcils, aussi bien dans
+   l'agressivité que dans la sympathie et dans d'autres fonctions (le
+   doute, la conviction, l'étonnement) au haute portée sociale.
+
+
+   En conclusion, selon les chercheurs, c'est la sociabilité qui a été
+   favorisée chez Homo sapiens, permettant à celui-ci de nouer des
+   relations plus profondes et avec plus de monde, jusqu'à former une
+   cohésion de masse servant de bouclier à la prédation, notamment. Un
+   débat est lancé...
+
+
+   Roman Ikonicoff
+   En savoir plus
+     *
+     *
+
+     * Accueil
+     * NEWS
+     * LES VEDETTES DU MOIS
+     * LE SYSTÈME NERVEUX DANS SON ENVIRONNEMENT
+     * IMAGES ET IMAGERIE
+     * PENSÉE ÉCOLOGIQUE
+     * LECTURES
+     * VOTRE CONTACT
+     * LECTURES
+     * POUR LE PLAISIR
+
+   Droits d'auteur © 2026 Tous droits réservés - NEURO ENVIRONNEMENT
+
+     *
+
+     *   bernardmontagne83@gmail.com

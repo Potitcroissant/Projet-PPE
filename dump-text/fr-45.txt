@@ -1,3 +1,10 @@
+
+   La Boîte à Outils pour Écrivains
+
+La Boîte à Outils pour Écrivains
+
+     * Construis ton Récit
+     * Affine ta Plume
      * Finalise ton Texte
 
    Oeil bleu
@@ -58,7 +65,76 @@ Source des définitions : Dictionnaire Le Robert
    Ici, je reprends les adjectifs de l’ancien article après les avoir
    catégorisés Positif/Neutre/Négatif afin de faciliter la recherche des
    termes en fonction de l’effet convoité.
---
+
+   Les « Neutres » dépendent du contexte dans lequel ils sont utilisés.
+
+Connotation Positive
+
+   Admiratif, affectueux, ahuri, amoureux, amusé.
+   Bienveillant, brillant.
+   Compatissant, compréhensif, confiant, coquin,
+   Doux.
+   Ébloui, émerveillé, énamouré, envoûtant, épanoui, étincelant,
+   Fascinant, favorable, fier.
+   Gourmand.
+   Honnête.
+   Illuminé.
+   Joli, juste.
+   Langoureux, limpide, lumineux.
+   Modeste.
+   Nouveau, novateur.
+   Passionné, pétillant.
+   Ravi, rayonnant, respectueux, rêveur, rieur.
+   Sensuel, serein, suave.
+   Tendre, triomphant.
+   Victorieux.
+
+Neutre (dépend du contexte)
+
+   Affolé, approbateur, ardent, assuré, avide.
+   Brûlant (ex. : de rage, de désir).
+   Calme, curieux.
+   Différent, distrait, dubitatif.
+   Éberlué, enflammé, énigmatique, ensorcelant, étonné, évasif,
+   (in)expressif.
+   Figé, flamboyant, franc.
+   Hébété, hésitant.
+   Idiot, impartial, implorant, indéchiffrable, inquisiteur,
+   interrogateur, insoutenable.
+   Malicieux, moqueur.
+   Narquois, neutre.
+   Observateur.
+   Pénétrant, pensif, perçant, poignant, pragmatique, profond, prometteur,
+   provocant.
+   Résigné.
+   Satisfait, songeur, soutenu
+   Timide.
+   Vif.
+
+Connotation Négative
+
+   Absent, accusateur, acide, agaçant, angoissé, anxieux, arrogant,
+   assombri.
+   Bestial, bizarre.
+   Caustique, circonspect, condescendant, conquérant, corrosif, courroucé,
+   craintif, cruel, cupide.
+   Dédaigneux, défavorable, désabusé, distant, dominateur, dur(ci).
+   Effrayant, effronté, envieux, éploré, éteint, étrange.
+   Farouche, féroce, foudroyant, fouineur, froid, fulgurant, furieux,
+   fuyant.
+   Gênant, glacé, glacial.
+   Haineux, hautain, hostile.
+   Impénétrable, imperceptible, impitoyable, implacable, incendiaire,
+   indifférent, inflexible, inquiet, insistant.
+   Lointain, louche, lourd.
+   Malveillant, maussade, méfiant, menaçant, méprisant.
+   Noir, noyé.
+   Offensant.
+   Perdu (dans le vague), pessimiste.
+   Rageur, railleur, redoutable, réprobateur.
+   Sans chaleur/expression, sardonique, sévère, sinistre, soucieux,
+   sournois, supérieur, suppliant.
+   Tendu, terne, tourmenté, triste.
    Vacant, vague, vide, vitreux, voilé.
 
 3) Les formules de verbes
@@ -68,7 +144,18 @@ verbe + un/le/les/son/ses regard(s).
    Accrocher, adresser, affliger, aiguiser, arrêter, attacher, attirer,
    attrister.
    Braquer.
---
+   Captiver, composer, comprendre.
+   Darder, décocher, déguiser, détacher, détourner, diriger, distraire,
+   durcir.
+   Échanger, embrumer.
+   Fatiguer, frapper, fuir, fixer.
+   Glisser.
+   Interpréter.
+   Jeter.
+   Laisser errer/flâner/traîner/vaguer, lancer, lever.
+   Masquer, mendier.
+   Offenser.
+   Plonger, porter, poser, promener.
    Ravir, réjouir, risquer.
    Solliciter.
    Tirer, tourner.
@@ -86,7 +173,11 @@ verbe + du regard.
    Ausculter.
    Caresser, chercher, conduire.
    Désigner, dévorer.
---
+   Effleurer, embrasser, envelopper, examiner, explorer.
+   Foudroyer, fouiller, fusiller.
+   Implorer, inspecter, interroger.
+   Menacer, montrer.
+   Parcourir, parler, percer.
    Remercier.
    Scruter, sonder, suivre, supplier.
    Transpercer.
@@ -96,7 +187,11 @@ Un regard + verbe.
    Brille, brûle.
    Cherche, contemple.
    Découvre, détaille, distingue.
---
+   Embrasse, englobe.
+   Fixe, flamboie, fouille, fuit.
+   Glisse.
+   Observe.
+   Parcourt, passe, pénètre, plonge.
    S’arrête, s’attache, scintille, scrute, se dérobe, se détourne, se
    durcit, se fixe, se porte, se pose, se tourne, se voile.
    Tombe.
@@ -128,7 +223,44 @@ Inscris-toi à ma newsletter pour recevoir la notif !
    J’espère que ça t’aidera! 🙂
 
    Bonne écriture !
---
+
+Atena
+
+
+Related
+
+La Boîte à Outils pour Écrivains
+
+Articles récents
+
+   Astuces pour Maîtriser le « Show, don’t tell »
+
+Astuces pour Maîtriser le « Show, don’t tell »
+
+   Voici quelques astuces supplémentaires pour t'aider à maîtriser la
+   notion du "show, don't tell", et ainsi améliorer l'immersion des
+   lecteurs dans ton histoire.1) Évite d'utiliser le verbe “être” de façon
+   excessive (suis, sont, étais, étaient, étant, ont été) Sally est...
+   read more
+   Décrire une Ambiance
+
+Décrire une Ambiance
+
+   Une ambiance est un élément parfois complexe à décrire puisqu'elle
+   dépend de plusieurs facteurs, dont la perception du/des personnage(s).
+   Voici donc quelques idées pour t'inspirer et décrire l'ambiance dans
+   tes romans avec des termes précis qui t'éviteront d'alourdir...
+   read more
+   20 Différences entre un héros et un antihéros
+
+20 Différences entre un héros et un antihéros
+
+   Selon le dictionnaire, un héros est une "Personne qui se distingue par
+   sa bravoure, ses mérites exceptionnels, etc." Un héros de fiction
+   "Principal personnage d'une œuvre littéraire, dramatique,
+   cinématographique typiquement identifié par ses bonnes qualités, et
+   pour...
+   read more
    Décrire un Rire
 
 Décrire un Rire
@@ -138,3 +270,127 @@ Décrire un Rire
    article pour t'inspirer et décrire les rires dans tes romans comme tu
    les entends. Évidemment, je ne prétends pas tout savoir. Je...
    read more
+   Les Motivations des Personnages
+
+Les Motivations des Personnages
+
+   Pour qu'il y ait un récit à raconter, il faut des personnages et un
+   objectif principal. Cependant, pour rendre une histoire réaliste et
+   vivante, il faut que chaque personnage (même secondaire !) ait sa
+   propre motivation (en dehors de l'objectif commun). Cela peut...
+   read more
+   Retour
+   ← Article Précédent Article Suivant →
+   Retour Accueil
+
+0 Comments
+
+Submit a Comment Annuler la réponse
+
+   Votre adresse courriel ne sera pas publiée. Les champs obligatoires
+   sont indiqués avec *
+
+   Commentaire *
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   Courriel * ______________________________
+
+   Site web ______________________________
+
+   Please enter an answer in digits:
+   thirteen + 17 = __
+
+   (BUTTON) Submit Comment
+
+Décrire un Sourire*
+
+   *Cet article sera mis à jour sous peu. Un sourire... Absent,
+   accueillant,...
+   Lire
+
+Quand changer de paragraphe?
+
+   Mis à jour : 23 février 2024Pour ceux qui se demandent si le
+   découpage...
+   Lire
+
+Intensité des Émotions*
+
+   *Cet article sera mis à jour sous peu.  Suite à mon article Préciser
+   les...
+   Lire
+
+D’autres façons de… Briser
+
+   Mis à jour : 20 juillet 2024Et si on brisait autrement?Briser en
+   petits...
+   Lire
+
+85 Remplaçants pour « Mauvais »
+
+   Mis à jour : 19 mai 2024Il existe différents termes pour les degrés
+   de...
+   Lire
+
+Les 5 Sens : Décrire le Goût
+
+   Mis à jour : 3 mai 2024Les sens sont primordiaux pour transmettre...
+   Lire
+     * Références et Liens Utiles
+     * Conditions générales
+     * Politique de confidentialité
+     * Politique de témoins
+
+   La Boîte à Outils pour Écrivains ©2015-2025 Éditions InnovaLivres
+
+   💖 Gérer les Cookies 🍪
+
+   Les cookies me permettent de mieux vous connaître. Aidez-moi en les
+   acceptant.
+   Fonctionnel [ ] Fonctionnel Toujours activé
+   Le stockage ou l’accès technique est strictement nécessaire dans la
+   finalité d’intérêt légitime de permettre l’utilisation d’un service
+   spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
+   le seul but d’effectuer la transmission d’une communication sur un
+   réseau de communications électroniques.
+   Préférences [ ] Préférences
+   Le stockage ou l’accès technique est nécessaire dans la finalité
+   d’intérêt légitime de stocker des préférences qui ne sont pas demandées
+   par l’abonné ou l’utilisateur.
+   Statistiques [ ] Statistiques
+   Le stockage ou l’accès technique qui est utilisé exclusivement à des
+   fins statistiques. Le stockage ou l’accès technique qui est utilisé
+   exclusivement dans des finalités statistiques anonymes. En l’absence
+   d’une assignation à comparaître, d’une conformité volontaire de la part
+   de votre fournisseur d’accès à internet ou d’enregistrements
+   supplémentaires provenant d’une tierce partie, les informations
+   stockées ou extraites à cette seule fin ne peuvent généralement pas
+   être utilisées pour vous identifier.
+   Marketing [ ] Marketing
+   Le stockage ou l’accès technique est nécessaire pour créer des profils
+   d’utilisateurs afin d’envoyer des publicités, ou pour suivre
+   l’utilisateur sur un site web ou sur plusieurs sites web ayant des
+   finalités marketing similaires.
+     * Gérer les options
+     * Gérer les services
+     * Gérer {vendor_count} fournisseurs
+     * En savoir plus sur ces finalités
+
+   (BUTTON) Accepter (BUTTON) Refuser (BUTTON) Voir les préférences
+   (BUTTON) Enregistrer les préférences Voir les préférences
+     * {title}
+     * {title}
+     * {title}
+
+   (BUTTON) Gérer le consentement
+
+   fbpx

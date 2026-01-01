@@ -1,3 +1,68 @@
+   #Portail Lexical - CNRTL alternate
+
+   [USEMAP:bandeau.jpg]
+     *
+     * Accueil
+     *
+     * Portail lexical
+     *
+     * Corpus
+     *
+     * Lexiques
+     *
+     * Dictionnaires
+     *
+     * Métalexicographie
+     *
+     * Outils
+     *
+     * Contact
+     *
+
+     * Morphologie
+     * Lexicographie
+     * Etymologie
+     * Synonymie
+     * Antonymie
+     * Proxémie
+     * Concordance
+     * Aide
+
+TLFi
+
+Académie
+
+9^e édition
+
+Académie
+
+8^e édition
+
+Académie
+
+4^e édition
+
+BDLP
+
+Francophonie
+
+BHVF
+
+attestations
+
+DMF
+
+(1330 - 1500)
+
+   Police de caractères: [Arial__________]
+   [ ] Surligner les objets textuels
+   Colorer les objets :
+     [Aucun____________]
+     [Aucun____________]
+     [Aucun____________]
+     [Aucun____________]
+     [Aucun____________]
+     [Aucun____________]
    Fermer
 
 Entrez une forme
@@ -459,3 +524,6 @@ Entrez une forme
    182. − Gohin 1903, p. 309. − Quem. DDL t. 10.
    Valid XHTML 1.0 Strict Valid Cascading Style Sheet
 
+   © 2012 - CNRTL
+   44, avenue de la Libération BP 30687 54063 Nancy Cedex - France
+   Tél. : +33 3 83 96 21 76 - Fax : +33 3 83 97 24 56

@@ -3,7 +3,19 @@
 
      * Introduction
      * Table des matières
---
+     * Cours de Philosophie
+     * Lecture suivie
+     * Bibliographie
+     * Index
+     * ____________________ Chercher
+
+PhiloLog
+
+   Cours de philosophie
+
+   Flux pour
+          Articles
+          Commentaires
 
    « La valeur de la philosophie. Bertrand Russell.
    Dignité humaine: le plus flou des concepts. Olivier CAYLA »
@@ -45,7 +57,9 @@ Redoutable ou bénéfique regard? Sartre.
    transcendance, me réduisant à la facticité qu'il perçoit.
       "S'il y a un Autre, quel qu'il soit, où qu'il soit, quels que soient
    ses rapports avec moi sans même qu'il agisse autrement sur moi que par
---
+   le pur surgissement de son être, j'ai un dehors, j'ai une nature; ma
+   chute originelle c'est l'existence de l'autre, et la honte est - comme
+   la fierté - l'appréhension de moi-même comme nature, encore que cette
    nature même m'échappe et soit inconnaissable comme telle. Ce n'est pas,
    à proprement parler, que je me sente perdre ma liberté pour devenir une
    chose, mais elle est là-bas, hors de ma liberté vécue, comme un
@@ -102,7 +116,32 @@ Redoutable ou bénéfique regard? Sartre.
    conscience de moi-même. Sartre n'hésite pas à dire qu' « autrui est le
    médiateur indispensable entre moi et moi-même ». L'Etre et le Néant,
    III, 1. 1943. Pour avoir une image de moi-même, il faut passer par
---
+   l'autre.    Il le montre en analysant l'expérience de la honte.
+
+    « [...] La honte dans sa structure première est honte devant
+   quelqu'un. Je viens de faire un geste maladroit ou vulgaire: ce geste
+   colle à moi, je ne le juge ni ne le blâme, je le vis simplement [...].
+   Mais voici tout à coup que je lève la tête: quelqu'un était là et m'a
+   vu. Je réalise tout à coup toute la vulgarité de mon geste et j'ai
+   honte. [...] J'ai honte de moi tel que j'apparais à autrui. Et par
+   l'apparition même d'autrui, je suis mis en demeure de porter un
+   jugement sur moi-même comme sur un objet, car c'est comme objet que
+   j'apparais à autrui. Mais pourtant cet objet apparu à autrui, ce n'est
+   pas une vaine image dans l'esprit d'un autre. Cette image en effet
+   serait entièrement imputable à autrui et ne saurait me « toucher ». Je
+   pourrais ressentir de l'agacement, de la colère en face d'elle comme
+   devant un mauvais portait de moi, qui me prête une laideur ou une
+   bassesse d'expression que je n'ai pas; mais je ne saurais être atteint
+   jusqu'aux moelles: la honte est, par nature, reconnaissance. Je
+   reconnais que je suis comme autrui me voit. »
+
+   Sartre. L'Etre et le Néant, III, I.
+
+   La scène décrite articule trois moments :
+     * Le sujet jaloux ou vulgaire est tellement englué dans son affect ou
+       dans son geste  qu'il n'en a pas une conscience claire: « ce geste
+       colle à moi, je ne le juge ni ne le blâme, je le vis simplement ».
+     *  Il découvre tout à coup qu'il est vu et imagine le jugement
        qu'autrui peut porter sur un tel geste ou un tel affect.
      * Il pourrait très bien se moquer de ce jugement qu'il projette
        d'ailleurs sur l'autre car on ne peut jamais pénétrer la pensée
@@ -123,7 +162,34 @@ Redoutable ou bénéfique regard? Sartre.
    ressources de sa conscience afin de pouvoir se justifier à ses propres
    yeux et à ceux des autres. Mais il est vrai que le jugement de la
    conscience peut être altéré par des expériences relationnelles
---
+   malheureuses, surtout à l'époque où une personne se construit. Ayant
+   intériorisé une mauvaise image d'elle-même, elle ne parvient pas à
+   conquérir son autonomie intellectuelle et morale et reste dépendante du
+   jugement d'autrui. Cette aliénation serait, selon Sartre, le sens
+   précis de l'expression « l'enfer c'est les autres ».
+
+   « « L'enfer c'est les autres » a été toujours mal compris. On a cru que
+   je voulais dire par là que nos rapports avec les autres étaient
+   toujours empoisonnés, que c'était toujours des rapports infernaux. Or,
+   c'est tout autre chose que je veux dire. Je veux dire que si les
+   rapports avec autrui sont tordus, viciés, alors l'autre ne peut être
+   que l'enfer. Pourquoi ? Parce que les autres sont, au fond, ce qu'il y
+   a de plus important en nous-mêmes, pour notre propre connaissance de
+   nous-mêmes. Quand nous pensons sur nous, quand nous essayons de nous
+   connaître, au fond nous usons des connaissances que les autres ont déjà
+   sur nous, nous nous jugeons avec les moyens que les autres ont, nous
+   ont donné, de nous juger. Quoi que je dise sur moi, toujours le
+   jugement d'autrui entre dedans. Quoi que je sente de moi, le jugement
+   d'autrui entre dedans. Ce qui veut dire que, si mes rapports sont
+   mauvais, je me mets dans la totale dépendance d'autrui et alors, en
+   effet, je suis en enfer. Et il existe une quantité de gens dans le
+   monde qui sont en enfer parce qu ils dépendent trop du jugement
+   d'autrui. Mais cela ne veut nullement dire qu'on ne puisse avoir
+   d'autres rapports avec les autres, ça marque simplement l'importance
+   capitale de tous les autres pour chacun de nous ». Sartre. Entretien,
+   1964. Extrait du CD audio Huis clos.
+
+
    Partager :
    Share on Facebook Pin It! Share on Twitter Share on LinkedIn
 
@@ -145,7 +211,10 @@ Redoutable ou bénéfique regard? Sartre.
     2. Simone MANON dit :
        6 novembre 2012 à 8 h 18 min
        Bonjour
---
+       Je pense que vous avez, d’abord, à orthographier correctement le
+       mot autrui, ensuite à expliquer une formule ne présentant aucune
+       difficulté intrinsèque. Il vous suffit de vous donner la peine de
+       l’analyser.
        Bon travail.
     3. Fabien dit :
        5 juillet 2013 à 17 h 47 min
@@ -155,7 +224,11 @@ Redoutable ou bénéfique regard? Sartre.
        dans un parc. Les exemples donnés par Sartre dans « l’Etre et la
        Néant » le montrent. Par contre, il y a une contradiction chez
        Sartre ici, car brusquement, après avoir développé les concepts de
---
+       pour-soi vs en-soi, il pase brusquement aux concepts sujet-objet,
+       dont sa philosophie cherche à se dégager. Nulle part, me semble
+       t-il les notions de sujet et d’objet sont définies dans « l’Etre et
+       le Néant » (qui reste cependant à mes yeux un grand livre ne serait
+       ce que parce que la philosophie y atteint presque une dimension
        poétique).
     4. Simone MANON dit :
        6 juillet 2013 à 5 h 40 min
@@ -166,7 +239,9 @@ Redoutable ou bénéfique regard? Sartre.
        sartrienne de la conscience qui, dans son fond reste cartésienne.
        Bien à vous.
     5. Alain Garzia dit :
---
+       29 août 2013 à 22 h 59 min
+       Bonjour
+       N’y a-t-il pas au fondement du sentiment de honte la conscience de
        sa propre liberté? Si la personne avait fait le même acte sous la
        menace par exemple, c’est-à-dire par nécessité, et qu’un tiers
        l’avait surprise, elle n’aurait probablement pas eu honte, ou pas
@@ -186,7 +261,23 @@ Redoutable ou bénéfique regard? Sartre.
        liberté. En ce sens, vous avez raison de dire que la conscience ou
        la liberté du sujet sont engagées dans l’expérience de la honte
        mais l’enjeu de l’analyse sartrienne est de montrer que la
---
+       révélation de cette dimension de la personne a besoin d’autrui pour
+       devenir effective.
+       Bien à vous.
+    7. typhaine dit :
+       11 septembre 2013 à 12 h 14 min
+       Le sujet que je vous ai demandé d’analyser a été posé à une classe
+       de seconde. Le sujet n’était donc pas si simple.
+    8. Simone MANON dit :
+       12 septembre 2013 à 8 h 26 min
+       Bonjour
+       Si des élèves de seconde sont invités à traiter ce sujet, c’est
+       manifestement la preuve qu’il ne présente pas de difficulté majeure
+       car le moins que l’on puisse dire est que des élèves de seconde ne
+       sont pas armés philosophiquement.
+       Il faut réfléchir avant d’énoncer des jugements afin que ceux-ci
+       soient pertinents et ne pas se dispenser des règles élémentaires de
+       la politesse lorsqu’on s’adresse à une personne.
        Bien à vous.
     9. Diana dit :
        5 novembre 2018 à 11 h 25 min
@@ -210,7 +301,15 @@ Redoutable ou bénéfique regard? Sartre.
        l’angoisse d’exclusion, se sentir indigne de son être même.
        Qu’en pensez vous?
        Je vous remercie infiniment de nous permettre ces échanges
---
+       tellement enrichissant avec vous,
+       bien à vous
+       Diana
+   10. Simone MANON dit :
+       5 novembre 2018 à 18 h 59 min
+       Bonjour
+       Vous faites une distinction entre l’être et le faire qui ne peut
+       pas être justifiée, ne serait-ce que parce que toute action est une
+       expression de soi. Sartre va jusqu’à dire que nous ne sommes rien
        d’autre que nos actes.
        https://www.philolog.fr/lessence-de-lhomme-cest-lexistence-heidegge
        r/
@@ -227,7 +326,7 @@ Redoutable ou bénéfique regard? Sartre.
        dans son rapport à lui-même.
        D’où la nécessité d’un travail de soi sur soi. C’est moins le
        rapport aux autres, que le rapport à soi qui est en jeu dans la
---
+       conquête d’une certaine liberté dans l’expérience de la maladie.
        Bien à vous.
    11. Diana dit :
        23 novembre 2018 à 16 h 16 min
@@ -240,7 +339,7 @@ Redoutable ou bénéfique regard? Sartre.
        sûre d’avoir bien compris.
        Quand Sartre donne son explication de son fameux « l’enfer c’est
        les autres » et qu’il explique qu’il ne voulait pas dire que les
---
+       rapports aux autres était toujours empoisonnés mais que c’était
        l’enfer si les rapports avec autrui étaient tordus, viciés, comment
        définiriez vous « rapports viciés ou tordus? » Est ce à dire que
        c’est l’enfer quand objectivement l’autre veut nous nuire mais cela
@@ -255,7 +354,7 @@ Redoutable ou bénéfique regard? Sartre.
        Bien à vous
        Diana
    12. Simone MANON dit :
---
+       24 novembre 2018 à 19 h 12 min
        Bonjour
        L’expression que vous relevez renvoie à l’expérience de la
        rencontre intersubjective. Celle-ci déjoue le piège de
@@ -265,7 +364,10 @@ Redoutable ou bénéfique regard? Sartre.
        être des inconnues l’une pour l’autre, simplement le sourire que
        cette expérience appelle témoigne qu’elles se reconnaissent comme
        des sujets et se saluent.
---
+       Il y a beaucoup de confusion dans votre compréhension de la phrase
+       de Sartre.
+       Les rapports viciés, tordus avec les autres sont les rapports
+       difficiles où dominent les affects négatifs (le mépris, la haine,
        etc. ) Se sentir objectivé comme un être méprisable par une
        personne dont j’aimerais être reconnu est une expérience
        douloureuse, surtout lorsque cette personne est un père, une mère
@@ -275,3 +377,181 @@ Redoutable ou bénéfique regard? Sartre.
        « l’enfer c’est ce jugement de l’autre que j’ai fait mien ».
        Voyez aujourd’hui l’exemple des « gilets jaunes ». Ils ont
        l’impression à tort ou à raison d’avoir été méprisés par ceux
+       qu’ils appellent « les riches », « les politiques », « les
+       puissants ».
+       D’où leur colère et leur haine à l’endroit de ceux qu’ils
+       considèrent comme étant à la source de leur souffrance. D’où aussi
+       leur mal-être dans le corps social qui déborde largement leurs
+       difficultés matérielles, bien réelles, elles.
+       Toutes les relations humaines ne s’effectuent pas sur un mode
+       négatif, (qui d’ailleurs peut avoir une réalité objective ou être
+       purement fantasmatique).
+       On conquiert son autonomie en s’affranchissant du jugement des
+       autres mais cela ne signifie pas s’affranchir du jugement de sa
+       propre conscience et ce que Sartre montre, c’est que celle-ci n’a
+       pu advenir que dans le commerce avec d’autres consciences.
+       Bien à vous.
+   13. Diana dit :
+       26 novembre 2018 à 9 h 40 min
+       Chère Madame Manon,
+       je vous remercie infiniment d’accepter et de prendre le temps de me
+       répondre de manière aussi précise malgré la confusion de mes
+       propos. Vos explications m’éclairent énormément et vont me
+       permettre de pouvoir avancer dans la rédaction de mon article.
+       Merci pour ce que vous faites, votre blog et les échanges que vous
+       entretenez avec vos lecteurs sont très précieux. Nous avons de la
+       chance de vous avoir!
+       Bien à vous,
+       Diana
+   14. Simone MANON dit :
+       26 novembre 2018 à 10 h 32 min
+       Bonjour
+       Voyez bien que chez Sartre et de nombreux philosophes la
+       conscience, avec sa possibilité de transcender le donné ( ce que
+       Sartre appelle la facticité opposée à la transcendance) est
+       synonyme de liberté. Or cette liberté est possibilité de se
+       choisir, de ne pas être asservi à sa facticité, par exemple à son
+       corps, à sa classe sociale, à un aspect de son être que l’on
+       refuse. La honte résulte de la conscience de ne pas être à la
+       hauteur de cet idéal de liberté.
+       Bien à vous.
+
+Laisser un commentaire
+
+   Cliquez ici pour annuler la réponse.
+
+   ______________________ Nom (requis)
+
+   ______________________ Mail (will not be published) (requis)
+
+   ______________________ Site web
+
+
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+
+   Envoyer
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+     * Entrées complémentaires
+         1. Ai-je un corps ou suis-je mon corps?
+         2. La transcendance d'autrui est plus résistante que celle des
+            choses. Merleau-Ponty.
+     * À propos
+       Profil
+       Par Simone MANON,
+       Professeur de philosophie
+       Tous droits réservés.
+     * 10 leçons sur : la liberté
+       10 leçons sur la lierté
+       10 Chapitres du cours sur la liberté, sélectionnés et édités dans
+       un format papier agréable et pratique.
+       Impression à la demande au format poche
+     * Pour Commencer
+       Comment se repérer dans ce blog ?
+       Présentation du chapitre I
+     * Catégories
+          + Cours
+               o Chapitre I – La philosophie.
+               o Chapitre II – Conscience. Inconscient. Sujet.
+               o Chapitre III – Autrui.
+               o Chapitre IV – Désir.
+               o Chapitre IX – L'art.
+               o Chapitre V – Bonheur et moralité.
+               o Chapitre VI – Nature-Culture.
+               o Chapitre VII – Le travail.
+               o Chapitre VIII – La technique.
+               o Chapitre X – La religion.
+               o Chapitre XI – Le langage.
+               o Chapitre XII – Le réel, l'expérience.
+               o Chapitre XIII – La raison.
+               o Chapitre XIV – L'interprétation.
+               o Chapitre XIX – Droit et justice.
+               o Chapitre XV – L'histoire
+               o Chapitre XVI – La vérité.
+               o Chapitre XVII – Matière, vie, esprit.
+               o Chapitre XVIII – La politique.
+               o Chapitre XX – Etat et Société.
+               o Chapitre XXI – La liberté.
+               o Chapitre XXII – Réflexions sur l'Europe
+               o Chapitre XXIII- L'existence, le temps, la mort
+               o Chapitre XXIV- L'ennui
+               o Chapitre XXV. Le plaisir.
+               o Chapitre XXVI: La guerre.
+               o Présentation des chapitres
+          + Dissertations
+          + Exercices
+          + Explication de texte
+          + Lecture suivie
+          + Méthodologie
+          + Non classé
+          + Récréation
+          + Répertoire
+          + Textes
+     * Commentaires Récents
+          + Simone MANON dans Le désir de reconnaissance est un désir
+            d’esclave. Nietzsche.
+          + Laurent dans Le désir de reconnaissance est un désir
+            d’esclave. Nietzsche.
+          + TOURÉ, MADY dans Descartes: La morale provisoire. Discours de
+            la méthode, III.
+          + Simone MANON dans Socrate.
+          + Martin dans Socrate.
+          + Martin dans Socrate.
+          + Myriam dans Le mot et la chose. Gabriel Charles, Abbé de
+            LATTAIGNANT.
+          + La technique n’est pas neutre – cnfsstory.blog dans La
+            technique est-elle une activité neutre?
+          + La déconstruction cynique : de Diogène à Nietzsche en passant
+            par Walter Benjamin – Homo Hortus dans L’Ange de l’Histoire.
+            Walter Benjamin.
+          + Guichardan René dans Kant. La condition nécessaire à la
+            possibilité de la paix entre les Nations.
+     * Articles Récents
+          + Kant. La condition nécessaire à la possibilité de la paix
+            entre les Nations.
+          + La dialectique du bourgeois et du barbare
+          + Charles Stépanoff: L’animal et la mort. Chasses, modernité et
+            crise du sauvage
+          + Joyeux Noël.
+          + Vincent Coussedière. Eloge de l’assimilation
+     * Liens - Chambéry
+          + Lycée Vaugelas
+          + Proxy Informatique
+     * Liens - Cuisine
+          + La cuisine de Mercotte
+          + Les bonheurs de Senga
+     * Liens - Philosophie
+          + La république des livres
+          + La vie des idées
+          + Le blog de Marcel Gauchet
+          + Le blog de Marcel Gauchet
+          + Les beaux cours de philosophie de Jacques Darriulat
+          + PhiloSophie sur l'académie de Grenoble
+          + Sens Public
+          + Tumulti e ordini. Le blog de Thierry Ménissier.
+     * Méta
+          + Connexion
+          + Flux des publications
+          + Flux des commentaires
+          + Site de WordPress-FR
+
+   PhiloLog © 2026 Tous droits réservés.
+
+   Propulsé par WordPress - Thème « Misty Look » par Sadish

@@ -1,3 +1,46 @@
+   Your browser does not support JavaScript!
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NH62PMNV
+
+   FranceEnvironnement
+     * Revue EIN
+     * Guide de l'Eau
+     *
+
+   ____________________ Submit
+   [svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSI
+   gZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJzZWFyY2giIHJvbGU9ImltZyIgeG1sbn
+   M9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgY
+   2xhc3M9InN2Zy1pbmxpbmUtLWZhIGZhLXNlYXJjaCBmYS13LTE2IGZhLWZ3IGZhLTJ4Ij48
+   cGF0aCBmaWxsPSIjZmZmIiBkPSJNNTA1IDQ0Mi43TDQwNS4zIDM0M2MtNC41LTQuNS0xMC4
+   2LTctMTctN0gzNzJjMjcuNi0zNS4zIDQ0LTc5LjcgNDQtMTI4QzQxNiA5My4xIDMyMi45ID
+   AgMjA4IDBTMCA5My4xIDAgMjA4czkzLjEgMjA4IDIwOCAyMDhjNDguMyAwIDkyLjctMTYuN
+   CAxMjgtNDR2MTYuM2MwIDYuNCAyLjUgMTIuNSA3IDE3bDk5LjcgOTkuN2M5LjQgOS40IDI0
+   LjYgOS40IDMzLjkgMGwyOC4zLTI4LjNjOS40LTkuNCA5LjQtMjQuNi4xLTM0ek0yMDggMzM
+   2Yy03MC43IDAtMTI4LTU3LjItMTI4LTEyOCAwLTcwLjcgNTcuMi0xMjggMTI4LTEyOCA3MC
+   43IDAgMTI4IDU3LjIgMTI4IDEyOCAwIDcwLjctNTcuMiAxMjgtMTI4IDEyOHoiIGNsYXNzP
+   SIiPjwvcGF0aD48L3N2Zz4=]
+     * Questions
+     * Réalisations
+     * Tutoriels
+     * Produits
+     * Agenda
+     * Connexion
+          + Email address ____________________
+            Password ____________________
+            (BUTTON) Connexion
+            Mot de passe oublié ?
+            Pas encore inscrit ? Inscrivez-vous
+
+     * Accueil
+     * Questions
+     * Réalisations
+     * Tutoriels
+     * Produits
+     * Agenda
+
+     * ACCUEIL
+
      QUESTIONS
 
      EAU
@@ -50,7 +93,10 @@ Quelle est la définition d'un regard dans le système d'eau potable ?
    réseau d'eau potable et des normes en vigueur dans la région où ils
    sont installés.
    Produits cités
---
+   Image CRR
+   EJ®
+   CRR
+   Tampon
    1 clic Devis
    Image HOBAS GRP 3000/2000/1200
    HOBAS
@@ -106,7 +152,16 @@ conforme ?
    dans le pays ou la région, le type de compteur d'eau installé, ainsi
    que les... Lire plus
    [share.png] Partager Répondre
---
+
+Comment calculer le coefficient de perte de charge au niveau des coudes quand
+on connais le rayon courbure ?
+
+   Le 22/12/2023 - 1 réponse
+
+   Dernière réponse : Le coefficient de perte de charge localisée dans un
+   coude (également appelé perte de charge singulière ou perte de charge
+   mineure) est influencé par plusieurs facteurs, dont le rayon de
+   courbure du... Lire plus
 
    [share.png] Partager Répondre
 
@@ -131,7 +186,17 @@ Y-a-t-il des nouvelles normes depuis 2018 concernant les regards d'eau?
 
    [share.png] Partager Répondre
 
---
+La commune veut changer mon compteur d'eau (sur mon terrain) car il est trop
+profond donc difficile d'accès : 80cm de profondeur et ouverture est de
+50x60. Quelles sont les dimensions légales à respecter ? Que puis-je faire
+face à cette situation ?
+
+   Le 04/01/2023 - 1 réponse
+
+   Dernière réponse : La réglementation française stipule que les
+   compteurs d'eau doivent être installés à une profondeur accessible pour
+   faciliter l'entretien et la relève, généralement entre 40 et 80 cm de
+   profondeur. Lire plus
 
    [share.png] Partager Répondre
 
@@ -142,7 +207,7 @@ contact...) pour l'emplacement de ce regard?
    Le 29/10/2020 - 3 réponses
 
    Dernière réponse : Habituellement on éloigne le point de prélèvement,
---
+   du point d'injection, d'une distance d'au moins 10 diamètres de la
    conduite. Lire plus
 
    [share.png] Partager Répondre
@@ -158,7 +223,8 @@ emplacement. Quelles actions faut-il prévoir?
    sur l'emplacement prévu pour un futur portail, nécessite plusieurs
    actions... Lire plus
 
---
+   [share.png] Partager Répondre
+
    Sponsorisé/div>
 
 Domaines concernés
@@ -168,3 +234,23 @@ Domaines concernés
    Postée le : mardi 18 juillet 2023
 
 Contenus cités dans les réponses
+
+   Produits :
+   CRR
+   HOBAS GRP 3000/2000/1200
+   PAMREX
+   Demander un devis
+
+   La plateforme
+   À propos de nous Conditions et Confidentialité L'éditeur
+   Aller plus loin
+   Publicités Nos offres entreprises Aide : 01 44 84 78 86 Nos partenaires
+   Catégories et domaines d'activités
+   Air Eau Sols Bruit Déchets Energies & ENR Mesures Travaux Publics &
+   Aménagement Sécurité et équipements Vrac
+   Explorez
+   Produits Entreprises Questions Réalisations Tutoriels Articles Agenda
+   Restons connectés
+   Twitter Facebook Linkedin
+
+   © 2025 Copyright Alphamedia

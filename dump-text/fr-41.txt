@@ -1,3 +1,86 @@
+   #RSS alternate alternate alternate Contents Le rôle de l’autoportrait
+   performatif chez Gina Pane Portrait analogique et figure du poète
+   Garcia Lorca selon Roberto Matta Visage et portrait, visage ou portrait
+   Search on OpenEdition
+
+     * Contenu principal
+     * Menu
+     * (BUTTON) Rechercher
+
+   OpenEdition Books
+
+     * Accueil
+     *
+     * Catalogue de 16012 livres
+     *
+     * Éditeurs
+     *
+     * Auteurs
+
+   (BUTTON) Français FR
+     * (BUTTON) English
+
+   (BUTTON) Partager
+     * Facebook
+     * X
+
+   (BUTTON) OpenEdition Search (BUTTON) Tout OpenEdition
+
+     * Partager
+          + Facebook
+          + X
+
+     * Accueil
+     * Catalogue de 16012 livres
+     * Éditeurs
+     * Auteurs
+
+
+
+Ressources numériques en sciences humaines et sociales
+
+     * OpenEdition
+
+
+
+Nos plateformes
+
+     * OpenEdition Books
+     * OpenEdition Journals
+     * Hypothèses
+     * Calenda
+
+
+
+Bibliothèques
+
+     * OpenEdition Freemium
+
+
+
+Suivez-nous
+
+     *
+     *
+     *
+     *
+
+     Lettre d’information
+
+   OpenEdition Search (BUTTON)
+
+   Redirection vers OpenEdition Search.
+   Expression ou mot-clé (tag) ____________________
+
+   À quel endroit ?
+
+   (*) Dans Presses universitaires de Paris Nanterre
+   ( ) Dans tout OpenEdition
+
+   (BUTTON) Rechercher
+
+     Presses universitaires de Paris Nanterre ›
+
      ArTguments ›
 
      Visage et portrait, visage ou portrait ›
@@ -7,7 +90,16 @@
      Presses universitaires de Paris Nanterre
 
    Presses universitaires de Paris Nanterre
---
+   Presses universitaires de Paris Nanterre
+
+   Informations sur la couverture
+   Rechercher dans le livre
+   ____________________ (BUTTON)
+   Table des matières (BUTTON) Citer (BUTTON) Partager
+   Liens vers le livre
+   Informations sur la couverture
+   Rechercher dans le livre
+   ____________________ (BUTTON)
    Table des matières (BUTTON) Citer (BUTTON) Partager
    Formats de lecture
 
@@ -20,7 +112,9 @@
 
 Visage et portrait, visage ou portrait
 
---
+   (BUTTON)
+
+   Ce livre est recensé par
 
    Naviguer dans le livre
 
@@ -85,7 +179,23 @@ La fabrication du regard du roi
    les plus nombreux, mettent en exergue le visage ; dans le visage, la
    face ; et dans la face, l’œil. Il faut cependant prendre en
    considération la différence induite par le médium. Dans les tableaux,
---
+   l’opposition est toujours forte entre le creusement de l’espace et les
+   effets de surface. L’œil dans son ensemble relève d’une telle logique :
+   on remarquera en effet que son contour n’est souvent que bien peu
+   modifié, quelle que soit la position du modèle par rapport au plan de
+   représentation. Les caractéristiques plastiques de l’œil sont traitées
+   de manière suffisamment précise pour singulariser les êtres : ainsi la
+   forme presque asiatique du contour de l’œil de François I^er, parangon
+   de la grâce4 (Fig. 1). L’extrême précision du dessin de François Clouet
+   rendra encore plus sensible la tension intérieure que l’on ressent dans
+   la plupart des représentations du roi. Celles-ci participent fortement
+   à l’expression générale du visage : ainsi pour les paupières tombantes
+   de Henri II5, les yeux cernés de François II, le contour effilé des
+   paupières de Charles IX (Fig. 2, 3, 4).
+
+   3Cet effet est réalisé à l’aide de procédés sur lesquels on passera
+   rapidement : contraste entre la cornée d’une part, l’iris et la pupille
+   de l’autre ; usage de contours fortement marqués autour de l’iris ;
    présence d’une tache blanche, reflet de la lumière ambiante dans l’œil,
    situé en règle générale en haut à gauche de l’iris ; recours, dans les
    dessins, à ce que nous proposons d’appeler la « cupule », un
@@ -95,7 +205,11 @@ La fabrication du regard du roi
    travers de la forme de l’œil. Ainsi, parler d’intensité. Qu’est-ce qui
    la traduit ? un accent plus fortement porté sur la pupille ? le
    resserrement des paupières ? La distance entre le sourcil et l’œil ?
---
+   Qu’en est-il de l’importante question de la focalisation, c’est-à-dire
+   de la zone véritablement observée ? La vision humaine,
+   physiologiquement double – d’une part une vision précise centrale
+   déterminée par les cônes, d’autre part une vision périphérique créée
+   par les bâtonnets –, imprécise quant aux couleurs et aux formes mais
    sensible aux moindres variations lumineuses, peut être traduite dans
    l’expression même des figures. La juxtaposition du disque blanc du
    reflet lumineux à côté du disque noir de la pupille, en créant un effet
@@ -162,7 +276,16 @@ La fabrication du regard du roi
    L’historien de l’art note la fréquence des index pointés dans les
    portraits des années 1530-1540 en Flandres et en Hollande14. On doit
    associer un tel changement aux plus profondes modifications advenues
---
+   dans l’art de peindre à la Renaissance : l’ouverture d’un espace
+   parcourable par les figures, l’inscription de la scène dans une
+   temporalité particulière.
+   Image img02.jpg
+
+   Fig. 2 : Jan Van Eyck, L’Homme au turban rouge (Portrait of aMan),
+   huile sur toile, 26 x 19 cm, 1433, The National Gallery, Londres, n°
+   inv NG 222.
+   Image img03.jpg
+
    Fig. 3 : Jan Van Eyck, Portrait de Jan de Leeuw, huile sur bois, 24,5 x
    19 cm, 1436, Vienne, Kunsthistorisches Museum.
 
@@ -221,7 +344,16 @@ Le regard du roi et la cour de France
    joustes publiées à Paris à la table de marbre par Montjoye, premier
    d’armes du roy de France22. Le roi et la reine sont représentés dans
    une niche à fond étoilé tandis que devant s’affrontent les chevaliers.
---
+   Dans cette relation, un axe est d’ailleurs dominant : un rapport de
+   haut en bas23. C’est le prince tel qu’il doit être. Il voit l’ensemble
+   du territoire – c’est le modèle polémologique de l’espace que l’on
+   trouve dans le Prince de Machiavel. Sur un mode moins guerrier, Érasme
+   établit un parallèle tout à fait parlant entre le peintre et le
+   prince : tous les deux prennent plaisir à contempler leur œuvre
+   terminée : « Si un peintre prend plaisir à un tableau bien fait, si un
+   laboureur, si un nourturier (sic), si un feure se délecte et prend
+   récréation à son œuvre, que doibt-il estre plus, plaisant un prince,
+   que de veoir et contempler une République estre faicte meilleure, et
    plus florissante par son industrie24 ? ». Plus près encore, il voit
    l’ensemble des puissants rassemblés autour de lui – c’est sa cour. Avec
    les rois peints par les Clouet, nous sommes à l’origine de la culture
@@ -252,7 +384,8 @@ Le regard du roi et la cour de France
    9Un tel rapport signifie également une attitude de défense de la part
    du roi. Première défense, institutionnelle : la perpétuation du jus
    imaginis, régissant le droit de posséder un portrait du roi. Toutefois,
---
+   l’importance des mesures est limitée, puisque les dessins disséminent
+   l’effigie royale sur l’ensemble du territoire30. Goût de voir le
    souverain – qui ne fait que traduire, si l’on en croit Pline, la
    renommée de celui-ci31. C’est le cas en ce qui concerne les Valois. Et
    face aux portraits, le spectateur ne reste pas inactif. L’œil – cette
@@ -268,7 +401,20 @@ Le regard du roi et la cour de France
    circumambulation des rois qui font le tour de la France36. Mais cela ne
    se fait pas sans sacrifice. Avant Lady Di, rois et reines ont pu
    souffrir de l’incessante attention à leur endroit. Ronsard a beau jeu
---
+   d’évoquer, dans une apostrophe à Marie Stuart, les moments délicieux où
+
+     la tourbe infinie
+     Qui vous courtise et d’yeux et de bonnet,
+     Vous laisse seule en vostre cabinet37.
+
+   10L’œil est juge. Tout est bon, dans l’apparence des êtres, pour
+   établir des hiérarchies, pour juger des états d’âme. D’où l’importance
+   de la physiognomonie, qui permet de déceler forces et faiblesses de ses
+   concurrents. Il s’agit donc de savoir dissimuler38. En outre,
+   l’exacerbation de la concurrence se fait par l’intensification de la
+   mode, en un temps où le « contrôle des apparences » se fait de plus en
+   plus intense39.
+
    11Le roi est, on pourrait le penser, au-dessus de ces jugements.
    D’abord parce que, contrairement à tous les autres, son statut relève
    de l’évidence absolue. Un ambassadeur vénétien dit de François I^er :
@@ -278,7 +424,24 @@ Le regard du roi et la cour de France
    parce que l’apparence, l’élégance, la beauté même constituent des
    enjeux politiques de premier ordre, dans lesquels les portraits jouent
    un rôle de premier plan – on connaît leur importance dans les
---
+   tractations avant mariage, à l’échelle de l’Europe41. Dans ce contexte,
+   un équilibre difficile devra être conçu entre l’affirmation du
+   caractère évidemment royal de la figure et une modestie qui s’impose
+   d’autant plus que le rang est élevé42. Et puis il y a une autre raison,
+   caractéristique selon nous de la conception de la royauté des Valois :
+   c’est celle qui fait reposer le pouvoir sur ce qu’on appellera, avec
+   Albert le Grand, une potestas per similitudinem – similitude qui vaut
+   déjà en ce qui concerne les apparences. L’un des traits les plus
+   surprenants des portraits peints et dessinés par les Clouet est la
+   rareté des œuvres dans lesquelles la supériorité du roi est
+   véritablement affirmée – comme dans le grand portrait de François I^er
+   du Louvre. On connaît l’imitation du roi par les courtisans ; on a pu
+   défendre, dans notre ouvrage, une forme d’imitation qui irait en sens
+   inverse, le roi imitant le courtisan, que ce soit l’arbitre des
+   apparences comme le duc de Nemours ou plus simplement, plus
+   fondamentalement encore, tout courtisan en ce qu’il participe d’une
+   essence commune : la noblesse43 – celle-là qui compose la majeure
+   partie des spectateurs des portraits des Clouet. Rappelons-le, ce que
    nous appelons la Cour de François I^er est dénommé « compagnie » par
    les contemporains44.
 
@@ -334,7 +497,8 @@ Le roi et le regard amoureux
    dans la poésie de Ronsard51. Dans le champ politique duquel relève le
    portrait du roi, il apparaît également nécessaire de prendre en
    considération une dimension affective profonde, statutaire, parfois
---
+   sincère. Il en va ainsi pour expliquer la présence du portrait du roi
+   jusque dans la chambre. On sait en outre l’importance à la Renaissance
    du portrait diplomatique. La séduction joue un rôle certain dans ces
    affaires politiques d’importance internationale52. Le roi est alors
    spectateur, mais aussi acteur. De manière générale, le portrait selon
@@ -344,7 +508,13 @@ Le roi et le regard amoureux
    vie sensible.
 
    15Toutefois, il existe des registres évoquant plus directement un corps
---
+   de désir : cela correspond à la figure du « bragard », c’est-à-dire
+   d’un individu dont la virilité est exhibée. Le grand François I^er du
+   Louvre, mais aussi certaines œuvres de l’entourage des Clouet conservés
+   à Chantilly, mettent en exergue cette acception. Le large poitrail, le
+   jeu subtil des crevées, la présence de l’épée, tout cela met l’accent
+   sur cette valeur à forte connotation guerrière. Les autres Valois
+   seront représentés de manière bien différente, les mœurs évoluant et
    l’art de François s’y adaptant : une plus grande finesse, une plus
    grande réserve seront privilégiées. On se situe ici dans un jeu
    complexe de dons et de préservation de soi. La possession de l’être
@@ -366,7 +536,14 @@ Le roi et le regard amoureux
    fascination54. On comprend mieux, nous l’espérons, dans ce contexte, la
    fortune du thème d’Actéon dans son association au portrait du roi. On
    sait qu’une des œuvres majeures de François Clouet, peinte à la fin de
---
+   sa vie, est Le Bain de Diane55 dont on connaît plusieurs versions. Le
+   thème est relativement courant à l’époque56, mais François Clouet
+   l’aborde d’une manière singulière, en juxtaposant la scène du bain de
+   Diane et celle du massacre d’Actéon ; en outre, la présence d’un
+   cavalier au second plan a fait couler beaucoup d’encre. Un certain
+   nombre de traits ont permis d’y voir la figure de rois de France, ne
+   serait-ce que parce que le premier état de la version attribuable avec
+   le plus de certitude à François Clouet, celle de Rouen, comportait une
    figure d’empereur romain. Cependant, il apparaît difficile de
    distinguer entre Henri II57 ou François II58. F. Bardon préfère y voir
    une évocation du premier plutôt qu’une réelle représentation59. En tout
@@ -378,7 +555,7 @@ Le roi et le regard amoureux
    Image img05.jpg
 
    Fig. 5 : Clouet François, Le bain de Diane, huile sur bois, 136 x 196,5
---
+   cm, vers 1565, ancienne collection du cardinal Joseph Fesch, Musée des
    Beaux-Arts, Rouen, n° inv. 846.1.
 
 Conclusion
@@ -394,7 +571,8 @@ Conclusion
    l’ouverture sur l’espace du spectateur, conserve du mode ancien la
    notion d’une distance – d’une distance en fait impossible à combler.
    Certes, le roi doit être « communicable », et il l’est somme toute par
---
+   le portrait qui en diffuse l’image ; mais il est aussi celui qui se
+   maintient dans une sorte d’état commun, celui du nobilium consortium,
    dont il ne distingue pas. Ce faisant, le portrait du roi selon les
    Clouet participe d’une entreprise de dissimulation au moment où se met
    en place ce que les historiens appellent désormais « le premier
@@ -421,7 +599,9 @@ Addendum : le regard chez les Clouet et le regard selon Alois Riegl
    18A priori, peu de choses à prendre chez Riegl et son Portrait de
    groupe hollandais62 (1902) pour la compréhension de l’œuvre des
    Clouet : d’un côté des figures isolées, même lorsqu’elles sont réunies
---
+   comme dans certaines miniatures de Jean ; de l’autre, une réflexion sur
+   le lien – un lien immédiatement double, puisqu’il concerne à la fois
+   les relations entre les figures et celles instituées avec le
    spectateur. C’est évidemment ce second volet qui est susceptible d’être
    utilisé à propos des Clouet. Mais il ne peut être évoqué hors de la
    construction théorique élaborée par l’historien de l’art viennois. Elle
@@ -443,7 +623,12 @@ Le regard comme action : le rapport à autrui
    19Cette première dimension est centrale dans l’analyse d’un corpus
    constitué des œuvres qui ont été sélectionnées de façon à exclure
    celles qui pouvaient reposer sur un lien implicite, comme les portraits
---
+   de famille : Riegl, avec les portraits de compagnies de gardes civiques
+   ou les « leçons d’anatomie », ou encore les portraits de « régents »
+   d’hospice, associe les représentations collectives où le lien entre les
+   figures est toujours institutionnel. La relation serait donc première
+   en tant que se pose à un double niveau la question de l’unité : dans la
+   composition, comme pour toute œuvre ; mais surtout dans ce que Riegl
    appelle la « conception » (Auffassung), qu’on pourrait peut-être
    traduire par « invention » pour être au plus près de la théorie
    artistique contemporaine, et qui définit l’« unité interne » (innere
@@ -476,7 +661,19 @@ Le regard comme action : le rapport à autrui
    21C’est qu’ils sont pour partie assujettis (de moins en moins, au fur
    et à mesure de l’évolution du genre) à la question fondamentale de la
    composition – d’une composition que Riegl ne réduit pas à un schème
---
+   structurant dissimulé : la composition, c’est ce qui fonde l’ordre à la
+   fois implicite et explicite du tableau. Rendre donc ostentatoire la
+   composition, comme c’est notamment le cas pour les portraits de groupe
+   du xvi^e siècle, c’est inviter à une lecture fortement bidimensionnelle
+   de l’œuvre, qui elle-même est chargée d’une valeur idéologique forte :
+   cela signifie que le monde réel, tridimensionnel, est second par
+   rapport à un monde non soumis au principe de vraisemblance – le monde
+   céleste. Et à l’intérieur même du monde terrestre qui est donné à voir,
+   la prégnance de la structuration rappelle que l’œuvre ne fait que
+   transcrire des liens sociaux entre les êtres représentés : ou
+   « coordination », ou « subordination ». Une telle lecture est du plus
+   grand intérêt pour comprendre l’hétérogénéité du traitement des figures
+   (bustes bidimensionnels, têtes tridimensionnelles) que l’on retrouve
    chez les Clouet comme dans les portraits de groupe hollandais
    contemporains.
 
@@ -508,7 +705,9 @@ Le regard comme manifestation d’un état intérieur
    23L’enjeu est d’importance : il y va rien moins que la conception
    générale de l’être que Riegl pense à l’échelle européenne en opposant
    un type septentrional et un type méridional. Le premier est celui du
---
+   « sentiment » (Gefühl) qui définit des êtres en rapport constant et
+   immédiat avec le monde et avec les autres. À quoi Riegl oppose le culte
+   de la volonté (Will) : celui-là même dont Jacob Burckhardt, dans sa
    Civilisation de la Renaissance en Italie63, venait de chanter la gloire
    sous le terme de virtù. Si la tendance est là aussi à valoriser ce
    second type d’individu, elle s’accompagne de la mise en valeur de
@@ -518,7 +717,7 @@ Le regard comme manifestation d’un état intérieur
    professeur Tulp) mais aussi l’orgueil de celui-ci ou la morgue de
    certains régents dans les tableaux tardifs de Frans Hals. Cependant,
    l’enjeu méthodologique dépasse sans doute la caractérisation en termes
---
+   psychologiques : Riegl réaffirme ainsi, d’une manière à laquelle Louis
    Marin fera plus tard écho, l’œuvre picturale – et notamment le portrait
    – comme acte, comme force, tout autant que simple présentation des
    choses.
@@ -542,7 +741,14 @@ Le regard comme manifestation d’un état intérieur
    d’anatomie », où c’est l’acuité visuelle, mais aussi la connexion
    établie par le chirurgien entre ce qu’il observe et ce qu’il sait qui
    va faire avancer la science. Dans les portraits de régents d’hospice,
---
+   qu’ils soient représentés ou non, les pauvres sont l’objet d’une
+   attention à la fois visuelle et mentale.
+
+   25Ce qui est en jeu ici, ce n’est rien moins que la nature du tableau
+   si, comme le propose Riegl, on doit concevoir l’art occidental comme
+   une tension sans cesse reprise entre deux conceptions de l’œuvre, l’une
+   objectiviste, l’autre subjectiviste. Dans le premier cas, l’œuvre est
+   conçue de telle manière qu’elle vaut pour elle-même (c’est notamment le
    cas de l’art de l’Empire romain finissant, étudié dans Spätrömische
    Kunstindustrie) ; elle est alors qualifiée d’« haptique » puisqu’elle
    mime un rapport qui serait d’ordre tactile. Son contraire, l’approche
@@ -613,7 +819,14 @@ Le regard du spectateur
    inciter à refuser une telle hypothèse. En outre, Riegl met très peu en
    valeur les jeux de dissimulation qui, autant que la monstration de soi,
    sont au cœur de la problématique du portrait en Occident – et c’est
---
+   notamment le cas chez François Clouet. Mais il est vrai que l’historien
+   de l’art souhaitait avant tout souligner dans son corpus cette
+   recherche d’ouverture à autrui, de transparence de l’être qu’il
+   associait à la société hollandaise du xvii^e siècle.
+
+   29C’est là où il peut être intéressant de quitter le rapport aux œuvres
+   elles-mêmes et d’étudier les stratégies discursives de Riegl historien
+   de l’art. On peut s’interroger ainsi sur l’étrange dissociation qu’il
    opère entre le « spectateur » si souvent évoqué et un autre, lui-même,
    ou le lecteur en tant qu’il est invité à pratiquer certaines opérations
    sur le tableau, à porter son attention sur tel ou tel motif. Le premier
@@ -641,7 +854,14 @@ Notes de bas de page
    XIV, Actes du colloque, Paris, Centre allemand d’histoire de l’art,
    juin 2002, Thomas W. Gaehtgens et Nicole Hochner (dir.), Paris,
    Éditions de la Maison des sciences de l’homme, 2006, p. 343-358.
---
+
+   2 Cf. Simons Patricia, « Women in Frames : the Gaze, the Eye, the
+   Profile in Renaissance Portraiture », in Norma Broude et Mary D.
+   Garrard (dir.), Expanding Discourse : Feminism and Art History, New
+   York, Icon Editions, 1992, p. 38-57 ; BECKER J., « Der Blick auf den
+   Betrachter. Mehrdeutigkeit als Gestaltungsprinzip niederländischer
+   Kunst des 17. Jahrhunderts », in L’Art et les révolutions. Section 7,
+   XXVII^e congrès international de l’histoire de l’art, Strasbourg, 1-7
    septembre 1989, organisé par le Comité international d’histoire de
    l’art, Comité français d’histoire de l’art, Strasbourg, Société
    alsacienne pour le développement de l’histoire de l’art, 1992, p.
@@ -652,7 +872,26 @@ Notes de bas de page
    and Archeology, 1984, vol. 1, p. 173-191.
 
    3 Jean Clouet, né en 1480 à Bruxelles, mort en 1541 à Paris et François
---
+   Clouet né en 1515 à Tours, mort en 1572 à Paris.
+
+   4 François Clouet (peut-être exécuté avec la collaboration de),
+   François I^er, huile sur chêne, 96 x 74 cm, 1525-1545, Paris, musée du
+   Louvre, n° inv 3256.
+
+   5 On les retrouve dans le portrait en pied des Offices.
+
+   6 Cf. les commentaires en ce sens de G. Künstler, « Vom Entstehen des
+   Einzelbildnisses und seiner frühen Entwicklung in der flämischen
+   Malerei », Wiener Jahrbuch für Kunstgeschichte, XXVII, 1974, p. 20-64.
+
+   7 Eyck Jan Van, L’Homme au turban rouge (Portrait of a Man), huile sur
+   toile, 26 x 19 cm, 1433, The National Gallery, Londres, n° inv NG 222.
+
+   8 Eyck Jan Van, Portrait de Margareta van Eyck, huile sur bois, 41, 2 x
+   34,6 cm, 1439, Bruges, Groeningemuseum.
+
+   9 Eyck Jan Van, Portrait de Jan de Leeuw, huile sur bois, 24,5 x 19 cm,
+   1436, Vienne, Kunsthistorisches Museum.
 
    10 Cf. pour l’Allemagne du xv^e siècle l’ouvrage de Buchner Ernst, Das
    deutsche Bildnis der Spätgotik und der frühen Dürerzeit, Berlin, Dt.
@@ -662,7 +901,37 @@ Notes de bas de page
    11 L’Italie constitue en l’occurrence un cas à part. Cf. Alazard Jean,
    Le Portrait florentin de Botticelli à Bronzino, Paris, Henri Laurens,
    1924.
---
+
+   12 Lipman Jean, « The florentine profil portraits in the
+   Quattrocento », in Art Bulletin, 1936, XVIII, n° 1, p. 54-102.
+
+   13 Friedlander Max J., Landscape Portrait Still-Life ; their origin and
+   development, Oxford, B. Cassirer, 1949.
+
+   14 Cf. par exemple Vermeyen Jan, Portrait d’homme, Palais Pitti,
+   Florence ; Scorel Jan Van, Portrait d’un pèlerin, huile sur panneau de
+   masonite (transféré depuis sur un panneau de bois), 92,7 x 84,8 x 7,6
+   cm, 1530-1540, Detroit Institute of Arts ; Cleve Van Joos,
+   Autoportrait, huile sur panneau, 65 x 50,8 cm, 1530-1535, Londres,
+   Hampton Court, Royal Collections, n° inv RCIN 405780 ; Bening Simon,
+   Autoportrait, tempera sur parchemin, 8,6 x 5,7 cm, 1558, New York, MET,
+   n° inv 1975.1.2487 ; et en miniature Portrait présumé de l’artiste,
+   gouache sur vélin, 9 x 7 cm, 2^e quart du xvi^e siècle, Paris, Musée du
+   Louvre, n° inv RF 3925.
+
+   15 Furetière Antoine, Dictionnaire universel, Paris, 1690.
+
+   16 Érasme, La Civilité puérile, traduit de : De Civilitate morum
+   puerilium et précédé d’une notice sur les livres de civilité depuis le
+   xvi^e siècle par Alcide Bonneau ; présenté par Philippe Ariès, Paris,
+   Ramsay, 1977, p. 96-97.
+
+   17 Ibid., p. 60.
+
+   18 Ibid.
+
+   19 Cf. Ronsard Pierre de, « Tombeau de Marguerite de France », in
+   Œuvres complètes, t. II, édition établie, présentée et annotée par Jean
    Céard, Daniel Ménager et Michel Simonin, Paris, Gallimard
    « Bibliothèque de la Pléiade », 1994, p. 482. « Ce Roy d’Escosse estoit
    en la fleur de ses ans : ses cheveux non tondus, comme fin or luisans,
@@ -678,7 +947,59 @@ Notes de bas de page
    vous me chassez. »
 
    21 Érasme, « Institution du Prince », in Patrice François, e l’Estat et
---
+   maniement de la chose publique…, trad. fr. M. Jean Le Blond, Paris, C.
+   Micard, 1584, p. 179.
+
+   22 La publication des joustes publiées à Paris à la table de marbre par
+   Montjoye, premier d’armes du roy de France, [Paris], 1515, (BnF cote
+   R7558).
+
+   23 Bouchet Jean, Le Jugement poétic de l’honneur fémenin et séjour des
+   illustres, claires et honnestes dames par le Traverseur, Poitiers,
+   Jehan et Enguilbert deMarnef, frères, 1538. Rééd. Le jugement poetic de
+   l’honneur femenin, édition critique par Adrian Armstrong, in Œuvres
+   complètes, Paris, H. Champion, 2006. « À la monarchale majesté de très
+   illustre…François I^er » : « Vous plaise donc impérieux monarque /
+   Giter vos yeux sur moy tant humble marque ».
+
+   24 Patrice François, op. cit., p. 243.
+
+   25 Cf. Ronsard, « Le bocage royal », in Œuvres complètes, op. cit., t.
+   I, p. 911-912 : « Bien meilleure est souvent la médiocre vie, / Sans
+   pompe, sans honneur, sans embusche d’envie, / Que de vouloir passer en
+   grandeur le commun, / Pour se faire la fable et le ris d’un chacun, /
+   Et en pensant siller tous les Argus de France, / Eux-mesmes s’aveugler
+   en leur propre ignorance. »
+
+   26 « […] de sorte qu’on vous peut (non a tort) nommer l’œil des
+   Princes, et le père du pays, et l’amateur de paix, dont la louange ne
+   peut estre par mettres poétiques, ne par Annalles célébrée, mais par le
+   jugement des prudens remémorée et perpétuée » (Bouchet Jean, Les
+   Généalogies, effigies et épitaphes des Roys de France, récentement
+   reveues et corrigées… avecque plusieurs aultres opuscules…, Poitiers,
+   J. Bouchet et J. et E. de Marnef frères, 1545. dédicace « A
+   tresillustre et reverendissime seigneur Anthoine du Prat »).
+
+   27 Ronsard, « A Monsieur Brulard, secrétaire des Commandemens » pièce
+   retranchée des Élégies, églogues et mascarades, Œuvres complètes, op.
+   cit., t. II, p. 912 : « Votre vertu et faveur ne font qu’une, /Vous
+   eslevant au rang des Demy-Dieux / De nostre France, où d’un œil
+   soucieux /Vous surmontez l’envie et la rancune ».
+
+   28 Chappuys Claude, Discours de la Cour, présenté au Roy, Paris, André
+   Roffet, 1543, p. 12.
+
+   29 Cité par Moreau-Nélaton Étienne, Le Portrait en France à la cour des
+   Valois. Crayons français conservés dans la collection de M. G. Salting
+   à Londres, Paris, s.d., p. 21.
+
+   30 Cf. par exemple le recueil Méjanes de la bibliothèque du même nom, à
+   Aix-en-Provence.
+
+   31 « Ainsi, à mon avis personnel, il n’est pas de plus grande preuve de
+   réussite pour un individu que celle-ci : voir tout le monde avide de
+   connaître quel aspect il a présenté » (Pline l’Ancien, Histoire
+   naturelle, XXXV, II, p. 10).
 
    32 On peut conserver à l’esprit la formule employée par Ronsard dans
    son « Discours à Loys des Masures », op. cit., t. II, p. 570, à propos
@@ -693,7 +1014,8 @@ Notes de bas de page
 
    34 Budé Guillaume, Institution du prince, cité par Bontems Claude
    (dir.), Le Prince dans la France des xvi^e et xvii^e siècles, Paris,
---
+   PUF, 1965, p. 83.
+
    35 Pontaymeri Alexandre de, L’Académie ou institution de la noblesse
    française, ou toutes les vertus requises à un seigneur de marque sont
    déduites, avec une curieuse recherche des plus belles et riches
@@ -703,7 +1025,31 @@ Notes de bas de page
    s’efforcent de simpathiser aux louables conditions d’un Gentihomme de
    marque, que le peuple suit de l’esprit, en sa manière de vivre, de
    l’œil en son maintien, et de courage à la guerre » (Paris, 1649, f. 27
---
+   v°).
+
+   36 Boutier Jean et al., Un tour de France royal. Le voyage de Charles
+   IX (1564-1566), Paris, Aubier, 1984.
+
+   37 Ronsard, « Le premier livre des poèmes », in Œuvres complètes, op.
+   cit., t. II, p. 298.
+
+   38 Cf. Ronsard, « Discours contre Fortune », in Œuvres complètes, op.
+   cit., p. 402, à propos de son séjour à la cour : « J’appris à des
+   guiser le naïf de ma face. »
+
+   39 Cf. Machiavel Nicolas, « Rapports sur les choses de la France », in
+   Œuvres complètes, introduction par Jean Giono ; texte présenté et
+   annoté par Edmond Barincou, Paris, Gallimard, Bibliothèque de la
+   Pléiade, 1992, p. 142-43 : les « populations de la France […]
+   s’habillent grossièrement, d’étoffes à bon marché, sans faire jamais
+   usage d’aucune espèce de soie, ni les hommes ni les femmes pour ne pas
+   se faire remarquer par les nobles ».
+
+   40 Cf. Tommaseo Niccolò, Les Relations des ambassadeurs vénétiens sur
+   les affaires de France, t. I, Paris, Imprimerie royale, 1838, p. 279.
+
+   41 Cf. Campbell Lorne, Portraits de la Renaissance : la peinture des
+   portraits en Europe aux xiv^e, xv^e et xvi^e siècles, préface d’Yves
    Bonnefoy ; traduit de l’anglais par Dominique Le Bourg, Paris, Hazan,
    1991.
 
@@ -713,7 +1059,31 @@ Notes de bas de page
    consolation à ceux qui sont moins bien partagés de la fortune, de
    pouvoir se considérer eux-mêmes sans trop de déplaisir. »
 
---
+   43 Nous renvoyons à Jollet Étienne, Jean & François Clouet,
+   iconographie d’Isabelle d’Haute-ville et Corinne Point, Paris, Lagune,
+   1997.
+
+   44 Cf. Decrue de Stoutz Francis, La Cour de France et la société au
+   xvi^e siècle, Paris, Firmin- Didot, 1888, p. 25.
+
+   45 Guevara Antonio de, L’Horloge des princes, trad. fr. par R.
+   Berthault de La Grise, Paris, G. Du Pré, 1540, L. III, ch. 26 :
+   « Monstre toy grave avec les plus grans, et plus communicable avec les
+   petits ».
+
+   46 Cf. par exemple Major James Russel, « Bastard Feodalism and the
+   Kiss : Changing Social Mores in Late Medieval and Early Modern
+   France », in The Monarchy, the Estates and the Aristocracy in
+   Renaissance France, Londres, Variorum Reprints, 1988, p. 509-535.
+
+   47 Hall Edward Twitchell, La Dimension cachée (traduit de l’américain
+   par Amélie Petita), Paris, Éditions du Seuil, 1971.
+
+   48 Nagle Jean, La Civilisation du cœur, histoire du sentiment politique
+   en France, du xii^e au xix^e siècle, Paris, Fayard, 1998.
+
+   49 Dans « La Charite » de Ronsard (op. cit., t. I, p. 346), « Vénus dit
+   à l’Amour : As-tu point veu là-bas quelque beauté / (Ton œil voit tout)
    qui la mienne surpasse ? »
 
    50 Cf. surtout Cassandre CCXIV : « Je sens portraits dedans ma
@@ -723,7 +1093,18 @@ Notes de bas de page
    mon cœur le tien me demourra, / Pour estre vif après ma sépulture ».
 
    51 Ainsi, pour les Amours : les poèmes CIII, CIV, CXXII, CXXXIV,
---
+   CXXXVIII, CXLVI, CLVII, CLXIII, CLXXXIII, CLXXXIX, CXCI, CXCVIII,
+   CCVII, CCXV, CCXXV, CCXXVII.
+
+   52 Le type est suffisamment connu pour qu’il puisse devenir, comme chez
+   Ronsard (Premier livre des poèmes, « À Marie Stuart », op. cit., t. II,
+   p. 295), un procédé littéraire : « Droit au davant de vostre
+   portraiture / J’ay mis d’un Roy l’excellente peinture / […] On jugeroit
+   qu’il contemple vos yeux / Doux, beaux, courtois, plaisans,
+   délicieux ».
+
+   53 Arbeau Thoinot (Jean Tabourot), Orchésographie et traicté en forme
+   de dialogue, par lequel toutes personnes peuvent facilement apprendre
    et practiquer l’honneste exercice des dances, Lengres, J. Des Preyz,
    1588, p. 281.
 
@@ -733,7 +1114,54 @@ Notes de bas de page
    françoises des xv^e et xvi^e siècles morales, facétieuses, historiques
    réunies et annotées, t. VII, Paris, P. Jannet, A. Franck, P. Daffis,
    « Bibliothèque Elzévirienne », 1855-1878, p. 287.
---
+
+   55 Clouet François, Le Bain de Diane, huile sur bois, 136 x 196,5 cm,
+   vers 1565, ancienne collection du cardinal Joseph Fesch, Musée des
+   Beaux-Arts, Rouen, n° inv. 846.1.
+
+   56 Cf. Delaune Étienne, Diane métamorphosant Actéon en cerf, BnF,
+   Département des Estampes, Ed 4. MIGNON Jean, Diane et Actéon, même
+   localisation, Ed 13. a. Rés ; cf. le Catalogue des actes de François
+   I^er, 10 vol., vol. VII (2^e Supplément, Actes non datés), 28804,
+   Paris, Impr. Nationale, 1887- 1908 : Matteo del Nassaro est payé 415
+   écus soleil « en payement de deux pièces de tapisserie d’or et de soie
+   à verdure et petis personnages, représentant les histoires d’Actéon et
+   Orphée ».
+
+   57 C’est l’hypothèse de Reinach Salomon, « Un portrait de Diane de
+   Poitiers », in Gazette des Beaux-Arts, 1920, II, p. 157-180 et 249-66.
+
+   58 Trinquet Roger, « “Le bain de Diane” du musée de Rouen. Nouvel essai
+   d’interprétation », in Gazette des Beaux-Arts, t. 71, 1968, p. 1-16.
+   Les hypothèses de Roger Trinquet à ce sujet, les plus fouillées, ont
+   été fortement remises en cause, notamment par Henri Zerner
+   (communication orale).
+
+   59 Bardon Françoise, Diane de Poitiers et le mythe de Diane, Paris,
+   PUF, 1963, p. 100-101 : « Aucun portrait d’Henri jeune ne se rapproche
+   de cette figure, mais elle le désigne. »
+
+   60 Cf. Bardon Françoise, Le Portrait mythologique à la cour de France
+   sous Henri IV et Louis XIII : mythologie et politique, Paris, A. et J.
+   Picard, 1974.
+
+   61 Froning Hubertus, Die Entstehung und Entwicklung des stehenden
+   Ganzfiguren Porträts in der Tafelmalerei des 16. Jahrhunderts : eine
+   formalgeschichtliche Untersuchung, Würzbourg, Univ., Philos. Fak.,
+   Diss., 1974.
+
+   62 Cf. Riegl Alois, Das holländische Gruppenporträt (1902), Wien,
+   Staatsdruckerei, 1931, rééd. fr. Le Portrait de groupe hollandais, avec
+   une préface d’Étienne Jollet ; traduit de l’allemand par Étienne Jollet
+   et Aurélie Duthoo, Paris, Hazan, 2008.
+
+   63 Burckhardt Jacob, Civilisation de la Renaissance en Italie, trad. H.
+   Schmitt, revue et corrigée par R. Klein ; 3 vol., Paris, Librairie
+   Générale Française, 1994.
+
+Auteur
+
+     * Étienne Jollet
 
    Naviguer dans le livre
 
@@ -743,7 +1171,68 @@ Notes de bas de page
 
    Table des matières
      __________________________________________________________________
---
+
+   Le texte seul est utilisable sous licence Licence OpenEdition Books.
+   Les autres éléments (illustrations, fichiers annexes importés) sont
+   « Tous droits réservés », sauf mention contraire.
+   (BUTTON)
+
+Dans la même collection
+
+   Voir plus de livres
+   Visage et portrait, visage ou portrait
+
+Visage et portrait, visage ou portrait
+
+   Fabrice Flahutez, Itzhak Goldberg et Panayota Volti (dir.)
+
+   2010
+   Marcel Duchamp, artiste androgyne
+
+Marcel Duchamp, artiste androgyne
+
+   Yiannis Toumazis
+
+   2013
+   Voir plus de livres
+
+   (BUTTON)
+   1 / 2
+   (BUTTON)
+   Visage et portrait, visage ou portrait
+
+Visage et portrait, visage ou portrait
+
+   Fabrice Flahutez, Itzhak Goldberg et Panayota Volti (dir.)
+
+   2010
+   Marcel Duchamp, artiste androgyne
+
+Marcel Duchamp, artiste androgyne
+
+   Yiannis Toumazis
+
+   2013
+   Accès ouvert
+
+   Accès ouvert freemium
+
+   ePub
+
+   PDF
+
+   PDF du chapitre
+   Suggérer l’acquisition à votre bibliothèque
+
+   Acheter
+
+   Édition imprimée
+     * amazon.fr
+     * decitre.fr
+     * mollat.com
+     * leslibraires.fr
+     * placedeslibraires.fr
+     * lcdpu.fr
 
    ePub / PDF
 
@@ -753,7 +1242,14 @@ Notes de bas de page
    XIV, Actes du colloque, Paris, Centre allemand d’histoire de l’art,
    juin 2002, Thomas W. Gaehtgens et Nicole Hochner (dir.), Paris,
    Éditions de la Maison des sciences de l’homme, 2006, p. 343-358.
---
+
+   2 Cf. Simons Patricia, « Women in Frames : the Gaze, the Eye, the
+   Profile in Renaissance Portraiture », in Norma Broude et Mary D.
+   Garrard (dir.), Expanding Discourse : Feminism and Art History, New
+   York, Icon Editions, 1992, p. 38-57 ; BECKER J., « Der Blick auf den
+   Betrachter. Mehrdeutigkeit als Gestaltungsprinzip niederländischer
+   Kunst des 17. Jahrhunderts », in L’Art et les révolutions. Section 7,
+   XXVII^e congrès international de l’histoire de l’art, Strasbourg, 1-7
    septembre 1989, organisé par le Comité international d’histoire de
    l’art, Comité français d’histoire de l’art, Strasbourg, Société
    alsacienne pour le développement de l’histoire de l’art, 1992, p.
@@ -764,7 +1260,26 @@ Notes de bas de page
    and Archeology, 1984, vol. 1, p. 173-191.
 
    3 Jean Clouet, né en 1480 à Bruxelles, mort en 1541 à Paris et François
---
+   Clouet né en 1515 à Tours, mort en 1572 à Paris.
+
+   4 François Clouet (peut-être exécuté avec la collaboration de),
+   François I^er, huile sur chêne, 96 x 74 cm, 1525-1545, Paris, musée du
+   Louvre, n° inv 3256.
+
+   5 On les retrouve dans le portrait en pied des Offices.
+
+   6 Cf. les commentaires en ce sens de G. Künstler, « Vom Entstehen des
+   Einzelbildnisses und seiner frühen Entwicklung in der flämischen
+   Malerei », Wiener Jahrbuch für Kunstgeschichte, XXVII, 1974, p. 20-64.
+
+   7 Eyck Jan Van, L’Homme au turban rouge (Portrait of a Man), huile sur
+   toile, 26 x 19 cm, 1433, The National Gallery, Londres, n° inv NG 222.
+
+   8 Eyck Jan Van, Portrait de Margareta van Eyck, huile sur bois, 41, 2 x
+   34,6 cm, 1439, Bruges, Groeningemuseum.
+
+   9 Eyck Jan Van, Portrait de Jan de Leeuw, huile sur bois, 24,5 x 19 cm,
+   1436, Vienne, Kunsthistorisches Museum.
 
    10 Cf. pour l’Allemagne du xv^e siècle l’ouvrage de Buchner Ernst, Das
    deutsche Bildnis der Spätgotik und der frühen Dürerzeit, Berlin, Dt.
@@ -774,7 +1289,37 @@ Notes de bas de page
    11 L’Italie constitue en l’occurrence un cas à part. Cf. Alazard Jean,
    Le Portrait florentin de Botticelli à Bronzino, Paris, Henri Laurens,
    1924.
---
+
+   12 Lipman Jean, « The florentine profil portraits in the
+   Quattrocento », in Art Bulletin, 1936, XVIII, n° 1, p. 54-102.
+
+   13 Friedlander Max J., Landscape Portrait Still-Life ; their origin and
+   development, Oxford, B. Cassirer, 1949.
+
+   14 Cf. par exemple Vermeyen Jan, Portrait d’homme, Palais Pitti,
+   Florence ; Scorel Jan Van, Portrait d’un pèlerin, huile sur panneau de
+   masonite (transféré depuis sur un panneau de bois), 92,7 x 84,8 x 7,6
+   cm, 1530-1540, Detroit Institute of Arts ; Cleve Van Joos,
+   Autoportrait, huile sur panneau, 65 x 50,8 cm, 1530-1535, Londres,
+   Hampton Court, Royal Collections, n° inv RCIN 405780 ; Bening Simon,
+   Autoportrait, tempera sur parchemin, 8,6 x 5,7 cm, 1558, New York, MET,
+   n° inv 1975.1.2487 ; et en miniature Portrait présumé de l’artiste,
+   gouache sur vélin, 9 x 7 cm, 2^e quart du xvi^e siècle, Paris, Musée du
+   Louvre, n° inv RF 3925.
+
+   15 Furetière Antoine, Dictionnaire universel, Paris, 1690.
+
+   16 Érasme, La Civilité puérile, traduit de : De Civilitate morum
+   puerilium et précédé d’une notice sur les livres de civilité depuis le
+   xvi^e siècle par Alcide Bonneau ; présenté par Philippe Ariès, Paris,
+   Ramsay, 1977, p. 96-97.
+
+   17 Ibid., p. 60.
+
+   18 Ibid.
+
+   19 Cf. Ronsard Pierre de, « Tombeau de Marguerite de France », in
+   Œuvres complètes, t. II, édition établie, présentée et annotée par Jean
    Céard, Daniel Ménager et Michel Simonin, Paris, Gallimard
    « Bibliothèque de la Pléiade », 1994, p. 482. « Ce Roy d’Escosse estoit
    en la fleur de ses ans : ses cheveux non tondus, comme fin or luisans,
@@ -790,7 +1335,59 @@ Notes de bas de page
    vous me chassez. »
 
    21 Érasme, « Institution du Prince », in Patrice François, e l’Estat et
---
+   maniement de la chose publique…, trad. fr. M. Jean Le Blond, Paris, C.
+   Micard, 1584, p. 179.
+
+   22 La publication des joustes publiées à Paris à la table de marbre par
+   Montjoye, premier d’armes du roy de France, [Paris], 1515, (BnF cote
+   R7558).
+
+   23 Bouchet Jean, Le Jugement poétic de l’honneur fémenin et séjour des
+   illustres, claires et honnestes dames par le Traverseur, Poitiers,
+   Jehan et Enguilbert deMarnef, frères, 1538. Rééd. Le jugement poetic de
+   l’honneur femenin, édition critique par Adrian Armstrong, in Œuvres
+   complètes, Paris, H. Champion, 2006. « À la monarchale majesté de très
+   illustre…François I^er » : « Vous plaise donc impérieux monarque /
+   Giter vos yeux sur moy tant humble marque ».
+
+   24 Patrice François, op. cit., p. 243.
+
+   25 Cf. Ronsard, « Le bocage royal », in Œuvres complètes, op. cit., t.
+   I, p. 911-912 : « Bien meilleure est souvent la médiocre vie, / Sans
+   pompe, sans honneur, sans embusche d’envie, / Que de vouloir passer en
+   grandeur le commun, / Pour se faire la fable et le ris d’un chacun, /
+   Et en pensant siller tous les Argus de France, / Eux-mesmes s’aveugler
+   en leur propre ignorance. »
+
+   26 « […] de sorte qu’on vous peut (non a tort) nommer l’œil des
+   Princes, et le père du pays, et l’amateur de paix, dont la louange ne
+   peut estre par mettres poétiques, ne par Annalles célébrée, mais par le
+   jugement des prudens remémorée et perpétuée » (Bouchet Jean, Les
+   Généalogies, effigies et épitaphes des Roys de France, récentement
+   reveues et corrigées… avecque plusieurs aultres opuscules…, Poitiers,
+   J. Bouchet et J. et E. de Marnef frères, 1545. dédicace « A
+   tresillustre et reverendissime seigneur Anthoine du Prat »).
+
+   27 Ronsard, « A Monsieur Brulard, secrétaire des Commandemens » pièce
+   retranchée des Élégies, églogues et mascarades, Œuvres complètes, op.
+   cit., t. II, p. 912 : « Votre vertu et faveur ne font qu’une, /Vous
+   eslevant au rang des Demy-Dieux / De nostre France, où d’un œil
+   soucieux /Vous surmontez l’envie et la rancune ».
+
+   28 Chappuys Claude, Discours de la Cour, présenté au Roy, Paris, André
+   Roffet, 1543, p. 12.
+
+   29 Cité par Moreau-Nélaton Étienne, Le Portrait en France à la cour des
+   Valois. Crayons français conservés dans la collection de M. G. Salting
+   à Londres, Paris, s.d., p. 21.
+
+   30 Cf. par exemple le recueil Méjanes de la bibliothèque du même nom, à
+   Aix-en-Provence.
+
+   31 « Ainsi, à mon avis personnel, il n’est pas de plus grande preuve de
+   réussite pour un individu que celle-ci : voir tout le monde avide de
+   connaître quel aspect il a présenté » (Pline l’Ancien, Histoire
+   naturelle, XXXV, II, p. 10).
 
    32 On peut conserver à l’esprit la formule employée par Ronsard dans
    son « Discours à Loys des Masures », op. cit., t. II, p. 570, à propos
@@ -805,7 +1402,8 @@ Notes de bas de page
 
    34 Budé Guillaume, Institution du prince, cité par Bontems Claude
    (dir.), Le Prince dans la France des xvi^e et xvii^e siècles, Paris,
---
+   PUF, 1965, p. 83.
+
    35 Pontaymeri Alexandre de, L’Académie ou institution de la noblesse
    française, ou toutes les vertus requises à un seigneur de marque sont
    déduites, avec une curieuse recherche des plus belles et riches
@@ -815,7 +1413,31 @@ Notes de bas de page
    s’efforcent de simpathiser aux louables conditions d’un Gentihomme de
    marque, que le peuple suit de l’esprit, en sa manière de vivre, de
    l’œil en son maintien, et de courage à la guerre » (Paris, 1649, f. 27
---
+   v°).
+
+   36 Boutier Jean et al., Un tour de France royal. Le voyage de Charles
+   IX (1564-1566), Paris, Aubier, 1984.
+
+   37 Ronsard, « Le premier livre des poèmes », in Œuvres complètes, op.
+   cit., t. II, p. 298.
+
+   38 Cf. Ronsard, « Discours contre Fortune », in Œuvres complètes, op.
+   cit., p. 402, à propos de son séjour à la cour : « J’appris à des
+   guiser le naïf de ma face. »
+
+   39 Cf. Machiavel Nicolas, « Rapports sur les choses de la France », in
+   Œuvres complètes, introduction par Jean Giono ; texte présenté et
+   annoté par Edmond Barincou, Paris, Gallimard, Bibliothèque de la
+   Pléiade, 1992, p. 142-43 : les « populations de la France […]
+   s’habillent grossièrement, d’étoffes à bon marché, sans faire jamais
+   usage d’aucune espèce de soie, ni les hommes ni les femmes pour ne pas
+   se faire remarquer par les nobles ».
+
+   40 Cf. Tommaseo Niccolò, Les Relations des ambassadeurs vénétiens sur
+   les affaires de France, t. I, Paris, Imprimerie royale, 1838, p. 279.
+
+   41 Cf. Campbell Lorne, Portraits de la Renaissance : la peinture des
+   portraits en Europe aux xiv^e, xv^e et xvi^e siècles, préface d’Yves
    Bonnefoy ; traduit de l’anglais par Dominique Le Bourg, Paris, Hazan,
    1991.
 
@@ -825,7 +1447,31 @@ Notes de bas de page
    consolation à ceux qui sont moins bien partagés de la fortune, de
    pouvoir se considérer eux-mêmes sans trop de déplaisir. »
 
---
+   43 Nous renvoyons à Jollet Étienne, Jean & François Clouet,
+   iconographie d’Isabelle d’Haute-ville et Corinne Point, Paris, Lagune,
+   1997.
+
+   44 Cf. Decrue de Stoutz Francis, La Cour de France et la société au
+   xvi^e siècle, Paris, Firmin- Didot, 1888, p. 25.
+
+   45 Guevara Antonio de, L’Horloge des princes, trad. fr. par R.
+   Berthault de La Grise, Paris, G. Du Pré, 1540, L. III, ch. 26 :
+   « Monstre toy grave avec les plus grans, et plus communicable avec les
+   petits ».
+
+   46 Cf. par exemple Major James Russel, « Bastard Feodalism and the
+   Kiss : Changing Social Mores in Late Medieval and Early Modern
+   France », in The Monarchy, the Estates and the Aristocracy in
+   Renaissance France, Londres, Variorum Reprints, 1988, p. 509-535.
+
+   47 Hall Edward Twitchell, La Dimension cachée (traduit de l’américain
+   par Amélie Petita), Paris, Éditions du Seuil, 1971.
+
+   48 Nagle Jean, La Civilisation du cœur, histoire du sentiment politique
+   en France, du xii^e au xix^e siècle, Paris, Fayard, 1998.
+
+   49 Dans « La Charite » de Ronsard (op. cit., t. I, p. 346), « Vénus dit
+   à l’Amour : As-tu point veu là-bas quelque beauté / (Ton œil voit tout)
    qui la mienne surpasse ? »
 
    50 Cf. surtout Cassandre CCXIV : « Je sens portraits dedans ma
@@ -835,7 +1481,18 @@ Notes de bas de page
    mon cœur le tien me demourra, / Pour estre vif après ma sépulture ».
 
    51 Ainsi, pour les Amours : les poèmes CIII, CIV, CXXII, CXXXIV,
---
+   CXXXVIII, CXLVI, CLVII, CLXIII, CLXXXIII, CLXXXIX, CXCI, CXCVIII,
+   CCVII, CCXV, CCXXV, CCXXVII.
+
+   52 Le type est suffisamment connu pour qu’il puisse devenir, comme chez
+   Ronsard (Premier livre des poèmes, « À Marie Stuart », op. cit., t. II,
+   p. 295), un procédé littéraire : « Droit au davant de vostre
+   portraiture / J’ay mis d’un Roy l’excellente peinture / […] On jugeroit
+   qu’il contemple vos yeux / Doux, beaux, courtois, plaisans,
+   délicieux ».
+
+   53 Arbeau Thoinot (Jean Tabourot), Orchésographie et traicté en forme
+   de dialogue, par lequel toutes personnes peuvent facilement apprendre
    et practiquer l’honneste exercice des dances, Lengres, J. Des Preyz,
    1588, p. 281.
 
@@ -845,7 +1502,105 @@ Notes de bas de page
    françoises des xv^e et xvi^e siècles morales, facétieuses, historiques
    réunies et annotées, t. VII, Paris, P. Jannet, A. Franck, P. Daffis,
    « Bibliothèque Elzévirienne », 1855-1878, p. 287.
---
+
+   55 Clouet François, Le Bain de Diane, huile sur bois, 136 x 196,5 cm,
+   vers 1565, ancienne collection du cardinal Joseph Fesch, Musée des
+   Beaux-Arts, Rouen, n° inv. 846.1.
+
+   56 Cf. Delaune Étienne, Diane métamorphosant Actéon en cerf, BnF,
+   Département des Estampes, Ed 4. MIGNON Jean, Diane et Actéon, même
+   localisation, Ed 13. a. Rés ; cf. le Catalogue des actes de François
+   I^er, 10 vol., vol. VII (2^e Supplément, Actes non datés), 28804,
+   Paris, Impr. Nationale, 1887- 1908 : Matteo del Nassaro est payé 415
+   écus soleil « en payement de deux pièces de tapisserie d’or et de soie
+   à verdure et petis personnages, représentant les histoires d’Actéon et
+   Orphée ».
+
+   57 C’est l’hypothèse de Reinach Salomon, « Un portrait de Diane de
+   Poitiers », in Gazette des Beaux-Arts, 1920, II, p. 157-180 et 249-66.
+
+   58 Trinquet Roger, « “Le bain de Diane” du musée de Rouen. Nouvel essai
+   d’interprétation », in Gazette des Beaux-Arts, t. 71, 1968, p. 1-16.
+   Les hypothèses de Roger Trinquet à ce sujet, les plus fouillées, ont
+   été fortement remises en cause, notamment par Henri Zerner
+   (communication orale).
+
+   59 Bardon Françoise, Diane de Poitiers et le mythe de Diane, Paris,
+   PUF, 1963, p. 100-101 : « Aucun portrait d’Henri jeune ne se rapproche
+   de cette figure, mais elle le désigne. »
+
+   60 Cf. Bardon Françoise, Le Portrait mythologique à la cour de France
+   sous Henri IV et Louis XIII : mythologie et politique, Paris, A. et J.
+   Picard, 1974.
+
+   61 Froning Hubertus, Die Entstehung und Entwicklung des stehenden
+   Ganzfiguren Porträts in der Tafelmalerei des 16. Jahrhunderts : eine
+   formalgeschichtliche Untersuchung, Würzbourg, Univ., Philos. Fak.,
+   Diss., 1974.
+
+   62 Cf. Riegl Alois, Das holländische Gruppenporträt (1902), Wien,
+   Staatsdruckerei, 1931, rééd. fr. Le Portrait de groupe hollandais, avec
+   une préface d’Étienne Jollet ; traduit de l’allemand par Étienne Jollet
+   et Aurélie Duthoo, Paris, Hazan, 2008.
+
+   63 Burckhardt Jacob, Civilisation de la Renaissance en Italie, trad. H.
+   Schmitt, revue et corrigée par R. Klein ; 3 vol., Paris, Librairie
+   Générale Française, 1994.
+
+Visage et portrait, visage ou portrait
+
+   (BUTTON)
+   (BUTTON) Partager l’URL (BUTTON) Intégrer
+   ____________________ (BUTTON) Copier
+   X Facebook Email
+   Choisir la taille de l’intégration [Petit (500x375 px).]
+   Collez le code HTML suivant pour intégrer ce contenu sur votre site.
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Copier
+
+   Visage et portrait, visage ou portrait
+   (BUTTON)
+
+   Ce livre est diffusé en accès ouvert freemium. L’accès à la lecture en
+   ligne est disponible. L’accès aux versions PDF et ePub est réservé aux
+   bibliothèques l’ayant acquis. Vous pouvez vous connecter à votre
+   bibliothèque à l’adresse suivante :
+   https://freemium.openedition.org/oebooks
+   Suggérer l’acquisition à votre bibliothèque Acheter ce livre aux
+   formats PDF et ePub
+
+   Si vous avez des questions, vous pouvez nous écrire à
+   access[at]openedition.org
+
+Visage et portrait, visage ou portrait
+
+   (BUTTON)
+
+   Vérifiez si votre bibliothèque a déjà acquis ce livre :
+   authentifiez-vous à OpenEdition Freemium for Books.
+   Vous pouvez suggérer à votre bibliothèque d’acquérir un ou plusieurs
+   livres publiés sur OpenEdition Books. N’hésitez pas à lui indiquer nos
+   coordonnées : access[at]openedition.org
+   Vous pouvez également nous indiquer, à l’aide du formulaire suivant,
+   les coordonnées de votre bibliothèque afin que nous la contactions pour
+   lui suggérer l’achat de ce livre. Les champs suivis de (*) sont
+   obligatoires.
+   Votre nom (*) ____________________
+   Votre affiliation ____________________
+   Votre email sous la forme nom@domaine.fr (*) ____________________
+   Nom de la bibliothèque ____________________
+   Email de la bibliothèque (*) ____________________
+   (BUTTON) Envoyer
+
+   Veuillez, s’il vous plaît, remplir tous les champs.
+
+   La syntaxe de l’email est incorrecte.
+
+Référence numérique du chapitre
+
    (BUTTON)
 
    Format
@@ -863,3 +1618,66 @@ Notes de bas de page
    Flahutez et al., Presses universitaires de Paris Nanterre, 2010,
    https://doi.org/10.4000/books.pupo.958.
 
+Référence numérique du livre
+
+   Format
+   (BUTTON) APA (BUTTON) Chicago (BUTTON) MLA
+   Flahutez, F., Goldberg, I., & Volti, P. (éds.). (2010). Visage et
+   portrait, visage ou portrait. Nanterre: Presses universitaires de Paris
+   Nanterre. https://doi.org/10.4000/books.pupo.936
+   Flahutez, Fabrice, Itzhak Goldberg, et Panayota Volti, éd. Visage et
+   portrait, visage ou portrait. Nanterre: Presses universitaires de Paris
+   Nanterre, 2010. doi:10.4000/books.pupo.936.
+   Flahutez, Fabrice, et al., éditeurs. Visage et portrait, visage ou
+   portrait. Presses universitaires de Paris Nanterre, 2010,
+   https://doi.org/10.4000/books.pupo.936.
+   Compatible avec Zotero Zotero
+
+   1 / 3
+   (BUTTON)
+
+   (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON)
+
+   Presses universitaires de Paris Nanterre
+
+Presses universitaires de Paris Nanterre
+
+     * Mentions légales
+     * Plan du site
+     * Se connecter
+
+Suivez-nous
+
+     * Facebook
+     * LinkedIn
+     * Instagram
+     * X
+     * Flux RSS
+
+   URL : http://presses.parisnanterre.fr
+
+   Email : lpatarit@parisnanterre.fr
+
+   Adresse :
+
+   200 avenue de la République
+
+   Bat A bureau 320
+
+   92001
+
+   Nanterre
+
+   France
+   OpenEdition
+     * Candidater à OpenEdition Books
+     * Connaître le programme OpenEdition Freemium
+     * Commander des livres
+     * S’abonner à la lettre d’OpenEdition
+     * CGU d’OpenEdition Books
+
+     * Accessibilité : partiellement conforme
+     * Données personnelles
+     * Gestion des cookies
+     * Système de signalement

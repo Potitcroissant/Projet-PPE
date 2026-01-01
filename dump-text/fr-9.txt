@@ -1,3 +1,40 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
 
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
@@ -24,7 +61,58 @@ Regard (sciences sociales)
    [ ] 12 langues
      * العربية
      * অসমীয়া
---
+     * English
+     * Español
+     * فارسی
+     * Suomi
+     * 日本語
+     * 한국어
+     * Македонски
+     * Português
+     * தமிழ்
+     * 中文
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikiquote
+     * Élément Wikidata
+
+   Apparence
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
    Un article de Wikipédia, l'encyclopédie libre.
    Page d’aide sur l’homonymie
@@ -120,7 +208,13 @@ Le regard masculin
    films pour la BBC diffusée en janvier 1972, puis un livre, dans le
    cadre de son analyse du traitement du nu dans Peinture européenne. Il
    est rapidement devenu populaire parmi les féministes, dont la critique
---
+   de cinéma britannique Laura Mulvey, qui l'a utilisé pour critiquer les
+   représentations médiatiques traditionnelles du personnage féminin au
+   cinéma^[6].
+
+   Dans son essai de 1975, Plaisir visuel et cinéma narratif, Mulvey a
+   déclaré que les femmes étaient objectivées dans le film parce que les
+   hommes hétérosexuels contrôlaient la caméra. Les films hollywoodiens
    jouaient les modèles du voyeurisme et de la scopophilie^[7]. Le concept
    a par la suite exercé une influence sur la théorie du cinéma féministe
    et les études médiatiques^[8].
@@ -211,7 +305,14 @@ Le regard du touriste masculin
    différents agences de production médiatiques. Grâce à ces influences,
    les caractéristiques féminines telles que la jeunesse, la beauté, la
    sexualité ou la possession d'un homme sont souhaitables, tandis que la
---
+   prévalence des stéréotypes consistant en des femmes soumises et
+   sensuelles avec des hommes "machos" puissants dans la publicité est
+   projetée^[21].
+
+Notes et références
+
+   [modifier | modifier le code]
+     * (en) Cet article est partiellement ou en totalité issu de l’article
        de Wikipédia en anglais intitulé « Gaze » (voir la liste des
        auteurs).
 
@@ -224,7 +325,58 @@ Le regard du touriste masculin
     3. ↑ Jonathan Schroeder, Representing Consumers: Voices, Views and
        Visions, New York, Routledge, 1998, 208 p. (ISBN 978-0415184144),
        « Consuming Representation: A Visual Approach to Consumer
---
+       Research ».
+    4. ↑ Sturken, Marita; Cartwright, Lisa. Practices of Looking: An
+       Introduction to Visual Culture. Oxford University Press, 2009. p.
+       94, 103.
+    5. ↑ Sturken, Marita; Cartwright, Lisa. Practices of Looking: An
+       Introduction to Visual Culture. Oxford University Press, 2009. pp.
+       106-108.
+    6. ↑ A Companion to Women in the Ancient World, edited by Sharon L.
+       James, Sheila Dillon, p. 75, 2012, Wiley (ISBN 1444355007).
+    7. ↑ Sturken, Marita and Lisa Cartwright. Practices of Looking: an
+       introduction to visual culture. Oxford University Press, 2001. p.
+       76.
+    8. ↑ Sassatelli, Roberta. Interview with Laura Mulvey: Gender, Gaze
+       and Technology in Film Culture. Theory, Culture & Society,
+       September 2011, 28(5) p. 127.
+    9. ↑ ^a et b bell hooks, The Feminism and Visual Cultural Reader, New
+       York: Routledge, 2003, Amelia Jones, 94–105 p., « The Oppositional
+       Gaze: Black Female Spectator ».
+   10. ↑ Laura Mulvey, Media and Cultural Studies: Keywords, 2001; Malden,
+       MA: Blackwell, 2006, Meenakshi Gigi Durham and Douglas Kellner,
+       342–352 p., « Visual Pleasure and Narrative Cinema ».
+   11. ↑ Gabriele, and Rosi Braidotti Griffin, Thinking Differently: A
+       Reader in European Women's Studies, London: Zed, 2002.
+   12. ↑ M., « Mammy, Jezebel, Sapphire, and Their Homegirls: Developing
+       an "Oppositional Gaze" Toward the Images of Black Women »,
+       digitalcommons.tacoma.uw.edu,‎ 1^er janvier 2012 (lire en ligne).
+   13. ↑ Martin, « Deborah Kampmeier's 'Tape' explores the gray areas of
+       #MeToo through sharing one woman's powerful story », Cinema Femme
+       (consulté le 9 janvier 2021).
+   14. ↑ Bill Ashcroft et al., Post-Colonial Studies (2000) p. 187.
+   15. ↑ Vijay Mishra, Bollywood Cinema (2002) p. 245.
+   16. ↑ E. H. Yekani, The Privilege of Crisis (2011) p. 100.
+   17. ↑ Cité dans Patricia Waugh, Literary Theory and Criticism (2006),
+       p. 514.
+   18. ↑ Edward Said, Orientalism, Vintage Books, 1978.
+   19. ↑ ^a b et c Peter Beardsell, Europe and Latin America: Returning
+       the Gaze, Manchester, UK, Manchester University Press, 2000.
+   20. ↑ Peter Beardsell, Europe and Latin America: Returning the Gaze,
+       Manchester, UK, Manchester University Press, 2000, p. 8.
+   21. ↑ ^a et b Pritchard and Morgan, « Privileging the Male Gaze »,
+       Annals of Tourism Research, vol. 27, n^o 4,‎ 2000, p. 884–905
+       (DOI 10.1016/s0160-7383(99)00113-9).
+
+Voir également
+
+   [modifier | modifier le code]
+
+Bibliographie
+
+   [modifier | modifier le code]
+     * Armstrong, Carol et de Zegher, Catherine, Femmes artistes au
+       millénaire . MIT Press, Octobre Books, 2006
      * de Zegher, Catherine, Dans le visible, Presse MIT, 1996
      * Ettinger, Bracha, "The Matrixial Gaze" (1995), réimprimé sous le
        titre Ch. 1 dans : L'Espace frontalier matriciel . Presses de
@@ -255,7 +407,8 @@ Le regard du touriste masculin
        p. 94, 103
      * Paul, Nalini, The Female Gaze
      * Pollock, Griselda, « La modernité et les espaces de la féminité »,
---
+       Routldge, 1988
+     * Schroeder, Jonathan E, SSRN.com Consuming Representation: A Visual
        Approach to Consumer Research
      * Théorie, Culture et Société, volume 21, n° 1, 2004
      * Jean-Paul Sartre, L'Être et le Néant. Essai d’ontologie
@@ -286,7 +439,20 @@ Liens externes
      * Aux Fenêtres de l'âme ( Windows of the Soul ), un film de Ron
        Padova
 
---
+   v · m
+   Esthétique (bibliographie)
+   Concepts
+     * Art
+     * Perception
+     * Catharsis
+     * Créativité
+     * Goût
+     * Mimêsis
+     * Nature
+     * Plaisir
+     * Représentation
+     * Sensible
+     * Émotion
      * Sentiment
      * Sensation
      * Satisfaction
@@ -296,7 +462,78 @@ Liens externes
    Catégories
      * Agréable
      * Avant-garde
---
+     * Beau
+     * Cool
+     * Divertissement
+     * Dégoût
+     * Élégance
+     * Ennui
+     * Érotisme
+     * Extase
+     * Fadeur
+     * Fun
+     * Grandeur
+     * Grotesque
+     * Harmonie
+     * Humour
+     * Iki
+     * Joli
+     * Kawaii
+     * Kitsch
+     * Laid
+     * Luxe
+     * Ma
+     * Mignon
+     * Naïf
+     * Pittoresque
+     * Rétro
+     * Shibui
+     * Sublime
+     * Tragique
+     * Wabi-sabi
+
+   Principaux penseurs
+     * Abhinavagupta
+     * Aristote
+     * Leon Battista Alberti
+     * Theodor W. Adorno
+     * Thomas d'Aquin
+     * Alexander Gottlieb Baumgarten
+     * Bernard Bosanquet
+     * Robin G. Collingwood
+     * Ananda Coomaraswamy
+     * Arthur Danto
+     * Article de qualité John Dewey
+     * Denis Diderot
+     * Hubert Dreyfus
+     * Thierry de Duve
+     * Umberto Eco
+     * Catherine Elgin
+     * Roger Fry
+     * Nelson Goodman
+     * Clement Greenberg
+     * Georg Wilhelm Friedrich Hegel
+     * Martin Heidegger
+     * David Hume
+     * Emmanuel Kant
+     * Susanne Langer
+     * Theodor Lipps
+     * Georg Lukács
+     * Jean-François Lyotard
+     * Joseph Margolis
+     * Friedrich Nietzsche
+     * Platon
+     * George Santayana
+     * Friedrich Schiller
+     * Arthur Schopenhauer
+     * Roger Scruton
+     * Rabindranath Tagore
+     * Giorgio Vasari
+     * Morris Weitz
+     * Ludwig Wittgenstein
+     * Richard Wollheim
+     * Plus
+
      * icône décorative Portail de la psychologie
      * icône décorative Portail de la sociologie
 
@@ -306,7 +543,46 @@ Liens externes
    Catégories :
      * Féminisme postmoderne
      * Communication humaine
---
+     * Structuralisme
+     * Concept existentialiste
+     * Terminologie lacanienne
+
+   Catégories cachées :
+     * Article à référence nécessaire
+     * Portail:Psychologie/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Sociologie/Articles liés
+     * Portail:Société/Articles liés
+     * Pages avec des traductions non relues
+
+     * La dernière modification de cette page a été faite le 3 décembre
+       2025 à 16:36.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
    ____________________
    (BUTTON) Rechercher
 

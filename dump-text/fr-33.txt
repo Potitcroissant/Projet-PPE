@@ -1,3 +1,39 @@
+   JavaScript is disabled on your browser. Please enable JavaScript to use
+   all the features on this page.
+   [1767297303106?pageName=sd%3Aproduct%3Ajournal%3Aarticle&c16=els%3Arp%3
+   Ast&c2=sd&v185=img&v33=ae%3AANON_GUEST&c1=ae%3A228598&c12=ae%3A12975512
+   ]
+
+   Skip to main contentSkip to article
+   Elsevier logo
+     * Journals & Books
+
+     * (BUTTON) Help
+     * Search
+
+   My account
+   Sign in
+   (BUTTON)
+     * Access through your organization
+     * Purchase PDF
+     *
+     * Patient Access
+     * (BUTTON) Other access options
+
+   Search ScienceDirect ____________________
+   (BUTTON)
+
+Article preview
+
+     * Abstract
+     * Section snippets
+     * References (36)
+     * Cited by (5)
+
+   Elsevier
+
+L'Encéphale
+
    Volume 42, Issue 6, December 2016, Pages 547-552
    L'Encéphale
 
@@ -7,7 +43,8 @@
    Author links open overlay panel (BUTTON) M. Baltazar, (BUTTON) L. Conty
    (BUTTON) Show more
    (BUTTON) Add to Mendeley
---
+   (BUTTON) Share
+   (BUTTON) Cite
    https://doi.org/10.1016/j.encep.2015.11.005Get rights and content
 
 Résumé
@@ -35,7 +72,36 @@ Résumé
    quelle façon intégrer cet outil en thérapie.
 
 Abstract
---
+
+Introduction
+
+   The perception of a direct gaze – that is, of another individual's gaze
+   directed at the observer that leads to eye contact – is known to
+   influence a wide range of cognitive processes and behaviors. We stress
+   that these effects mainly reflect positive impacts on human cognition
+   and may thus be used as relevant tools for therapeutic purposes.
+
+Objectives
+
+   In this review, we aim (1) to provide an exhaustive review of eye
+   contact effects while discussing the limits of the dominant models used
+   to explain these effects, (2) to illustrate the therapeutic potential
+   of eye contact by targeting those pathologies that show both preserved
+   gaze processing and deficits in one or several functions that are
+   targeted by the eye contact effects, and (3) to propose concrete ways
+   in which eye contact could be employed as a therapeutic tool.
+
+Discussion
+
+   (1) We regroup the variety of eye contact effects into four categories,
+   including memory effects, activation of prosocial behavior, positive
+   appraisals of self and others and the enhancement of self-awareness. We
+   emphasize that the models proposed to account for these effects have a
+   poor predictive value and that further descriptions of these effects is
+   needed. (2) We then emphasize that people with pathologies that affect
+   memory, social behavior, and self and/or other appraisal, and
+   self-awareness could benefit from eye contact effects. We focus on
+   depression, autism and Alzheimer's disease to illustrate our proposal.
    To our knowledge, no anomaly of eye contact has been reported in
    depression. Patients suffering from Alzheimer disease, at the early and
    moderate stage, have been shown to maintain a normal amount of eye
@@ -45,7 +111,22 @@ Abstract
    gazing at another's eyes while in the second, individuals are
    considered to not be able to process the gaze of others. We adopt the
    first stance following the view that people with autism are not
---
+   interested in processing social signals such as gaze but could do so
+   efficiently if properly motivated. For each pathology we emphasize that
+   eye contact could be used, for example, to enhance sensitivity to
+   bodily states, thus improving emotional decision making (in autism); to
+   lead to more positive appraisal of the self and others (in depression);
+   to improve memory performances (in Alzheimer disease) and, more
+   generally, to motivate the recipient to engage in the therapeutic
+   process. (3) Finally we propose two concrete ways to employ eye contact
+   effects as a therapeutic tool. The first is to develop
+   cognitive-behavioral tools to learn and/or motivate the recipient to
+   create frequent and prolonged eye contact periods. The second is to
+   raise awareness among caregivers of the beneficial effects of eye
+   contact and to teach them the way to use eye contact to reach its
+   optimum effects. Future investigations are however needed to explore
+   the ways in which eye contact effects can be efficiently integrated in
+   therapeutic strategies, as well as to identify the clinical populations
    that can benefit from such therapeutic interventions.
 
 Section snippets
@@ -113,13 +194,231 @@ Conclusions
    d’autrui et la conscience de soi sont pourtant principalement positifs
    et détiennent donc un potentiel thérapeutique qui pourrait bénéficier à
    différentes populations cliniques. Les recherches à venir devront
---
-       The Arts in Psychotherapy, Volume 80, 2022, Article 101941
-       Tal Sela, Michal Bat-Or
+   approfondir notre connaissance des mécanismes sous-tendant les effets
+   du contact
+
+Déclaration de liens d’intérêts
+
+   Les auteurs déclarent ne pas avoir de liens d’intérêts.
+
+Remerciements
+
+   Ce travail de recherche n’aurait pas été possible sans le support de
+   l’Agence Nationale de la Recherche (ANR ; Projet « Alcom »
+   n^o ANR-13-JSH2-0001-01). Nous remercions Nikoletta Geronikola, Leïla
+   Kasmi et Désirée Lopis pour leurs conseils.
+   (BUTTON) Recommended articles
+
+Références (36)
+
+     * C. Fullwood et al.
+    Effect of gazing at the camera during a video link on recall
+
+Appl Ergon
+       (2006)
+     * A. Baillon et al.
+    On the social nature of eyes: the effect of social cues in interaction
+       and individual choice tasks
+
+Evol Hum Behav
+       (2013)
+     * M. Baltazar et al.
+    Eye contact elicits bodily self-awareness in human adults
+
+Cognition
+       (2014)
+     * L.M. Pönkänen et al.
+    The observer observed: frontal EEG asymmetry and autonomic responses
+       differentiate between another person's direct and averted gaze when
+       the face is seen live
+
+Int J Psychophysiol
+       (2011)
+     * A. Senju et al.
+    The eye contact effect: mechanisms and development
+
+Trends Cogn Sci
+       (2009)
+     * L. Conty et al.
+    The cost of being watched: stroop interference increases under
+       concomitant eye contact
+
+Cognition
+       (2010)
+     * T. Stein et al.
+    Eye contact facilitates awareness of faces during interocular
+       suppression
+
+Cognition
+       (2011)
+     * A. Senju et al.
+    Gaze following in human infants depends on communicative signals
+
+Curr Biol
+       (2008)
+     * G. Csibra et al.
+    Natural pedagogy
+
+Trends Cogn Sci
+       (2009)
+     * D. Nettle et al.
+    Responses of chimpanzees to cues of conspecific observation
+
+Anim Behav
+       (2013)
+
+     M. Strick et al.
+
+Seductive eyes: attractiveness and direct gaze increase desire for associated
+objects
+
+Cognition
+
+   (2008)
+
+     J.K. Hietanen et al.
+
+Seeing direct and averted gaze activates the approach-avoidance motivational
+brain systems
+
+Neuropsychologia
+
+   (2008)
+
+     L. Conty et al.
+
+When eye creates the contact! ERP evidence for early dissociation between
+direct and averted gaze motion processing
+
+Neuropsychologia
+
+   (2007)
+
+     D.J. Furman et al.
+
+Interoceptive awareness, positive affect, and decision making in major
+depressive disorder
+
+J Affect Disord
+
+   (2013)
+
+     E. Quattrocki et al.
+
+Autism, oxytocin and interoception
+
+Neurosci Biobehav Rev
+
+   (2014)
+
+     A. Senju et al.
+
+  Atypical eye contact in autism: models, mechanisms and development
+
+Neurosci Biobehav Rev
+
+   (2009)
+
+     P. Caramelli et al.
+
+  Language and communication disorders in dementia of the Alzheimer type
+
+     S. Baron-Cohen
+
+  How to build a baby that can read minds: cognitive mechanisms in mind reading
+
+Curr Psychol Cogn
+
+   (1994)
+
+   (BUTTON) View more references
+
+Cited by (5)
+
      *
 
-Réflexions sur le « contact » et le « regard » en clinique psychiatrique
-       L'Évolution Psychiatrique, Volume 87, Issue 3, 2022, pp. 607-617
-       Vassili Goux, Camille Veit
+Knowing and accepting oneself: Exploring possibilities of self-awareness
+among working autistic young adults
+       2023, Autism
      *
 
+Learning to recognize others: The effect of vocal emotions
+       2022, Emotional Processes in Learning Situations
+     *
+
+Me in the mirror Schema Therapy for body image Disorder (not only) in eating
+disorders
+       2020, Verhaltenstherapie Und Verhaltensmedizin
+     *
+
+Eye contact effects on social preference and face recognition in normal
+ageing and in Alzheimer’s disease
+       2019, Psychological Research
+     *
+
+Experiences with participation in a supervised group-based outdoor cycling
+programme for people with mental illness: A focus group study
+       2019, International Journal of Environmental Research and Public
+       Health
+
+   View full text
+
+   © 2016 L'Encéphale, Paris.
+
+   (BUTTON)
+
+Recommended articles
+
+     *
+
+A Time-gated Contactless Interrogation System for Frequency and Quality
+Factor Tracking in QCR to Investigate on Liquid Solution Microdroplets
+       Procedia Engineering, Volume 168, 2016, pp. 704-707
+       Marco Ferrari, …, Vittorio Ferrari
+     *
+
+La diagnose des parasites est utile aux futurs vétérinaires et aux
+vétérinaires
+       Revue Vétérinaire Clinique, Volume 58, Issue 2, 2023, pp. 43-49
+       M. Gharbi
+     *
+
+Intérêt d’un traitement par scopolamine dans les troubles dépressifs
+       L'Encéphale, Volume 42, Issue 6, 2016, pp. 568-573
+       A. Rigal, …, C.S. Peretti
+     *
+
+Encéphalopathie mitochondriale neuro-gastro-intestinale (MNGIE) : quand et
+comment l’évoquer devant une anorexie mentale atypique ?
+       L'Encéphale, Volume 42, Issue 6, 2016, pp. 574-579
+       M. Danjou, …, O. Cottencin
+     *
+
+Functional organization of social perception networks in the human brain
+       NeuroImage, Volume 272, 2023, Article 120025
+       Severi Santavirta, …, Lauri Nummenmaa
+     *
+
+Stratégie de recherche translationnelle sur la maladie d’Alzheimer : cibles,
+modèles animaux et biomarqueurs
+       Bulletin de l'Académie Nationale de Médecine, Volume 199, Issue 6,
+       2015, pp. 893-908
+       Marc Dhenain
+
+   (BUTTON) Show 3 more articles
+
+   Elsevier logo with wordmark
+
+     * About ScienceDirect
+     * Remote access
+     * Contact and support
+     * Terms and conditions
+     * Privacy policy
+     * (BUTTON) Cookie settings
+
+   All content on this site: Copyright © 2026 Elsevier B.V., its
+   licensors, and contributors. All rights are reserved, including those
+   for text and data mining, AI training, and similar technologies. For
+   all open access content, the relevant licensing terms apply.
+
+   RELX group home page

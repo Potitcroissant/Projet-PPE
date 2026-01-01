@@ -1,3 +1,271 @@
+     * accéder au contenu principal
+     * accéder au menu
+     * contactez-nous
+
+   (BUTTON)
+   Accueil
+     *
+          +
+          + Radio
+          + Vidéos
+          + La météo
+     *
+          + Thématiques
+          + (BUTTON)
+            Culture
+            Culture CinémaDanseMusiquePatrimoineTraditions
+          + (BUTTON)
+            Découverte
+            Découverte AnimauxHistoireInsoliteMerSciences
+          + (BUTTON)
+            Économie
+            Économie AgricultureConsommationEmploiTourismeTransports
+          + (BUTTON)
+            Environnement
+            Environnement Catastrophe
+            naturelleClimatÉcologieÉnergieNucléaire
+          + (BUTTON)
+            Faits divers
+            Faits divers AccidentsIncendieTerrorismeTrafic de
+            drogueViolence
+          + (BUTTON)
+            Info locale
+            Info locale
+            BandrabouaBouéniDembeniDzaoudziKoungouMamoudzouMtsamboroOuanga
+            niPamandziSadaTsingoniOcéan indienRéunion
+          + (BUTTON)
+            Météo
+            Météo CyclonesIntempériesSécheresse
+          + (BUTTON)
+            Monde
+            Monde FranceAfriqueAmérique du NordAmérique du
+            SudCaraïbesAsieEuropeOcéanie
+          + (BUTTON)
+            People
+            People MissMiss france
+          + (BUTTON)
+            Politique
+            Politique ÉlectionsGouvernementPrésident de la
+            RépubliqueRéforme
+          + (BUTTON)
+            Santé
+            Santé ChikungunyaDengueHandicapMaladieZika
+          + (BUTTON)
+            Société
+            Société Conflit socialÉducationJusticeSécuritéVie locale
+          + (BUTTON)
+            Sport
+            Sport AthlétismeCyclismeFootballNatationVoile
+     *
+          + Garder le contact avec Mayotte La 1ère
+          + (BUTTON)
+            Suivez-nous sur les réseaux
+            Suivre Mayotte la 1ère sur XSuivre Mayotte la 1ère sur
+            FacebookSuivre Mayotte la 1ère sur YouTubeSuivre Mayotte la
+            1ère sur Instagram
+          + Contactez-nous
+          + Inscription à la newsletter
+
+   Accueil
+     *
+          +
+          + Radio
+          + Vidéos
+          + La météo
+     *
+          + Thématiques
+          + (BUTTON)
+            Culture
+          + (BUTTON)
+            Découverte
+          + (BUTTON)
+            Économie
+          + (BUTTON)
+            Environnement
+          + (BUTTON)
+            Faits divers
+          + (BUTTON)
+            Info locale
+          + (BUTTON)
+            Météo
+          + (BUTTON)
+            Monde
+          + (BUTTON)
+            People
+          + (BUTTON)
+            Politique
+          + (BUTTON)
+            Santé
+          + (BUTTON)
+            Société
+          + (BUTTON)
+            Sport
+     *
+          + Garder le contact avec Mayotte La 1ère
+          + (BUTTON)
+            Suivez-nous sur les réseaux
+          + Contactez-nous
+          + Inscription à la newsletter
+
+   (BUTTON)
+   Accueil France Info
+       Recherche
+       TV
+       Radio
+       Live
+       (BUTTON)
+       Services
+       Newsletters Météo Jeux Scolarité
+
+     * Accueil
+     * (BUTTON)
+       Menu
+     * Grands formats
+     * Enquêtes
+     * Vrai ou faux
+     * Incendie mortel dans un bar de Crans-Montana en Suisse
+     * Nouvel An 2026
+     * Guerre en Ukraine
+
+   (BUTTON)
+   Accueil Franceinfo
+     *
+          + En direct
+          + Incendie à Crans-Montana
+     *
+          + En ce moment
+          + Incendie mortel dans un bar de Crans-Montana en Suisse
+          + Nouvel An 2026
+          + Guerre en Ukraine
+     *
+          +
+          + Grands formats
+          + Enquêtes
+          + Vrai ou faux
+     *
+          + Rubriques
+          + L'actu pour les jeunes
+          + Une info transparente
+          + (BUTTON)
+            Monde
+          + (BUTTON)
+            Europe
+          + (BUTTON)
+            Faits-divers
+          + (BUTTON)
+            Politique
+          + (BUTTON)
+            Société
+          + (BUTTON)
+            Environnement
+          + (BUTTON)
+            Sport
+          + (BUTTON)
+            Culture
+          + (BUTTON)
+            Éco / Conso
+          + (BUTTON)
+            Santé
+          + (BUTTON)
+            Sciences & technologies
+          + (BUTTON)
+            Météo
+          + (BUTTON)
+            Jeux
+          + Dossiers
+
+     * (BUTTON)
+       Services
+
+     * Continuez votre exploration
+     * France 3 régions
+     * (BUTTON)
+       france TV
+     * (BUTTON)
+       radio france
+
+   Accueil Franceinfo
+     *
+          + En direct
+          + Incendie à Crans-Montana
+     *
+          + En ce moment
+          + Incendie mortel dans un bar de Crans-Montana en Suisse
+          + Nouvel An 2026
+          + Guerre en Ukraine
+     *
+          +
+          + Grands formats
+          + Enquêtes
+          + Vrai ou faux
+     *
+          + Rubriques
+          + L'actu pour les jeunes
+          + Une info transparente
+          + (BUTTON)
+            Monde
+          + (BUTTON)
+            Europe
+          + (BUTTON)
+            Faits-divers
+          + (BUTTON)
+            Politique
+          + (BUTTON)
+            Société
+          + (BUTTON)
+            Environnement
+          + (BUTTON)
+            Sport
+          + (BUTTON)
+            Culture
+          + (BUTTON)
+            Éco / Conso
+          + (BUTTON)
+            Santé
+          + (BUTTON)
+            Sciences & technologies
+          + (BUTTON)
+            Météo
+          + (BUTTON)
+            Jeux
+          + Dossiers
+
+     * (BUTTON)
+       Services
+
+     * Continuez votre exploration
+     * France 3 régions
+     * (BUTTON)
+       france TV
+     * (BUTTON)
+       radio france
+
+   Accueil Mayotte la 1ère
+     * Accueil
+     * Vidéos
+     * Radio
+     * En continu
+     * Météo
+     * (BUTTON) Menu
+
+     * Portail La 1ère
+     * Guadeloupe
+     * Guyane
+     * Martinique
+     * Mayotte
+     * Nouvelle-Calédonie
+     * Polynésie
+     * Réunion
+     * Saint-Pierre-et-Miquelon
+     * Wallis-et-Futuna
+
+     * Accueil
+     * Vidéos
+     * Radio
+     * En continu
+
+   Newsletter de Mayotte
+   (BUTTON)
    Tous les jours, recevez l'actualité de Mayotte dans votre boîte mail
    (BUTTON) S'inscrire à la newsletter
    Documentaire
@@ -10,7 +278,15 @@ internationaux
    Film Festival in Cannes et le Prix Ubuntu d’Argent au festival
    L’Afrique fait son cinéma. À travers le portrait d’un jeune Mahorais
    engagé, le film interroge les enjeux sociaux, culturels et
---
+   environnementaux de l’île.
+
+   Par  Nathalie ANDRIANTSIMEVA
+
+   Publié le 23 décembre 2025 à 12h00
+
+   Lecture 1 min
+   Partager : (BUTTON) Partager cet article
+     * Facebook
      * X (Twitter)
      * WhatsApp
      * E-mail
@@ -44,8 +320,74 @@ internationaux
    défis auxquels l’île est confrontée, entre pressions environnementales,
    difficultés sociales et attachement profond au territoire.
 
---
-       Réunion
+   Par  Nathalie ANDRIANTSIMEVA
+   Partager : (BUTTON) Partager cet article
+     * Facebook
+     * X (Twitter)
+     * WhatsApp
+     * E-mail
+
+   Mots clés de l'article
+     * Documentaire
+     * Culture
+     * Cinéma
+     * Culture
+
+   Derniers articles
+     * Direct
+       Les Abymes : un homme de 23 ans grièvement blessé à la main par
+       l’explosion d’un pétard
+       C’est après avoir voulu attraper un feu d’artifice à la main que le
+       jeune homme a eu l’index partiellement sectionné, ce jeudi 1er
+       janvier, route de Bouliqui, aux Abymes.
+       Il y a 8 h
+       Guadeloupe
+       Il y a 8 h
+       Guadeloupe
+     * Direct
+       "Cet album c’est une façon de penser, autrement dans la société
+       dans laquelle on vit" La Guyanaise Gizeh, sort son 1er album solo.
+       Multi-instrumentiste, auteure, compositrice et interprète, Lilia
+       Rey revient fort avec un album inspiré. A l’écoute de son 1er opus
+       de douze titres les puristes ne seront pas déçus. La Guyanaise
+       prouve avec " Here, I am " que le reggae doit compter avec elle.
+       Il y a 8 h
+       Outre-mer
+       Il y a 8 h
+       Outre-mer
+     * Direct
+       La députée Anchya Bamana présente ses vœux et son bilan aux
+       habitants de Combani et Bouéni
+       Deux réunions publiques ont été organisées ce jeudi par la députée
+       RN Anchya Bamana. L'élue tenait à présenter ses vœux, son bilan et
+       échanger avec la population.
+       Il y a 9 h
+       Mayotte
+       Il y a 9 h
+       Mayotte
+     * Direct
+       "Pakome les autres", le planner guadeloupéen qui met à l'honneur
+       les femmes inspirantes des Antilles-Guyane
+       Dans un peu moins d’une semaine, débutera l’année 2026… L’occasion
+       de se fixer de nouveaux objectifs. Par le biais notamment d’un
+       planner publié par une jeune entrepreneur guadeloupéenne, Kindy
+       Alexis. Son nom "Pakome", qui met à l’honneur des femmes
+       inspirantes des Antilles-Guyane.
+       Il y a 9 h
+       Guadeloupe
+       Il y a 9 h
+       Guadeloupe
+     * Direct
+       La prison de Mayotte est restée en tête de la surpopulation
+       carcérale en 2025
+       En 2025, la prison de Majicavo a oscillé entre 612 détenus en mars
+       et 678 en décembre pour 278 places. La densité carcérale est restée
+       au-dessus de 220% toute l'année, bien au-delà de la moyenne
+       nationale.
+       Il y a 9 h
+       Mayotte
+       Il y a 9 h
+       Mayotte
 
     1. Portail La 1ère /
     2. Mayotte la 1ère /
@@ -54,3 +396,51 @@ internationaux
 
    Suivez Mayotte la 1ère :
      * Suivre Mayotte la 1ère sur X (ouvre un nouvel onglet)
+     * Suivre Mayotte la 1ère sur Facebook (ouvre un nouvel onglet)
+     * Suivre Mayotte la 1ère sur YouTube (ouvre un nouvel onglet)
+     * Suivre Mayotte la 1ère sur Instagram (ouvre un nouvel onglet)
+
+   Découvrez l’application La 1ère
+
+   Suivez l’actualité des Outre-mer et profitez de vos émissions favorites
+   en direct et replay !
+   (BUTTON) Télécharger l'application
+   Tous les jours, recevez l’actualité de Mayotte dans votre boîte mail.
+   (BUTTON) S'inscrire à la newsletter
+     * Contactez-nous
+     * Plan du site
+     * Voir nos archives
+     * Gestion des cookies
+     * Mentions légales et crédits
+
+   Droits de reproduction et de diffusion réservés
+
+   ©2026 France TV
+     *
+     *
+     *
+     *
+     *
+
+     * le live
+     * direct tv
+     * direct radio
+
+   Retrouvez aussi
+     * La météo
+     * Les jeux
+
+     * Politique de confidentialité
+     * CGU et mentions légales
+     * Plan du site
+     * Qui sommes-nous ?
+     * Nous contacter
+     * Accessibilité (partiellement conforme)
+     * Charte déontologique
+     * Charte du Live
+     * Assistant vocal
+     * Devenir annonceur
+     * Recrutement
+
+   (BUTTON) Fermer la fenêtre de dialogue
+   (BUTTON) Accepter

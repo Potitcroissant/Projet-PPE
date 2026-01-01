@@ -1,3 +1,47 @@
+    #oEmbed (JSON) oEmbed (XML)
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MSXKG9T
+
+   Pop’Sciences répond à tous ceux qui ont soif de savoirs, de rencontres,
+   d’expériences en lien avec les sciences. Toute l'équipe vous souhaite
+   de joyeuses fêtes !
+   EN SAVOIR PLUS
+
+Logo Portail Pop Sciences Logo Portail Pop Sciences
+
+     *
+     *
+     *
+     *
+     * ____________________ (BUTTON)
+
+   (BUTTON) Infolettre Entrez votre adresse S'inscrire
+
+     * Agenda
+     * Voir - lire - écouter...
+     * Pour le scolaire
+          + Agenda - scolaires
+          + Pop’Sciences Jeunes
+          + Ressources scolaires
+          + Sites et chaînes TV de vulgarisation scientifique
+     * Grands événements
+          + Fête de la science
+          + FESTIVAL POP'SCIENCES
+          + POP’SCIENCES : les grandes thématiques
+          + Pop’Sciences et Villeurbanne en 2022
+     * Pop'Sciences Mag
+          + Pop’Sciences Mag - La collection
+     * À propos de Pop’Sciences
+
+     *
+     *
+     *
+
+Ressources
+
+   Homme - société
+
+   Article
 
    Centre hospitalier Le Vinatier|Université Claude Bernard Lyon
    1|Université Lumière Lyon 2
@@ -11,7 +55,19 @@ CComprendre le langage des yeux : les secrets de la perception du regard
    information visuelle ?
    Dans une étude récente intitulée « The Time Course of Information
    Processing During Eye Direction Perception », menée par Marie-Noëlle
---
+   Babinet, Pr. Caroline Demily, Eloïse Gobin, Clémence Laurent, Thomas
+   Maillet et Pr. George A. Michael, deux expériences ont exploré cette
+   question en manipulant la présentation du visage et des yeux.
+   Leurs résultats, publiés dans une étude récente, apportent de nouvelles
+   perspectives sur la façon dont nous percevons le langage des yeux et du
+   visage.
+
+   Priorité oculaire : le traitement commence par les yeux
+
+   Tandis que plusieurs théories s’opposaient; suggérant soit que le
+   traitement du visage précède celui des yeux, soit l’inverse; les
+   résultats de cette étude apportent de nouvelles réponses. Quelle que
+   soit la direction du visage, les participants ont des temps de réaction
    plus rapides lorsque les yeux sont présentés avant le visage. Cela
    suggère que notre cerveau accorde une priorité au traitement des yeux,
    qui agissent comme des aimants pour notre attention visuelle.
@@ -39,3 +95,142 @@ CComprendre le langage des yeux : les secrets de la perception du regard
    >>  retrouver cet article sur les sites :
 
    Le vinatier
+
+   Pub Med
+
+Les intervenants
+
+   © Marie-Noëlle Babinet
+
+Marie-Noëlle Babinet
+
+   Psychologue spécialisée en neuropsychologie au Vinatier, PhD.
+   Actuellement dans l'expertise et la prise en charge des personnes
+   porteuses d'une maladie rare avec ou sans Trouble du Développement
+   Intellectuel, avec ou sans Trouble du Spectre de l'Autisme et associé à
+   des troubles du comportement. L'évaluation des compétences cognitives,
+   adaptatives et fonctionnelles permet l'élaboration de projets
+   individuels et personnalisés des jeunes ou des adultes.
+
+   Lire plus
+
+Pr. Caroline Demily
+
+   Professeur des Universités-Praticien hospitalier en psychiatrie au
+   Vinatier, Université Lyon 1. Son travail porte sur les personnes avec
+   autisme, troubles du Neurodéveloppement ou maladies rares génétiques.
+   L'équipe du centre d’excellence iMIND et du CRMR GenoPsy met la
+   recherche au cœur dessoins et vise l’inclusion dans la cité, la
+   déstigmatisation et l’empowerment des adultes et des adolescents.
+
+   Lire plus
+   ©Eloïse Gobin
+
+Eloïse Gobin
+
+   Étudiante en Master 2 Sciences Politiques : Enjeux sociaux et
+   politiques de santé a l'université Lyon lumière 2. Chargée d’étude
+   Santé et territoire - Santé PubliqueChargée d’étude Santé et territoire
+   - Ville de Saint-Étienne
+
+   Lire plus
+   ©Clémence Laurent
+
+Clémence Laurent
+
+   Diplômée d’une Licence de Psychologie depuis Juin 2021. Elle a étudié
+   le Neuro Marketing au cours de cette même formation.Elle se réoriente
+   dans le Marketing Editorial et obtient le concours SUP de PUB en
+   janvier 2022 pour intégrer le Master Marketing Éditorial & Brand
+   Content.Elle entreprend des cours de remise à niveau pour avoir toutes
+   les connaissances nécessaires dans le domaine de la Communication.
+
+   Lire plus
+
+Thomas Maillet
+
+   Lire plus
+
+George A. Michael
+
+   Lire plus
+
+Cherchez une ressource
+
+Mots clés
+
+   ____________________
+
+Type de ressources
+
+   [ ] Article [ ] Dispositif [ ] Dossier [ ] Exposition [ ] Forums [ ]
+   Galeries [ ] Liens [ ] Livre [ ] Podcast [ ] Vidéo
+
+Thématiques
+
+   [ ] Archéologie - paléontologie [ ] Art - Sciences [ ] Astronomie -
+   espace - univers [ ] Biologie - santé [ ] Collections & Patrimoines [ ]
+   Design - arts - architecture [ ] Droit - économie - gestion [ ]
+   Écologie - agronomie - développement durable - énergie [ ] Histoire -
+   géographie [ ] Histoire de l'art [ ] Histoire des sciences [ ] Homme -
+   société [ ] Humanités [ ] Ingénierie [ ] Lettres - langues -
+   philosophie [ ] Maths - physique - chimie [ ] Science grand public [ ]
+   Sciences de la Terre - Climat - Géologie [ ] Sciences du vivant [ ]
+   Sciences politiques [ ] Technologies - information - communication [ ]
+   Toutes thématiques
+
+Établissement, structure, laboratoire ...
+
+   [Chercher un établissement______________________________________________
+   __________________________...]
+   (BUTTON) Rechercher
+
+   Ils soutiennent financièrement le portail Pop'Sciences : Grand Lyon
+   Villeurbanne Partenaires RCF Radio Lyon
+
+Pratique
+
+     * Portail HAL de l’Université de Lyon : Archive ouverte
+       pluridisciplinaire
+     * Mentions légales
+     * À propos de Pop’Sciences
+     * Contact
+
+Université de Lyon - Direction Culture, Sciences et Société
+
+   92 rue Pasteur
+
+   CS 30122
+
+   69361 Lyon cedex 07
+
+   popsciences@universite-lyon.fr
+
+   Tél. +33 (0)4 37 37 82 01
+
+
+Rejoignez nous !
+
+     *
+     *
+
+S'inscrire à l'infolettre
+
+   ____________________ S'inscrire
+
+   (BUTTON) Accept Youtube cookie
+
+Université de Lyon - Direction Culture, Sciences et Société
+
+   92 rue Pasteur
+
+   CS 30122
+
+   69361 Lyon cedex 07
+
+   popsciences@universite-lyon.fr
+
+   Tél. +33 (0)4 37 37 82 01
+
+
+   https://www.youtube.com/embed/Qm-prNOXepo

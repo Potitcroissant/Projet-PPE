@@ -1,3 +1,21 @@
+   Menu
+
+   ____________________ (BUTTON)
+
+   Search
+     *
+          + facebook
+          + twitter
+          + Rss
+          + Newsletter
+
+     * Cité
+     * Espace
+     * Temps
+     * Esprit
+     * Lettres
+     * Arts
+
    Cinéma, spectacle vivant, arts visuels...
 
 Arts visuels
@@ -16,7 +34,7 @@ La folie du regard
    Laurent Jenny
 
    2023
---
+
    L'Atelier contemporain
 
    208 pages
@@ -46,7 +64,14 @@ La folie du regard
    inachevée, de la résistance du visible à toute intelligibilité.
    Derrière une image se creuse en effet un puits sans fond de
    signification, de sorte que «  voir  » consiste à se confronter
---
+   directement à son mutisme et à s’exposer à la «  déchirure  » qu’elle
+   ouvre par rapport à la perception visuelle habituelle.
+
+   L’auteur suit cette piste de réflexion à travers les siècles et les
+   œuvres, étudiant tour à tour les peintures rupestres, grâce auxquelles
+   l’humain contemple son propre reflet à travers la représentation de
+   chevaux, de bisons, de lionnes à gueules ouvertes, sur des parois
+   irrégulières, jusqu’aux peintures de Matisse, en passant par l’étrange
    présence instaurée par les portraits du Fayoum, ces individus aux yeux
    grands ouverts sur la vie. Le propos est enrichi d'une iconographie
    abondante qui accompagne le lecteur au fil de ce parcours.
@@ -58,7 +83,7 @@ La folie du regard
    l’artiste ou une autorité d’aucune sorte ne la lui suggère. D’où son
    articulation, dans la réflexion de Jenny, avec le thème de la peinture
    muette. Ce silence ne doit pas être conçu comme une privation de sens
---
+   mais plutôt comme une ouverture de la peinture à la signification ou,
    pour parler comme Merleau-Ponty, comme une conséquence de son
    appartenance à la «  chair du monde  ».
 
@@ -89,7 +114,17 @@ La folie du regard
 
    Une multiplicité de lectures des images
 
---
+   L’auteur associe à son propos une série de considérations portant sur
+   différentes lectures (philosophiques, poétiques, historiques) qui ont
+   été proposées par le passé des images artistiques. Ainsi, il confronte
+   sa propre méthode de lecture à celle de Aby Warburg, Michel
+   Leiris, Jean Laplanche ou encore Denis Hollier.
+
+   Mais ces analyses conduisent Jenny à s’interroger sur les obstacles que
+   constituent cette surcharge interprétative quant à la possibilité même
+   de «  voir  » une œuvre d’art : «  Tout ceci ne m’aide pas à “revoir”
+   Judith  » — à propos des nombreux tableaux dont le thème est emprunté à
+   l’histoire de ce personnage biblique) ; et l’auteur ajoute : «  Pour
    vraiment y parvenir, il faudrait peut-être que j’oublie un peu son
    histoire  ». Cherchant à s’en détacher, Jenny étudie par exemple les
    costumes et les gestes des personnages dans les tableaux de Cranach. Il
@@ -112,7 +147,7 @@ La folie du regard
    bien lorsqu’il entreprend l’étude d’albums et d’esquisses produites
    dans différents ateliers à une même époque : la confrontation de ces
    travaux permet d’insister sur les cadrages inédits, et surtout de
---
+   mettre en valeur des éléments qui ne sont pas immédiatement visibles
    par les yeux des contemporains.
 
    En appliquant cette réflexion à Giacometti, l’auteur insiste cette fois
@@ -150,3 +185,107 @@ La folie du regard
     Si cette lecture vous a été utile, aidez-nous à vous en proposer d'autres !
 
    Les dons de nos lecteurs sont indispensables à la vie de Nonfiction.
+   Grâce à une gestion rigoureuse, 250 dons de 40 euros suffiraient à
+   assurer nos dépenses de fonctionnement annuelles. Nonfiction étant
+   reconnu d'intérêt général, les dons sont défiscalisés à hauteur de 66%
+   (un don de 100 euros ne vous coûte que 33 après impôts).
+
+   Pour faire un don, cliquer ici.
+   Christian RUBY
+
+    Christian RUBY
+
+   Christian Ruby, philosophe, est membre de l’ADHC (association pour le
+   développement de l’Histoire culturelle), de l’ATEP (association
+   tunisienne d’esthétique et de poiétique), du collectif Entre-Deux
+   (Nantes, dont la vocation est l’art public) ainsi que de l’Observatoire
+   de la liberté de création.
+
+   Il a publié ces dernières années : Abécédaire des arts et de la
+   culture, Toulouse, Éditions L’Attribut, 2015 ; Devenir spectateur ?
+   Invention et mutation du public culturel, Toulouse, Éditions
+   L’Attribut, 2017 ; Des cris dans les arts plastiques, Bruxelles, La
+   lettre volée, 2022.
+
+   Site  de référence pour toutes les publications : www.christianruby.net
+   Lire plus d'articles
+
+      Cité
+
+     * Droit
+     * Sciences
+     * Société
+     * Economie
+     * Politique
+
+      Espace
+
+     * Monde
+     * Géographie
+     * Europe
+     * Environnement
+
+      Temps
+
+     * Histoire
+     * Archéologie
+
+      Esprit
+
+     * Philosophie
+     * Psychologie
+     * Religions
+
+      Lettres
+
+     * Littérature
+     * Langue
+
+      Arts
+
+     * Cinéma
+     * Musiques
+     * Théâtre
+     * Arts visuels
+     * Architecture
+     * Bande dessinée
+     * Danse
+
+        Critiques artistiques
+
+     * Littérature
+     * Bande dessinée
+     * Cinéma
+     * Théâtre
+     * Musiques
+     * Expositions
+
+        Essais
+
+        Grands entretiens
+
+        Dossiers
+
+        À propos
+
+     * Notre projet
+     * L'équipe
+     * Charte rédactionnelle
+     * Faire un don
+     * Contact
+
+   en partenariat avec
+     *
+     *
+     *
+     * Slate Fr
+     *
+     *
+
+   © 2025 Nonfiction
+     * Facebook
+     * Twitter
+     * RSS
+     * Newsletter
+
+   Mentions légales

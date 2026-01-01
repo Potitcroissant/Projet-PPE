@@ -3,7 +3,45 @@
 
    Accéder à la navigation
 
---
+   Accueil
+   [gb.svg]
+   Se connecter
+   S'inscrire
+   ____________________ (Submit)
+   Thèmes
+     * Vivant
+     * Matière
+     * Numérique
+     * Sociétés
+     * Terre
+     * Univers
+
+   Formats
+     * Articles
+     * Audios
+     * Diaporamas
+     * Dossiers
+     * Infographies
+     * Points de vue
+     * Vidéos
+
+   CNRS Le Journal
+   Donner du sens à la science
+
+   [logofondation.svg]
+
+Suivre
+
+     * Twitter
+     * Facebook
+     * Bluesky
+     * YouTube
+     * RSS
+
+     * Rechercher
+     * Se connecter
+     * S'inscrire
+     * Mon compte
      * Nos blogs
 
    English version
@@ -13,7 +51,30 @@
      * Matière
      * Sociétés
      * Univers
---
+     * Terre
+     * Numérique
+     * Mes thèmes
+
+Personnalisez votre navigation
+       Sélectionnez vos mots clefs ou thématiques favorites et créez votre
+       rubrique personnalisée
+          + Créer un compte
+          + Se connecter
+       [ ] Stay
+     * Types
+          + Articles
+          + Audios
+          + Diaporamas
+          + Dossiers
+          + Infographies
+          + Points de vue
+          + Vidéos
+       [ ] Stay
+
+   CNRS Le Journal Haut de page Nos blogs
+   ____________________ (Submit)
+   Partager l'article
+
 Sections
 
 Vous êtes ici
@@ -26,7 +87,52 @@ Vous êtes ici
    Dossier
    Paru le 30.06.2025
    Femmes de science
---
+   Voir le dossier
+   Article
+   Marie Tharp en juillet 2001 (Photo Bruce Gilbert / Lamont-Doherty Earth
+   Observatory and the estate of Marie Tharp)
+   Marie Tharp, pionnière omise de la tectonique des plaques
+   Article
+   Pascale Senellart, au cœur de la révolution quantique
+   Vidéo
+   extrait de Planètes, 2025 © Momoko Seto
+   Momoko Seto, exploratrice du vivant
+   Article
+   © Cyril Frésillon / CNRS Images
+   Kumiko Kotera, la reine des grandes antennes
+   Article
+   Hedy Lamarr, 1940 © Photo12/Alamy/Pictures From History, CPA Media Pte
+   Ltd
+   Hedy Lamarr, le génie scientifique éclipsé par la beauté
+   Article
+   Sylvie Rétaux, une biologiste tout-terrain
+   Article
+   Marie Tharp en juillet 2001 (Photo Bruce Gilbert / Lamont-Doherty Earth
+   Observatory and the estate of Marie Tharp)
+   Marie Tharp, pionnière omise de la tectonique des plaques
+   Article
+   © Frédérique PLAS / CNRS Images
+   Edith Heard, passion épigénétique
+   Article
+   Lise Foisneau, sur la route des gens du voyage
+   Article
+   Hannelore Derluyn révèle la vie cachée des matériaux
+   Article
+   Marie-Paule Cani : « J’essaie de rendre l’humain plus créatif »
+   Article
+   Cécile Charrier, des synapses plein la tête
+   Article
+   Bérengère Dubrulle ou l’effet tourbillon
+   Article
+   Claude Grison, bon génie de la chimie verte
+   Article
+   Françoise Gaill, la voix de l’océan
+   Article
+   Un jour avec Anne-Lise Soulet, assistante de prévention
+   Article
+   Une femme coud un soutien-gorge rouge dans usine textile en Chine.
+   Avec les femmes du « made in China »
+   Article
    Cécile Charrier, des synapses plein la tête
    Article
    Iris Brémaud : le bois, l’art et la matière
@@ -36,7 +142,54 @@ Vous êtes ici
    Julie Grollier, chercheuse (bio)inspirée
    Article
    Pernelle Bernardi, le sol martien dans l'objectif
---
+   Article
+   Eva Illouz, une sociologue contre la tyrannie des émotions
+   Article
+   Françoise Combes, médaille d’or 2020 du CNRS
+   Blog
+   Ane Aanesland, vers des moteurs plus petits pour les satellites
+   Article
+   Françoise Lamnabhi-Lagarrigue, reine de l’automatique
+   Article
+   Valérie Masson-Delmotte, une voix pour le climat
+   Article
+   Barbara Cassin, le pouvoir des mots
+   Article
+   Esther Duflo, une économiste en lutte contre la pauvreté
+   Article
+   La jeune garde des nanoparticules
+   Article
+   Edith Heard ou la révolution épigénétique
+   Article
+   Barbara Cassin, médaille d’or 2018 du CNRS
+   Article
+   Hélène Morlon, mathématicienne du vivant
+   Point de vue
+   Marie Curie, la pionnière aux deux Nobel
+   Article
+   Un jour avec Louise-Anne Cariou, ingénieure prévention
+   Article
+   Delphine Delacour ou la culture de la cellule
+   Article
+   Anne-Virgine Salsac
+   Anne-Virginie Salsac et la petite mécanique du corps humain
+   Article
+   Claire Voisin, la conquête de l’algébrique
+   Article
+   Une historienne à la poursuite des manuscrits perdus
+   Article
+   Armelle Vardelle
+   Armelle Vardelle enflamme les plasmas
+   Article
+   Chantal Abergel
+   Chantal Abergel, les virus dans la peau
+   Diaporama
+   Une souffleuse au pays des lasers
+   Article
+   Laure Saint-Raymond
+   Laure Saint-Raymond, la boss des maths
+   Article
+   Margaret Buckingham, lauréate de la médaille d’or 2013 du CNRS
    Margaret Buckingham, à la source des cellules
 
 Vous êtes ici
@@ -55,7 +208,31 @@ Vous êtes ici
    07.11.2022, par
    Brigitte Perucca
    Temps de lecture : 10 minutes
---
+   La philosophe Anca Vasiliu à son domicile parisien, en octobre 2022.
+   Frédérique Plas
+   Partager
+   Partager
+   Spécialiste de philosophie grecque classique et tardive, Anca Vasiliu
+   vient de recevoir le Grand Prix de philosophie de l’Académie française
+   pour l’ensemble de son œuvre, dans laquelle elle explore les rapports
+   entre image, langage et pensée à travers la relecture des textes
+   anciens.
+
+   Historienne de l’art en Roumanie, vous êtes devenue philosophe en
+   France. Quel a été le cheminement qui vous a menée de l’art propre au
+   christianisme byzantin, à la pensée de l’Antiquité classique et
+   tardive ?
+   Anca Vasiliu1. En travaillant sur l’art médiéval byzantin, j’ai été
+   amenée à travailler sur les sources, sur les éléments d’inspiration qui
+   ont été ceux des artistes byzantins. Je me suis rendu compte qu’il me
+   fallait acquérir une bonne connaissance des langues anciennes pour
+   aborder les textes et pour saisir la pensée qui les sous-tend. Cela
+   peut sembler inhabituel, mais c’est un chemin tout naturel. J’ai donc
+   fait le choix de reprendre des études et de me plonger dans le grec.
+
+   Ma formation en histoire de l’art a néanmoins été déterminante et même
+   fondamentale pour comprendre les textes. J’y ai acquis une manière
+   rigoureuse de scruter les objets et les œuvres qui m’a été précieuse.
    En Roumanie, les études d’histoire de l’art incluaient une formation
    artistique. Dessin, peinture, modelage, nous devions mettre la main à
    la pâte, reproduire le geste antique. Non pas pour faire de nous des
@@ -69,7 +246,31 @@ Vous êtes ici
    à chaque détail.
 
    Pourquoi ne pas avoir opéré cette conversion en Roumanie ?
---
+   A. V. À cette époque, à la fin des années 1970, deux obstacles
+   s’opposaient à mes projets. Entreprendre des études de philosophie,
+   comme je l’avais toujours souhaité, était doublement impossible :
+   d’abord parce qu’en Roumanie, il n’était pas permis de suivre une
+   deuxième formation universitaire. Vous deviez travailler après
+   l’obtention de votre diplôme. Ensuite parce que la philosophie
+   classique n’était tout simplement pas au programme, seule la
+   philosophie marxiste était enseignée.
+
+   CNRS Le Journal (BUTTON)
+   Frédérique Plas
+   Frédérique Plas
+   Partager
+   Partager
+
+   J’ai donc choisi de partir en France, car le français était une langue
+   familière, que j’avais apprise à la maison, ce qui n’était pas rare à
+   l’époque dans le monde roumain francophile et francophone. Cependant,
+   parler français est une chose, écrire en français en est une autre.
+   J’ai réussi à surmonter mon angoisse devant la page blanche lorsque je
+   me suis donné la liberté d’écrire sur un sujet relevant de ma première
+   spécialité. En terrain connu, l’écriture s’est déliée et j’ai pu passer
+   plus aisément à la rédaction de ma thèse en philosophie. J’ai gardé
+   néanmoins de ma langue maternelle la souplesse syntaxique et le goût
+   poétique pour une certaine sensorialité de l’expression.
 
    Du diaphane, Dire et voir, Montrer l’âme, Images de soi  : votre œuvre
    philosophique est traversée par la question de la représentation, de
@@ -89,7 +290,99 @@ Vous êtes ici
    d’accessibilité à la visibilité des choses.
 
    Détail de "l'École d'Athènes", œuvre de Raphaël (1483 - 1520)
---
+   représentant des philosophes grecs réunis autour de Platon (toge rouge)
+   et Aristote (toge bleue). Fresque, vers 1509-1511, Palais du Vatican.
+
+   CNRS Le Journal (BUTTON)
+   Détail de "l'École d'Athènes", œuvre de Raphaël (1483 - 1520)
+   représentant des philosophes grecs réunis autour de Platon (toge rouge)
+   et Aristote (toge bleue). Fresque, vers 1509-1511, Palais du Vatican.
+   Pictures from History/David Henley / Bridgeman Images
+   Pictures from History/David Henley / Bridgeman Images
+   Partager
+   Partager
+
+   Immédiatement après ce déploiement conceptuel de l’optique et de la
+   définition de la vue, des couleurs et de la luminosité, il transpose ce
+   mécanisme à l’intellection et compare l’intellect à la lumière.
+   L’intellect est comme la lumière ; le statut de la lumière n’est pas
+   physique mais métaphysique ; la lumière fonctionne comme un premier
+   moteur du monde qui agit sur ce qui est dans l’ordre du devenir, mais
+   sans en être elle-même affectée. La lumière n’étant pas corporelle,
+   elle est quelque chose de comparable à un agent qui ne s’arrête jamais
+   d’être en action. Pour nous, qui connaissons la nature physique de la
+   lumière, les choses paraissent évidentes ; pour les Anciens, elles ne
+   l’étaient pas. J’ai compris en travaillant sur le traité De l’âme mais
+   aussi sur le Traité des sens puis sur la Métaphysique que pour les
+   Anciens, les questions de la pensée et de la vision sont liées et
+   complémentaires. La manière dont la rationalité de la pensée exprime
+   l’expérience perceptive – visuelle dans le cas précis – fait qu'elles
+   sont indéfectiblement reliées. C’est sur cette base, ce socle
+   conceptuel, que j’ai construit ma démarche de philosophe.
+
+   L’image est-elle un double de la parole ?
+   A. V. Ce n’est pas un double, car elle serait alors une copie, une
+   ombre, un reflet ou un fantôme, mais le complément de la parole qui
+   révèle une réalité propre de l’expression, celle que nous donnons à ce
+   que nous voyons et disons en même temps. Ce complément peut être
+   visible mais peut être de l’ordre d’une idée ou d’une représentation
+   conceptuelle.
+
+   Il n’y a pas de pensée sans image dans la philosophie classique ?
+   A. V. Platon analyse le statut des images dans Le Sophiste par exemple,
+   mais en même temps il utilise lui-même des images comme dans le Phèdre
+   où tout le prologue montre la construction d’une image. Socrate et
+   Phèdre se rencontrent dans un endroit précis d’Athènes, sortent et vont
+   se promener au bord d’une rivière en cherchant l’ombre d’un platane.
+   Avoir la connaissance de son image, c’est déjà avoir une conscience de
+   soi.
+
+   Cette image, composée de références à Homère, toute tissée de topoï
+   empruntés à la littérature homérique, est construite de manière telle
+   que le sens du texte peut déjà commencer à cheminer dans l’esprit du
+   lecteur. L’image ouvre la voie à la mise en place de la thématique, ici
+   la thématique de l’âme. La définition de l’âme ne peut se faire que
+   dans le cadre d’une image donnée.
+
+   Pour forger son identité, l’humain a besoin d’une image de lui-même.
+   Cette idée transforme-t-elle la question de la conscience de soi ?
+   A. V. Quand j’ai écrit le livre intitulé Images de soi, j’avais bien
+   sûr en tête le « je pense donc je suis ». Mais mon souhait a été de
+   partir de l’idée qu’avoir la connaissance de son image, c’est déjà
+   avoir une conscience de soi. Tous mes travaux de recherches s’appuyant
+   sur des textes, je suis partie d’un texte d’Apulée intitulé L’Apologie.
+   L’auteur y raconte dans un récit dont on ne sait s’il est une fiction
+   ou une histoire véritable, un procès qui lui est fait car il possède un
+   miroir. Cette possession ferait de lui, selon ses accusateurs, un
+   magicien, faiseur de sortilèges. Apulée le présente au contraire comme
+   une nécessité, celle de se connaître lui-même en tant que philosophe,
+   puisque tel est le titre qu’il se donne.
+
+   À gauche, portrait d'Apulée (Lucius Apuleius), philosophe et écrivain
+   latin né vers 125, mort vers 180 (gravure tirée de “Life of the
+   Ancients” de Georg Wilhelm Zapf, 1784). À droite, page des "Œuvres"
+   d'Apulée, impression par Konrad Sweynheym et Arnold Pannartz, 1469,
+   Venise, Biblioteca Marciana.
+
+   CNRS Le Journal (BUTTON)
+   À gauche, portrait d'Apulée (Lucius Apuleius), philosophe et écrivain
+   latin né vers 125, mort vers 180 (gravure tirée de “Life of the
+   Ancients” de Georg Wilhelm Zapf, 1784). À droite, page des "Œuvres"
+   d'Apulée, impression par Konrad Sweynheym et Arnold Pannartz, 1469,
+   Venise, Biblioteca Marciana.
+   Fototeca Gilardi / Bridgeman Images - Electa / Bridgeman Images
+   Fototeca Gilardi / Bridgeman Images - Electa / Bridgeman Images
+   Partager
+   Partager
+
+   En analysant le texte d’Apulée, on comprend que la question de l’image
+   qu’on a et qu’on donne de soi est centrale à la conscience qu’on a de
+   soi. Avoir accès à l’image de ce que nous sommes est le chemin qui mène
+   à la connaissance de ce que nous sommes. Cette idée n’est pas propre à
+   Apulée. Elle est présente dans une constellation de textes de
+   l’Antiquité tardive.
+
+   Ces images auxquelles se réfèrent les philosophes anciens comme Platon
    ont-elles quelque chose en commun avec le siècle de l’image dans lequel
    nous vivons ?
    A. V. Le monde actuel parle (et vit) uniquement d’images visuelles, de
@@ -111,3 +404,153 @@ Vous êtes ici
    Conservatori, Rome.
    Alinari / Bridgeman Images
    Alinari / Bridgeman Images
+   Partager
+   Partager
+
+   Les Anciens créent à dessein des figurations et, en apprenant les arts
+   du langage, ils apprenaient aussi à voir et à utiliser les vertus
+   cognitives inscrites dans la visibilité révélée des choses. Le monde
+   était une image, mais parce qu’il y avait un sens de le concevoir comme
+   une image ; le monde n’était pas donné en photos ou en projections
+   virtuelles de ce qui n’est pas accessible à l’œil nu. Quand Phidias
+   crée la statue d’un dieu, il crée visiblement l’invisible à partir d’un
+   art qui articule divinement les données du visible. Quand Homère
+   (Iliade, ch. 18) décrit le bouclier qu’Héphaïstos est en train de
+   forger pour Achille, il donne à voir une image complète du monde dans
+   lequel a lieu le siège de Troie et révèle ainsi le sens cosmologique du
+   poème. Quand un sophiste montre de loin des images à des jeunes
+   apprentis philosophes, il leur indique le chemin de la découverte de la
+   réalité et de la vérité de l’étant. Nous n’en sommes pas là. Les images
+   du monde actuel sont un voile, non le résultat d’un dévoilement, d’une
+   révélation de la phénoménalité qui s’offre à la vision et à la
+   pensée. ♦
+
+   Références bibliographiques
+   Montrer l'âme. Lecture du Phèdre de Platon, Vrin/Presses de Sorbonne
+   Université, 2021, 484 p. 18 euros.
+   Images de soi dans l’Antiquité tardive, Vrin, coll. " Bibliothèque
+   d'Histoire de la Philosophie", 2012, 288 p., 29 euros.
+   Dire et voir. La parole visible du Sophiste, Vrin, coll. " Bibliothèque
+   d'Histoire de la Philosophie", 2008, 384 p., 32 euros.
+   Du Diaphane. Image, milieu, lumière dans la pensée antique et
+   médiévale, Vrin, coll. "Études de philosophie médiévale", 1997, 320 p.,
+   40 euros.
+
+   A lire sur notre site
+   Ce que la psychologie doit à Platon (entretien avec Olivier Houdé)
+   Barbara Cassin, le pouvoir des mots
+
+   Notes
+     * 1. Anca Vasiliu est directrice de recherche au CNRS, au Centre Léon
+       Robin de recherches sur la pensée antique (unité CNRS/Sorbonne
+       Université).
+
+Voir aussi
+
+   Sociétés
+   Blog
+   23/12/2025
+   Cartographier les vestiges du passé pour mieux raconter l’...
+   Avatar, Fire and Ash, James Cameron © The Walt Disney Company France
+   Article
+   16/12/2025
+   Avatar : dialogue avec la science
+   Philippe Aghion en octobre 2020
+   Article
+   17/12/2025
+   Philippe Aghion : « Mon obsession, c’est la pauvreté, pas les ...
+   Blog
+   12/12/2025
+   Le juste prix du CO₂
+   Blog
+   08/12/2025
+   Stalagmite story, une BD à découvrir
+   Entretien
+   Collection ChristopheL © Focus Features - Maiden Voyage - Stillking
+   Films - Studio 8
+   Article
+   19/12/2024
+   « Les vampires entrelacent faire peur, faire rire et faire jouir...
+   Article
+   16/12/2024
+   Les enjeux bien terrestres des télescopes
+   Article
+   17/10/2024
+   Friends, le robot qui s'adapte en un clin d'œil
+   Article
+   16/09/2024
+   Des femmes allemandes appelées aux colonies
+   Article
+   03/09/2024
+   La voix ressuscitée d’André Breton
+   Image
+   Article
+   17/09/2020
+   La Joconde révèle son spolvero
+   Blog
+   22/07/2015
+   Voir et Savoir
+   Représentation graphique du chant de la baleine à bosse
+   Article
+   10/08/2015
+   «Il n’y a pas de frontière entre maths pures et appliquées»
+   Médaille 2015 de l'innovation
+   Audio
+   10/06/2015
+   Un quatuor pour l'innovation
+   Article
+   16/02/2015
+   La mémoire filmée de la Shoah
+
+Auteur
+
+   Brigitte Perucca
+
+   Brigitte Perucca a été rédactrice en chef au Monde de l'éducation et
+   directrice de la communication du CNRS de 2011 à 2020.
+   En savoir plus sur l'auteur
+
+Mots-clés
+
+   Image Langage pensée Identité vision Platon Aristote textes anciens
+   grec Connaissance Socrate Apulée Antiquité Homère
+
+Partager cet article
+
+     * À propos
+     * Newsletters
+     * Équipe / crédits
+     * Nous contacter
+     * Charte d'utilisation
+     * Plan du site
+     * Données personnelles
+     * Mentions légales
+
+Numéros papiers
+
+   CNRS Le Journal - octobre 2025
+   n°321
+   Voir tous les numéros
+
+Nous suivre
+
+     * Twitter
+     * Facebook
+     * Bluesky
+     * YouTube
+
+Partager
+
+     * Twitter
+     * Facebook
+     *
+     * Email
+
+   [logofondation.svg] Faites un don pour la recherche !
+   Centre National de la Recherche Scientifique
+   © 2026, CNRS
+     * Créer un compte
+     * Se connecter
+     * Mon compte
+     * Accessibilité : non conforme
+     * Gestion des cookies
