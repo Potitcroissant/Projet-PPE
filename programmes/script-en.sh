@@ -18,7 +18,7 @@ echo -e "<html>
 
 	<body>
 		<div class=\"content has-text-inherit\">
-            <div class=\"has-background-primary navbar\">
+            <div class=\"navbar is-primary\">
                 <a href=\"../index.html\" class=\"title is-2 mt-4 ml-4\">\"Regard\" sur Internet</a>
                     <div class=\"navbar-end mr-4\">
                         <div class=\"navbar-item has-dropdown is-hoverable\">
@@ -29,7 +29,7 @@ echo -e "<html>
                                 <a href=\"../tableaux/ar.html\" class=\"navbar-item\">Arabe</a>
                             </div>
                         </div>
-                    <a class=\"navbar-item\">Scripts</a>
+                    <a href=\"../script.html\" class=\"navbar-item\">Scripts</a>
                     <a class=\"navbar-item\">Résultats</a>
                 </div>
             </div>

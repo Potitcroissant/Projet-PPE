@@ -288,6 +288,7 @@ Search
 
 Monthly archives
 
+     * January 2026 (2)
      * December 2025 (75)
      * November 2025 (74)
      * October 2025 (75)
@@ -436,7 +437,7 @@ Tags
 
 Statistics
 
-     * 21,099,471 hits
+     * 21,105,684 hits
 
    Blog at WordPress.com.
 
@@ -491,7 +492,7 @@ Post navigation
      * Reblog
      * Subscribe Subscribed
           + The Eclectic Light Company
-            Join 8,892 other subscribers
+            Join 8,894 other subscribers
             ____________________
             (Sign me up) Sign me up
           + Already have a WordPress.com account? Log in now.

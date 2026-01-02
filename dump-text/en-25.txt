@@ -5,6 +5,7 @@
      * Sport
      * Business
      * Innovation
+     * Health
      * Culture
      * Arts
      * Travel
@@ -69,11 +70,13 @@
      Innovation
      * Technology
 
-     Science & Health
+     Science
 
      Artificial Intelligence
 
      AI v the Mind
+
+     Health
 
      Culture
      * Film & TV
@@ -154,6 +157,7 @@
    (BUTTON) Sport
    (BUTTON) Business
    (BUTTON) Innovation
+   (BUTTON) Health
    (BUTTON) Culture
    (BUTTON) Arts
    (BUTTON) Travel
