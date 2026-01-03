@@ -1,1 +1,299 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: '3',cZone: 'fr.forvo.com',cType: 'managed',cRay: '9b824551cd68f4f5',cH: 'vfEJgFuuA0Ww_9Yz6XqMM0SGf77k_osnPmBMkxTfEvI-1767440944-1.2.1.1-hWb_g3.J8IFuwhD_6dzqIa2vINTFViky_OgpGhZ30Yb7lHXlMBKzk7Uyvs62itPr',cUPMDTk:"\/word\/%D9%86%D8%B8%D8%B1\/?__cf_chl_tk=uXp1rVgl_g3E4DWZxwqy47NI9cGrncx7luxhI4KiiOk-1767440944-1.0.1.1-t21cbOYOcyOmB3UQ5pWdTIvxHMxTX4hWzePboMC2dwc",cFPWv: 'g',cITimeS: '1767440944',cTplC:0,cTplV:5,cTplB: '0',fa:"\/word\/%D9%86%D8%B8%D8%B1\/?__cf_chl_f_tk=uXp1rVgl_g3E4DWZxwqy47NI9cGrncx7luxhI4KiiOk-1767440944-1.0.1.1-t21cbOYOcyOmB3UQ5pWdTIvxHMxTX4hWzePboMC2dwc",md: '9QXO0I6.o3HEhi8.CJ7g2dwXu.jJyVGk6shpAuR0TxU-1767440944-1.2.1.1-LDGhRYkpfpdsSpaxrVcP1lbV7YFFijfCpsEeecF2NvGpkEJx4wzH0g7c3PJ40yKKww4NhRCdeEoEzzC6aqJzldnFQSLvUOlxaFZb_70TRzurzcF7UmFajIdJV1YkywhNl1WjAEnzrIivy81ygCJ9umK7KeZZcR6VQPc6PoAwpK8T7hYPxxO27RdVpZTEvWZvgIMuBmVXruGYHfM4XSHfW17ZECLIfsWZa66xJay_G2rKj6qU8MSWyTSghZavPT7dEY3w_EtNJzXnjNhLPro5nU3O3AAVeFrbUCchV4ZWLLlXHPRmaJefvJk_edjEKCGm29jURiaI_dctGRTQoKgcOfQd1rVt_4BrkkhrJSEStjDlVtLp194VBWQ2Jkno7IZj._90MeXzPJ3k0Iyt_pTwwGqxv3F4bDhRy3IJ5FcxMueJxaHeZZmI.520Tznsb36dSZr6WjvOzapHN6d5HicDhcS.pswGz9fLfuvAevfGm1QBb7zctzzZI_NbI6JvCjNCPePVv.jvySabffNo.L_qL4g.XmLH1kb7VMtwzmurjvtmhoBqJAfl96O9vrasnBNZV3ccm0N3ug0EISgJ2eiJv4s7MaOEGlJuU0loaZ1sZFOV_GhwvRSBOB9tsJhl.vSBdJJA.MaIAy82622BtkiPP3NupByiwshL8dmYZLFbzY45ekdSJfilrNXk96dR91oOVcbrIqiuMQsi9BQGhhftWhQyJTFDzHdDJUOWyRGHpgQ8mG3u8VSv8B52fHgkoTovP0ns_PB2xnUVXDmWmTPwVuFMrdk3Q5faGHAHK5VBixsUxydafvtClRR.tA9oy_pLPi5KtANWS96qnov8bFMrTABqKWXfX8C30sitdEQKOqFbuVRvUIWfjoPFEkQ2bWh6WnDxDvXiKccaIvjcgo7AcDm9Q5Uov_Cyn8tXTSZCMXnwzCGpv3EUvSAG7JaIe0ZC',mdrd: '.s0oUgyOKo7nwG3SZcscxPbvHgYbrGe5k76RdrkEyeI-1767440944-1.2.1.1-hwdFW9XkLsdOmDmnyW_BGKoNLtB4F3YOoTCF7XpwOa7OjMtN7U6W0ccP5xooOWNk6JL2r3_b4Di2TFuHXmohWpA_DuBvrkyXdREFqkpOS2LmV6BvBbvSKO3ZGqEI5J5phbgWIRjku1Vhn4UnVutuafxSs9tJWxDO6Tk8hlhypz0jiBNDcwg3AN1g6si75FRDU1RX6Y.MysNIRpY9LevxiYbiW9bvjxjME3IDhx5sY2EqwWhrW58mQFQg.iGKSaInwd4uFMUl9aMVeyi6da_50mWCphyEd3imbQw5bstyP8hz084wzYTfxm0._LL0jvu2qZsFbOWbvspOvG.FUpVoJCzTvehsgrQh0yM.mfqy1a97rjrKw7IibiFnNRxEfd.m8X5Hueh7y1UD88_MngLYsJ4xH4MLqa1CR7mcinCzYteYW.z5kqyNaIGPpA38IwhfkqL1BhS2ZRdpEBSWQbJkpEtbslxuS8VZzNQ4hPlyehWdBc7ubrhZHVKGmAPQaQZt3msbY_1oMdtNi8ke1vxN2boTMHVgPWdPv2ThWpQmQ8x8mkVRNCqLRqIgvftLMkvY65.1_BoLLazHD5VIe2dpaqiGPInJiQXcw08vlZBhTi4WfV7M.5ups5.P6JHvdeNiUqANq_Y0eXOzUESpLyCWH4vtt_jrO6t_UNpaFlrccH0hAijohR.tl_dAJPN46E18YT66ZlhRtVq2gbY5E.6CGmSmOLRdwjDpUvXDx9LOF91Cm4W76mBnRPH5y2ejfkB1AFlvYa9nWqxIkDc7B4NIGzrmWiMrVDpvDJcj5ZpY5aLbLw26S0MeSm.8ULNtmmf9c.3A5Ahx4Pqxbu5SOVIax7e6Zr1gBTQhY2MwPjBzallB7Z6LtHfjv_JWzxOHVR3y1ueP2BYNiHCoZSIM3DC.uB6XgjU0xY_sk3MHrAI13pcSq.Qz3sDNw6vZnGEt9ouhMT48gfb4XM_gzl_OeRXZppHIXTPQBRTo5..go94eH_OwFIZLqf13_.7FK0z7PCE8BLUoKKuhAp7sNBHODIqgDOsRcBVY_tuSHQnbJDM4d2DlZR5mcwUjQVw.ppTFCaRP2TB9mAKiHYKtZiNInUPJP9592y0uxwtmjyLnMdFVf32TsleyeKU9pWT0i8snhFH7OejFWQ1uz_z48Sa5_lNzZLDKKccXGgIezplO7ujeVzOHalXHxQPQNhjvmfjSE8a_imRTKlRkktT_QOJ1ZJwKytEsHXDTfgFr1YYM0FF3qLHHVNe0TzR67zxe0XncAqOdh.t347sMiQNwAe_YkbqwfrMXVjLV3opa5GzUwE_BV8D9_Hdm8rC4PIKLVAgKBE18jpgBqzW88k_COIUv5Vh28ugp5KY4piEG5XUEaySZIA_kVhuFsY6.e1Llk01DViQOgiMVwHy8umacqBH1jPd7et8yboa1GMopDa3GGd3NuILK7V.6AQn.ExvKVhG.g5IwRqOAcCAC2MtiroI5QBK0FXfz_4Sbg0THdTESr3YIO0BZwW07baF_fSfNWHVx2Mmz9rqwGo.sXRcpeSx7bbYm2IAYX7cUNwZBLOTyWITn61oVxWCnDRhqZg6hfQTPJtWWhA7cN66y7qDGaPXj9bQ9ezP20prlazx34AIyMjgSnUXtPndR1uXc6abomT39_w25ahFGxm9HycvuhEYXAWNrQZOjWbPlI_dGpTejlnXsGosCA6iRMpSlQ9BWsZXmotINZ_rQVQYUYp7hex2uQa0rMyyLnsfY5br85axpOSZ9BOt2oDNIIYHkjDqUkF59RuHEOmpJdOB2txsKfJwwe3Tx_qBj16DWc8ZWO8y5RzEZWI31Jm551LIf9Nd6PB.REL7gh5T7v.5cD.Ys1NvVz3fn61_cgWHMDn94XvEDVvzw6fpHrEZoljk38IYrSUJH8X6pTvUhJ52jneZASYWR91Fx3Mdalg.bWkl0em8XwppwUTvkinYpb6ap.E5H.exuFEEzQEPKlVOP5D4VjS6rmo8t_afNDDRqtMmob5f1ipS21vAjfnBnJLkwtAUd8kgYwu6HHE2aVbV3d91QgPRJZjiqE41rvo7SDNu9jkiWYUyctJ7YNiCkXBI.pAy0GuOd5Vuv1TuELZfMfNWhRSeGWvzOpkPXdMkirPA2JQoOLAjn5ANWnsGJoFBuTCHn1SnsCZUtLCSSLP7iDHfY3m3AeltZQQhx_MbVDpIroO3aHxoVqbs5sQwCqWqzi1rhErx.zuABDW2YIrsHWl4vLljkbWsQhgnVaKRKyrUSFFM4lay4FqTwTp7amQSD2rh.naRpt6gu28hJs.YV7KY4AHsVnTRrC21SpYaDb9CdA49pzF3iMKzpIOMshh7TpSLXy72V8YYEAnoqukTeEcfEsoAs1vs17ULonKRJMZFKyuL.vBthCToGYF9TnBq20vfRC.nUHCP82yxHsHJdnxLpd6SERacBNQ',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9b824551cd68f4f5';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\/word\/%D9%86%D8%B8%D8%B1\/?__cf_chl_rt_tk=uXp1rVgl_g3E4DWZxwqy47NI9cGrncx7luxhI4KiiOk-1767440944-1.0.1.1-t21cbOYOcyOmB3UQ5pWdTIvxHMxTX4hWzePboMC2dwc"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+   HTTP/2 200 date: Sat, 03 Jan 2026 13:57:23 GMT server: ATS/9.2.11
+   x-content-type-options: nosniff content-language: en accept-ch:
+   content-security-policy-report-only: script-src 'unsafe-eval' blob:
+   'self' meta.wikimedia.org *.wikimedia.org *.wikipedia.org
+   *.wikinews.org *.wiktionary.org *.wikibooks.org *.wikiversity.org
+   *.wikisource.org wikisource.org *.wikiquote.org *.wikidata.org
+   *.wikifunctions.org *.wikivoyage.org *.mediawiki.org 'unsafe-inline'
+   auth.wikimedia.org; default-src 'self' data: blob: upload.wikimedia.org
+   https://commons.wikimedia.org meta.wikimedia.org *.wikimedia.org
+   *.wikipedia.org *.wikinews.org *.wiktionary.org *.wikibooks.org
+   *.wikiversity.org *.wikisource.org wikisource.org *.wikiquote.org
+   *.wikidata.org *.wikifunctions.org *.wikivoyage.org *.mediawiki.org
+   wikimedia.org en.wikipedia.org en.wikibooks.org en.wikinews.org
+   en.wikiquote.org en.wikisource.org en.wikiversity.org en.wikivoyage.org
+   www.mediawiki.org api.wikimedia.org commons.wikimedia.org
+   foundation.wikimedia.org incubator.wikimedia.org species.wikimedia.org
+   wikimania.wikimedia.org www.wikidata.org www.wikifunctions.org
+   auth.wikimedia.org; style-src 'self' data: blob: upload.wikimedia.org
+   https://commons.wikimedia.org meta.wikimedia.org *.wikimedia.org
+   *.wikipedia.org *.wikinews.org *.wiktionary.org *.wikibooks.org
+   *.wikiversity.org *.wikisource.org wikisource.org *.wikiquote.org
+   *.wikidata.org *.wikifunctions.org *.wikivoyage.org *.mediawiki.org
+   wikimedia.org 'unsafe-inline'; object-src 'none'; report-uri
+   /w/api.php?action=cspreport&format=json&reportonly=1 last-modified:
+   Fri, 02 Jan 2026 04:19:24 GMT content-type: text/html; charset=UTF-8
+   age: 0 accept-ranges: bytes x-cache: cp6015 hit, cp6010 miss
+   x-cache-status: hit-local server-timing: cache;desc="hit-local",
+   host;desc="cp6010" strict-transport-security: max-age=106384710;
+   includeSubDomains; preload report-to: { "group": "wm_nel", "max_age":
+   604800, "endpoints": [{ "url":
+   "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi
+   .network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+   nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
+   0.05, "success_fraction": 0.0} set-cookie:
+   WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04 Feb
+   2026 12:00:00 GMT set-cookie:
+   WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wiktionary.org;HttpOn
+   ly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
+   WMF-DP=d06;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+   x-client-ip: 46.193.69.129 cache-control: private, s-maxage=0,
+   max-age=0, must-revalidate, no-transform vary:
+   Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
+   GeoIP=FR:IDF:V__lizy-Villacoublay:48.79:2.20:v4; Path=/; secure;
+   Domain=.wiktionary.org set-cookie:
+   NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+   set-cookie:
+   WMF-Uniq=V_s9w45SpSB3PeFUjkNkvgLdAAAAAFvdRIT6FxFEVcI2JHTOY0rf8aaM2IE-4z
+   Qi;Domain=.wiktionary.org;Path=/;HttpOnly;secure;SameSite=None;Expires=
+   Sun, 03 Jan 2027 00:00:00 GMT content-length: 105941 x-request-id:
+   991d480b-7da9-466e-b5da-91a2baf664c6 #Edit Wiktionary (en) Wiktionary
+   Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Community portal
+     * Requested entries
+     * Recent changes
+     * Random entry
+     * Help
+     * Glossary
+     * Contact us
+     * Special pages
+
+   Wiktionary The Free Dictionary
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donations
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donations
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * Beginning
+     * 1 Arabic
+       (BUTTON) Toggle Arabic subsection
+          + 1.1 Noun
+               o 1.1.1 Declension
+     * 2 Hijazi Arabic
+       (BUTTON) Toggle Hijazi Arabic subsection
+          + 2.1 Etymology
+          + 2.2 Pronunciation
+          + 2.3 Noun
+
+   [ ] Toggle the table of contents
+
+نظرة
+
+   [ ] 6 languages
+     * Français
+     * Kurdî
+     * Magyar
+     * Malagasy
+     * Polski
+     * Português
+
+     * Entry
+     * Discussion
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Create a book
+     * Download as PDF
+     * Printable version
+
+   In other projects
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wiktionary, the free dictionary
+
+Arabic
+
+   [edit]
+
+Noun
+
+   [edit]
+
+   نَظْرَة • (naẓra) f (dual نَظْرَتَان (naẓratān), plural نَظَرَات
+   (naẓarāt))
+    1. instance noun of نَظَرَ (naẓara): a look
+
+                أَلْقَى نَظْرَةً ― ʔalqā naẓratan ― he had a look
+
+    2. perspective
+
+Declension
+
+   [edit]
+
+   CAPTION: Declension of noun نَظْرَة (naẓra)
+
+   singular singular triptote in ـَة (-a)
+   indefinite definite construct
+   informal نَظْرَة
+   naẓra النَّظْرَة
+   an-naẓra نَظْرَة
+   naẓrat
+   nominative نَظْرَةٌ
+   naẓratun النَّظْرَةُ
+   an-naẓratu نَظْرَةُ
+   naẓratu
+   accusative نَظْرَةً
+   naẓratan النَّظْرَةَ
+   an-naẓrata نَظْرَةَ
+   naẓrata
+   genitive نَظْرَةٍ
+   naẓratin النَّظْرَةِ
+   an-naẓrati نَظْرَةِ
+   naẓrati
+   dual indefinite definite construct
+   informal نَظْرَتَيْن
+   naẓratayn النَّظْرَتَيْن
+   an-naẓratayn نَظْرَتَيْ
+   naẓratay
+   nominative نَظْرَتَانِ
+   naẓratāni النَّظْرَتَانِ
+   an-naẓratāni نَظْرَتَا
+   naẓratā
+   accusative نَظْرَتَيْنِ
+   naẓratayni النَّظْرَتَيْنِ
+   an-naẓratayni نَظْرَتَيْ
+   naẓratay
+   genitive نَظْرَتَيْنِ
+   naẓratayni النَّظْرَتَيْنِ
+   an-naẓratayni نَظْرَتَيْ
+   naẓratay
+   plural sound feminine plural
+   indefinite definite construct
+   informal نَظَرَات
+   naẓarāt النَّظَرَات
+   an-naẓarāt نَظَرَات
+   naẓarāt
+   nominative نَظَرَاتٌ
+   naẓarātun النَّظَرَاتُ
+   an-naẓarātu نَظَرَاتُ
+   naẓarātu
+   accusative نَظَرَاتٍ
+   naẓarātin النَّظَرَاتِ
+   an-naẓarāti نَظَرَاتِ
+   naẓarāti
+   genitive نَظَرَاتٍ
+   naẓarātin النَّظَرَاتِ
+   an-naẓarāti نَظَرَاتِ
+   naẓarāti
+
+Hijazi Arabic
+
+   [edit]
+    Root
+   ن ظ ر
+   5 terms
+
+Etymology
+
+   [edit]
+
+   Learned borrowing from Arabic نَظْرَة (naẓra).
+
+Pronunciation
+
+   [edit]
+     * IPA^(key): /nazˤ.ra/, /naðˤ.ra/
+
+Noun
+
+   [edit]
+
+   نظرة • (naẓra) f (plural نَظْرات (naẓrāt) or نَظَرات (naẓarāt))
+    1. a look
+
+                Synonym: شوفة (šōfa)
+
+   Retrieved from
+   "https://en.wiktionary.org/w/index.php?title=نظرة&oldid=87620395"
+   Categories:
+     * Arabic lemmas
+     * Arabic nouns
+     * Arabic feminine nouns
+     * Arabic instance nouns
+     * Arabic terms with usage examples
+     * Arabic nouns with triptote singular in -a
+     * Arabic nouns with sound feminine plural
+     * Arabic terms belonging to the root ن ظ ر
+     * Hijazi Arabic terms belonging to the root ن ظ ر
+     * Hijazi Arabic terms borrowed from Arabic
+     * Hijazi Arabic learned borrowings from Arabic
+     * Hijazi Arabic terms derived from Arabic
+     * Hijazi Arabic terms with IPA pronunciation
+     * Hijazi Arabic lemmas
+     * Hijazi Arabic nouns
+     * Hijazi Arabic feminine nouns
+
+   Hidden categories:
+     * Pages with entries
+     * Pages with 2 entries
+
+     * This page was last edited on 27 October 2025, at 03:11.
+     * Definitions and other text are available under the Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the Terms of Use and Privacy Policy.
+
+     * Privacy policy
+     * About Wiktionary
+     * Disclaimers
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   نظرة
+   (BUTTON) 6 languages Add topic

@@ -1,172 +1,2806 @@
-<!DOCTYPE html>
-<html dir="rtl" lang="ar">
+   HTTP/2 200 date: Sat, 03 Jan 2026 13:57:28 GMT content-type: text/html;
+   charset=utf-8 cache-control: max-age=0, private, must-revalidate
+   strict-transport-security: max-age=7776000 link: ; rel=preload;
+   as=style; nopush,; rel=preload; as=script; nopush nel:
+   {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"su
+   ccess_fraction":0.01,"failure_fraction":0.1} referrer-policy:
+   strict-origin-when-cross-origin report-to:
+   {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/repor
+   ts?s=vxpGAtvvSqFvG%2F0jRfL%2BDwnqAHSUQjzpRCPukgmoY8o%3D\u0026sid=812dcc
+   77-0bd0-43b1-a5f1-b25750382959\u0026ts=1767448647"}],"max_age":3600}
+   reporting-endpoints:
+   heroku-nel="https://nel.heroku.com/reports?s=vxpGAtvvSqFvG%2F0jRfL%2BDw
+   nqAHSUQjzpRCPukgmoY8o%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=17
+   67448647" server: cloudflare set-cookie:
+   _megacms_session=%2B0J9ZCUX9vlGEefJP9cyveAefFEHFH4%2BagyxqHkVoPMxFzHPLE
+   8K2JnDzqNGbaDPQZ0b%2BrNcW1PFRZfmhXNNahWY2rZLozSu4ef0%2FbfL%2FP9eXWHJipE
+   yl7F0qBm5TrgCnO3LNRyPcTvqzcUMCqyqy6x3As%2B6z3ntTbitSaPvep1MIdA3XRD5ikmR
+   aGtrimwBbHCH%2FqP92f9KvaQxbnkTeSq8wS3I7a28e829EfX4ru87%2FqoPONX7LHJcAbg
+   e2dYNOaZCXsaZN8KHyb1TvHzEIRWACtWPn5dM--QCdaDGqWxtkxTZTd--tF6jJk8Npc1eR1
+   H%2BD6hkKw%3D%3D; path=/; HttpOnly; SameSite=Lax vary: Accept, Origin
+   via: 1.1 heroku-router x-content-type-options: nosniff
+   x-download-options: noopen x-frame-options: ALLOW-FROM 94.75.227.134
+   x-permitted-cross-domain-policies: none x-request-id:
+   29061082-a0f3-a7b8-01ca-89ca8966ec5d x-runtime: 0.670857
+   x-xss-protection: 1; mode=block cf-cache-status: DYNAMIC cf-ray:
+   9b83015d6da8b6e3-CDG alt-svc: h3=":443"; ma=86400
+   [tr?id=465426948355177&ev=PageView&noscript=1]
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <link rel="profile" href="https://gmpg.org/xfn/11">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7182332110303122" crossorigin="anonymous"></script>
-    
-<!-- تحسين محرك البحث بواسطة رانك ماث - https://rankmath.com/ -->
-<title>معنى و تعريف و شرح و جذر و وزن كلمة نظرة في معجم عربي عربي</title>
-<meta name="description" content="معنى و تعريف و شرح و جذر و وزن كلمة نظرة في معجم عربي عربي"/>
-<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
-<link rel="canonical" href="https://alkamoos.miniindustry.com/c2/معنى-%d9%86%d8%b8%d8%b1%d8%a9.html" />
-<meta property="og:locale" content="ar_AR" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="معنى و تعريف و شرح و جذر و وزن كلمة نظرة في معجم عربي عربي" />
-<meta property="og:description" content="معنى و تعريف و شرح و جذر و وزن كلمة نظرة في معجم عربي عربي" />
-<meta property="og:url" content="https://alkamoos.miniindustry.com/c2/معنى-%d9%86%d8%b8%d8%b1%d8%a9.html" />
-<meta property="og:site_name" content="القاموس" />
-<meta property="article:section" content="اسم" />
-<meta property="og:updated_time" content="2024-03-13T23:10:36+02:00" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="معنى و تعريف و شرح و جذر و وزن كلمة نظرة في معجم عربي عربي" />
-<meta name="twitter:description" content="معنى و تعريف و شرح و جذر و وزن كلمة نظرة في معجم عربي عربي" />
-<!-- /إضافة تحسين محركات البحث لووردبريس Rank Math -->
-<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
-img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
-/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
-</style>
-<link data-optimized="2" rel="stylesheet" href="https://alkamoos.miniindustry.com/wp-content/litespeed/css/84303a96d7e2ac256c5a50c97e8b179b.css?ver=c5524" />
-<link rel='stylesheet' id='bootstrap-css' href='https://alkamoos.miniindustry.com/wp-content/themes/dev-core/bootstrap/css/bootstrap.rtl.css?ver=1757687633' type='text/css' media='all' />
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W7RX5XR
+
+   للدعم المالي Support Us
+   Megaphone Logo
+   Facebook icon Instagram icon X icon Youtube icon WhatsApp icon TikTok
+   icon Threads icon Email icon
+   للدعم المالي Support Us
+   (BUTTON)
+   لحظة! نحن نستعمل ملفات تعريف الارتباط على موقعنا.
+   نقوم بجمع ملفات تعريف الارتباط الوظيفيّة (functionality cookies)
+   ونستخدمها حصراً لتعزيز موقعنا وتحسين تجربتك في قراءة محتوانا. للمزيد من
+   المعلومات
+   Wait! We use cookies
+   on this website.
+   We only collect functionality cookies to improve our site and enhance
+   your reading experience. More information
+   (BUTTON) أوافق • I Accept
+   [ ] مواضيع
+   طوفان الأقصى الحرب على لبنان المرحلة الانتقالية في سوريا نظام الكراهية
+     __________________________________________________________________
+
+   هندسة الانهيار الاقتصادي انفجار المرفأ محاكمة رياض سلامة مصارف
+     __________________________________________________________________
+
+   عنصرية وكراهية عنف وقمع في زمن الانهيار سجون
+     __________________________________________________________________
+
+   نسويّة كويريّة تحرّش أزمة الذكورة
+     __________________________________________________________________
+
+   تعاونيات
+     __________________________________________________________________
+
+   عن ميغافون • About Megaphone
+   سياسة الخصوصية • Privacy Policy
+   Facebook icon Instagram icon X icon Youtube icon WhatsApp icon TikTok
+   icon Threads icon Email icon
+   © 2026 ميغافون .
+   المحتوى متوفّر تحت رخصة المشاع الإبداعي، الترخيص بالمثل 4.0 دولي
+   نظرة عقاب النسيان
+   پترا سرحال
+
+كوريوغرافيا النظر
+
+عين ساهرة، نظرة قاتلة
+
+   12 آب 2023
+   [ ]
+   Share Icon Share Button
+
+1. عين العقل
+
+   أخرج من منزلي. أمشي في الطرقات. تلاحقني عيون.
+   نظرات.
+   نظراتٌ تحدّق.
+   نظرةٌ مباشرةٌ إلى جسمي…
+   تُمرّر النظرة من شخصٍ إلى آخر من دون توقف. تسلُّمٌ وتسليم.
+   أحاول تجنّبها.
+   عينٌ لا ترى، قلبٌ لا يوجع.
+   أنظر ثم أحجب نظري. وكلّما حجبتُ نظري، اختفَت أناي.
+   أتحوّل إلى أجزاء.
+   أحاول النظر إلى الوراء. هل سأذوب ملحاً؟
+   أحيانًا، أردّ النظر مباشرةً إلى عين الناظر، إلا أن هذا يحصل فقط عندما
+   أضع «الأنا العليا» الضمير، القيم، الأخلاقيات. في مكانٍ ما في محفظتي
+   وأغلقها جيداً.
+   عندها، أنظر وأحدّق مطوّلاً حتى يتلاشى الناظر...
+     __________________________________________________________________
+
+2. السجن وفنّ الأداء
+
+   البانوبتيكون هو سجنٌ مبنيّ وفق هندسةٍ دائريةٍ تكون فيها عين السجان داخل
+   برج مراقبةٍ وسط ساحة المبنى الدائري الذي يحتوي على غرف المساجين. غرفٌ
+   ظاهرةٌ لبرجِ المراقبة ومعزولةٌ عن بعضها بعضاً. العين المراقِبة في البرج
+   يمكن أن ترى جميع المساجين من خلال ضوءٍ مسلّطٍ على الزنازين ولكن لا يمكن
+   لأحدٍ رؤية عين الرقيب.
+
+   عيون المساجين بتفَونِس من الضوّ، بتعرف إنه في عيون عم تراقبها وشايفتها،
+   بس ما فيها تعرف أيمتى عين الرقيب عم تطلّع فيها.
+             The big brother is watching you
+
+   يعيد المساجين النظر في أدائهم اليومي لكي يتماشى مع معايير الأداء في
+   البانوبتيكون. فعلى السجين في هذه الزنازين أن يؤدي دور الإنسان الصالح
+   الذي تاب عن اخطائه وجرائمه من خلال أداء لغة الانضباط والحشمة والطاعة
+   والاحترام.
+
+   يتحرّكون ويتصرّفون بوعي تام لعَين الرقيب ليصلوا إلى اللحظة المناسبة حيث
+   ينسون الرقيب ويصبحون هُم العين الساهرة على أجسامهم وتصرفاتهم.
+   سجن بانوبتيكون مهجور في كوبا
+
+   رقابة ذاتية على تحرّكات أجسادهم تُسجَّل في المخ الذي يحفظها ويأمر
+   بتنفيذها وكأنّها الأصل. يتحوّلون إلى أجسامٍ منضبطة؛ أداءٌ بشكلٍ متواصل.
+   وربّما لا يعرف المؤدّي الفرق بين الأداء والحقيقة، بيفوت بالدور وما
+   بيعرف كيف يطلع منه.
+   هذه هي اللحظة التي يصل فيها السجين إلى الطاعة المبتغاة... لا حاجة
+   للمبنى بعد الآن.
+
+   لم يبقَ من البانوبتيكون إلا مبانٍ مهجورة في أنحاء العالم، وعين الرقيب.
+     __________________________________________________________________
+
+3. عين الصواب
+
+     العين كما يصفها ستيفنسون بشكلٍ رائع، هي طعامٌ شهي لآكلي لحوم البشر.
+      أما من جانبنا — نحن البشر المتحضّرين — العين هي موضوع القلق لدرجة
+     أننا لن نقضمها أبداً. حتى أنّ العين تحتلّ مرتبةً عاليةً في الرعب،
+     لأنّها، من بين أمورٍ أخرى، هي عين الضمير.
+     — جورج باتاي
+
+   تقوم العين بأفعالٍ خارقةٍ من مسافاتٍ متفاوتة، فالعين هي أقدم أداة
+   للتواصل عن بُعد.
+
+   عيونها دبّاحة       يا عين
+   عيونها بتقتل       اسمالله من عينك
+   صابوها بالعين
+   عيني عليكي          تسلملي عينك
+   بتصيب العين      عين الحسود تبلى بالعمى
+    أكلها بعيونه        يا عيني!
+
+     نظرَت فأقصدَت الفؤاد بسهمها      ثم انثنَت نحوي فكدتُ أهيم
+     ويلاه إن نظرَت وإن هي أعرضَت     وقع السهام ونزعهنّ أليم
+     وممّا دهتني دون عيني عينها           لكن غبّ النظرتين وخيم
+     — ابن الرومي، قلبي من الطرفِ السَّقيم سقيمُ
+     __________________________________________________________________
+
+4. بانوبتيكون النساء
+
+   تحاول أن تُخضِع عين السلطة والرقيب أجسادَ النساء، فتتحكّم بتفاصيل
+   ظهورهنّ وأدائهنّ اليومي. لذا، تؤدّي هذه الأجساد أداءً مميزاً لشخصياتٍ
+   متنوعة، منمّطةٍ ومطيعةٍ للعين. أداءٌ مدروسٌ لاختفاء الجسم النسائي من
+   الحيّز الذكوري- إلا عند الحاجة. أداءٌ للخفاء يحمي عين الذكَر الحساسة.
+
+   وفي منّا مين بتحاول تقاوم وترجع لشخصيتها الأساسية ورغباتها. فصار في
+   بالحيّز العام حركات وإشارات جسدية وحضور نسائي كانت ناسية عين الرقيب
+   إنها موجودة.  نسوان عم يصدح صوتها بالشوارع والساحات.
+   نسوان عم تهز وترقص بمدن محيت فكرة الرقص
+   نسوان عم تشلح الحجاب وتفرد شعرها بالهوا الطلق
+   نسوان عم تزورب بالموتويات
+   نسوان بمشكل خبيط مع الأمن
+   نسوان واقفة بوج النسيان
+   نسوان بتقرر وبتحسم
+   نسوان بتقول لاء
+
+   بس بكل الأحوال، إن كان أداء النساء مطيعاً أو أداءً مقاوماً أو مجرّد
+   حضور، بياكلونا العيون.
+   بيرعبونا...
+     __________________________________________________________________
+
+5. محَطّ نظر
+
+   ... إلا أنّي فقدتُ فخذي من النظرة الأولى، وأردافي من الثانية والثالثة.
+   عند النظرة الرابعة، انتُزع ثدياي من جسمي؛ انتزعته عيونٌ عدّةٌ مرّةً
+   واحدة.
+   ذاب كتفي من إحدى النظرات، وانساب قطراتٍ خفيفة.
+   شفتاي لم يعُد لهما أثر.
+   أخيرًا، قُطعَت عينيَ اليسرى. تحوّلَت الأعصاب فيها إلى ديدانٍ صغيرةٍ
+   لكلٍّ منها عينان تنظران في اتجاهاتٍ مختلفة. تنظر إلى جسدي، إلى نظراتي،
+   وإلى عيون المتفرّجين..
+   وخزتُ عيني اليمنى بدبوس أوديب أوديب الذي فقأ عينَيه عندما اكتشف حقيقة
+   أنّه قتل أباه وتزوج أمه الذهبي - فلا تسيطر على جسمي وأدائي أيّ عين
+   خارجية.
+
+     الكورس:
+
+     يا للرعب...
+     المعاناة
+     يا لها من بليةٍ يُروّع مشهدها العالم
+     أفظع ما واجهَته عيني على الإطلاق.
+     ما الجنون الذي اجتاحك؟
+     أيّ إلهٍ قد سحق حظك التعيس سحقةً ليس هناك ما هو أفظع منها
+     لعنتك الآلهة!
+     أنا أشفق عليك، ولكن لا يمكنني تحمّل النظر اليك. مع ذلك لدي الكثير
+     لأسأله،
+     الكثير لأتعلّمه، وهناك الكثير ممّا يفتن عيني،
+     لكن بالنظر إليك... أنا أرتجف من هذه الرؤيا.
+     يا لفظاعة هذا الرعب، من الصعب سماعه ورؤياه.
+
+     — سوفوكليس، مسرحية أوديب ملكًا
+     __________________________________________________________________
+
+6. عيون اصطناعيّة
+
+   IFRAME:
+   https://player.vimeo.com/video/839721264?badge=0&autopause=0&player_id=
+   0&app_id=58479
+
+   من العرض التجهيزي «إذا أردت أن تراني أرقص, وجب الذهاب إلى الغيمة
+   العابرة» لپترا سرحال
+     __________________________________________________________________
+
+7. نظرة بالوَرِبْ
+
+   المرأة... ونظرتها... ترعب. والرعب يجب أن يُسيطر عليه.
+   فما هو هذا الرعب؟
+
+   الرعب [horror]، كما تعرّفه الباحثة أدريانا كافاريرو، يتمثّل بالتأثير
+   الحسّي الناجم عن رؤية العنف الجسديّ الذي نشهده من تقطيعٍ وتشويهٍ
+   وتفظيعٍ بالجثث. فنجفل، نجمد، نشلّ؛ «بيوقف شعر راسنا». وهو بعكس الرهبة
+   [terror]، التي يعود أصلها اللاتينيّ إلى مفردة tremo، يعني tremble أي
+   الارتجاف، وتتمثّل «بالإدراك الجسديّ للخوف»، فنخاف ونهرب. نهرب من الموت.
+   ميدوسا هي مثالٌ عن الرعب، فهي امرأةٌ اغتُصبَت فتحوّلَت إلى وحشٍ ذي رأسٍ
+   بأفاعٍ تُجمِّد كل من ينظر في عينَيها. عيناكِ أمضى من مَضَارِبِ حدِّهِ.
+   كلُّ السُّيوفِ قَوَاطعٌ أن جُرِّدتْ، وحُسامُ لَحْظِكِ قاطعٌ في غِمْدِه.
+   «ترى موتك» وتشلّ، تجفل، فلا مجال للهرب.
+   1598 Medusa Caravagio
+
+   تمكّن برسيوس من قطع رأس ميدوسا واستعماله سلاحاً يجمّد به الناظرين، لكن
+   فقط عندما حمى عينَيه من عيونها القاتلة بدرعٍ ذي مرآة— فتفادى النظر—
+   تمكّن من قطع رأسها بعد أن تتبّع حركتها من خلال «انعكاس صورتها» في
+   الدرع. أما ميدوسا، فرأَت فظاعة شكلها في انعكاس وجهها في المرآة. جفلَت.
+   فتحت فمها رعباً من دون أن نسمع لها صوت (كافاريرو). فصرخنا عنها!
+   وقامت النساء باستعمال «انعكاس الصورة» الذي استعمله برسيوس، كسلاح مضاد
+   لمقاومة عيون الرقيب. فالنساء العربيات والإيرانيات مثلاً استعملن انعكاس
+   أجسامهنَّ في الكاميرات ليكنَّ حاضرات ولو بالصورة بوجه عيون السلطة
+   القمعية. فأجسادهنَّ في الصور والفيديوهات على مواقع التواصل لا يمكن
+   لمسها وإيذاؤها. إلا أنّ هذه العدسات نفسها التي تعكس صورهنّ تسمح أيضاً
+   بتوثيق الرعب ومتابعته عن كثب.
+     __________________________________________________________________
+
+8. رفّت عيني
+
+   مضى على أسطورة ميدوسا زمنٌ بعيد، لكن يبدو أن الرعب والأثر الذي تركته ما
+   زال حاضراً.
+   وكأنه بات ضرورياً أن يُقمع حضور المرأة ونظرتها «القاتلة».
+
+   عيونٌ قمعيةٌ ذكوريةٌ تحدّد القيم الأخلاقيّة المجتمعيّة وديناميات
+   السُّلطة والقوة والطاعة.
+   عيونٌ تراقب.
+   عيونٌ تسيطر.
+   عيونٌ تسجن.
+   عيونٌ خفيةٌ بانوبتيكونيةٌ تتفادى مواجهة عيون النساء الجامحة.
+
+   عندما ترى هذه العيون جسم امرأة، تنطلق قوتها الخارقة خوفًا من رؤية
+   الجمال، ورعبًا مسبقًا من أثر العيون.
+   أما عند التقائها المحتّم بعين المرأة مباشرة، فإنها «تتصبّر»، وتُخرج
+   الروح من جسم صاحبها وتُذيبه هيامًا.
+
+   لكنّ عيون البانوبتيكون تريد الثأر من النساء. العين بالعين، فتستبدل
+   رعبها بالترهيب:
+
+   عيونٌ تستلذّ بالمراقبة والتحكّم عن بُعد. عيونٌ كلَيلٍ ساحرٍ مظلم؛ تسجن
+   امرأةً كي لا يراها غيرها. عيونٌ تقتل حبًا، وتقطع جسدًا غيرةً، وتُعمى
+   رغبةً، وتحبّ وتمتنع عن الحب متى شاءت، وتصبح شبحًا ثم تقوم من بين
+   الأموات متى شاءت؛ وتظلّ العين الساهرة على الأمن والوطن، والعين الثاقبة
+   لدى اتخاذ القرارات السياسية، وعين العقل في كلّ شاردةٍ وواردةٍ تخصّ
+   المرأة وجسدها وحضورها.
+
+   فا تسلَم عينَك.
+     __________________________________________________________________
+
+مراجع
+
+    1. Discipline and Punish: The Birth of the Prison. Michel Foucault
+       1975
+    2. Taming the Basilisk Sergie Labanov Rostovsky in Body in Parts:
+       Fantasies of Corporeality in Early Modern Europe. Edited by David
+       Hillman and Carla Mazzio. 1997
+    3. Horrorism. Adriana Cavarero. 2009
+    4. George Bataille: Visions of Excess, 1985
+
+   [ ]
+   Share Icon Share Button
+   پترا سرحال، فنّانة تعمل في وسائط متعددة ويرتكز عملها على الجسد
+   والكوريوغرافيا في العرض الفني
+   عقاب النسيان
+   تحليل
+
+السجون: الوجه الحقيقي للبلد
+
+   (BUTTON) مازن حطيط – 25-06-2023
+   «…يمكن وصف وضع السجون في لبنان بأنه سيّئ ومروّع ولا إنساني، وتكاد وظيفة
+   القصاص تتجلى بأسوأ صورها في العديد من هذه السجون، إلى حد يصبح المكوث
+   فيها ضرباً من ضروب التعذيب والمعاملة القاسية واللاإنسانية…»
+   عقاب النسيان
+   يوميات
+
+رحلة في عوالم شارع بلس السفليّة
+
+   (BUTTON) حسن الساحلي – 02-07-2023
+   «…لم أعرف إن كانوا يبحثون عن دليل، أو أنّهم يستمتعون بالتلصّص على عالمي
+   فحسب. لكن، تدريجياً، بدأ المحقّق يطرح أسئلةً محدّدة: هيدي حفلات التكنو
+   اللي بتتعاطوا فيها؟ مين هيدا اللي حامل السيجارة؟ بدك جبلك مكتب الآداب؟
+   كيف بنت طيبة بتصاحب حشّاش لوطي متلك؟…»
+   عقاب النسيان
+   فكرة
+
+دواء أو مخدّر
+
+   (BUTTON) هادي بستاني – 27-08-2023
+   «…مصطلح «المخدرات» غامض للغاية وفاقد للصلاحية. المصطلح يشمل المواد التي
+   لها تأثير على العقل البشري، من الكافيين إلى الهيروين. قد يُستخدَم بعض
+   هذه المواد للعلاج النفسي، وبعضها الآخر مضرّ بالصحة…»
+   سجون
+   تعليق
+
+دعوا كل أسير محرَّر يمشي على النيل
+
+   (BUTTON) رشا عزب – 23-10-2025
+   نسويّة
+   تحليل
+
+أن يجد البيت طريقةً ليظلّ بيتاً
+
+   (BUTTON) دارين أبو سعد – 15-10-2025
+   أبويّة وذكورية
+   تحليل
+
+شيرين وفيروز وسوزان تميم وغيرهنّ
+
+   (BUTTON) مريم شعيب – 22-12-2025
+   جسد
+   نقد
+
+سوائل محمود درويش
+
+   (BUTTON) صهيب أيّوب – 11-06-2020
+   عقاب النسيان
+   تحليل
+
+السجون: الوجه الحقيقي للبلد
+
+   (BUTTON) مازن حطيط – 25-06-2023
+   «…يمكن وصف وضع السجون في لبنان بأنه سيّئ ومروّع ولا إنساني، وتكاد وظيفة
+   القصاص تتجلى بأسوأ صورها في العديد من هذه السجون، إلى حد يصبح المكوث
+   فيها ضرباً من ضروب التعذيب والمعاملة القاسية واللاإنسانية…»
+   عقاب النسيان
+   يوميات
+
+رحلة في عوالم شارع بلس السفليّة
+
+   (BUTTON) حسن الساحلي – 02-07-2023
+   «…لم أعرف إن كانوا يبحثون عن دليل، أو أنّهم يستمتعون بالتلصّص على عالمي
+   فحسب. لكن، تدريجياً، بدأ المحقّق يطرح أسئلةً محدّدة: هيدي حفلات التكنو
+   اللي بتتعاطوا فيها؟ مين هيدا اللي حامل السيجارة؟ بدك جبلك مكتب الآداب؟
+   كيف بنت طيبة بتصاحب حشّاش لوطي متلك؟…»
+   عقاب النسيان
+   فكرة
+
+دواء أو مخدّر
+
+   (BUTTON) هادي بستاني – 27-08-2023
+   «…مصطلح «المخدرات» غامض للغاية وفاقد للصلاحية. المصطلح يشمل المواد التي
+   لها تأثير على العقل البشري، من الكافيين إلى الهيروين. قد يُستخدَم بعض
+   هذه المواد للعلاج النفسي، وبعضها الآخر مضرّ بالصحة…»
+   سجون
+   تعليق
+
+دعوا كل أسير محرَّر يمشي على النيل
+
+   (BUTTON) رشا عزب – 23-10-2025
+   نسويّة
+   تحليل
+
+أن يجد البيت طريقةً ليظلّ بيتاً
+
+   (BUTTON) دارين أبو سعد – 15-10-2025
+   أبويّة وذكورية
+   تحليل
+
+شيرين وفيروز وسوزان تميم وغيرهنّ
+
+   (BUTTON) مريم شعيب – 22-12-2025
+   جسد
+   نقد
+
+سوائل محمود درويش
+
+   (BUTTON) صهيب أيّوب – 11-06-2020
+
+آخر الأخبار
+
+   مواد إضافيّة
+   حوار «نصف» العمر مع حامد سنّو
+   حديث
+
+حوار «نصف» العمر مع حامد سنّو
+
+   هلال شومان
+   وثائق «الجزيرة»: غرفة عمليات للأسد في لبنان وتجنيد عناصر للقتال في
+   سوريا
+   6 قتلى في احتجاجات إيران
+   كل هالسنين — حلم
+   شو صار السنة؟
+   31-12-2025
+   تقرير
+   شو صار السنة؟
+   20,900 غارة شنّتها قوّات الاحتلال الإسرائيلي سنة 2025
+   أخبار
+   19-11-2025 14:41
+
+   تهديد إسرائيلي باستهداف مبانٍ في دير كيفا وشحور بجنوب لبنان
+
+   أصدر المتحدّث باسم جيش الاحتلال الإسرائيلي، أفيخاي أدرعي، تهديداً
+   باستهداف مبانٍ في بلدتَي دير كيفا وشحور في قضاء صور. ويزعم الاحتلال أنّ
+   هذه الهجمات ستستهدف «بنى تحتية عسكرية تابعة لحزب الله»، داعياً السكّان
+   إلى الابتعاد عن المناطق المحدّدة مسافةً لا تقلّ عن 300 متر.
+
+   يُذكر أنّ جيش الاحتلال ارتكب، مساء أمس الثلاثاء، مجزرةً في مخيّم عين
+   الحلوة، إذ استهدف ملعباً في المخيّم، ما أدّى إلى استشهاد 13 شخصاً.
+   الحرب على لبنان
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   01-10-2025 22:16
+
+   جيش الاحتلال الإسرائيلي بدأ عملية بحرية لمحاولة السيطرة على سفن أسطول
+   الصمود
+
+   أعلنت هيئة البثّ الإسرائيلية أنّ القوّات البحرية الإسرائيلية بدأت
+   «عملية السيطرة على أسطول الصمود»، مشيرةً إلى أنّ عناصر من قواتها صعدوا
+   على متن عدد من السفن المشاركة. وكانت قوّات الاحتلال قد شرعت مساء اليوم
+   في اعتراض سفن الأسطول، مطالبةً بعضها بتغيير مسارها نحو ميناء أسدود، غير
+   أنّ الناشطين أكّدوا مواصلة رحلتهم باتجاه غزّة لإيصال المساعدات إلى
+   القطاع المحاصر.
+   وأكد أسطول الصمود أنّ سفنه تتعرّض لاعتراض غير قانوني وتعطيل للكاميرات،
+   وأضاف أنّ جيش الاحتلال الإسرائيلي اعترض السفينتَين «ألما» و«سيريوس»،
+   وهما في طليعة السفن المشاركة في حملة كسر الحصار عن غزّة.
+
+
+   فلسطين
+   غزّة
+   إسرائيل
+   أخبار
+   09-09-2025 16:23
+
+   إسرائيل تستهدف قيادييّن في حماس بالعاصمة القطريّة الدوحة
+
+   أعلن جيش الاحتلال الإسرائيلي والشاباك استهداف قيادة حركة حماس في
+   العاصمة القطريّة الدوحة. وقد سُمع منذ قليل دويّ 10 انفجارات على الأقل
+   في الدوحة، بحسب تقارير. ونقل موقع أكسيوس عن مصدر إسرائيلي أنَّ جيش
+   الاحتلال استهدف الوفد المفاوض لحركة حماس أثناء اجتماعه بالدوحة، حيث كان
+   يتواجد نائب رئيس المكتب السياسي خليل الحيّة.
+   الشرق الأوسط
+   غزّة
+   الخليج
+   إسرائيل
+   فلسطين
+   أخبار
+   05-08-2025 21:08
+
+   الحكومة اللبنانية تضع مهلة حتّى آخر العام لحصر السلاح بيد الدولة
+
+   ختمت الحكومة اللبنانية جلستها اليوم، بعد أن تركت بند سلاح حزب الله إلى
+   نهاية الجلسة، وقرّرت «تكليف الجيش اللبناني وضع خطّة تطبيقية لحصر السلاح
+   قبل نهاية العام الحالي»، وعرض هذه الخطّة قبل نهاية آب الحالي، وذلك إلى
+   جانب استكمال النقاش في الورقة الأميركية يوم الخميس المقبل. وقد ذكر وزير
+   الإعلام أنّ وزيرَي حزب الله وحركة أمل انسحبا من الجلسة، لعدم موافقتهما
+   على قرار مجلس الوزراء.
+   لبنان
+   الجيش اللبناني
+   الحكومة اللبنانية
+   حزب الله
+   أخبار
+   27-06-2025 12:34
+
+   غارة إسرائيلية على شقّة في النبطية الفوقا
+
+   بعد نحو ساعة من سلسلة الغارات الإسرائيلية التي استهدفت التلال المُحيطة
+   بالنبطية، أغارت مسيّرة إسرائيلية على شقّةٍ سكنيةٍ في النبطية الفوقا
+   بالقرب من دار المعلّمين.
+   الحرب على لبنان
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   23-06-2025 20:09
+
+   إيران تردّ وتستهدف قواعد أميركية في قطر والعراق
+
+   أكّد الحرس الثوري الإيراني بشكلٍ رسميّ أنّه استهدف قاعدة «العديد»
+   الأميركية العسكرية في قطر، فيما أفادت وكالة الأنباء الإيرانية أنّ
+   الاستهداف طال قواعد في قطر والعراق، تحت عنوان «بشائر الفتح»، وذلك ردّاً
+   على الضربة الأميركية أمس.
+
+
+   الشرق الأوسط
+   إيران
+   الخليج
+   الولايات المتّحدة الأميركيّة
+   أخبار
+   22-06-2025 19:32
+
+   قتلى وجرحى بتفجير داخل كنيسة في العاصمة السورية دمشق
+
+   وقع مساء اليوم انفجار داخل كنيسة مار إلياس في حيّ الدويلعة بالعاصمة
+   السورية دمشق، ما أسفر عن سقوط عدد من القتلى والجرحى. وأشارت معلومات
+   صحفية أولية إلى أنّ انتحارياً أقدم على تفجير نفسه في الكنيسة، وقد ضربت
+   القوى الأمنية طوقاً أمنياً حول المكان بينما تواصل فرق الإنقاذ عمليات
+   إسعاف الجرحى.
+   سوريا
+   المرحلة الانتقالية في سوريا
+   أخبار
+   05-06-2025 20:56
+
+   تهديد إسرائيلي باستهداف 5 مباني في الضاحية الجنوبية لبيروت
+
+   أصدر المتحدّث باسم جيش الاحتلال الإسرائيلي، أفيخاي أدرعي، تهديداً
+   باستهداف 5 مباني في ضاحية بيروت الجنوبية، وتحديداً في الحدث وحارة حريك
+   وبرج البراجنة. وزعم أنّ هذه المباني التي يهدّد باستهدافها «منشآت تابعة
+   لحزب الله»، وأنذر المواطنين بالابتعاد عنها لمسافة لا تقلّ عن 300 متر.
+
+   تصحيح: يشمل التهديد الإسرائيلي أكثر من 8 مباني، منها أبنية متلاصقة في
+   الأحياء التي حدّدها المتحدّث باسم جيش الاحتلال.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   الضاحية الجنوبية
+   أخبار
+   13-05-2025 19:47
+
+   ترامب: سآمر برفع العقوبات عن سوريا
+
+   أعلن الرئيس الأميركي دونالد ترامب أنّه سيأمر برفع العقوبات عن سوريا
+   «لمنحهم فرصة لتحقيق العظمة»، بناءً على طلبٍ من وليّ العهد السعودي محمد
+   بن سلمان والرئيس التركي رجب طيب أردوغان.
+
+
+   سوريا
+   عقوبات
+   دونالد ترامب
+   الولايات المتّحدة الأميركيّة
+   أخبار
+   28-03-2025 14:09
+
+   غارة إسرائيلية على الضاحية الجنوبية: الأولى منذ اتّفاق «وقف إطلاق
+   النار»
+
+   أغار سلاح الجو الإسرائيلي على المبنى المهدّد قبل قليل، بعد قُرابة ساعة
+   على «تلوينه» باللون الأحمر على خريطةٍ نشرها المتحدّث باسم الاحتلال
+   أفيخاي أدرعي. حلّقت مسيّرة إسرائيلية فوق المبنى المستهدف طيلة هذه
+   الفترة، وقد انضمّت إليها مسيّرة ثانية، وأطلقتا غارتَين تحذيريّتين قبل
+   الغارة.
+
+   وقد شهدت الضاحية الجنوبية حركة نزوح كثيفة إثر التهديد، فيما أعلنت
+   الرئاسة اللبنانية أنّ «الرئيس عون تبلّغ بخبر التهديد الإسرائيلي على
+   الضاحية الجنوبية لبيروت»، إثر اجتماعه في فرنسا مع كل الرئيس الفرنسي
+   والسوري والقبرصي ورئيس وزراء اليونان.
+   الحرب على لبنان
+   إسرائيل
+   أخبار
+   28-03-2025 12:28
+
+   عودة أفيخاي: إسرائيل تهدّد مبنى في الضاحية
+   عادت الإنذارات إلى الضاحية الجنوبية لبيروت، وأعلن المتحدث العسكري للجيش
+   الإسرائيلي أفيخاي أدرعي عن تحذير لسكان حي الحدث، لإخلاء أحد المباني
+   والابتعاد عنه مسافة لا تقل عن 300 متر.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   27-03-2025 15:51
+
+   مرشّح المصارف كريم سعيد حاكماً لمصرف لبنان
+
+   عيّن مجلس الوزراء، في جلسته اليوم، كريم سعيد حاكماً جديداً لمصرف لبنان.
+   وسعيد هو المرشّح المدعوم من اللوبي المصرفي، والذي خاض معركته الإعلاميّة
+   البنكرجي أنطون الصحناوي. وكان رئيس الجمهوريّة قد دخل الجلسة مصرًّا على
+   تعيين سعيد اليوم، سواء بالتوافق أو بالتصويت. واستدعي سعيد، دون سواه من
+   المرشّحين، خلال الجلسة للإجابة على استفسارات بعض الوزراء الحاضرين، قبل
+   أن يجري التصويت له بمجرّد خروجه من القصر الجمهوري. ففاز سعيد بـ17 صوتاً
+   بعدما رفض رئيس الحكومة نواف سلام وستّة وزراء آخرين التصويت له.
+   مصرف لبنان
+   أخبار
+   07-03-2025 21:48
+
+   سلسلة من الغارات الإسرائيلية على جنوب لبنان
+
+   شنّ الطيران الإسرائيلي سلسلة من الغارات على جنوب لبنان، بدءاً من الساعة
+   9:20 تقريباً. وقد امتدّت الغارات على عددٍ من الأقضية (صور، جزّين،
+   النبطية)، وكان بين المناطق المستهدفة: تلّة زغرين في جبل الريحان،
+   والمنطقة الواقعة بين بلدتي ياطر وزيقين، وأنصار، والبيسارية.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   19-02-2025 13:17
+
+   شهيد في عيتا الشعب نتيجة غارة إسرائيلية
+   أغارت مسيّرة إسرائيلية على سيارة في عيتا الشعب ما أدّى إلى استشهاد شخص
+   ظهر اليوم الأربعاء، بعد يومٍ واحد على انسحاب قوّات الاحتلال من القرى
+   الجنوبية. كما أفادت وزارة الصحّة عن سقوط جريحين في بلدة الوزّاني نتيجة
+   إطلاق جنود الاحتلال النار عليهما.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   17-02-2025 11:30
+
+   إصابات بغارة إسرائيلية استهدفت سيارةً في صيدا
+   شنّت مسيّرة إسرائيلية غارةً استهدفت سيارةً على الكورنيش البحري في محيط
+   الملعب البلدي، عند المدخل الشمالي لمدينة صيدا، وقد أكدت مصادر محليّة
+   وقوع إصابات نتيجة الغارة بينما حضرت فرق الإسعاف إلى المكان المُستهدف.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   08-02-2025 16:06
+
+   تشكيل حكومة الرئيس نواف سلام
+
+   من قصر بعبدا، أعلن أمين عام مجلس الوزراء القاضي محمّد مكّية تشكيل
+   الحكومة اللبنانية، برئاسة القاضي نواف سلام، وهي الحكومة الأولى في عهد
+   الرئيس جوزاف عون.
+
+   وجاء الإعلان اليوم  بعد اتصالات واستشارات مكثّفة تمّت خلال اليومَين
+   الماضيَين وحسم اسم «الوزير الشيعي الخامس» في الحكومة الذي كان قد شكّل
+   العقبة الأخير لتشكيلها، بين الرئيس المكلّف وثنائي حزب الله وحركة أمل.
+
+
+   الحكومة اللبنانية
+   جوزاف عون
+   نجيب ميقاتي
+   نواف سلام
+   أخبار
+   29-01-2025 11:43
+
+   36 جريحاً بالاعتداءات الإسرائيلية على لبنان أمس
+   أعلنت وزارة الصحّة في لبنان أنّ العدوان الإسرائيلي على لبنان أمس
+   الثلاثاء قد أوقع 36 جريحاً. فقد شنّ الاحتلال مساء أمس غارةً على النبطية
+   الفوقا أوقعت 20 جريحاً إذ صادف أنّها كانت مجاورة لمقهى في البلدة، كما
+   أوقعت الغارة على زوطر 10 جرحى. أمّا الاعتداءات على المواطنين العائدين
+   إلى قراهم في جنوب لبنان، فقد أوقعت 6 جرحى، تحديداً في بلدة يارون.
+   الحرب على لبنان
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   28-01-2025 20:11
+
+   غارة تستهدف النبطية الفوقا
+
+   استهدفت غارة إسرائيلية منطقة النبطية الفوقا، بعمق أكثر من 10 كيلومتر
+   داخل الحدود اللبنانية. وقد نقلت هيئة البث الإسرائيلية عن مصادر عسكرية
+   أنّ جيش الاحتلال مسؤول عن هذا الهجوم، من دون الإفادة عن أي تفاصيل
+   أخرى. وأعلن مركز عمليات الطوارئ في وزارة الصحة إصابة 7 أشخاص في حصيلة
+   أولية للغارة مساء اليوم.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   27-01-2025 12:43
+
+   أهالي يارون يصلون إلى ساحة البلدة برفقة الجيش اللبناني، رغم تواجد قوّات
+   الاحتلال فيها
+
+   اليوم كما أمس، يحاول أهالي البلدات الجنوبية دخول بلداتهم رغم تواجد قوات
+   الاحتلال فيها. وقد وصل أهالي يارون إلى ساحة البلد عند ظهر اليوم
+   الاثنين، يرافقهم الجيش اللبناني، مع دعواتٍ لتكثيف الحضور الشعبي بغية
+   طرد الآليات الإسرائيلية.
+
+   وقد واصلت قوّات الاحتلال اعتداءاتها على المواطنين الجنوبيين اليوم،
+   فجرحت شخصين في بلدة بني حيان، وأطلقت النار قرب عناصر الجيش اللبناني في
+   ميس الجبل من دون وقوع إصابات، وكذلك الأمر في الظهيرة، مع تداول أنباء عن
+   اختطاف مواطن قرب الوزاني.
+   الحرب على لبنان
+   الجيش اللبناني
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   26-01-2025 12:21
+
+   استشهاد عسكري لبناني وإصابة آخر برصاص قوّات الاحتلال الإسرائيلي في جنوب
+   لبنان
+
+   أعلن الجيش اللبناني استشهاد أحد عناصره على طريق مروحين - الضهيرة برصاص
+   قوّات الاحتلال الإسرائيلي، فيما أُصيب جندي آخر في بلدة يارين، بالإضافة
+   إلى إصابة جندية لبنانية كانت داخل سيارتها في ميس الجبل.
+
+   تزامن ذلك مع إعلان الجيش اللبناني أنّ وحداته دخلت إلى بلدة مارون الراس
+   - بنت جبيل ومناطق حدودية أخرى، «حيث تقف إلى جانب المواطنين في مواجهة
+   العدو الإسرائيلي الذي يواصل رفضه الالتزام باتفاق وقف إطلاق النار
+   والانسحاب من الأراضي اللبنانية». وإلى جانب العسكريَّين، أُصيب أكثر من
+   44 مواطناً لبنانياً حتّى الساعة 12 ظهراً، واستشهد 3 آخرون.
 
 
 
-<style id='global-styles-inline-css' type='text/css'>
-:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-/*# sourceURL=global-styles-inline-css */
-</style>
+   الحرب على لبنان
+   الجيش اللبناني
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   21-01-2025 13:11
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7182332110303122" crossorigin="anonymous"></script><link rel="icon" href="https://alkamoos.miniindustry.com/wp-content/uploads/2024/10/alkamoos-02-512-150x150.png" sizes="32x32" />
-<link rel="icon" href="https://alkamoos.miniindustry.com/wp-content/uploads/2024/10/alkamoos-02-512-300x300.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://alkamoos.miniindustry.com/wp-content/uploads/2024/10/alkamoos-02-512-300x300.png" />
-<meta name="msapplication-TileImage" content="https://alkamoos.miniindustry.com/wp-content/uploads/2024/10/alkamoos-02-512-300x300.png" />
-</head>
+   الجيش الإسرائيلي يعلن شنّ حملة عسكرية على جنين ومخيّمها
 
-<body class="rtl wp-singular plainword-template-default single single-plainword postid-113093 single-format-standard wp-custom-logo wp-theme-dev-core wp-child-theme-div-alkamoos d-flex flex-column min-vh-100 p-0">
-    <script data-ad-client="ca-pub-7182332110303122"
-async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
-</script>
-    <div id="page" class="">        
-        <header class="page-header navbar navbar-expand-lg bg-white shadow-sm p-3 bg-white rounded">            
-            <a href="https://alkamoos.miniindustry.com" class="custom-logo-link navbar-brand p-0 ms-5"><img width="155" height="45" src="https://alkamoos.miniindustry.com/wp-content/uploads/2025/05/alkamoos_thin-03.svg" class="custom-logo" alt="القاموس"></a><input type="checkbox" style="display: none;" id="seach-checkbox" />
-<input type="checkbox" style="display: none;" id="menu-checkbox" />
-<label id="menu-label" for="menu-checkbox" onclick="menu_label_click();"></label>
-<ul id="menu-menu" class="nav-ul nav-primary"><li><a href="/">الصفحة الرئيسية</a></li>
-<li><a href="/posts">المقالات</a></li>
-<li><a href="/c1">كلمات وحروف</a></li>
-<li><a href="/c2">قائمة الكلمات</a></li>
-<li><a href="/category/pos">أقسام الكلام</a></li>
-<li><a href="/privacy-policy">سياسة الخصوصية</a></li>
-</ul><form id="search_form1" method="get" action="https://alkamoos.miniindustry.com/search" class="position-relative"
-    onsubmit="this.disabled = true;" 0>
-        
-    <input id="search_input1" name="q" class="form-control me-2 search-input-default lh-lg" type="search"
-        placeholder="ابحث هنا" required="">
-        
-    <button aria-label="submit" type="submit" class="btn search-button-default position-absolute top-50 z-1 translate-middle-y end-0 bg-info p-2">
-        <img alt="search" class="p-1" src="https://alkamoos.miniindustry.com/wp-content/themes/div-alkamoos/images/search.svg">
-    </button>
-    <div id="suggestion1"></div>
-</form><label id="addon-label" onclick="addonClick(this);" style="display: none;" for="addon-chk"></label>        </header>
-        <div id="SubmitBackground" class="d-none"></div>
-        <div id="SubmitCircle" class="d-none"></div>
-        <main id="content" class="tpl-">
-<input class="d-none" id="addon-chk" type="checkbox" checked>
-<article id="main-content" class="">
-    <header class="row text-center">
-        <h1 class="h1-plainword">نظرة</h1><img class="post-picture-150" width="150" height="150" fetchpriority="high" 
-src="/np/plainword.svg.php?q=نظرة" 
-alt="معنى و تعريف و شرح و جذر و وزن كلمة نظرة في معجم عربي عربي" title="معنى و تعريف و شرح و جذر و وزن كلمة نظرة في معجم عربي عربي" />    </header>
-            <div id="alkamoosdictionary" class="collapse show">
-            <div class="row my-4 p-1 fs-3">
-<a id="arrow2" href="#alkamoosdictionary" data-bs-toggle="collapse">
-</a>معنى و تعريف و شرح و جذر و وزن كلمة نظرة في معجم عربي عربي</div><h2 class="d-block px-3 fs-2 bg-info text-start .text-black fw-bold">
-<span class="tocspan" id="tocid-{{func_index}}">
-</span>1) نَظِرَة <span class="fs-5 fw-normal"> (<a href="https://alkamoos.miniindustry.com/category/%d8%a7%d8%b3%d9%85">اسم</a>)</span></h2><h3 class="px-3 mt-3 text-primary fw-bold fs-3">تحليل الكلمة</h3><dl class="field field-pattern"><dt>كلمات على وزن / الوزن الصرفي لكلمة / وزن كلمة نظرة</dt><dd><a class="np-a" href="/c2?pattern=فَعِلَة">فَعِلَة</a></dl><dl class="field field-text group- field-root ">
-    <dt>جذر كلمة نظرة</dt>
-    <dd>نظر </dd>
-</dl><dl class="field field-radio group- field-part_of_speech ">
-    <dt>أقسام الكلام</dt>
-    <dd>اسم </dd>
-</dl><dl class="field field-text group- field-subcategory ">
-    <dt>تصنيف الكملة</dt>
-    <dd>اسم </dd>
-</dl><dl class="field field-select group- field-number ">
-    <dt>الإفراد والجمع</dt>
-    <dd>مفرد </dd>
-</dl><dl class="field field-select group- field-gender ">
-    <dt>الحالة / جنس الكلمة</dt>
-    <dd>مؤنَّث </dd>
-</dl><h2 class="d-block px-3 fs-2 bg-info text-start .text-black fw-bold">
-<span class="tocspan" id="tocid-{{func_index}}">
-</span>2) نَظْرَة <span class="fs-5 fw-normal"> (<a href="https://alkamoos.miniindustry.com/category/%d8%a7%d8%b3%d9%85">اسم</a>)</span></h2><h3 class="px-3 mt-3 text-primary fw-bold fs-3">المعاني</h3><p class="di">اللَّمْحَة.</p><h3 class="px-3 mt-3 text-primary fw-bold fs-3">تحليل الكلمة</h3><dl class="field field-pattern"><dt>كلمات على وزن / الوزن الصرفي لكلمة / وزن كلمة نظرة</dt><dd><a class="np-a" href="/c2?pattern=فَعْلَة">فَعْلَة</a></dl><dl class="field field-text group- field-root ">
-    <dt>جذر كلمة نظرة</dt>
-    <dd>نظر </dd>
-</dl><dl class="field field-radio group- field-part_of_speech ">
-    <dt>أقسام الكلام</dt>
-    <dd>اسم </dd>
-</dl><dl class="field field-text group- field-subcategory ">
-    <dt>تصنيف الكملة</dt>
-    <dd>اسم </dd>
-</dl><dl class="field field-select group- field-number ">
-    <dt>الإفراد والجمع</dt>
-    <dd>مفرد </dd>
-</dl><dl class="field field-select group- field-gender ">
-    <dt>الحالة / جنس الكلمة</dt>
-    <dd>مؤنَّث </dd>
-</dl>        </div>
-        <hr>
-        <!-- wiktionary section -->
-    <div class="card field-sameroot"><h2 class="card-header text-center bg-info text-dark fs-5 fw-semibold">كلمات لها نفس الجذر</h2><div class="card-body"><div class="card-text text-dark fs-5"><a class="np-a" href=/c2/معنى-%d8%a3%d9%86%d8%b8%d8%b1.html>أنظر</a><a class="np-a" href=/c2/معنى-%d8%a7%d8%b3%d8%aa%d9%86%d8%b8%d8%b1.html>استنظر</a><a class="np-a" href=/c2/معنى-%d8%a7%d9%86%d8%aa%d8%aa%d8%b1.html>انتتر</a><a class="np-a" href=/c2/معنى-%d8%aa%d9%86%d8%a7%d8%b8%d8%b1.html>تناظر</a><a class="np-a" href=/c2/معنى-%d8%aa%d9%86%d8%b8%d8%b1.html>تنظر</a><a class="np-a" href=/c2/معنى-%d9%85%d9%86%d8%a7%d8%b8%d8%b1.html>مناظر</a><a class="np-a" href=/c2/معنى-%d9%85%d9%86%d8%b8%d8%a7%d8%b1.html>منظار</a><a class="np-a" href=/c2/معنى-%d9%85%d9%86%d8%b8%d8%b1.html>منظر</a><a class="np-a" href=/c2/معنى-%d9%85%d9%86%d8%b8%d8%b1%d8%a9.html>منظرة</a><a class="np-a" href=/c2/معنى-%d9%86%d8%a7%d8%b8%d8%b1.html>ناظر</a><a class="np-a" href=/c2/معنى-%d9%86%d8%a7%d8%b8%d9%88%d8%b1.html>ناظور</a><a class="np-a" href=/c2/معنى-%d9%86%d8%b8%d8%a7%d8%a6%d8%b1.html>نظائر</a><a class="np-a" href=/c2/معنى-%d9%86%d8%b8%d8%a7%d8%b1.html>نظار</a><a class="np-a" href=/c2/معنى-%d9%86%d8%b8%d8%a7%d8%b1%d8%a9.html>نظارة</a><a class="np-a" href=/c2/معنى-%d9%86%d8%b8%d8%b1.html>نظر</a><a class="np-a" href=/c2/معنى-%d9%86%d8%b8%d8%b1%d8%a7%d8%a1.html>نظراء</a><a class="np-a" href=/c2/معنى-%d9%86%d8%b8%d8%b1%d9%8a.html>نظري</a><a class="np-a" href=/c2/معنى-%d9%86%d8%b8%d8%b1%d9%8a%d8%a7%d8%aa.html>نظريات</a><a class="np-a" href=/c2/معنى-%d9%86%d8%b8%d8%b1%d9%8a%d8%a9.html>نظرية</a><a class="np-a" href=/c2/معنى-%d9%86%d8%b8%d9%88%d8%b1.html>نظور</a><a class="np-a" href=/c2/معنى-%d9%86%d8%b8%d9%8a%d8%b1.html>نظير</a><a class="np-a" href=/c2/معنى-%d9%86%d8%b8%d9%8a%d8%b1%d8%a9.html>نظيرة</a><a class="np-a" href=/c2/معنى-%d9%86%d9%88%d8%a7%d8%b8%d8%b1.html>نواظر</a></div></div></div><div class="card field-in-other-dic">
-<h2 class="card-header text-center bg-info text-dark fs-5 fw-semibold">الكلمة في القواميس الأخرى</h2>
-<div class="card-body"><div class="card-text text-dark fs-5">» الكلمة في قاموس <a target="_blank" href="https://www.almaany.com/ar/dict/ar-ar/نظرة/" class="text-decoration-underline fw-bold">المعاني</a><br>» الكلمة في قاموس <a target="_blank" href="https://www.arabdict.com/ar/عربي-عربي/نظرة" class="text-decoration-underline fw-bold">arabdict</a><br>» الكلمة في <a target="_blank" href="https://dictionary.ksaa.gov.sa/result/نظرة" class="text-decoration-underline fw-bold">معجم الرياض</a><br>» الكلمة في <a target="_blank" href="https://www.arabicterminology.com/?search=نظرة&book=All" class="text-decoration-underline fw-bold">المعجم العربي الجامع</a><br></div></div></div>
+   بعد أيام على وقف إطلاق النار في غزّة، وبعد ساعات معدودة من انسحاب أجهزة
+   السلطة الفلسطينية من مخيّم جنين، اقتحمت آليات الاحتلال الإسرائيلي
+   المدينة والمخيّم، وأعلن الجيش في بيانٍ مشترك مع الشاباك والشرطة «إطلاق
+   عملية ضدّ الإرهاب في جنين».
 
-</article>
-</main>
-<div class="container-fluid mt-auto">
-	<div class="row bg-white border border-white p-4 rounded shadow-default">
-		<div class="col-12 col-md-3 col-lg-3">
-			<img class="mb-5 mt-4" src = "/wp-content/themes/div-alkamoos/images/alkamoos-02.svg" height="45" width="155"
-				alt="القاموس">
-		</div>
-		<div class="col-12 col-md-9 col-lg-9">
-			<div class="d-flex justify-content-end text-center mt-4 mb-4">
-				<div class="d-flex justify-content-between w-75">
-					<div class=" fw-medium">
-						<a href="/a/contact-us"><img width="48" height="48" alt="contact-us"
-								src = "/wp-content/themes/div-alkamoos/images/contact-us1.png"></a>
-						<a href="https://www.facebook.com/alkamoos.ar"><img width="48" height="48" alt="facebook"
-								src = "/wp-content/themes/div-alkamoos/images/facebook.svg"></a>
-						<a href="https://www.linkedin.com/company/alkamoos"><img width="48" height="48" alt="linkedin"
-								src = "/wp-content/themes/div-alkamoos/images/linkedin.svg"></a>
-					</div>
-					<div class=" text-black">
-						<div class="fw-medium">مواقع أخرى</div>
-						<div class="">
-							<a href="https://alkamoos.miniindustry.com"
-								class="mt-2 link-offset-2 link-underline link-underline-opacity-0 text-black">صناعات
-								صغيرة</a>
-						</div>
-					</div>
-					<div class=" fw-medium">
-						<a href="https://alkamoos.miniindustry.com/privacy-policy"
-							class="link-offset-2 link-underline link-underline-opacity-0 text-black">سياسة
-							الخصوصية</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div></div>
-<a id="totop" class="decoration-none" href="#top">
-     <img id="totop-img" width="48" height="48" alt="totop" src="https://alkamoos.miniindustry.com/wp-content/themes/div-alkamoos/images/up-arrow.png"></a>
-<script type="speculationrules">
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/div-alkamoos/*","/wp-content/themes/dev-core/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
-</script>
-<script>window.GA_ID='G-692V9JM6SE'</script><script src='https://alkamoos.miniindustry.com/wp-content/plugins/flying-analytics/js/minimal-analytics.js' defer></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9b8245621d8f567f',t:'MTc2NzQ0MDk0Nw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+   بالدقائق الأولى، قصفت مُسيّرة المخيّم، وأطلقت طائرة مروحية الرصاص
+   باتّجاه المواطنين، وانكشفت قوّة خاصّة متسلّلة، وأسفر ذلك عن سقوط شهيد
+   تمّ نقله إلى المستشفى.
 
-</html>
+   يذكر أنّ المخيم كان محاصراً لنحو شهر ونصف بسبب حملةٍ أمنية أطلقتها
+   السلطة، قُتل خلالها 16 شخصاً، بينهم سكّان من المخيّم وعناصر من الأمن
+   الفلسطيني.
+   فلسطين
+   الضفة الغربية
+   إسرائيل
+   أخبار
+   15-01-2025 20:55
 
-<!-- Page cached by LiteSpeed Cache 7.7 on 2026-01-01 11:52:43 -->
+   وقف إطلاق النار في غزّة
+
+   أعلن رئيس الوزراء القطري محمد بن عبد الرحمن آل ثاني التوصّل لوقف إطلاق
+   النار في غزّة، بعد 467 يوماً من العدوان، قتل خلالها جيش الاحتلال 46,707
+   شهداء وجرح 110,265 شخصاً منذ 7 تشرين الأول 2023، إضافةً للآلاف من
+   المفقودين أو الذين لم توثّق المستشفيات ووزارة الصحة استشهادهم.
+   طوفان الأقصى
+   غزّة
+   إسرائيل
+   أخبار
+   09-01-2025 14:18
+
+   [يحدث الآن] نبيه بري يفتتح الدورة الثانية لجلسة انتخاب رئيس الجمهورية
+   بعد مشاورات أجرتها الكتل النيابية وأهمّها مداولات كتلتَي حزب الله وحركة
+   أمل لتأمين حصول قائد الجيش على أكثر من ثلثَيّ الأصوات وانتخابه رئيساً.
+   انتخابات رئاسية
+   البرلمان
+   نبيه برّي
+   09-01-2025 14:33
+
+   [يحدث الآن] بدء عملية فرز أصوات الدورة الثانية لجلسة انتخاب رئيس
+   الجمهورية.
+   09-01-2025 14:19
+
+   [يحدث الآن] بدء عملية التصويت في الدورة الثانية لجلسة انتخاب رئيس
+   الجمهورية.
+   أخبار
+   09-01-2025 11:21
+
+   [يحدث الآن] نبيه بري يفتتح الجلسة الـ13 لانتخاب رئيس الجمهورية بحضور
+   128 نائباً وسفراء دول الخماسيّة.
+   انتخابات رئاسية
+   البرلمان
+   نبيه برّي
+   09-01-2025 12:32
+
+   [يحدث الآن] نتائج دورة الاقتراع الأولى: 71 صوتاً لجوزاف عون، 37 ورقة
+   بيضاء، 14 ورقة لـ«سيادة ودستور» و4 أوراق ملغاة، وصوتان لشبلي الملاط،
+   وبري يرفع الجلسة حتى الثانية من بعد الظهر إفساحاً في المجال للتشاور.
+   09-01-2025 12:05
+
+   [يحدث الآن] بدء عملية فرز الأصوات بعد انتهاء عملية الاقتراع في الدورة
+   الأولى لانتخاب رئيس الجمهورية.
+   09-01-2025 11:46
+
+   [يحدث الآن] بدء عملية التصويت في الدورة الأولى من جلسة انتخاب الرئيس
+   09-01-2025 11:45
+
+   [يحدث الآن] النائبة حليمة قعقور تؤكد على أن خرق الدستور لا يبرّره عدد
+   أصوات النواب.
+   09-01-2025 11:35
+
+   [يحدث الآن] النائب ميشال معوض يدعو ثنائي حزب الله وحركة أمل لانتخاب
+   العماد جوزاف عون، وتحويل الالتقاء عليه إلى إجماع.
+   09-01-2025 11:30
+
+   [يحدث الآن] النائب ميشال ضاهر يذكّر برّي أنه سبق وأكد على أنّ حصول
+   مرشّح على 86 صوتاً لا يستوجب إجراءات لتعديل الدستور.
+   09-01-2025 11:30
+
+   [يحدث الآن] النائب العونيّ سليم عون يردّ بألفاظ ذكوريّة على النائبة
+   بولا يعقوبيان.
+   09-01-2025 11:22
+
+   [يحدث الآن] النائب أسامة سعد يدعو برّي لوقف «المذبحة الدستوريّة».
+   09-01-2025 11:22
+
+   [يحدث الآن] مداخلتان للنائبَين ملحم خلف وجبران باسيل رفضاً لانتخاب قائد
+   الجيش بحجة منع خرق الدستور وعدم الرضوخ لوصايات خارجية.
+   أخبار
+   02-12-2024 21:10
+
+   غارات إسرائيلية تستهدف منطقة إقليم التفاح
+
+   وسّع جيش الاحتلال خرقه لوقف إطلاق النار، فشنّ مساء اليوم الإثنين سلسلة
+   غارات استهدفت مرتفعات الريحان وأطراف بلدتَي جباع وحومين الفوقا في منطقة
+   إقليم التفاح في جنوب لبنان. ونشر المتحدّث باسم جيش الاحتلال الإسرائيلي،
+   أفيخاي أدرعي، تغريدةً على «إكس» قال فيها إنّ الاحتلال «يهاجم أهداف في
+   لبنان» مشيراً إلى نشر تفاصيل إضافية في وقت لاحق.
+
+   وتأتي هذه الغارات بعد استهداف حزب الله موقع رويسات العلم في تلال
+   كفرشوبا المحتلّة بعد ظهر اليوم، رداً على الخروقات الإسرائيلية لوقف
+   إطلاق النار والتي أدّت اليوم إلى استشهاد شخصَين في النبطية ومرجعيون؛
+   بينما كان قد أكد رئيس حكومة إسرائيل بنيامين نتنياهو الردّ بحزم على ما
+   اعتبره «خرق وقف إطلاق النار من قبل حزب الله»، مع العلم أنّ جيش الاحتلال
+   الإسرائيلي نفّذ أكثر من 74 خرقاً منذ بدء سريان وقف إطلاق النار يوم
+   الأربعاء الماضي.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   02-12-2024 18:45
+
+   وزير الدفاع الإسرائيلي يتوعّد بردّ قاسٍ على «خرق حزب الله لوقف إطلاق
+   النار»
+
+   توعّد وزير الدفاع الإسرائيلي، يسرائيل كاتس، بردّ قاسٍ على العملية التي
+   شنّها حزب الله ضدّ موقع رويسات العلم في تلال كفرشوبا المحتلّة، وقال في
+   تغريدة على «إكس» إنه «وعدنا بالتحرك ضدّ أي انتهاك لوقف إطلاق النار من
+   جانب حزب الله وهذا بالضبط ما سنفعله». وتابع كاتس مشيراً إلى أنّ « هجوم
+   حزب الله النار على مواقع الجيش (الإسرائيلي) سيواجه بردّ قاسٍ».
+
+   وجاء هجوم حزب الله على موقع جيش الاحتلال اليوم رداً على الخروقات
+   الإسرائيلية المتواصلة لوقف إطلاق النار منذ بدء سريانه يوم الأربعاء
+   الماضي، إذ أفيد عن 74 خرقاً إسرائيلياً. واستشهد بالخروقات الإسرائيلية
+   شخصان في النبطية ومرجعيون اليوم، بينما تُطلق قوّات الاحتلال نيران
+   مدافعها ورشاشاتها على الجنوبيّين في قراهم.
+   الحرب على لبنان
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   30-11-2024 16:13
+
+   المعارضة السورية تتقدّم باتّجاه حماه بعد السيطرة على خان شيخون
+
+   أعلنت المعارضة السورية أنّها تتقدّم الآن باتّجاه حماه، وقد بدأت عمليةً
+   عسكريةً في ريفها مكّنتها من السيطرة على 6 قرى، بعد ساعات قليلة من
+   إعلانها السيطرة على منطقتَي معرة النعمان وخان شيخون الواقعتَين في الريف
+   الجنوبي لإدلب.
+
+   وبذلك، تكون المعارضة السورية قد استعادت السيطرة على كامل محافظة إدلب،
+   بالإضافة إلى مواصلة التقدّم في حلب، حيث سيطرت الفصائل قبل قليل على مطار
+   كويرس العسكري ومطار حلب الدولي.
+   الثورة السورية
+   نظام الأسد
+   أخبار
+   28-11-2024 16:11
+
+   غارة إسرائيلية على البيساريّة بحجّة استهداف موقع لحزب الله
+
+   يواصل جيش الاحتلال الإسرائيلي اعتداءاته على لبنان رغم وقف إطلاق النار،
+   إذ أغارت طائرة حربيّة على منطقة البيساريّة في قضاء صيدا، بحجّة استهداف
+   موقع تابع لحزب الله. وقد ادّعى جيش الاحتلال أنه «رصد نشاط إرهابي» داخل
+   الموقع، زاعماً أنّه يحتوي على قذائف صاروخيّة متوسطة المدى.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   27-11-2024 09:55
+
+   جيش الاحتلال يُطلق 5 قذائف مدفعية قرب بوّابة فاطمة لمنع المواطنين من
+   دخول كفركلا
+
+   أطلق جيش الاحتلال الإسرائيلي 5 قذائف مدفعية قرب بوّابة فاطمة الحدودية
+   في كفركلا لمنع المواطنين من دخول البلدة، مع العلم أنّ عدداً منهم دخلوا
+   أحياء البلدة وقاموا بتصوير حجم الدمار الذي لحق بها جراء العدوان
+   الإسرائيلي. وزعم المتحدّث باسم جيش الاحتلال، أفيخاي أدرعي، رصد «مركبات
+   في الأراضي اللبنانية تقل مشتبهين داخل منطقة محظورة على الحركة، وأطلقت
+   القوّات النار لمنع وصولهم إلى المنطقة».
+
+   وكان الجيش اللبناني دعا المواطنين إلى «التريّث في العودة إلى القرى
+   والبلدات الأمامية التي توغّلت فيها قوّات العدو الإسرائيلي بانتظار
+   انسحابها».
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   26-11-2024 20:46
+
+   نتنياهو يوافق على هدنةٍ مع لبنان
+
+   أكّد رئيس الوزراء الإسرائيلي بنيامين نتنياهو أنّ «سيقدّم لموافقة
+   الكابينت اتّفاقاً لوقف إطلاق النار» ربطاً بالجبهة مع لبنان، مشيراً إلى
+   أنّ إسرائيل سوف «تحافظ على حرية العمل العسكري الكامل إذا انتهك حزب الله
+   الاتّفاق وحاول العودة للتسلّح».
+
+   نتنياهو عدّد ثلاثة أسباب لموافقته على هدنةٍ اليوم، تتعلّق بإيران وحماس
+   وبالجيش الإسرائيلي، مضيفاً أنّ «حزب الله اليوم لم يعد حزب الله الذي شنّ
+   الحرب علينا، فقد أعدناه سنيناً إلى الوراء».
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   26-11-2024 14:52
+
+   غارة على منطقة النويري في قلب بيروت
+
+   استهدفت غارة إسرائيلية مبنىً سكنياً في منطقة النويري في قلب بيروت، في
+   اعتداء هو الثامن على العاصمة منذ بدء العدوان الإسرائيلي في 8 تشرين
+   الأول 2023. وبالتزامن مع هذه الغارة، أصدر المتحدّث باسم جيش الاحتلال،
+   أفيخاي أدرعي، سلسلة تهديدات لأكثر من 10 مبانٍ سكنية في أحياء الحدث
+   وحارة حريك وبرج البراجنة في الضاحية الجنوبية.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   إسرائيل
+   أخبار
+   26-11-2024 14:42
+
+   جيش الاحتلال يطلب من السكّان إخلاء الناقورة
+
+   أصدر المتحدّث باسم جيش الاحتلال الإسرائيلي، أفيخاي أدرعي، تهديداً
+   لسكّان بلدة الناقورة وطالبهم بإخلائها والتوجّه إلى شمالي نهر الأولي
+   (مدخل مدينة صيدا الشمالي)، وذلك بزعم أنّ «عناصر حزب الله ومنشآته
+   وأسلحته» تعرّضهم للخطر.
+   ويأتي هذا التهديد في سياق العدوان الإسرائيلي المستمرّ على مختلف المناطق
+   اللبنانية، على الرغم من كلّ الأجواء المتفائلة بقُرب التوصّل إلى اتفاق
+   لوقف إطلاق النار خلال الساعات المُقبلة.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   25-11-2024 14:43
+
+   جيش الاحتلال يهدّد أحياءً بأكملها في صور
+
+   نشر المتحدّث باسم جيش الاحتلال الإسرائيلي أفيخاي أدرعي تهديداً لأحياءٍ
+   كاملة في مدينة صور. وتقع المباني المهدّدة بين شارع الأوقاف وشارع حيرام
+   ومقام النبي اسماعيل ابن حزقيل والجامعة الإسلامية في لبنان وشارع محمد
+   الزيات، بحسب التهديد الذي نشره أدرعي. وتشنّ قوّات الاحتلال منذ الصباح
+   غارات على صور قتلت 10 أشخاص وأصابت 17، بحسب الوكالة الوطنية للإعلام.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   أخبار
+   24-11-2024 18:02
+
+   ارتفاع حصيلة الغارة على البسطة الفوقا: 29 شهيداً، 66 مصاباً
+
+   فيما لا تزال أعمال رفع الأنقاض مستمرّة في موقع الغارة التي شنّتها
+   إسرائيل على البسطة الفوقا فجر السبت، نشر مركز عمليات الطوارئ في وزارة
+   الصحة اللبنانية حصيلةً محدّثة للغارة. وقد بلغت هذه الحصيلة غير النهائية
+   29 شهيداً و66 مصاباً.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   إسرائيل
+   وزارة الصحة
+   أخبار
+   24-11-2024 15:25
+
+   تهديد إسرائيلي لإخلاء مبنيَين ومحيطهما في الحدث وبرج البراجنة
+
+   أصدر المتحدّث باسم الاحتلال الإسرائيلي أفيخاي أدرعي تهديدَي إخلاء
+   يطالان مبنى في الحدث وآخر في برج البراجنة، ويقع المبنيَين على مقربة من
+   مدرسة المهدي.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   الضاحية الجنوبية
+   أخبار
+   22-11-2024 23:44
+
+   تهديد إسرائيلي لمبنيَين في الغبيري وآخر في حارة حريك
+
+   نشر المتحدّث باسم الاحتلال الإسرائيلي خرائط تهديد جديدة، تطال مبنىً في
+   حارة حريك قرب مسجد الرضا، ومبنىً مقابل روضة الشهيدين في الغبيري وآخر
+   مقابل المدافن الجديدة. تُسمع الآن طلقات نارية في محيط المباني المستهدفة
+   لتحذير السكّان، وهذه هي موجة التهديدات / القصف الثالثة التي تطال هذه
+   المناطق اليوم.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   22-11-2024 12:49
+
+   تهديد إسرائيلي باستهداف مبنيَين على طريق صيدا القديمة بين الشياح وعين
+   الرمّانة
+
+    أصدر المتحدّث باسم جيش الاحتلال الإسرائيلي، أفيخاي أدرعي، تهديداً
+   بإخلاء محيط مبنيَين على طريق صيدا القديمة، لجهة منطقة عين الرمانة.
+   ويوسّع الاحتلال استهدافه لمنطقة الشياح ومحيط الضاحية الجنوبية لبيروت،
+   بزعم مهاجمة «منشآت ومصالح تابعة لحزب الله».
+
+
+   الحرب على لبنان
+   بيروت
+   الضاحية الجنوبية
+   أخبار
+   21-11-2024 16:55
+
+   الجنائية الدولية تصدر مذكّرة اعتقال بحق محمد الضيف
+
+   أصدرت المحكمة الجنائية الدولية مذكرة اعتقال بحق القائد العام لكتائب عزّ
+   الدين القسّام، محمد الضيف أو محمد دياب إبراهيم المصري، بتهمة «ارتكاب
+   جرائم ضدّ الإنسانية وجرائم حرب على أراضي دولة إسرائيل ودولة فلسطين منذ
+   7 تشرين الأول 2023 على الأقلّ». وأشار نصّ القرار إلى عدم الحسم ما إذا
+   كان الضيف لا يزال على قيد الحياة، إذ سبق أن أعلن جيش الاحتلال
+   الإسرائيلي اغتياله في تموز 2024، في المجزرة التي ارتكبها في المواصي
+   وأدّت إلى استشهاد ما لا يقلّ عن 90 مدنياً.
+
+   ويُذكر أنّ الجنائية الدولية تراجعت عن إصدار مذكرات التوقيف بحق كلّ من
+   رئيس المكتب السياسي الأسبق اسماعيل هنية وخلفه يحيى السنوار، عقب الإعلان
+   عن اغتيالهما في آب وتشرين الأول الماضيَين.
+
+
+   طوفان الأقصى
+   إسرائيل
+   فلسطين
+   أخبار
+   21-11-2024 14:21
+
+   الجنائية الدولية تصدر مذكّرتَي اعتقال بحق بنيامين نتنياهو ويوآف غالانت
+
+   أصدرت المحكمة الجنائية الدولية اليوم مذكّرتَي اعتقال بحق رئيس الحكومة
+   الإسرائيلية بنيامين نتنياهو، ووزير الأمن السابق يوآف غالانت، على خلفية
+   مسؤوليّتهما عن ارتكاب جيش الاحتلال الإسرائيلي جرائم حرب وجرائم ضد
+   الإنسانية في الحرب المستمرّة ضدّ الفلسطينيّين في غزّة.
+
+   وكانت المدّعي العام في المحكمة، كريم خان، قد طلب إصدار مذكّرات التوقيف
+   في أيار الماضي، وتأخّر صدورها بفعل الحملة السياسية الإسرائيلية على
+   المحكمة وعلى خان نفسه.
+   طوفان الأقصى
+   القضاء
+   إسرائيل
+   أخبار
+   21-11-2024 10:22
+
+   جيش الاحتلال يهدّد بتدمير بلدات الحوش ومعشوق وبرج الشمالي في صور
+
+   أصدر المتحدّث باسم جيش الاحتلال، أفيخاي أدرعي، تهديداً بإخلاء بلدات
+   الحوش ومعشوق وبرج الشمالي، شرق مدينة صور الجنوبية، بزعم أنّ حزب الله
+   ينشط فيها. وأرفق أدرعي تهديده بخرائط لوّن فيها البلدات الثلاثة باللون
+   الأحمر بشكل كامل، وهي صيغة التهديد والإنذار التي يعتمدها الاحتلال عادةً
+   قبل استهدافه المباني وتدميرها.
+
+   وكان العدوان الإسرائيلي على بلدات قرى قضاء صور قد أدّى خلال يوم أمس فقط
+   إلى استشهاد 9 أشخاص وجرح 6 بحسب ما أفادت وزارة الصحة، ويكثّف الاحتلال
+   عمليّاته في القطاع الغربي بين طير حرفا وشمع والبياضة بهدف عزل الناقورة
+   عن صور.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   20-11-2024 22:03
+
+   استشهاد مسعف بغارة إسرائيلية على نقطةٍ للهيئة الصحّية في كفردونين
+
+   استهدف الطيران الإسرائيلي نقطةً لجمعية الهيئة الصحّية الإسلامية (الدفاع
+   المدني) في بلدة كفردونين الجنوبية، ما أدّى إلى استشهاد أحد المسعفين،
+   وجرح 3 آخرين.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   19-11-2024 20:50
+
+   3 شهداء من الجيش اللبناني بغارة استهدفت مركزهم في الصرفند
+
+   أعلن الجيش اللبناني أنّ الغارة الإسرائيلية على الصرفند في قضاء صيدا
+   استهدفت مركزاً تابعاً له، ما أدّى إلى استشهاد 3 عسكريين. أُصيب كذلك
+   أكثر من 8 أشخاص، وقد ذُكر أنّ المركز المستهدف يضمّ غرفة عمليات تابعة
+   لمخابرات الجيش، هي من الأحدث في جنوب لبنان.
+
+
+   الحرب على لبنان
+   الجيش اللبناني
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   17-11-2024 23:35
+
+   حزب الله ينعى مسؤول العلاقات الإعلاميّة محمد عفيف
+   نعى حزب الله رسمياً مسؤول العلاقات الإعلاميّة في الحزب محمد عفيف الذي
+   استهدفته غارة إسرائيلية خلال وجوده في مقرّ حزب البعث في راس النبع في
+   بيروت. وقد سجّلت وزارة الصحة اللبنانية استشهاد أربعة أشخاص وإصابة 14
+   آخرين بحصيلة للغارة التي قتلت عفيف.
+   الحرب على لبنان
+   اغتيالات
+   القصف الإسرائيلي
+   أخبار
+   16-11-2024 22:33
+
+   سبعة أشخاص من العائلة نفسها قتلتهم غارة إسرائيلية في عربصاليم
+
+   استهدفت غارة إسرائيلية منزلاً في حي اللبّانة في عربصاليم، قضاء النبطية،
+   ليل اليوم السبت وقتلت سبعة أشخاص من العائلة نفسها كانوا في داخل المنزل.
+   قبل ساعات، كانت غارة أخرى قد قتلت عائلة أخرى في بلدة الخريبة، مؤلّفة من
+   أب وأم وأولادهما الأربعة.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   16-11-2024 09:41
+
+   غارات تستهدف حارة حريك في الضاحية الجنوبية لبيروت
+
+   يشنّ الجيش الإسرائيلي غارات تستهدف الأحياء السكنية في منطقة حارة حريك
+   في ضاحية بيروت الجنوبية.وقد هدّد المتحدّث باسم جيش الاحتلال، أفيخاي
+   أدرعي، بإخلاء مباني في الحارة بزعم أنها «منشآت ومصالح تابعة لحزب
+   الله».
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   14-11-2024 21:54
+
+   غارة على مركز الدفاع المدني في بعلبك، وكان بداخله أكثر من 20 عنصراً
+
+   شنّ جيش الاحتلال غارةً على مركز الدفاع المدني في دورس في بعلبك، أثناء
+   تواجد 20 عنصراً بداخله، بحسب ما أفاد محافظ بعلبك. فُقد التواصل مع
+   الفريق، وذكرت الأنباء الأوّلية أنّ مسؤول الدفاع المدني في بعلبك بلال
+   رعد قد استشهد.
+   تحديث:انتُشل 12 جثماناً من عناصر الدفاع المدني، وما تزال أعمال رفع
+   الأنقاض مستمرّة. وقد أكّد أحد العناصر أنّ المسؤول بلال رعد لم يستشهد بل
+   تصاوب.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   14-11-2024 09:24
+
+   غارات إسرائيلية على الضاحية بعد تهديد مبنيَيْن في الشويفات والغبيري
+
+   بدأت قوّات الاحتلال الإسرائيلي هجومها على الضاحية الجنوبية لبيروت،
+   بعدما أصدر المتحدث باسم جيش الاحتلال تهديدات بإخلاء مبنيَيْن في منطقة
+   شويفات العمروسية والغبيري. ويقع المبنى المهدّد في الغبيري مقابل مدافن
+   حرج بيروت، بينما يقع المبنى المهدّد في الشويفات بقرب مدرسة دار العلوم.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   13-11-2024 21:10
+
+   غارات تستهدف الضاحية بعد تهديدات إسرائيلية لمبنيَين في برج البراجنة
+   وحارة حريك
+
+   يشنّ الجيش الإسرائيلي عدواناً على أحياء الضاحية الجنوبية لبيروت، بعد
+   تهديدات أصدرها المتحدّث باسم جيش الاحتلال لمبنيَين في برج البراجنة
+   وحارة حريك مساء اليوم. وتأتي هذه الغارات بعد سلسلة غارات صباحية استهدفت
+   الضاحية، وأخرى منتصف الليل الماضي.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   13-11-2024 17:06
+
+   حزب الله يهاجم مقرّ وزارة الدفاع الإسرائيلية بالمسيّرات لأول مرّة
+
+    أعلن حزب الله أنّه هاجم مقرّ وزارة الدفاع الإسرائيلية، مؤكّداً أنّ
+   المسيّرات الانقضاضية التي أطلقها «أصابت أهدافها بدقّة»، بحسب بيان
+   الإعلام الحربي. وقد ذكر أنّ هذا الهجوم يأتي في سياق عمليات خيبر، وأنّه
+   طال قاعدة الكرياه، حيث يوجد «مقرّ وزارة الحرب وغرفة الأركان العامة
+   الإسرائيلية وغرفة إدارة الرحب وهيئة الرقابة والسيطرة الحربية لسلاح
+   الجو».
+
+
+   الحرب على لبنان
+   إسرائيل
+   دولة حزب الله
+   أخبار
+   13-11-2024 10:17
+
+   تهديدات إسرائيلية لـ6 مبانٍ في الغبيري وحارة حريك
+
+    أصدر المتحدّث باسم الاحتلال الإسرائيلي أفيخاي أدرعي صباح اليوم تهديدات
+   إخلاء 6 مبانٍ جديدة في الغبيري وحارة حريك. وكان الاحتلال قد أصدر
+   تهديدات مماثلة طالت 11 مبنى صباح أمس، وبدأ بقصف المنطقة بعد دقائق
+   قليلة.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   12-11-2024 23:21
+
+   15 شهيداً و12 جريحاً في مجزرة جون قضاء الشوف
+
+    أصدرت وزارة الصحّة اللبنانية حصيلةً محدّثة لضحايا الغارة الإسرائيلية
+   على بلدة جون قضاء الشوف، والتي استشهد إثرها 15 شخصاً، بينهم 8 نساء و4
+   أطفال. كما أُصيب 12 شخصاً في الغارة التي استهدفت مبنى يعود لآل غصن، كان
+   يأوي عائلات نازحة. وهذه الحصيلة غير نهائية، إذ لا تزال فرق الإنقاذ تعمل
+   على رفع الأنقاض لانتشال الشهداء والجرحى.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   08-11-2024 22:59
+
+   غارات إسرائيلية على الضاحية الجنوبيّة لبيروت
+
+   استهدفت 5 غارات على الأقل مناطق حارة حريك وبرج البراجنة والحدث. وكان قد
+   أصدر المتحدّث باسم جيش الاحتلال قبل نصف ساعة تهديدات بإخلاء 6 مباني،
+   أحدها مقابل الجامعة اللبنانية في الحدث.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   07-11-2024 01:33
+
+   سلسلة جديدة من الغارات تستهدف الضاحية ومبنىً ملاصقاً لمطار بيروت
+
+   يشنّ جيش الاحتلال الإسرائيلي سلسلة غارات جديدة تستهدف الضاحية الجنوبية
+   لبيروت، وذلك بعد التهديد الذي أطلقه المتحدث باسم جيش الاحتلال في وقت
+   سابق من مساء اليوم. وهدّد أفيخاي أدرعي مبانٍ سكنية في أحياء حارة حريك
+   والحدث وتحويطة الغدير، إضافةً لمبنىً في منطقة الأوزاعي ملاصقاً لمطار
+   بيروت الدولي.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   الضاحية الجنوبية
+   أخبار
+   06-11-2024 16:29
+
+   أولى الغارات الإسرائيلية على الضاحية الجنوبية بعد تهديد 6 مبانِِ
+
+   شنّ الطيران الإسرائيلي أولى غاراته على الضاحية الجنوبية لبيروت، بعد
+   قرابة الساعة على تهديد 6 مبانٍ بالإخلاء، بين برج البراجنة وحارة حريك
+   والليلكي. وقد نُشرت التهديدات لحظة بدأت كلمة أمين عام حزب الله نعيم
+   قاسم.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   06-11-2024 12:07
+
+   سقوط قذيفة في مطار بن غوريون في تل أبيب
+
+    أوقف مطار بن غوريون حركة الملاحة بعد سقوط قذيفة في المطار، تحديداً في
+   جهة مواقف السيارات، وذلك إثر إطلاق حزب الله رشقةً من الصواريخ الثقيلة
+   تجاه تل أبيب. لم يُحدَّد بعد ما إذا كانت القذيفة التي أصابت المطار هي
+   من صواريخ حزب الله أو صاروخ اعتراضي إسرائيلي، لكنّ سجّلت أضرار أخرى في
+   تل أبيب، من دون وقوع إصابات بحسب الإعلام الإسرائيلي.
+
+   جاءت هذه الرشقة ضمن استهدافات صاروخية أوسع طالت عدّة مستوطنات، مع
+   الإشارة إلى أنّ اليوم يُصادف أربعينية اغتيال أمين عام حزب الله حسن
+   نصرالله.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   دولة حزب الله
+   جنوب لبنان
+   06-11-2024 13:52
+
+   حزب الله يعلن أنّه استهدف قاعدة تسرفين العسكرية، والتي تقع قرب مطار بن
+   غوريون.
+   أخبار
+   05-11-2024 20:31
+
+   بنيامين نتنياهو يقيل وزير الدفاع يؤآف غالانت
+
+   أعلن رئيس حكومة إسرائيل، بنيامين نتنياهو، إقالة وزير الدفاع يؤآف غالانت
+   وتعيين وزير الخارجية يسرائيل كاتس بدلاً منه. وقال نتنياهو إنه قرّر
+   إنهاء خدمة غالانت بسبب «الحاجة لثقة كاملة بين رئيس الوزراء ووزير
+   الدفاع»، وأضاف أنّ «أزمة الثقة التي حلّت بيني وبين وزير الدفاع لم تجعل
+   من الممكن استمرار إدارة الحرب بهذه الطريقة».
+   إسرائيل
+   فلسطين
+   الحرب على لبنان
+   أخبار
+   03-11-2024 12:01
+
+   جيش الاحتلال يهدّد مباني في بعلبك
+
+   أصدر المتحدث باسم جيش الاحتلال الإسرائيلي أفيخاي أدرعي 4 تهديدات لسكّان
+   وأهالي بعلبك الهرمل. وضمّت الخرائط التي نشرها أدرعي مبنى بالقرب من
+   مستشفى بعلبك الحكومي الذي لا يزال يعمل بشكل طبيعي، في تهديدٍ قد يخرجه
+   عن الخدمة.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   30-10-2024 23:42
+
+   وزارة الصحة: 19 شهيداً حصيلة الغارات على مزرعة صليبي وبدنايل في بعلبك
+
+   أعلنت وزارة الصحة اللبنانيّة استشهاد 19 شخصاً في الغارات التي شنّتها
+   قوّات الاحتلال الإسرائيلي على مزرعة صليبي وبدنايل في بعلبك. وقد استشهد
+   في مزرعة صليبي 11 شخصاً وأُصيب 3 بجروح بالغة، أغلبهم من عائلة صليبي.
+   كما استشهد في بدنايل 8 أشخاص من عائلات مهدي وأبو صالح وغسان.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   30-10-2024 15:35
+
+   الغارات الإسرائيلية الأولى على بعلبك بعد تهديدات الإخلاء
+
+   شنّ الطيران الحربي الإسرائيلي عدداً من الغارات على مدينة بعلبك، بعد نحو
+   4 ساعات على إصدار تهديدات إخلاء طالت بعلبك وعين بورضاي ودورس، وهي أكبر
+   مساحة تتلقّى تهديدات إخلاء منذ بداية الحرب. يُذكَر أنّ هذه المناطق ذات
+   كثافة سكّانية عالية، كما أنّها تتضمّن منطقة بعلبك التراثية وقلعتها.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   البقاع
+   أخبار
+   30-10-2024 10:18
+
+   شهيد إثر استهداف مسيّرة إسرائيلية عائلةً تقطف زيتونها في سيناي جنوب
+   لبنان
+
+   استشهد مواطنٌ وجُرح عددٌ آخر، من بين عائلةٍ مكوّنة من 15 شخصاً كانت
+   تقطف زيتونها صباح اليوم، لمّا استهدفتهم مسيّرة إسرائيلية بشكلٍ مباشر في
+   بلدة سيناي الجنوبية، بحسب ما أفادت الوكالة الوطنية للإعلام. وقد عملت
+   الفرق الصحّية على نقل المُصابين إلى المستشفى، وكان من بينهم أطفال.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   جنوب لبنان
+   أخبار
+   27-10-2024 16:08
+
+   5 شهداء بغارة إسرائيلية على مدرسة للأونروا في برج الشمالي في صور
+
+    أغارت مسيّرة إسرائيلية على باحة مدرسة «فلسطين» التابعة لوكالة الأونروا
+   في مخيّم برج الشمالي في صور، وسُجّل وقوع 5 شهداء وعدد من الإصابات في
+   حصيلةٍ أوّلية.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   27-10-2024 09:40
+
+   مسيّرة أطلقها حزب الله أصابت مصنعاً لإنتاج مكوّنات الطائرات في كرمئيل
+
+    أعلن الجيش الإسرائيلي أن مسيّرةً تابعة لحزب الله تمكّنت من إصابة
+   مصنعاً في كرمئيل، مسؤولاً عن إنتاج مكوّنات للطائرات العسكرية والمدنية،
+   كما أعلن إصابة إسرائيليَين بجراح.
+
+   تزامن ذلك مع إعلان حزب الله عن عملية أخرى، وتنفيذه «هجوم جوي بسرب من
+   المسيّرات الانقضاضية على شركة يوديفات للصناعات العسكرية جنوب شرق عكا».
+   الحرب على لبنان
+   إسرائيل
+   دولة حزب الله
+   جنوب لبنان
+   27-10-2024 10:13
+
+   ارتفاع عدد الإصابات إلى أربعة، ويقع المصنع المستهدف في منطقة بارليف
+   الصناعية بين عكا وكرمئيل.
+   أخبار
+   27-10-2024 00:51
+
+   استهدف الطيران الحربي الإسرائيلي الضاحية الجنوبية لبيروت منتصف ليل
+   السبت- الأحد، فشنّ غارات على أحياء سكنية في منطقتَي برج البراجنة
+   والحدث. وجاءت هذه الغارات بعد إصدار المتحدّث باسم جيش الاحتلال، أفيخاي
+   أدرعي، إنذارات بالإخلاء بزعم أنّ النقاط المُستهدفة «منشآت ومصالح تابعة
+   لحزب الله».
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   الضاحية الجنوبية
+   أخبار
+   24-10-2024 09:22
+
+   استشهاد 3 عناصر من الجيش باستهداف إسرائيلي أثناء إخلاء جرحى من ياطر
+
+   أعلن الجيش اللبناني استشهاد 3 من عناصره، بينهم ضابط، باستهدافٍ إسرائيلي
+   طالهم صباح اليوم أثناء عملية إخلاء جرحى في خراج بلدة ياطر - #بنت_جبيل.
+
+   الحرب على لبنان
+   الجيش اللبناني
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   23-10-2024 22:10
+
+   غارات تستهدف الجناح والضاحية الجنوبية من دون إنذارات مُسبقة
+
+   شنّ جيش الاحتلال الإسرائيلي غارةً استهدفت شقةً في الطابق الثاني من مبنى
+   سكني في منطقة الأوزاعي، وقد وثّق مواطنون اشتعال النيران في الشقّة
+   المُستهدفة. وحصلت الغارة من دون أي إنذار مُسبق صادر عن المتحدث باسم جيش
+   الاحتلال، كما درجت العادة خلال العدوان الحالي، ما يؤشّر إلى احتمال أن
+   يكون الهجوم بقصد تنفيذ عملية اغتيال لشخصية مُحدّدة.
+
+   وقد ألحق الاحتلال هذه الغارة بغارتَين استهدفتا منطقة حارة حريك في
+   الضاحية، من دون إنذارات مُسبقة أيضاً.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   الضاحية الجنوبية
+   أخبار
+   23-10-2024 17:45
+
+   حزب الله ينعى هاشم صفي الدين بعد 3 أسابيع على غارات المريجة
+
+   نعى حزب الله هاشم صفي الدين، اليوم الأربعاء، بعد يومٍ على انتشال جثمانه
+   من منطقة المريجة، برفقة من كانوا معه، وذلك بعد ثلاثة أسابيع على الحزام
+   الناري الذي استهدف منطقة المريجة في 3 تشرين الأوّل  عندما ذكر الجيش
+   الإسرائيلي أنّه استهدف صفي الدين. بعد هذا العدوان، ظلّت المسيّرات
+   الإسرائيلية تقصف محيط الموقع لتمنع فرقة الإغاثة من الوصول إليه.
+
+   وكان صفي الدين يشغل منصب رئيس المجلس التنفيذي لحزب الله، كما كان من
+   أبرز المرشّحين لخلافة الأمين العام حسن نصرالله بعد اغتياله في 27 أيلول
+   الماضي.
+   الحرب على لبنان
+   اغتيالات
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   23-10-2024 11:54
+
+   الغارة الإسرائيلية الأولى على صور بعد تهديد حيّ بكامله
+   شنّ الطيران الحربي الإسرائيلي غارته الأولى على وسط مدينة صور، تحديداً
+   على المنطقة التي طالها التهديد الصادر عند الساعة الثامنة من صباح اليوم.
+   وكان جيش الاحتلال الإسرائيلي قد هدّد كلّ الحي السكني الذي يمتدّ بين
+   شوارع الحيرام وجعفر شرف الدين وأبو ديب وشارع الآثار.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   22-10-2024 23:17
+
+   غارات إسرائيلية على حارة حريك والليلكي وبرج البراجنة
+
+    شنّ الاحتلال الإسرائيلي غارات على الضاحية الجنوبية لبيروت، بعد نحو
+   ساعة من تهديد منطقة حارة حريك والليلكي وبرج البراجنة. يُشار إلى أنّ
+   التحذير المتعلّق ببرج البراجنة تضمّن 5 مبانٍ متلاصقة، أمّا المبنى
+   المشار إليه في تحذير حارة حريك فهو يبعد مبنى واحد عن مستشفى بهمن
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   22-10-2024 18:20
+
+   6 شهداء في تفاحتا بغارةٍ استهدفت مجلس عزاء لشخصٍ استشهد أمس
+
+   أعلنت الوكالة الوطنية للإعلام استشهاد ستّة أشخاص في تفاحتا في قضاء
+   صيدا، يُرجَّح أنّهم من العائلة نفسها، بعدما استهدفت غارة إسرائيلية منزل
+   خضر عزالدين، خلال إقامة مجلس عزاء عن روحه. وعزالدين قيادي في حزب الله
+   استُهدف يوم أمس.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   22-10-2024 11:03
+
+   وزارة الصحة اللبنانية: 13 شهيداً و57 جريحاً في حصيلة جديدة للغارة على
+   الجناح
+
+   أصدر مركز عمليات طوارئ في وزارة الصحة اللبنانية الحصيلة المحدَّثة
+   للغارة الإسرائيلية على محيط مستشفى الحريري في منطقة الجناح. فارتفع عدد
+   الشهداء إلى 13، من بينهم طفل، فيما ارتفع عدد الجرحى إلى 57، من بينهم
+   سبعة بحال حرجة.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   أخبار
+   21-10-2024 22:47
+
+   غارات إسرائيلية تستهدف الضاحية الجنوبية لبيروت
+
+   بدأ جيش الاحتلال الإسرائيلي باستهداف أحياء الضاحية الجنوبية، وذلك بعد
+   دقائق من تحذير أطلق المتحدّث باسم جيش الاحتلال، أفيخاي أدرعي، لسكّان
+   عدد من المباني بضرورة إخلائها. وكان أدرعي أنذر مبانٍ ومواقع في منطقة
+   الأوزاعي والحدث والليلكي وحارة حريك وبرج البراجنة، بزعم أنها «منشآت
+   تابعة لحزب الله».
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   20-10-2024 22:26
+
+   إسرائيل تهدّد بقصف مراكز القرض الحسن
+
+   أعلن الجيش الإسرائيلي، ليل الأحد، أنه سينفّذ ضربات ضدّ البنى التحتيّة
+   لمؤسسة القرض الحسن. وتلت هذا الإعلان تحذيرات بإخلاء عدد من المباني في
+   الضاحية الجنوبية لبيروت والبقاع وبعلبك والهرمل. كما أثارت اتصالات
+   إسرائيلية مباشرة بعدد من المواطنين في بيروت ومناطق أخرى حالةً من الذعر
+   أدّت إلى إخلاء العديد منهم منازلهم والخروج إلى الشارع.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   إسرائيل
+   البقاع
+   جنوب لبنان
+   الضاحية الجنوبية
+   أخبار
+   20-10-2024 15:42
+
+   3 شهداء من الجيش اللبناني باستهداف إسرائيلي لآليّتهم في عين ابل
+
+    أعلن الجيش اللبناني عن استشهاد ثلاثة من عناصره، اليوم عند الساعة 3:20
+   ظهراً، إثر استهداف مباشر لآليّتهم من قبل جيش الاحتلال الإسرائيلي، عند
+   طريق عين إبل - حانين.
+
+
+   الحرب على لبنان
+   الجيش اللبناني
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   20-10-2024 00:20
+
+   مجزرة في بيت لاهيا شمال غزّة: 73 شهيداً و100 جريح
+
+   ارتكب جيش الاحتلال الإسرائيلي مجزرة جديدة في مشروع بيت لاهيا شمال قطاع
+   غزّة، إد قصف مربّعاً سكنيّاً مكتظاً بالمدنيّين، ما أدّى لاستشهاد 73
+   شخصاً وإصابة 100 آخرين على الأقل. وتواجه فرق الإسعاف والدفاع المدني
+   صعوبةً بالغة بالوصول إلى الضحايا وإحصائهم وإنقاذ الجرحى، ما يرجّح
+   ارتفاع حصيلة الشهداء.
+   طوفان الأقصى
+   غزّة
+   فلسطين
+   أخبار
+   19-10-2024 15:37
+
+   غارات تستهدف حارة حريك في الضاحية الجنوبية
+
+    استهدف جيش الاحتلال الإسرائيلي الضاحية الجنوبية لبيروت، فشنّ غارات على
+   مباني سكنية في منطقة حارة حريك، وذلك في استهداف أول للضاحية منذ يوم
+   الأربعاء الماضي. وسبق هذه الغارات، تحذير صادر عن المتحدّث باسم جيش
+   الاحتلال، أفيخاي أدرعي، حدّد فيه هدفَين في المنطقة زعم أنهما «منشآت
+   ومصالح تابعة لحزب الله».
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   18-10-2024 15:10
+
+   حركة حماس تعلن استشهاد رئيسها يحيى السنوار
+
+   نعت حركة حماس بشكلٍ رسمي رئيسها يحيى السنوار، بكلمةٍ لخليل الحية، وصفه
+   فيها بـ«قائد معركة طوفان الأقصى»، مشدّداً على أنّ السنوار استشهد وهو
+   مشتبك مع الاحتلال الإسرائيلي، ثم روى سيرته من اللجوء وحتّى يومه الأخير.
+
+   وأكّد الحية على أنّ الحركة ستواصل كفاحها «حتّى إقامة الدولة الفلسطينية
+   على كامل التراب الفلسطيني وعاصمتها القدس». وربطاً بالعدوان الحالي، أعلن
+   الحية أنّ الأسرى الإسرائيليين لن يعودوا إلّا «بوقف العدوان على غزّة
+   والانسحاب الكامل منها وخروج أسرانا من المعتقلات».
+
+
+   طوفان الأقصى
+   غزّة
+   إسرائيل
+   فلسطين
+   أخبار
+   17-10-2024 17:55
+
+   إذاعة الجيش الإسرائيلي: مقتل يحيى السنوار
+   أعلنت إذاعة الجيش الإسرائيلي مقتل رئيس حركة حماس يحيى السنوار. وقد تمّت
+   العمليّة، وفق هيئة البث الإسرائيلية، «في اشتباك عرضي من دون توفّر
+   معلومات مسبقة»، في منطقة تل السلطان في رفح. وكان السنوار يرتدي جعبةً
+   عسكريةً ويرافقه قائد ميداني آخر. نُشر الخبر بدايةً في تسريب إعلامي
+   تضمّن صورة شخصٍ مقتول، وقد تم التداول بها على أنّها تعود للسنوار. بعد
+   دقائق، أعلن الجيش الإسرائيلي سحبه الجثّة وإجراء فحوصات الحمض النووي،
+   وأعلن أنّها إيجابية، من دون أن تعلّق حركة حماس على الموضوع حتّى اللحظة.
+   طوفان الأقصى
+   إسرائيل
+   أخبار
+   17-10-2024 15:04
+
+   إخلاء مبنى في وسط بيروت يضمّ مكتب «الجزيرة» ومكاتب سفارتين، بعد تلقّي
+   إنذارات متتالية
+
+   أفاد مراسل قناة «الجزيرة» بأنّ عاملين في مبنى في وسط بيروت قد أخلوه
+   للتو، وهو يضمّ مكتب القناة بالإضافة إلى مكاتب سفارتَين أخريَين، وذلك
+   بعد تلقّي إنذارات إسرائيلية متتالية.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   17-10-2024 16:15
+
+   أفادت وكالة «رويترز» أنّ اتّصالات التهديد هذه كانت وهمية، بناءً على
+   مصدرٍ أمني لبناني ومصدر دبلوماسي.
+   أخبار
+   17-10-2024 11:01
+
+   الجيش الإسرائيلي يهدّد مبنيَين ومحيطهما بالإخلاء في البقاع
+
+   هدّد المتحدّث باسم جيش الاحتلال أفيخاي أدرعي بإخلاء مبنيَين ومحيطهما في
+   البقاع، الأوّل في تمنين والثاني في سرعين التحتا. هذه هي المرّة الأولى
+   التي يهدَّد بها مبنى بعينه في البقاع، فيما سبق أن اعتُمدت هذه الطريقة
+   في الضاحية الجنوبية لبيروت.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   البقاع
+   أخبار
+   15-10-2024 22:19
+
+   10 شهداء و15 جريحاً نتيجة الغارة الإسرائيلية على قانا
+
+    أعلنت الوكالة الوطنية للإعلام أنّ 10 شهداء سقطوا في قانا نتيجة الغارة
+   الإسرائيلية التي استهدفت مبنى جمعية الرسالة، وقد  أُصيب أكثر من 15
+   آخرين ونُقلوا إلى مستشفيات صور للمعالجة. جاءت هذه الغارة ضمن سلسلة أوسع
+   استهدفت مناطق عدّة في صور، منها القاسمية وعين بعال وعيتا الجبل.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   14-10-2024 20:51
+
+   21 شهيداً و8 جرحى حصيلة الغارة على ايطو في قضاء زغرتا
+
+    أعلنت وزارة الصحة اللبنانية ارتفاع عدد الشهداء إثر الغارة الإسرائيلية
+   التي استهدفت بلدة ايطو في قضاء زغرتا إلى 21 شهيداً، كما أُصيب 8 أشخاص
+   إثر الغارة. ويتم، بحسب الوزارة، الآن إجراء فحوص DNA لتحديد هوية الأشلاء
+   التي تم رفعها من موقع الاستهداف.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   14-10-2024 14:40
+
+   غارة إسرائيلية على منطقة ايطو - اهدن في قضاء زغرتا للمرّة الأولى
+
+   استهدفت غارة إسرائيلية منزلاً سكنياً في منطقة ايطو - اهدن، وهذه هي
+   الغارة الأولى التي تستهدف قضاء زغرتا منذ بداية العدوان الإسرائيلي على
+   لبنان.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   أخبار
+   13-10-2024 19:59
+
+   16 شهيداً و21 جريحاً في الغارة الإسرائيلية على المعيصرة
+
+    أعلن مركز عمليات الطوارئ التابع لوزارة الصحة الحصيلة النهائية للغارة
+   الإسرائيلية على بلدة المعيصرة- قضاء كسروان بعد ظهر أمس. وقد بلغ عدد
+   الشهداء 16، إضافةً إلى إصابة 21 آخرين بجروح.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   13-10-2024 14:08
+
+   القوّات الإسرائيلية ألقت قنابل عنقودية بين حانين والطيري في جنوب لبنان
+
+   صباح اليوم الأحد وبين الساعة 8:30 و9:30، ألقت قوات الاحتلال الإسرائيلي
+   صواريخاً محشوة بالقنابل العنقودية المحرّمة دولياً، على المنطقة الواقعة
+   بين بلدتَي حانين والطيري في جنوب لبنان، بحسب ما ورد في بيانٍ صدر عن
+   العلاقات الإعلامية لحزب الله.
+
+   يُذكر أنّ إسرائيل استخدمت هذا التكتيك في حروبها السابقة على لبنان، ما
+   جعل مخاطر الحرب تستمرّ إلى ما بعد انتهائها. أمّا القنابل العنقودية التي
+   استُخدمت في حرب تمّوز 2006، فقد أُصيب وقُتل بسببها نحو 500 شخص حتّى
+   العام 2022.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   12-10-2024 15:57
+
+   غارة إسرائيلية تستهدف دير بلا في البترون للمرّة الأولى
+
+    وسّعت قوّات الاحتلال الإسرائيلي عدوانها على مناطق نزوح اللبنانيّين، إذ
+   استهدفت غارة إسرائيلية بلدة دير بلا في منطقة البترون، قضاء الشمال،
+   للمرّة الأولى منذ تصعيد العدوان الإسرائيلي على لبنان.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   12-10-2024 15:37
+
+   غارة إسرائيلية على المعيصرة في كسروان
+
+    شنّ الطيران الحربي الإسرائيلية غارة على بلدة المعيصرة في قضاء كسروان،
+   استهدفت منزل اللبناني عبد الله عمرو، بحسب الوكالة الوطنيّة للإعلام.
+   واستشهد شخصٌ واحد على الأقل، نقل الدفاع المدني جثمانه إلى مستشفى
+   المعونات في جبيل. يذكر أنَّ هذا الاستهداف هو الثالث لقضاء كسروان منذ
+   تصعيد العدوان الإسرائيلي على لبنان.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   11-10-2024 23:14
+
+   مسيّرة أُطلقت من لبنان وأصابت محطّة كهرباء في تل أبيب الكبرى
+
+   بعد رصد مسيّرة انقضاضية في سماء تل أبيب الكبرى وفشَل الدفاعات الجويّة
+   باعتراضها، وبعد انقطاع الكهرباء عن منطقة هرتسيليا، تبيّن أنّ المسيّرة
+   استهدفت محطّة الكهرباء هناك، ما أدّى إلى انقطاع التيار الكهربائي عن
+   عددٍ من المناطق. كما نقلت هيئة البث الإسرائيلية أنّ المسيّرة أتت من
+   لبنان، والأرجح أنّهما مسيّرتان. وقد سقط صاروخٌ اعتراضي واحد على الأقل
+   على مبنى في المنطقة وألحق به أضراراً.
+   الحرب على لبنان
+   إسرائيل
+   أخبار
+   11-10-2024 22:26
+
+   3 شهداء في غارة البيسارية، بينهم طفلة عمرها سنتين وشابة عمرها 16 عاماً
+
+   أعلن مركز عمليات طوارئ الصحة العامة أنّ الغارة الإسرائيلية على
+   البيسارية (قضاء صيدا) أسفرت عن وقوع 3 شهداء، بينهم طفلة عمرها سنتين
+   وشابة عمرها 16 عاماً، بالإضافة إلى إصابة 3 آخرين.
+
+   بعد هذه الغارة بدقائق، قصف الاحتلال الإسرائيلي بلدة طيردبا، مستهدفاً
+   مسجد البلدة ومنزل مجاور، ما أدّى إلى وقوع إصابات.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   10-10-2024 20:11
+
+   غارتان تستهدفان النويري ورأس النبع في العاصمة بيروت
+
+   تعرّضت العاصمة بيروت لغارتَين إسرائيليّتَين استهدفتا منطقة النويري
+   ومنطقة رأس النبع المكتظّتَين بالسكّان، ما أدى إلى وقوع إصابات وتدمير
+   مبنى سكني على الاقلّ، بحسب ما أكدت مصادر محليّة من الأحياء المُتسهدفة.
+
+   يُذكر أنه سبق لجيش الاحتلال الإسرائيلي أن استهدف العاصمة مرّتَين خلال
+   العدوان المستمرّ، في منطقة الباشورة والكولا، حيث أفيد عن استشهاد 14
+   شخصاً على الأقلّ في الضربتَين السابقتَين.
+
+
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   إسرائيل
+   أخبار
+   10-10-2024 16:51
+
+   9 شهداء في الكرك في زحلة بعد غارة إسرائيلية دمّرت مبنى سكنيًا
+
+   انتُشل 9 شهداء من تحت أنقاض المبنى السكني الذي استهدفه الاحتلال
+   الإسرائيلي في منطقة الكرك – قضاء زحلة، وما زال العمل جارٍ على رفع
+   الأنقاض، والبحث عن مفقودين.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   البقاع
+   أخبار
+   10-10-2024 12:30
+
+   إصابة شخصين بعملية طعن في جنوب حيفا
+
+   أعلن الإسعاف الإسرائيلي أنّ شخصين أُصيبا بعملية طعن في منطقة برديس
+   حنا-كركور في جنوب حيفا، وأنّ أحدهما جروحه خطيرة، وقد نُقلا للمستشفى.
+
+   كانت قد وقعت عملية مُشابهة يوم أمس في منطقة الخضيرة في تل أبيب، أسفرت
+   عن إصابة 6 إسرائيليين، وقد توفّي أحدهم صباح اليوم.
+
+
+   طوفان الأقصى
+   إسرائيل
+   أخبار
+   07-10-2024 20:54
+
+   غارات إسرائيلية على الضاحية الجنوبية لبيروت
+
+   شنّت قوّات الاحتلال الإسرائيلي عدد من الغارات استهدفت مناطق الرويس
+   والمريجة ومحيط ملعب الراية في الضاحية الجنوبية لبيروت، من دون أي إنذار.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   07-10-2024 16:00
+
+   غارة إسرائيلية تستهدف برج البراجنة ومحيط مطار بيروت
+
+   استأنف جيش الاحتلال الإسرائيلي غاراته على الضاحية الجنوبية لبيروت،
+   واستهدف عند قرابة الثالثة من النصف منطقة برج البراجنة بمحاذاة مطار
+   بيروت، وذلك من دون أي إنذار صادر عن المتحدّث باسم جيش الاحتلال.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   06-10-2024 23:51
+
+   6 شهداء بينهم 3 أطفال و11 جريحاً في غارة على القماطيّة
+
+   أعلن مركز عمليات الطوارئ التابع لوزارة الصحة اللبنانية الحصيلة الأولية
+   للغارة التي استهدفت بلدة القماطية- قضاء عاليه، والتي أدّت إلى استشهاد
+   ستة أشخاص من بينهم ثلاثة أطفال وإصابة 11 آخرين بجروح.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   إسرائيل
+   أخبار
+   06-10-2024 22:33
+
+   6 شهداء و13 جريحاً في غارة إسرائيلية على كيفون
+
+   ارتفعت حصيلة الغارة الإسرائيلية التي شنّت ليل الأحد على أحد المباني في
+   بلدة كيفون- قضاء عاليه إلى ستّة شهداء و13 جريحاً، وفقاً لمركز عمليات
+   الطوارئ التابع لوزارة الصحة اللبنانية.
+
+
+   الحرب على لبنان
+   إسرائيل
+   أخبار
+   06-10-2024 10:22
+
+   غارة عنيفة تستهدف الضاحية الجنوبية لبيروت
+
+    شنّ جيش الاحتلال الإسرائيلي غارةً استهدفت أحد الأحياء بين منطقتَي
+   الليلكي والمريجة، في أولى غاراته على الضاحية الجنوبية لبيروت اليوم، بعد
+   ليلة عنيفة استهدف خلالها الضاحية بأكثر من 30 غارة. ووقعت الغارة من دون
+   أيّ إنذار من قبل جيش الاحتلال، وأفادت وسائل إعلامية عن سماع دوي
+   انفجارَين كبيرَين.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   05-10-2024 23:31
+
+   غارة إسرائيلية على الضاحية الجنوبية لبيروت
+
+   شنّ سلاح الجو الإسرائيلي غارةً جديدةً على مبنى سكني في الضاحية الجنوبية
+   لبيروت، بعد مدّة قصيرة على نشر تهديدات إخلاءات تطال حارة حريك وشويفات
+   العمروسية، وتتعلّق بمبنيين بشكلٍ خاص، يقع أحدهما قرب مستشفى الرسول
+   الأعظم.
+   الحرب على لبنان
+   الضاحية الجنوبية
+   أخبار
+   05-10-2024 15:22
+
+   4 غارات إسرائيلية على الضاحية الجنوبيّة لبيروت
+
+   شنّت قوّات الاحتلال الإسرائيلي 3 غارات على منطقة برج البراجنة وغارة على
+   منطقة حارة حريك في الضاحية الجنوبيّة لبيروت، من دون أي إنذار أو تهديد
+   بالإخلاء. وتقصف مسيّرات الاحتلال منذ الصباح فرق الإسعاف والدفاع المدني
+   بهدف منعهم من الوصول إلى الأماكن المستهدفة والمهدّدة في الضاحية.
+   الحرب على لبنان
+   الضاحية الجنوبية
+   أخبار
+   04-10-2024 13:02
+
+   استشهاد عنصر من الدفاع المدني بغارةٍ إسرائيلية استهدفته أثناء رفع أنقاض
+   الضاحية
+   بعد الغارات الإسرائيلية الوحشية على الضاحية الجنوبية لبيروت، ليل الخميس
+   - الجمعة، واصل الاحتلال اعتداءاته ظهر اليوم، عبر استهداف فرق الدفاع
+   المدني التابعة للهيئة الصحّية الإسلامية التي كانت تعمل على رفع أنقاض
+   غارات الليل. وقد استشهد نتيجة ذلك أحد العناصر، وجُرح عدد آخر.
+   الحرب على لبنان
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   03-10-2024 23:35
+
+   غارات تستهدف أحياء خارج الإنذار في الضاحية الجنوبية
+
+    شنّ جيش الاحتلال الإسرائيلي 3 غارات استهدفت مباني في محيط أوتوستراد
+   هادي نصر الله في ضاحية بيروت الجنوبية. وجاءت الغارات، بعد أقلّ من عشرين
+   دقيقة على «الإنذار» الذي أطلقه المتحدّث باسم جيش الاحتلال، أفيخاي
+   أدرعي، مع العلم أنّ الأخير أنذر باستهداف مبنيَين في منطقة برج البراجنة
+   وليس المنطقة المُستهدفة.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   إسرائيل
+   فلسطين
+   الضاحية الجنوبية
+   أخبار
+   03-10-2024 20:51
+
+   حزب الله: عدد قتلى الاحتلال في مواجهات اليوم 17 ضابطاً وجندياً
+
+    أعلن حزب الله، في بيان، أنّ عدد القتلى في صفوف قوّات الجيش الإسرائيلي
+   في المواجهات التي حصلت اليوم الخميس بجنوب لبنان، بلغ 17 ضابطاً وجندياً.
+   وكان مقاتلو حزب الله نفّذوا 3 كمائن للقوّات الإسرائيلية التي حاولت
+   التسلّل إلى الأراضي اللبنانية من مارون الراس وبوابة فاطمة، كما شنّوا
+   سلسلة عمليات على مواقع حدودية عديدة واستهدفوها بالأسلحة الصاروخية.
+   الحرب على لبنان
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   03-10-2024 20:38
+
+   الجيش الإسرائيلي يُقرّ بمقتل جندي تاسع بمعارك جنوب لبنان
+
+    أقرّ الجيش الإسرائيلي بمقتل النقيب، بن زيون فالاش، كان قد أصيب في
+   الاشتباكات مع حزب الله في جنوب لبنان أمس. وبذلك يكون قد ارتفع عدد
+   الضباط والجنود الإسرائيليّين، الذين قُتلوا منذ الإعلان عن بدء العمليّات
+   البرية في الجنوب الإثنين، إلى 9 قتلى. ويُذكر أنّ مقاتلي حزب الله فجّروا
+   اليوم 4 عبوات بقوّات الاحتلال خلال محاولتها التقدّم باتجاه الأراضي
+   اللبنانية، من مارون الراس وبوابة فاطمة، من دون أن يعترف الجيش
+   الإسرائيلي بخسائره في هذه العمليات بعد.
+   الحرب على لبنان
+   إسرائيل
+   فلسطين
+   جنوب لبنان
+   أخبار
+   03-10-2024 19:16
+
+   غارة إسرائيلية تستهدف منطقة الشياح في الضاحية الجنوبية
+
+    استهدفت غارة إسرائيلية شقّةً سكنيةً في شارع الأسد في منطقة الشياح، في
+   الضاحية الجنوبية لبيروت. وهذه هذه الغارة الخامسة التي تستهدف الضاحية
+   اليوم.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   إسرائيل
+   فلسطين
+   الضاحية الجنوبية
+   أخبار
+   03-10-2024 15:51
+
+   الجيش اللبناني يردّ على نيران إسرائيلية أدّت إلى استشهاد جندي في بنت
+   جبيل
+
+   أعلن الجيش اللبناني أنّه ردّ على مصادر نيران إسرائيلية استهدفت مركزاً
+   له في منطقة بنت جبيل الجنوبية، بعد أن استشهد نتيجة الاعتداء جندي
+   لبناني.
+
+   هذا هو الجندي اللبناني الثاني الذي يقتله الجيش الإسرائيلي اليوم، إذ
+   استشهد جندي آخر قُرابة الساعة 1:30 اليوم، إثر استهداف موكب للصليب
+   الأحمر في منطقة الطيبة الجنوبية.
+   الحرب على لبنان
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   03-10-2024 14:51
+
+   غارة إسرائيلية على كيفون قضاء عاليه وأخرى على الضاحية الجنوبية
+
+   استهدفت غارة إسرائيلية منطقة كيفون في قضاء عاليه، بالتزامن مع غارتَين
+   على الأقل على الضاحية الجنوبية لبيروت. وقد سبق هذه الغارات بدقائق غارة
+   على المعيصرة الكسروانية.
+   الحرب على لبنان
+   القصف الإسرائيلي
+   بيروت
+   إسرائيل
+   الضاحية الجنوبية
+   03-10-2024 15:01
+
+   غارة الضاحية استهدفت مبنى العلاقات الإعلامية لحزب الله.
+   أخبار
+   03-10-2024 11:45
+
+   حزب الله: تصدّينا لمحاولة تقدّم القوات الإسرائيلية عند بوابة فاطمة
+
+   أعلن حزب الله تصدّيه لمحاولة جديدة من التوغّل البرّي الإسرائيلي داخل
+   الأراضي الجنوبية، من جهة بوّابة فاطمة الحدودية. وقد استخدم الحزب
+   القذائف المدفعية لمنعها، عند الساعة 10:15، قبل أن يقصف بصلية صاروخية
+   تجمّعاً للجنود الإسرائيليين بين شتولا والراهب، عند الساعة 10:45.
+
+
+   الحرب على لبنان
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   03-10-2024 01:09
+
+   غارة إسرائيلية تستهدف مبنى في الباشورة ببيروت
+
+   في ثاني استهداف يطال العاصمة بيروت منذ بدء العدوان الإسرائيلي الموسّع
+   على لبنان، أغار الطيران الإسرائيلي على مبنى في منطقة الباشورة في بيروت،
+   يضمّ مركزاً للهيئة الصحية الإسلامية. وقد أفادت مصادر محليّة عن تسجيل
+   إصابات في الغارة، في حين زعم جيش الاحتلال تنفيذ «هجوم دقيق» في العاصمة
+   اللبنانية، وهي العبارة التي يستخدمها عادةً للإشارة إلى تنفيذه عملية
+   اغتيال.
+   الحرب على لبنان
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   02-10-2024 23:53
+
+   غارات إسرائيلية على الضاحية الجنوبية لبيروت
+   شنّ الاحتلال الإسرائيلي 3 غارات عنيفة على الأقل على الضاحية الجنوبيّة
+   لبيروت، من دون أي إنذار سابق أو تهديد بالإخلاء. ووصل دويّ الانفجارات
+   إلى خارج مدينة بيروت، كما اندلع حريقٌ كبير في مكان الاستهداف.
+   الحرب على لبنان
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   02-10-2024 17:53
+
+   الجيش الإسرائيلي يقرّ بمقتل 8 ضباط وجنود على الحدود مع لبنان
+   أعلن جيش الاحتلال الإسرائيلي مقتل 7 ضباط وجنود في المواجهات على الحدود
+   مع لبنان، لترتفع حصيلة قتلاه اليوم إلى 8 بعد الإعلان في وقت سابق عن
+   مقتل النقيب إيتان إسحق أوستر الذي كان يشغل منصب قائد فرقة في وحدة
+   كوماندوز تابعة للجيش الإسرائيلي.
+   الحرب على لبنان
+   إسرائيل
+   أخبار
+   02-10-2024 09:26
+
+   حزب الله: تصدّينا لقوّة إسرائيلية حاولت التسلّل إلى العديسة
+
+    أعلن حزب الله أنّ مقاتليه تصدّوا لقوّة مشاة إسرائيلية حاولت التسلّل
+   إلى داخل الأراضي اللبنانية من بلدة العديسة، من جهة خلّة المحافر، مشيراً
+   إلى تمكنّهم من إيقاع خسائر بها وإجبارها على التراجع. وقد أفادت وسائل
+   إعلام إسرائيلية عن نقل جنود إلى مستشفيات في حيفا وصفد، بعد إصابتهم في
+   قصف وتبادل لإطلاق النار قرب الحدود مع لبنان.
+
+   ويأتي ذلك بعد إعلان المتحدّث باسم جيش الاحتلال الإسرائيلي أمس، أنّ
+   الغزو البري للبنان بدأ مساء الإثنين، في حين أكد الحزب الله جانبه أنّ
+   كلّ الاداعاءات الإسرائيلية بدخول لبنان كاذبة، متوعدّاً بإلحاق خسائر
+   كبيرة بها.
+
+
+   الحرب على لبنان
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   02-10-2024 01:32
+
+   غارات إسرائيلية على الضاحية الجنوبية لبيروت بعد تهديدات إخلاء
+
+   شنّ سلاح الجو الإسرائيلي غارة على مبنى في ضاحية بيروت الجنوبية، في حارة
+   حريك، بعد ساعة على إصدار تهديدات إخلاء مبنيَين سكنيَّين والمباني
+   المجاورة لهما، بذريعة أنّهما «منشآت خطيرة تابعة لحزب الله».
+   الحرب على لبنان
+   الضاحية الجنوبية
+   أخبار
+   01-10-2024 19:52
+
+   الرد الإيراني: إطلاق أكثر من 100 صاروخ باتّجاه إسرائيل
+   سقطت عشرات الصواريخ على إسرائيل، فيما رُصدَ أكثر من 102 من الصواريخ في
+   السماء بحسب الإعلام الإسرائيلي. وتعمل الآن كل صفّارات الإنذار في
+   إسرائيل. بحسب الجيش الإسرائيلي، فإنّ مصدر الصواريخ من إيران.
+   طوفان الأقصى
+   إيران
+   إسرائيل
+   أخبار
+   01-10-2024 19:25
+
+   10 مصابين بإطلاق نار في تل أبيب
+
+   أُصيب عشر مستوطنين في تل أبيب بعملية إطلاق نار، بعضهم جراحهم حرجة. وقد
+   أفادت المعلومات الأوّلية عن وجود منفّذَين، استخدما بندقيّتَين، وأنّهما
+   فلسطينيّان.
+   طوفان الأقصى
+   مقاومة
+   إسرائيل
+   أخبار
+   01-10-2024 17:09
+
+   غارة تستهدف منطقة بئر حسن في ضاحية بيروت الجنوبية
+
+    استهدفت غارة إسرائيلية شقّةً في مبنى سكني في منطقة بئر حسن. وقد زعم
+   جيش الاحتلال الإسرائيلي أنه «نفّذ غارةً دقيقةً في بيروت»، وهي العبارة
+   التي يستخدمها عادةً للإشارة إلى تنفيذه عملية اغتيال.
+   الحرب على لبنان
+   بيروت
+   إسرائيل
+   فلسطين
+   الضاحية الجنوبية
+   أخبار
+   01-10-2024 10:05
+
+   الاحتلال يهدّد الجنوبيّين: لا تتحرّكوا من شمال الليطاني إلى جنوبه
+
+   هدّد الجيش الإسرائيلي المواطنين في جنوب لبنان، بعدم التحرّك من شمال نهر
+   الليطاني إلى جنوبه بالمركبات، في شبه إعلان رسمي عن نيّته استهداف
+   المركبات التي تعبر باتجاه هذه المنطقة التي يريد الاحتلال إخلاءها من
+   المقاومين والسكّان. وقال المتحدّث باسم جيش الاحتلال، أفيخاي أدرعي، في
+   تغريدة له على «إكس»، إنّ «قتالاً عنيفاً يدور في جنوب لبنان»، مدّعياً
+   أنّ حزب الله «يستغلّ البيئة المدنية والسكّان كدروع بشرية شنّ الهجمات».
+
+
+   الحرب على لبنان
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   30-09-2024 01:36
+
+   غارة إسرائيلية على شقّة سكنيّة في منطقة الكولا في بيروت
+
+   استهدفت مسيّرة تابعة لقوّات الاحتلال الإسرائيلي شقّة سكنيّة في مبنى في
+   منطقة الكولا في العاصمة اللبنانيّة بيروت. هذه الغارة هي الأولى التي
+   تستهدف قلب مدينة بيروت منذ بداية تصعيد العدوان الإسرائيلي على لبنان.
+   ولم تصدر حصيلة رسميّة بعد بعدد الشهداء أو الجرحى.
+
+
+   الحرب على لبنان
+   بيروت
+   أخبار
+   29-09-2024 14:58
+
+   حزب الله ينعى القيادي علي كركي الذي كان مع نصرالله يوم الجمعة
+
+   نعى حزب الله اليوم القيادي علي كركي الذي كان متواجداً في مقرّ الحزب
+   الرئيسي في حارة حريك عند استهدافه، يوم الجمعة الماضي. وكان كركي قد نجا
+   من محاولة اغتيال سابقة، يوم الإثنين 23 أيلول، عندما استهدفته غارة
+   إسرائيلية في منطقة حي ماضي. وقد تولّى كركي مسؤوليات في صفوف الحزب منذ
+   التأسيس، وقاد جبهة الجنوب بكافة محاورها منذ الثامن من تشرين الأول 2023.
+   الحرب على لبنان
+   الضاحية الجنوبية
+   أخبار
+   28-09-2024 14:37
+
+   إسرائيل قتلت حسن نصرالله
+
+    نعى حزب الله أمينه العام حسن نصرالله الذي اغتالته إسرائيل في الضاحية
+   الجنوبيّة لبيروت. وكانت إسرائيل قد استهدفت، مساء الجمعة، المقرّ الرئيسي
+   لحزب الله في الضاحية عبر سلسلة من الغارات، مستخدمةً قنابل خارقة
+   للتحصينات زنتها 2,000 رطل.
+   الحرب على لبنان
+   إسرائيل
+   فلسطين
+   دولة حزب الله
+   أخبار
+   28-09-2024 13:35
+
+   غارة إسرائيلية تستهدف مبنىً سكنياً في منطقة الشياح
+
+    جدّد الاحتلال الإسرائيلي استهداف الضاحية الجنوبية لبيروت، عند قرابة
+   الواحدة والربع من بعد ظهر اليوم، مستهدفاً مبنىً سكنياً في منطقة الشياح.
+   وتأتي هذه الغارة، بعد ليلة عنيفة نفّذ خلالها طيران الاحتلال أكثر من
+   ثلاثين غارة على الضاحية، بزعم استهداف مخازن تابعة لحزب الله، وهو ما سبق
+   ونفاه الحزب.
+   الحرب على لبنان
+   بيروت
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   28-09-2024 09:54
+
+   غارات إسرائيلية تستهدف بحمدون
+
+    جدّد جيش الاحتلال استهداف منطقة بحمدون (عاليه) في جبل لبنان صباح
+   اليوم، من دون الإفادة عن وقوع إصابات بعد. وقد سبق الغارة، مجزرة ارتكبها
+   الاحتلال ليل أمس الجمعة في بلدة بعدران (الشوف)، راح ضحيّتها 8 شهداء
+   بحسب ما أعلنت الوكالة الوطنية.
+   الحرب على لبنان
+   إسرائيل
+   أخبار
+   28-09-2024 00:54
+
+   غارة إسرائيلية على الضاحية الجنوبية، استهدفت المنطقة المهدّدة بالإخلاء
+
+   أغار سلاح الجو الإسرائيلي على مبنى في الضاحية الجنوبية لبيروت في منطقة
+   الليلكي، باستهدافٍ «دقيق»، وذلك بعد قرابة الساعة من إصدار أوامر إخلاء
+   تتعلّق بثلاثة مبانٍ. شُوهِدت حركة نزوح من محيط هذه المباني، تحت صوت
+   المسيّرات الإسرائيلية.
+   الحرب على لبنان
+   إسرائيل
+   الضاحية الجنوبية
+   27-09-2024 01:21
+
+   بعد الغارة الأولى، شنّ الاحتلال 6 غارات متتالية استهدفت الضاحية
+   الجنوبية مُستهدفاً المباني التي هدّد بقصفها.
+   أخبار
+   27-09-2024 18:34
+
+   غارات إسرائيلية على الضاحية الجنوبية لبيروت
+   شنّ سلاح الجو الإسرائيلي نحو عشر غارات على الضاحية الجنوبية لبيروت، قرب
+   طريق المطار.
+   الحرب على لبنان
+   إسرائيل
+   27-09-2024 18:45
+
+   أعلن المتحدّث باسم الجيش الإسرائيلي أنّ الغارات استهدفت المقرّ الرئيسي
+   لحزب الله.
+   أخبار
+   27-09-2024 01:02
+
+   حزب الله ينعى قائد القوّة الجويّة محمد سرور
+
+   نعى حزب الله قائد العمليّات العسكريّة للقوّة الجويّة محمد حسين سرور بعد
+   استهدافه بغارة إسرائيلية على منطقة القائم في الضاحية الجنوبية لبيروت.
+   وكانت وزارة الصحة اللبنانية قد أعلنت استشهاد شخصين وإصابة 15 جريحاً في
+   الغارة. يذكر أنَّ هذا الاستهداف هو الرابع على الضاحية الجنوبيّة في أقل
+   من أسبوع.
+
+
+   الحرب على لبنان
+   الضاحية الجنوبية
+   أخبار
+   26-09-2024 15:17
+
+   غارة إسرائيلية على الضاحية الجنوبية لبيروت
+
+    استهدفت غارة إسرائيلية مبنىً سكنياً في منطقة القائم في الضاحية
+   الجنوبية لبيروت، قرابة الساعة 3:15، باستهدافٍ لقيادي في حزب الله بحسب
+   الجيش الإسرائيلي. وهذه هي الغارة الرابعة على الضاحية في أقل من أسبوع.
+   الحرب على لبنان
+   بيروت
+   إسرائيل
+   فلسطين
+   الضاحية الجنوبية
+   26-09-2024 16:46
+
+   تحديث: الحصيلة الأولية للغارة شهيدان و15 جريحاً.
+   أخبار
+   26-09-2024 14:42
+
+   غارة إسرائيلية تستهدف معبر مطربا على الحدود اللبنانية – السورية
+
+    أعلن الجيش الإسرائيلي أنّه استهدف بنىً تحتيةً على الحدود اللبنانية -
+   السورية بذريعة أنّ «حزب الله يستخدمها لنقل الأسلحة من سوريا إلى لبنان».
+   وذلك ضمن سلسلة من الغارات التي استهدفت قضاء الهرمل بعد ظهر اليوم، وقد
+   طالت غارةٌ منها معبر مرطبا في شمال القضاء، وهو المعبر الذي يربط الأراضي
+   اللبنانية بمنطقة القصير السورية، ما أدّى إلى إصابة 5 أشخاص.
+   وهذا هو العدوان الإسرائيلي الأوّل على معبرٍ حدودي، منذ توسيع الاعتداءات
+   يوم الإثنين.
+   الحرب على لبنان
+   إسرائيل
+   فلسطين
+   أخبار
+   26-09-2024 13:03
+
+   وزارة الداخلية اللبنانية: 70,100 نازح حتّى الآن في 553 مركز نزوح
+
+   بعد 3 أيام من العدوان الإسرائيلي الموسّع على لبنان، بلغ عدد النازحين
+   المسجّلين بشكل رسمي 70,100، بحسب وزير الداخلية بسام المولوي، وقد
+   توزّعوا على 533 مركز إيواء. يُضاف ذلك إلى عددٍ آخر من النازحين غير
+   المسجّلين، أو الذين نزحوا إلى بيوتٍ أخرى.
+
+   وكانت المنظّمة الدولية للهجرة قد أعلنت يوم أمس، أنّ نحو 90,530 شخصاً
+   نزحوا في لبنان يومَي الإثنين والثلاثاء، توزّع منهم 40,283 نازحاً على
+   المآوي.
+   الحرب على لبنان
+   النزوح الجديد
+   إسرائيل
+   فلسطين
+   أخبار
+   25-09-2024 17:19
+
+   51 شهيداً و223 جريحاً في غارات اليوم
+
+   أعلن وزير الصحّة فراس الأبيض حصيلة العدوان الإسرائيلي اليوم: 51 شهيداً
+   و23 جريحاً، ليتجاوز عدد الشهداء الكلّي الـ600 شخص منذ اتّساع العدوان
+   يوم الاثنين.
+
+   في السياق نفسه، كان المرصد السوري قد أعلن أنّ بين شهداء أوّل يومَين من
+   العدوان الإسرائيلي على لبنان 62 سورياً، بينهم 11 امرأة و18 طفلاً.
+
+
+   الحرب على لبنان
+   إسرائيل
+   فلسطين
+   أخبار
+   25-09-2024 08:40
+
+   حزب الله يستهدف تل أبيب بصاروخ باليستي لأول مرّة
+
+    لأوّل مرّة منذ بداية «جبهة إسناد غزّة»، في 8 تشرين الأول 2023، أعلن
+   حزب الله صباح اليوم، إطلاق صاروخ باليستي من نوع «قادر 1» مستهدفاً مقرّ
+   قيادة الموساد في ضواحي تلّ أبيب. وأكد الحزب أنّ هذا المقرّ «مسؤول عن
+   اغتيال القادة وعن تفجير البايجرز وأجهزة اللاسلكي».
+
+   وأفادت وسائل إعلام إسرائيلية عن دوي صفارات الإنذار في تلّ أبيب، وأعلنت
+   أنّ الصاروخ الذي تمّ اعتراضه «باليستي متوسّط المدى أطلقه حزب الله»، من
+   دون الإعلان عن إصابات.
+
+
+   الحرب على لبنان
+   التضامن مع فلسطين
+   إسرائيل
+   فلسطين
+   أخبار
+   25-09-2024 01:52
+
+   حزب الله ينعى قائد منظومة الصواريخ ابراهيم قبيسي
+
+    نعى حزب الله قائد منظومة الصواريخ ابراهيم قبيسي بعد استهدافه بغارة
+   إسرائيلية على الغبيري في الضاحية الجنوبيّة لبيروت. وبحسب إذاعة جيش
+   الاحتلال، كان هدف الهجوم على بيروت هو «رئيس المنظومة الصاروخية لحزب
+   الله»، وأنَّ الهجوم نُفِّذ بطائرة إف-35. وقد أعلنت وزارة الصحة
+   اللبنانية استشهاد 6 أشخاص وإصابة 15 آخرين إثر العدوان الإسرائيلي على
+   الغبيري.
+
+
+   الحرب على لبنان
+   إسرائيل
+   فلسطين
+   أخبار
+   24-09-2024 15:15
+
+   غارة إسرائيلية على منطقة الغبيري في بيروت
+
+   استهدفت غارة إسرائيلية مبنىً سكنياً في منطقة الغبيري في بيروت، تحديداً
+   طابقَين منه، بما يبدو أنّه محاولة اغتيال. وقد أعلن الجيش الإسرائيلي
+   أنّه «يهاجم الآن أهدافاً في بيروت»، كما فعل يوم أمس عندما أغار على مبنى
+   في الضاحية الجنوبية بذريعة استهداف القيادي في حزب الله علي كركي.
+   الحرب على لبنان
+   إسرائيل
+   الضاحية الجنوبية
+   24-09-2024 15:20
+
+   الجيش الإسرائيلي أعلن محاولة اغتيال «قيادي رفيع»، من دون أن تتّضح
+   النتائج.
+   أخبار
+   24-09-2024 13:17
+
+   وزارة الصحة: 558 شهيداً و1,835 جريحاً بعدوان الإثنين
+
+   في آخر مؤتمر صحفي لوزارة الصحّة، أعلن الوزير فراس الأبيض أنّ عدد شهداء
+   عدوان أمس قد ارتفع إلى 558، بينهم بينهم 50 طفلاً و94 امرأةً، بالإضافة
+   إلى 1,835 جريحاً. كما أعلن الوزير أنّ قوات الاحتلال استهدفت 4 مسعفين
+   و14 سيارة إسعاف وإطفاء.
+   الحرب على لبنان
+   طوفان الأقصى
+   إسرائيل
+   البقاع
+   جنوب لبنان
+   أخبار
+   24-09-2024 12:20
+
+   الجيش الإسرائيلي يعلن إطلاق موجة جديدة من الغارات على لبنان
+
+   كما جرى يوم أمس على 5 دفعات على الأقل، أعلن الجيش الإسرائيلي اليوم
+   قُرابة الساعة 11:30 إطلاق موجة جديدة من الغارات على لبنان، وقد تركّزت
+   على الجنوب. تزامن ذلك مع نقل إذاعة الجيش الإسرائيلي قولٍ من مصدر عسكري
+   يفيد بأنّ «القدرات المهمّة لحزب الله كالصواريخ الدقيقة، يحتفظ بها
+   بأماكن لم نقصفها بعد».
+   الحرب على لبنان
+   طوفان الأقصى
+   البقاع
+   جنوب لبنان
+   أخبار
+   23-09-2024 18:58
+
+   غارة على الضاحية الجنوبية لبيروت
+
+    استهدف سلاح الجو الإسرائيلي الضاحية الجنوبية لبيروت قرب حي ماضي بغارةٍ
+   واحدة على الأقل، وقد أعلن أنّه «يستهدف بيروت حالياً».
+
+
+   الحرب على لبنان
+   بيروت
+   التضامن مع فلسطين
+   طوفان الأقصى
+   إسرائيل
+   فلسطين
+   أخبار
+   23-09-2024 18:20
+
+   حزب الله يقصف شمال تل أبيب ومستوطنات في الضفّة الغربية
+
+    أطلق حزب الله رشقات صاروخية بمدى 120 كيلومتراً، مستهدفاً شمال تل أبيب
+   لأوّل مرّة منذ الثامن من تشرين الأوّل، وقد تم تفعيل صفارات الإنذار فيها
+   وفي مناطق قريبة من مطار بن غوريون. كما سُجّل سقوط عدد من الصواريخ قرب
+   من مستوطنات الضفّة الغربية. وبحسب إذاعة الجيش الإسرائيلي، فقد أُطلق 150
+   صاروخاً من لبنان منذ صباح اليوم. بالمقابل، أعلن الجيش أنّه شنّ أكثر من
+   800 غارة على لبنان.
+
+
+   الحرب على لبنان
+   الضفة الغربية
+   التضامن مع فلسطين
+   إسرائيل
+   فلسطين
+   أخبار
+   23-09-2024 17:16
+
+   الجيش الإسرائيلي يشنّ سلسلة غارات جديدة على البقاع اللبناني
+
+    أعلن الجيش الإسرائيلي عند الساعة 5 من اليوم إطلاق سلسلة من الغارات على
+   البقاع اللبناني، وذلك بعد قُرابة الساعتين على نشر خريطة للبقاع مع رسالة
+   تهديد للسكّان. موجة الغارات الجديدة، وهي الرابعة اليوم، استهدفت الطريق
+   الدولية بين طليا وسرعين والنبي شيت، والمنطقة الواقعة بين حور تعلا
+   والخضر، كما استهدفت سيارة إسعاف تابعة لكشافة الرسالة الإسلامية في سحمر
+   - البقاع.
+
+
+   الحرب على لبنان
+   التضامن مع فلسطين
+   طوفان الأقصى
+   إسرائيل
+   فلسطين
+   البقاع
+   أخبار
+   23-09-2024 16:47
+
+   حزب الله يستهدف حيفا
+
+    دوّت صفّارات الإنذار الإسرائيلية بمنطقة الكرمل وصفد وحيفا والجليل، مع
+   توسيع حزب الله دائرة إطلاق النار واستهداف شرق وجنوب حيفا وسقوط عدد من
+   الصواريخ هناك. كما استهدف الحزب منطقة الجليل، وأُصيب 7 إسرائيليين في
+   الشمال بحسب الإسعاف الإسرائيلي. وكان الحزب قد أعلن قبل ساعات استهداف
+   مجمّعات الصناعات العسكرية التابعة لشركة «رفائيل» بعشرات الصواريخ في
+   شمال حيفا. أمّا سلاح الجو الإسرائيلي فقد شنَّ على لبنان ومنذ صباح اليوم
+   أكثر من 400 غارة، فاستشهد 182 شخصاً، بالإضافة إلى 727 مصاباً.
+
+
+   طوفان الأقصى
+   إسرائيل
+   فلسطين
+   أخبار
+   23-09-2024 15:12
+
+   سلاح الجو الإسرائيلي يشنّ ثالث موجة غارات على لبنان اليوم
+
+    للمرّة الثالثة اليوم، يعلن الجيش الإسرائيلي أنّه يشنّ سلسلةً جديدة من
+   الغارات على لبنان. كانت الأولى في ساعات الصباح الأولى، والثانية قُرابة
+   الساعة 11 ظهراً، والثالثة قُرابة الساعة 2:40. وقد نقلت صحيفة يديعوت
+   أحرونوت عن مصادر أمنية إسرائيلية أنّ «العمليات بلبنان شاركت فيها مئات
+   الطائرات التي قصفت بشكل متزامن مواقع لحزب الله». ولا يزال الجيش
+   الإسرائيلي يبرّر عدوانه الإرهابي على لبنان باستهداف نقاط محدّدة لحزب
+   الله، فيما استشهد حتّى اللحظة 100 شخص وأُصيب أكثر من 500 آخرين.
+   الحرب على لبنان
+   التضامن مع فلسطين
+   طوفان الأقصى
+   إسرائيل
+   فلسطين
+   أخبار
+   23-09-2024 13:47
+
+    274 شهيداً و1,024 جريحاً
+
+   في التحديث الثاني لحصيلة العدوان الإسرائيلي اليوم: 100 شهيد و400 جريح،
+   وذلك بعدما أعلنت وزارة الصحّة منذ دقائق حصيلةً أوليةً، وكانت 50 شهيداً.
+   ومن المرتقب أن يرتفع العدد تباعاً إذ لا يزال سلاح الجو الإسرائيلي يشنّ
+   غاراته على لبنان، وتحديداً الجنوب والبقاع.
+
+
+   الحرب على لبنان
+   طوفان الأقصى
+   إسرائيل
+   فلسطين
+   23-09-2024 14:25
+   أخبار
+   23-09-2024 11:32
+
+   سلاح الجو الإسرائيلي يطلق موجةً ثانية من الغارات على الجنوب
+
+    أعلنت قوّات الاحتلال الإسرائيلي عند الساعة 11:10 أنّها باشرت بشنّ
+   موجةٍ ثانية من الغارات على جنوب لبنان، بعدما أطلقت موجةً أولى صباح
+   اليوم وقد تضمّنت أكثر من 100 غارة من الجنوب وإلى البقاع.
+
+   استشهد في غارات الصباح شخص في بوداي وأُصيب معه 6 آخرون، كما أُصيب 3
+   أشخاص في عيناتا، و11 في عيترون، بحسب وزارة الصحة.
+   الحرب على لبنان
+   التضامن مع فلسطين
+   طوفان الأقصى
+   إسرائيل
+   فلسطين
+   23-09-2024 11:59
+
+   13 جريحاً في الغارات على بلدتي المالكية وجبال البطم في الجنوب
+   23-09-2024 11:59
+
+   موجة الغارات الثانية طالت البقاع الغربي أيضاً
+   23-09-2024 11:58
+
+   جريح في الغارة الإسرائيلية على تفاحتا
+   أخبار
+   21-09-2024 00:16
+
+   حزب الله ينعى قائد وحدة العمليات الخاصة ابراهيم عقيل
+
+   اغتالت إسرائيل، بعد ظهر الجمعة، رئيس وحدة العمليات الخاصة في حزب الله،
+   ابراهيم عقيل، في الغارة التي استهدفت مبنىً سكنياً في منطقة الجاموس
+   بالضاحية الجنوبية لبيروت. نُقل أيضاً أنّ الغارة طالت قياديين آخرين من
+   قوة الرضوان أثناء اجتماعهم، وقد قتلت 14 شخصاً على الأقل، وأوقعت 59
+   إصابة.
+
+   وعقيل هو عضو المجلس الجهادي في حزب الله. وهو مدرج على لوائح عقوبات
+   الخارجية الأميركية منذ العام 2015 لاتّهامه بالضلوع بتفجير السفارة
+   الأميركية ومقرّ المارينز في بيروت، عام 1983. وقد سبق أن وضع برنامج
+   «مكافآت من أجل العدالة»، التابع لوزارة الخارجية الأميركية، مكافأةً
+   بقيمة 7 مليون دولار لمن يكشف معلومات عن عقيل.
+   طوفان الأقصى
+   إسرائيل
+   الضاحية الجنوبية
+   أخبار
+   20-09-2024 16:06
+
+   غارة إسرائيليّة تستهدف الضاحية الجنوبية لبيروت
+
+    استهدف الطيران الإسرائيلي مبنى في منطقة الجاموس في ضاحية بيروت
+   الجنوبية، وقد أفاد شهود عيان عن سماع 4 انفجارات في المكان المُستهدف.
+   وأعلن جيش الاحتلال الإسرائيلي على تويتر «تنفيذ ضربة دقيقة في منطقة
+   بيروت».
+
+
+   الحرب على لبنان
+   بيروت
+   إسرائيل
+   20-09-2024 17:46
+
+   أعلنت وزارة الصحة اللبنانية أنّ الحصيلة المُحدَّثة للغارة الإسرائيلية
+   التي استهدفت مبنى في الضاحية الجنوبية لبيروت قد ارتفع إلى 8 شهداء،
+   بالإضافة إلى 59 جريحاً.
+
+   الغارة التي قصفت مبنى سكنياً بالقرب من مجمّع القائم، في ساعة الذروة،
+   استهدفت- بحسب مسؤولين إسرائيليين- القيادي في حزب الله ابراهيم عقيل.
+
+
+   أخبار
+   18-09-2024 19:25
+
+   وزير الدفاع الإسرائيلي: مركز الثقل انتقل إلى الشمال ونحن في بداية مرحلة
+   جديدة في الحرب.
+
+   هذا ما نقلته للتو إذاعة الجيش الإسرائيلي عن وزير الدفاع الإسرائيلي يوآف
+   غالانت، بعد ساعات قليلة على موجة التفجير الثانية التي طالت أجهزة
+   اتّصالات لاسلكية. ويستكمل موقف غالانت القرارَ الصادر فجر الثلاثاء عن
+   مجلس الوزراء السياسي والأمني الإسرائيلي، الذي صادق على توسيع أهداف
+   الحرب حتّى «باتت تشمل العودة الآمنة لسكان الشمال إلى منازلهم»، بإشارةٍ
+   إلى توسيع الحرب على لبنان.
+
+
+   الحرب على لبنان
+   اختراق «البايجرز»
+   إسرائيل
+   أخبار
+   18-09-2024 17:22
+
+   انفجارات جديدة بأجهزةٍ لاسلكية في عدّة مناطق لبنانية
+   طوفان الأقصى
+   اختراق «البايجرز»
+   الحرب على لبنان
+   18-09-2024 17:51
+
+   تحديث: وقوع 3 شهداء في بلدة سحمر البقاعية.
+   18-09-2024 17:28
+
+   تحديث: تسجيل انفجارات إضافية بالبقاع، وجريحان في بلدة علي النهري.
+   18-09-2024 17:28
+
+   سُجّل وقوع عدّة انفجارات متتالية قُرابة الساعة الخامسة، في الضاحية
+   الجنوبية وفي الجنوب، عبر أجهزة اتّصالات لاسلكية، أفادت المعلومات
+   الأوّلية أنّها من نوع ICOM v82. وقد دوّت عدّة انفجارات في الضاحية
+   الجنوبية، واحد منها على الأقل في منطقة الغبيري بالتزامن مع تشييع عدد
+   ممّن استشهدوا بالأمس، وبحضورٍ عدد كبير من الأشخاص. أما في الجنوب،
+   فسُجّلت عدّة انفجارات في النبطية والصرفند، من دون أن يتّضح بعد عدد
+   الإصابات.
+   أخبار
+   18-09-2024 13:25
+
+   تحديثات وزارة الصحة في مؤتمرٍ صحفي
+
+   خطّة الطوارئ لعبت دوراً مهمّاً لناحية ردّة الفعل، وعدد الشهداء الذي سقط
+   كان عدداً غير كبير نسبةً لحجم الاعتداءت، حتّى أقل من 2 بالألف.
+   اختراق «البايجرز»
+   طوفان الأقصى
+   إسرائيل
+   18-09-2024 13:48
+
+   وزارة الصحّة اللبنانية: ما حصل بالأمس يدلّ على أنّ العدو الإسرائيلي
+   يتّجه إلى التصعيد.
+   18-09-2024 13:47
+
+   وزارة الصحّة اللبنانية: أكبر ثغرة واجهناها بالأمس كانت الـcrowd control
+   (التعامل مع الحشود)، ما صعّب حركة سيارات الإسعاف، بالإضافة إلى مخاطر
+   الاكتظاظ.
+   18-09-2024 13:28
+
+   وزارة الصحّة اللبنانية: أُجريت 460 عمليةً جراحيةً حتّى الآن، معظمها في
+   منطقة العيون والوجه.
+   18-09-2024 13:26
+
+   وزارة الصحّة اللبنانية: الفرق الطبّية عملت لساعات الفجر ومشاهد كثيرة
+   ذكّرتنا بما رأيناه في انفجار الرابع من آب.
+   18-09-2024 13:26
+
+   وزارة الصحّة اللبنانية: 1,184 سيارة إسعاف نقلت 1,817 مُصاباً. عددٌ قليل
+   أُخلي إلى سوريا أو إيران، و98٪ من الإصابات تم تحكيمها في لبنان ونتوقّع
+   أن تنتهي تقريباً كل العمليات المطلوبة في نهاية هذا اليوم.
+   18-09-2024 13:26
+
+   وزارة الصحّة اللبنانية: 12 شهيداً وعدد الجرحى بين 2,750 و2,800: نحو 750
+   كانوا في منطقة الجنوب، نحو 150 في منطقة البقاع، ونحو 1,850 في منطقة
+   بيروت والضاحية الجنوبية، وعدد منهم في حالة حرجة.
+   أخبار
+   17-09-2024 16:17
+
+   انفجارات متتالية لأجهزة اتّصال لاسلكية بيد عناصر من حزب الله في عدّة
+   مناطق لبنانية
+   الحرب على لبنان
+   اختراق «البايجرز»
+   إسرائيل
+   17-09-2024 16:24
+
+   وقع اختراقٌ تقني لأجهزة اتّصال لاسلكية (pager) يحملها عناصر من حزب
+   الله، ما أدّى إلى انفجارها بأيديهم في عدّة مناطق لبنانية. وقد تمّ تداول
+   صوَر لإصابة عدد من الأشخاص ونقلهم إلى المستشفيات.
+   أخبار
+   03-09-2024 15:28
+
+   القضاء اللبناني يوقف رياض سلامة
+
+   أصدر مدّعي عام التمييز، القاضي جمال الحجّار، قراراً بتوقيف حاكم مصرف
+   لبنان السابق رياض سلامة في قضية «أوبتيموم» على ذمّة التحقيق، بشُبهة
+   اختلاس أموال المصرف المركزي. وقد شوهد عشرات العناصر من قوى الأمن
+   الداخلي وهم يتولَّون مهمّة نقل سلامة من قصر العدل إلى أحد مراكز التوقيف
+   التابعة لقوى الأمن الداخلي.
+
+   وكان سلامة قد مثل أمام الحجّار اليوم في قصر العدل من دون أيّ مرافقة
+   تُذكر، مع العلم أنه مدّعى عليه في ملفات اختلاس الأموال وتبييضها، وقد
+   صدرت بحقّه مذكرة بحث وتحرٍّ تمّ بموجبها أيضاً منعه من السفر.
+
+   ويعود ملفّ «أوبتيموم» إلى فترة ما بين 2015 و2018، حين باع مصرف لبنان
+   شركة «أوبتيموم» سندات دين عام، ثم قام بشرائها في اللحظة نفسها بأسعار
+   أعلى. وقد نتج عن هذه العمليّات أرباح بقيمة 8 مليار دولار، لم تتّضح
+   هويّة المستفيدين منها بعد.
+   رياض سلامة
+   القضاء
+   مصرف لبنان
+   أخبار
+   28-08-2024 21:26
+
+   نتنياهو يوافق على تخصيص أماكن معيّنة داخل غزّة لتطعيم الأطفال ضدّ
+   البوليو:
+   أعلن مكتب رئيس الوزراء الإسرائيلي بنيامين نتنياهو موافقته على «تخصيص
+   أماكن معيّنة داخل القطاع من أجل إتاحة الفرصة للتطعيم ضدّ شلل الأطفال»،
+   وشدّد على أنّ هذه ليست هدنة، نفياً لما ورد في الإعلام الإسرائيلي الذي
+   صوّر الموضوع على أنّه وقف لإطلاق النار. القناة 13 أضافت أنّ إسرائيل
+   وافقت على ذلك نتيجة ضغطٍ أميركي، وتحديداً من قبل وزير الخارجية.
+
+   الجدير بالذكر أنّ نتنياهو ملزم بالموافقة على حملة التلقيح، حتّى لو لا
+   يريد ذلك، إذ أنّ الفيروس لا يطال الفلسطينيين داخل قطاع غزّة فحسب بل هو
+   عرضة للانتقال إلى الأراضي المجاورة، خاصّةً مع حركة الجنود الإسرائيليين.
+
+
+
+   طوفان الأقصى
+   صحّة
+   غزّة
+   إسرائيل
+   فلسطين
+   أخبار
+   21-08-2024 12:02
+
+   استهدفت غارة إسرائيلية سيارةً في منطقة «الفيلات» في #صيدا، في محيط
+   مخيّم عين الحلوة، ما أدى إلى سقوط شهيد وإصابة شخص آخر في حصيلة أوليّة
+   لهذا الاعتداء. وهذا هو الاعتداء الثاني الذي ينفّذه جيش الاحتلال على
+   مدينة صيدا في أقلّ من أسبوعَين، إذ اغتيل المسؤول في حركة حماس سامر
+   الحاج، في غارة على سيّارته يوم 9 آب الجاري.
+   الحرب على لبنان
+   إسرائيل
+   أخبار
+   16-08-2024 22:59
+
+   وزارة الصحة تسجّل أوّل حالة شلل أطفال في غزة
+
+   أوّل حالة شلل أطفال في غزّة سجّلتها وزارة الصحّة اليوم، وقد أصابت طفلاً
+   عمره عشرة أشهر، وذلك «في المحافظات الجنوبية، في مدينة دير البلح، والطفل
+   ما كان قد تلقّى أي جرعة تحصين ضدّ شلل الأطفال».
+
+   كانت الوزارة قد رصدت الفيروس في مياه الصرف الصحّي في منتصف تمّوز
+   الماضي، بسبب تدمير الاحتلال للبنى التحتية وحجب اللقاح. ويُذكَر أن نسبة
+   التلقيح قبل الحرب قاربت الـ100٪، وكان القطاع خالياً من شلل الأطفال لـ25
+   عاماً خلت.
+   طوفان الأقصى
+   أخبار
+   15-08-2024 14:24
+
+   40.000 شهيد في العدوان على غزّة
+
+   في اليوم 314 من العدوان على غزّة، تجاوز عدد الشهداء الأربعين ألفاً. فقد
+   أعلنت وزارة الصحّة الفلسطينيّة ارتفاع حصيلة الشهداء إلى 40.005 شهداء،
+   ثلثهم من الأطفال و18% منهم من النساء، مع تسجيل 92,401 جريحاً.
+   طوفان الأقصى
+   غزّة
+   إسرائيل
+   فلسطين
+   أخبار
+   13-08-2024 23:28
+
+   شنّت قوّات الاحتلال الإسرائيلي أعنف غارة على جنوب لبنان منذ الثامن من
+   أكتوبر، مستخدمةً للمرّة الأولى قنابل خارقة للتحصينات ضدّ بلدة كفركلا،
+   سُمِع دويّها في سائر أنحاء الجنوب. وقد دمّرت الغارة أربعة منازل، من دون
+   تسجيل إصابات.
+
+   ووفقاً لتقارير إعلامية إسرائيلية، فإنّ طائرة F-35 ألقت ثلاث قنابل
+   ارتجاجيّة  (قنابل MK-84 مزودة بمجموعة GBU-31 JDAM).
+   الحرب على لبنان
+   إسرائيل
+   جنوب لبنان
+   أخبار
+   06-08-2024 21:17
+
+   يحيى السنوار رئيساً لحركة حماس
+   اختارت حركة حماس يحيى السنوار خلفاً لاسماعيل هنيّة رئيساً للحركة، في
+   خطوة تعكس اصطفاف الحركة وراء خيارات السنوار في غزّة.
+   طوفان الأقصى
+   أخبار
+   01-08-2024 00:11
+
+   المستشار العسكري الإيراني، ميلاد بيدي، قُتل في استهداف الضاحيّة
+   الجنوبيّة
+
+   أعلنت وكالة «فارس» الإيرانيّة، أنّ مستشاراً عسكرياً إيرانياً قُتل في
+   الغارة الإسرائيليّة التي استهدفت القيادي في حزب الله، فؤاد شكر، في حارة
+   حريك يوم أمس الثلاثاء. وكشفت وسائل إعلام إيرانيّة أن المستشار هو ميلاد
+   بيدي.
+
+   وكانت الهيئة الصحيّة الإسلامية قد أعلنت مساء اليوم أنّ الحصيلة
+   النهائيّة للاعتداء الإسرائيلي بلغت 7 شهداء و78 جريحاً، من بينهم شكر و5
+   مدنيّين آخرين هُم هناء الحكيم وابنتها سلوى البيطار ووسيلة بيضون
+   والطفلَان أميرة وحسن فضل الله.
+   طوفان الأقصى
+   بيروت
+   إيران
+   إسرائيل
+   الحرب على لبنان
+   أخبار
+   31-07-2024 23:21
+
+   7 شهداء و78 جريحاً، الحصيلة النهائيّة لاستهداف الضاحية الجنوبيّة
+   أعلنت الهيئة الصحيّة الإسلامية، مساء اليوم، انتهاء عمليات البحث
+   والإنقاذ في الضاحية الجنوبيّة. وأفادت الهيئة أنّ الحصيلة النهائية بلغت
+   7 شهداء و78 جريحاً في الغارة الإسرائيليّة التي استهدف القيادي في حزب
+   الله فؤاد شكر في حارة حريك أمس.
+
+   وعُرف من الضحايا، إضافةً إلى شكر، كلّ من المدنيّين: هناء الحكيم وابنتها
+   سلوى البيطار ووسيلة بيضون والطفلَين أميرة وحسن فضل الله، بينما لم
+   تُحدّد هوية الضحية السابعة.
+   طوفان الأقصى
+   بيروت
+   إسرائيل
+   الحرب على لبنان
+   أخبار
+   31-07-2024 20:32
+
+   حزب الله ينعى القيادي فؤاد شكر
+   نعى حزب الله القياديّ فؤاد شكر، في بيانٍ أصدره بعد مساء اليوم، وذلك
+   بعدما كان قد أعلن صباحاً أنّ شكر كان متواجداً في المبنى الذي استهدفته
+   إسرائيل، من دون الكشف عن مصيره. وقد تمّ العثور على جثّة شكر أثناء أعمال
+   رفع الأنقاض، بالإضافة إلى جثّة أخرى.
+
+   وكانت القوات الإسرائيلية قد أغارت على حارة حريك مساء أمس مستهدفةً شكر،
+   وقد قتلت الغارة 5 مدنيين، وأصابت 74 شخصاً.
+   طوفان الأقصى
+   بيروت
+   إسرائيل
+   الحرب على لبنان
+   Megaphone Logo
+   مواضيع
+   طوفان الأقصى الحرب على لبنان المرحلة الانتقالية في سوريا نظام الكراهية
+     __________________________________________________________________
+
+   هندسة الانهيار الاقتصادي انفجار المرفأ محاكمة رياض سلامة مصارف
+     __________________________________________________________________
+
+   عنصرية وكراهية عنف وقمع في زمن الانهيار سجون
+     __________________________________________________________________
+
+   نسويّة كويريّة تحرّش أزمة الذكورة
+     __________________________________________________________________
+
+   تعاونيات
+     __________________________________________________________________
+
+   للدعم المالي Support Us
+   عن ميغافون • About Megaphone
+   سياسة الخصوصية • Privacy Policy
+   Facebook icon Instagram icon X icon Youtube icon WhatsApp icon TikTok
+   icon Threads icon Email icon
+   © 2026 ميغافون .
+   المحتوى متوفّر تحت رخصة المشاع الإبداعي، الترخيص بالمثل 4.0 دولي
+   العودة الى الأعلى

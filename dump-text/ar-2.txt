@@ -1,120 +1,209 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <title>Reverso Context</title>
-    <meta name="robots" content="noindex, nofollow">
-    <meta content="NOARCHIVE" name="GOOGLEBOT">
-    <link rel="shortcut icon" href="https://cdn.reverso.net/context/v4010/reverso-context-fav.ico" />
-    <link rel="stylesheet" type="text/css" href="https://cdn.reverso.net/context/v4010/css/bst.style.css"/>
-    <style>
-      @font-face{font-family:'contexticons';src:url('https://cdn.reverso.net/context/v4010/fonts/contexticons.eot?uk2hvl');src:url('https://cdn.reverso.net/context/v4010/fonts/contexticons.eot?uk2hvl#iefix') format('embedded-opentype'),url('https://cdn.reverso.net/context/v4010/fonts/contexticons.ttf?uk2hvl') format('truetype'),url('https://cdn.reverso.net/context/v4010/fonts/contexticons.woff?uk2hvl') format('woff'),url('https://cdn.reverso.net/context/v4010/fonts/contexticons.svg?uk2hvl#contexticons') format('svg');font-weight: normal;font-style: normal;}
-      #error-content {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding: 10vh 30px;
-        box-sizing: border-box;
-        margin: 0;
-        overflow: hidden;
-      }
-      #error-content .text {
-        height: auto;
-        box-sizing: border-box;
-        width: 100%;
-      }
-    </style>
-  </head>
-  <body>
-    <div id="wrapper" class="error">
-      <section id="top-content">
-        <a class="reverso-logo nonselectable" href="/" title="Reverso Context: the search engine for translations in context">
-          <div class="logo">
-            <span> <img src="https://cdn.reverso.net/v1540/static/img/logo/logo-en.svg" alt="ReversoTranslation"></span>
-          </div>        
-	</a>
-        <div class="reverso-links">
-          <a class="translation-link" target="_blank" href="http://www.reverso.net/text_translation.aspx?lang=EN">
-            Translation
-          </a>
-          <a class="dictionary-link" target="_blank" href="http://dictionary.reverso.net">
-            Dictionary
-          </a>
-          <a class="speller-link" target="_blank" href="http://www.reverso.net/spell-checker/english-spelling-grammar/">
-            Spell Check
-          </a>
-          <a class="conjugation-link" target="_blank" href="http://conjugator.reverso.net">
-            Conjugator
-          </a>
-          <a class="grammar-link last" target="_blank" href="http://grammar.reverso.net/">
-            Grammar
-          </a>
-        </div>
-      </section>
-      <section id="error-content">
-        <p id="text-en" class="text" style="display: none">
-          You've been denied access – IP blacklisted<br>
-          Your IP <b class="ip"></b> has been considered as sending illegitimate traffic to our servers.<br>
-          If you think your traffic is legitimate, please fill in the form below so we could investigate why you were blacklisted.<br><br>
-          Thank you,<br>
-          The Reverso Team
-        </p>
-        <p id="text-fr" class="text" style="display: none">
-          Votre accès a été bloqué<br>
-          Nous avons détecté que votre adresse IP <b class="ip"><!--# echo var="remote_addr" --></b> utilise notre service de manière non-conforme.<br>
-          Si vous pensez qu'il s'agit d'une erreur, merci de remplir le formulaire de contact ci-dessous et nous reviendrons vers vous rapidement.<br><br>
-          Cordialement,<br>
-          L'équipe Reverso
-        </p>
-        <iframe id="iframe-form" width="1000" height="3000" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0">Loading...</iframe>
-        <script type="text/javascript">
-          var userLang = navigator.language || navigator.userLanguage;
-          var referrer = encodeURIComponent(document.domain || document.location);
-          var error_type = "IP is manually blacklisted";
-          var ip = "";
-          
-          if (userLang) {
-            var code = userLang.slice(0,2);
-            switch(code) {
-              case "fr":
-                document.getElementById("text-fr").style.display = "inline-block";
-                document.getElementById("iframe-form").src = "https://docs.google.com/forms/d/e/1FAIpQLSc1OHspxMBUkn3JIBWZ7x6_7OUhyhDYpw94ZoYBFslKeCEB6g/viewform?usp=pp_url&entry.2007143517=" + referrer + "&entry.995552299&entry.493914488=" + ip + "&entry.915325004&entry.1470696955=" + error_type;
-                break;
-              case "en":
-              default:
-                document.getElementById("text-en").style.display = "inline-block";
-                document.getElementById("iframe-form").src = "https://docs.google.com/forms/d/e/1FAIpQLSfMBhGzhLBDgL5KAValyjXJT4M3OB_ERtmIfsxQ6drIZ5Zwqg/viewform?usp=pp_url&entry.2007143517=" + referrer + "&entry.995552299&entry.493914488=" + ip + "&entry.915325004&entry.1470696955=" + error_type;
-            }
-          }
-          function getIP(json) {
-            ip = json.ip;
-            var ip_array = document.getElementsByClassName("ip");
-            for(var i in ip_array) {
-              ip_array[i].innerHTML = ip;
-            }
-            if (userLang) {
-              var code = userLang.slice(0,2);
-              switch(code) {
-                case "fr":
-                  document.getElementById("text-fr").style.display = "inline-block";
-                  document.getElementById("iframe-form").src = "https://docs.google.com/forms/d/e/1FAIpQLSc1OHspxMBUkn3JIBWZ7x6_7OUhyhDYpw94ZoYBFslKeCEB6g/viewform?usp=pp_url&entry.2007143517=" + referrer + "&entry.995552299&entry.493914488=" + ip + "&entry.915325004&entry.1470696955=" + error_type;
-                  break;
-                case "en":
-                default:
-                  document.getElementById("text-en").style.display = "inline-block";
-                  document.getElementById("iframe-form").src = "https://docs.google.com/forms/d/e/1FAIpQLSfMBhGzhLBDgL5KAValyjXJT4M3OB_ERtmIfsxQ6drIZ5Zwqg/viewform?usp=pp_url&entry.2007143517=" + referrer + "&entry.995552299&entry.493914488=" + ip + "&entry.915325004&entry.1470696955=" + error_type;
-              }
-            }
-          }          
-          document.getElementById("iframe-form").width = window.innerWidth > 300 ? window.innerWidth.toString() : "300";
-        </script>
-	<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
-      </section>
-      <p class="developers">Developed by Prompsit Language Engineering for Softissimo</p>
-      <section id="footer">
-        <p class="copy">© 2017 Softissimo Inc. All rights reserved.</p>
-      </section>
-    </div>
-  </body>
-</html>
+   HTTP/2 200 date: Sat, 03 Jan 2026 12:31:07 GMT server:
+   mw-web.eqiad.main-8f8dcf6c-q5mwp x-content-type-options: nosniff
+   content-language: fr accept-ch: content-security-policy-report-only:
+   script-src 'unsafe-eval' blob: 'self' meta.wikimedia.org
+   *.wikimedia.org *.wikipedia.org *.wikinews.org *.wiktionary.org
+   *.wikibooks.org *.wikiversity.org *.wikisource.org wikisource.org
+   *.wikiquote.org *.wikidata.org *.wikifunctions.org *.wikivoyage.org
+   *.mediawiki.org 'unsafe-inline' auth.wikimedia.org; default-src 'self'
+   data: blob: upload.wikimedia.org https://commons.wikimedia.org
+   meta.wikimedia.org *.wikimedia.org *.wikipedia.org *.wikinews.org
+   *.wiktionary.org *.wikibooks.org *.wikiversity.org *.wikisource.org
+   wikisource.org *.wikiquote.org *.wikidata.org *.wikifunctions.org
+   *.wikivoyage.org *.mediawiki.org wikimedia.org en.wikipedia.org
+   en.wikibooks.org en.wikinews.org en.wikiquote.org en.wikisource.org
+   en.wikiversity.org en.wikivoyage.org www.mediawiki.org
+   api.wikimedia.org commons.wikimedia.org foundation.wikimedia.org
+   incubator.wikimedia.org species.wikimedia.org wikimania.wikimedia.org
+   www.wikidata.org www.wikifunctions.org auth.wikimedia.org; style-src
+   'self' data: blob: upload.wikimedia.org https://commons.wikimedia.org
+   meta.wikimedia.org *.wikimedia.org *.wikipedia.org *.wikinews.org
+   *.wiktionary.org *.wikibooks.org *.wikiversity.org *.wikisource.org
+   wikisource.org *.wikiquote.org *.wikidata.org *.wikifunctions.org
+   *.wikivoyage.org *.mediawiki.org wikimedia.org 'unsafe-inline';
+   object-src 'none'; report-uri
+   /w/api.php?action=cspreport&format=json&reportonly=1 last-modified:
+   Mon, 29 Dec 2025 13:18:52 GMT content-type: text/html; charset=UTF-8
+   age: 5176 accept-ranges: bytes x-cache: cp6015 hit, cp6010 hit/5
+   x-cache-status: hit-front server-timing: cache;desc="hit-front",
+   host;desc="cp6010" strict-transport-security: max-age=106384710;
+   includeSubDomains; preload report-to: { "group": "wm_nel", "max_age":
+   604800, "endpoints": [{ "url":
+   "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi
+   .network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+   nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
+   0.05, "success_fraction": 0.0} set-cookie:
+   WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04 Feb
+   2026 12:00:00 GMT set-cookie:
+   WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wiktionary.org;HttpOn
+   ly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
+   WMF-DP=595;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+   x-client-ip: 46.193.69.129 cache-control: private, s-maxage=0,
+   max-age=0, must-revalidate, no-transform vary:
+   Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
+   GeoIP=FR:IDF:V__lizy-Villacoublay:48.79:2.20:v4; Path=/; secure;
+   Domain=.wiktionary.org set-cookie:
+   NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+   set-cookie:
+   WMF-Uniq=acsTHYDhDSCDbHpis776lALdAAAAAFvdi9TVmSirppyKvnvLyu-26EDHnjoctb
+   dj;Domain=.wiktionary.org;Path=/;HttpOnly;secure;SameSite=None;Expires=
+   Sun, 03 Jan 2027 00:00:00 GMT content-length: 58244 x-request-id:
+   301aa42b-1397-4093-9d76-5a1b7758748f #Modifier Wiktionnaire (fr) Flux
+   Atom de Wiktionnaire
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Recherche avancée, anagrammes et rimes
+     * Portails
+     * Page au hasard
+     * Page au hasard par langue
+     * Poser une question
+     * Pages spéciales
+
+   Contribuer
+     * Portail communautaire
+     * La Wikidémie
+     * Discuter sur Discord
+     * Journal des contributeurs
+     * Modifications récentes
+
+   Aide
+     * Conventions
+     * Aide
+     * Modèles
+     * Créer un article
+     * Télécharger
+
+   Wiktionnaire : dictionnaire libre et universel le dictionnaire libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Arabe
+       (BUTTON) Afficher / masquer la sous-section Arabe
+          + 1.1 Étymologie
+
+   [ ] Basculer la table des matières
+
+نظرة
+
+   [ ] 6 langues
+     * English
+     * Magyar
+     * Kurdî
+     * Malagasy
+     * Polski
+     * Português
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier le wikicode
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier le wikicode
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l’URL raccourcie
+     * Télécharger le code QR
+     * Utiliser l’ancien analyseur
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Définition, traduction, prononciation, anagramme et synonyme sur le
+   dictionnaire libre Wiktionnaire.
+
+Arabe
+
+   [modifier le wikicode]
+
+Étymologie
+
+   [modifier le wikicode]
+   [Ruqa%27a_%D9%86%D8%B8%D8%B1%D8%A9.png] نظرة en écriture cursive.
+    1. Forme de la racine ن ظ ر : regarder, attendre
+
+                Forme sans diacritique de :
+                نَظْرَةٌ (naZr@ũ) (instance ou féminin de زَرْزٌ),
+                « regard, vice ».
+                نَظِرَةٌ (naZir@ũ) (nom d'instance de forme (i)), « délai
+                de payement ».
+                نُظْرَةٌ (nuZr@ũ) (résultat produit ou contenu), « délai
+                de payement ».
+
+   Récupérée de
+   "https://fr.wiktionary.org/w/index.php?title=نظرة&oldid=37325808"
+   Catégorie :
+     * arabe
+
+     * La dernière modification de cette page a été faite le 11 février
+       2025 à 15:28.
+     * La page a été rendue avec Parsoid.
+     * Les définitions et autres textes sont disponibles sous licence
+       Creative Commons attribution partage à l’identique ; d’autres
+       termes peuvent s’appliquer. Voyez les termes d’utilisation pour
+       plus de détails.
+       Pour les illustrations, cliquez sur chaque image ou consultez les
+       crédits graphiques.
+
+     * Politique de confidentialité
+     * À propos du Wiktionnaire
+     * Licence
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   نظرة
+   (BUTTON) 6 langues Ajouter un sujet

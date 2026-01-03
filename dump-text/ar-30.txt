@@ -1,1671 +1,237 @@
-
-
-<!DOCTYPE html>
-<html id="ctl00_Html1" xmlns="http://www.w3.org/1999/xhtml" lang="ar-sa" dir="rtl">
-<head id="ctl00_Head1"><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="keywords" content="موقع وزارة الصحة ، اخبار الصحة ، اعلانات وزارة الصحة ، الاحداث الصحية ، احصائيات وزارة الصحة ، خدمات وزارة الصحة ، وزارة الصحة ، مركزصحي ، عدد الاصابات ، فحوصات ، الصحية" /><meta name="copyright" content="Copyright MOH - 2022" /><meta name="author" content="فريق بوابة وزارة الصحة" /><meta name="email" content="portal@moh.gov.sa" /><meta name="robots" content="INDEX,FOLLOW" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="وزارة الصحة السعودية" /><meta name="twitter:description" content="تعد بوابة وزارة الصحة السعودية واجهة إعلامية إلكترونية لنشر معلومات صحية دقيقة ومدخلاً إلكترونياً لكل ما تقدمه الوزارة من خدمات" /><meta name="twitter:image" content="https://www.moh.gov.sa/en/PublishingImages/moh%20logo.png" /><meta name="twitter:creator" content="@SaudiMOH" /><meta name="twitter:site" content="@SaudiMOH" /><meta property="og:locale" content="ar_AR" /><meta property="og:locale:alternate" content="en_US" /><meta property="og:type" content="website" /><meta property="og:title" content="وزارة الصحة السعودية" /><meta property="og:description" content="تعد بوابة وزارة الصحة السعودية واجهة إعلامية إلكترونية لنشر معلومات صحية دقيقة ومدخلاً إلكترونياً لكل ما تقدمه الوزارة من خدمات" /><meta property="og:url" content="https://www.moh.gov.sa/Pages/Default.aspx" /><meta property="og:site_name" content="وزارة الصحة السعودية" /><meta property="article:publisher" content="https://www.facebook.com/SaudiMOH/" /><meta property="og:image" content="https://www.moh.gov.sa/en/PublishingImages/moh%20logo.png" /><meta property="og:image:width" content="1667" /><meta property="og:image:height" content="871" /> 
-	<!--SharePoint SEO Start Here   -->
-	
-        <meta name='title' content='اختبار النظر' >
-        <meta name='description' content='اختبار حدة البصر (عن طريق مخطط سنيلين)، يمكن تثبيت التكبيق على الهاتف ولكنه ليس بديلًا لإجراء قياس النظر الذي يتمُّ في عيادات العيون.' > 
-        <meta name='keywords' content='اختبار حدة البصر، مخطط سنيلين، قياس النظر، فحص النظر بالجوال، اختبار النظر في المنزل، قياس النظر من 6، اختبار النظر للأطفال، اختبار النظر بالأرقام' >
-    
-	 <!-- SharePoint SEO Ends Here-->
-    <meta name="msapplication-TileImage" content="/_layouts/15/images/SharePointMetroAppTile.png" /><meta name="msapplication-TileColor" content="#0072C6" /><title>
-	
-	أدوات الصحة 
-	- 
-	اختبار النظر
-
-</title><link rel="shortcut icon" type="image/x-icon" href="https://static.moh.gov.sa/assets/images/favicon.ico" /><script type="text/javascript">// <![CDATA[ 
-
-var g_SPOffSwitches={};
-// ]]>
-</script>
-<script type="text/javascript" src="/_layouts/15/1025/initstrings.js?rev=o5%2FR2pWjaIvP9SUApPNNYg%3D%3DTAG0"></script>
-<script type="text/javascript" src="/_layouts/15/init.js?rev=MX2HbBsRfkcPfcrxRWQSfQ%3D%3DTAG0"></script>
-<script type="text/javascript" src="/_layouts/15/theming.js?rev=SuLUbbwTXcxFWOWLFUsOkw%3D%3DTAG0"></script>
-<script type="text/javascript" src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvuWXlrlZ-Lt0h4L8hQrm9jt6GwK70tjibVhU59lNdt2EqTaFjwxKr9edCRdolzjGZJkDWAmV-0K02Dk_md7xHraXQchoi1LWSECzx9RbcuLOF_7bVT_LYlruXxJgdSY709EzIvs8Zdkd5ZfiNcVFGio1&amp;t=5c0e0825"></script>
-<script type="text/javascript" src="/_layouts/15/blank.js?rev=ouoUUw6rg6w3rCq5nEYM7w%3D%3DTAG0"></script>
-<script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=bv3fWJhk0uFGpVwBxnZKNQ\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1025\u002fstrings.js?rev=emwn\u00252BT5BvL0cgKkrUzeJrg\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002f1025\u002fsp.res.js?rev=0GKDC3Wtzrawk\u00252FsuXaDQZw\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=5X8J6VkKTb6AUmOr\u00252ByXCTQ\u00253D\u00253DTAG0");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
-<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=QwLTYXQVXnGycU\u00252BJo5pEFw\u00253D\u00253DTAG0");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
-<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=ywimHWCtivS37Nru3Zyokg\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=mdEesO3KOkpsNIJc97ZKIQ\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
-<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=AcFh9cWMENqHhE8uOzIhqA\u00253D\u00253DTAG0");RegisterSodDep("core.js", "strings.js");</script>
-<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=fJZC3lKekvD1A7Y3ExC9ug\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=kTE89tQaUCcoWoVXrLG\u00252BnQ\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=wpfpN4GjM1Vtrxd0it\u00252BIaQ\u00253D\u00253DTAG0");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
-<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=HFl21ZEVxVdeVTuaSascmQ\u00253D\u00253DTAG0");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "sp.init.js");RegisterSodDep("sp.core.js", "core.js");</script>
-<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=epvvaLMU7oQiTzGYlkJvRg\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=eteX1wDCVN\u00252BiXs\u00252Bx6bbdSg\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
-<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=WfNPxDyQayZTgOPsw\u00252FDH1g\u00253D\u00253DTAG0");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
-<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002f15\u002fcui.js?rev=r3BSmZfQGJcX3CMaY0r11A\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=E7dsKmxj2VtU8TN2g15iOQ\u00253D\u00253DTAG0");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "clienttemplates.js");RegisterSodDep("inplview", "sp.js");</script>
-<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002f15\u002fsp.ribbon.js?rev=qEqZEmVgvVUWUZIl3w2eLA\u00253D\u00253DTAG0");RegisterSodDep("ribbon", "strings.js");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "sp.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "sp.res.resx");RegisterSodDep("ribbon", "sp.runtime.js");RegisterSodDep("ribbon", "inplview");</script>
-<script type="text/javascript">RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=ar\u00252Dsa\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=c2wBERKk8EXbUhp\u00252BT0LHJA\u00253D\u00253D");</script>
-<script type="text/javascript">RegisterSod("mdn.js", "\u002f_layouts\u002f15\u002fmdn.js?rev=n0g\u00252FdHfO24JOLH\u00252FiRZEgQA\u00253D\u00253DTAG0");RegisterSodDep("mdn.js", "sp.init.js");RegisterSodDep("mdn.js", "core.js");RegisterSodDep("mdn.js", "sp.runtime.js");RegisterSodDep("mdn.js", "sp.js");RegisterSodDep("mdn.js", "cui.js");RegisterSodDep("mdn.js", "ribbon");RegisterSodDep("mdn.js", "sp.ui.policy.resources.resx");</script>
-<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=J0M1pzLkfDXcJflabMvTYA\u00253D\u00253DTAG0");RegisterSodDep("userprofile", "sp.runtime.js");</script>
-<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=khMb6AlG5eVhEiub6s4QmA\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
-<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1025\u002fprofilebrowserscriptres.js?rev=bSjFefihfiksGGNB\u00252Fa60lA\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=D520rVmFFcE\u00252F\u00252FAiJhpJi2g\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
-<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=6fAlMfuWyTgdPW5bqJOcLg\u00253D\u00253DTAG0");RegisterSodDep("browserScript", "strings.js");</script>
-<script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.js?rev=\u00252BQuFjgi8BKaD2fKdxoxNmg\u00253D\u00253DTAG0");RegisterSodDep("dragdrop.js", "strings.js");</script>
-<script type="text/javascript">RegisterSod("quicklaunch.js", "\u002f_layouts\u002f15\u002fquicklaunch.js?rev=0lLKBG0en4dR34x\u00252BcuLQ\u00252Fw\u00253D\u00253DTAG0");RegisterSodDep("quicklaunch.js", "strings.js");RegisterSodDep("quicklaunch.js", "dragdrop.js");</script>
-<link type="text/xml" rel="alternate" href="/HealthAwareness/MedicalTools/_vti_bin/spsdisco.aspx" />
-        
-
-        <link rel="canonical" href="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Pages/VisualAcuityTest.aspx" />
-<link rel="alternate" hreflang="ar" href="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Pages/VisualAcuityTest.aspx" />
-<link rel="alternate" hreflang="en" href="https://www.moh.gov.sa/en/HealthAwareness/MedicalTools/Pages/VisualAcuityTest.aspx" />
-<link rel="alternate" hreflang="x-default" href="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Pages/VisualAcuityTest.aspx" />
-        
-    <link id="CssRegistration1" rel="stylesheet" type="text/css" href="/_layouts/15/1025/styles/Themable/corev15.css?rev=hyjbsok5cftBAvwFdx5OCQ%3D%3DTAG0"/>
-<style id="SPThemeHideForms" type="text/css">body {opacity:0 !important}</style><meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<!--<link rel="shortcut icon" type="image/x-icon" href="https://static.moh.gov.sa/assets/images/favicon.ico" />-->
-	<!--<meta name="viewport" content="width=device-width, initial-scale=0.8, maximum-scale=1.0, user-scalable=no" /> -->
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" /><link href="https://static.moh.gov.sa/assets/css/colorbox.css" type="text/css" rel="stylesheet" /><link href="https://static.moh.gov.sa/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" /><link id="ctl00_MohCustomStyle" href="https://static.moh.gov.sa/assets/css/styles_ar.css?v=7.1" type="text/css" rel="stylesheet" /><link href="https://static.moh.gov.sa/assets/css/visibility-mods.css?v=7.1" rel="stylesheet" type="text/css" />
-    
-    <script src="https://static.moh.gov.sa/assets/js/jquery-3.6.3.min.js"></script>
-	<script type="text/javascript">
-    window.rsConf = {general: {usePost: true, forceLoadCoreWait: true}, ui: { disableDetachment: true }};
-   </script> 	
-	<script src="https://cdn1.readspeaker.com/script/10452/webReader/webReader.js?pids=wr" type="text/javascript">
-	</script>     
-</head>
-<body style="overflow: auto;">
-    <noscript><div class='noindex'>قد تحاول الوصول إلى هذا الموقع من مستعرض آمن موجود على الخادم. يرجى تمكين البرامج النصية وإعادة تحميل هذه الصفحة.</div></noscript>
-    
-    <form method="post" action="./VisualAcuityTest.aspx" id="aspnetForm">
-<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
-<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
-<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
-<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
-<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
-<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
-<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
-<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
-<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="noDigest" />
-<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
-<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
-<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
-<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
-<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
-<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
-<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
-<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
-<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
-<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="mTAA6e9TbTzv0bOzQVt/CQsAqHOC4a97+4TrFvs8MklVY65R4nA7Uuilx7Z2VZYBvFOZcXmF2K2zps8tq8dKw9oUTt1dFCahktSzfgKGBzuXDQypTpi3MDa7HiET03ycty3wKh3JsKL+wPX2Qx5MIuesDq7GgPdZhatbmgIazz+aALeYP9rauOSvY9h/9pL1B3ejbP6CbP9oZtC3OJihWDTorZshqj49hLgFd4HgmmgvMeu4FCHlXsA4RH+qIfmPsn89TS1tBRiQ7jQvnF8WyhwYMV9sO6uL3KMaUNqFyCZmIBpCRSy2vDsqXan49UYzcEbqlxX1j2LdQOFTAiG67+K7fTADxsYPzVryPZrZYdhBidLGIyTEUUcq+8yqB8Fj17FVrge+sEvSpPRdjVT3Uw4oXShSMX9sC+ihShsQY/0zrv0v8wb33s8y5Q3U24lNPjNumdGicnocFAlAW98tK9QqMPkMfjg3LUkMnOXXWus6BAif2zPdzEqx2DoJshUq62s+esQU1Ep/a9xSOHY4Gj8w0Z7SE1K5CfBO89e+EdJHO78OWkYrztuzuQcVg3tHp98R8w6DsBzGP1gG4gIipEJtuJRG+CdgL6fz05z9QYuRhXoAJmHgwyOOojHQJkdJQqOjYLXyI6CH3dNVH7BVCTKNOv1kdgzBbLNl8LHbIfW6MAMo7knRVnfvWz5Kqmcmn5o9gXh3XrKCzoY5/xNt8B0J/xRF7y3BxR8fv8ccaQ3BHOfApaM3z0aX/1tNZHV48ffH9WXukDW+ZbAN68tjhHNuFhx6kSoZ20nkLG5A5JQPHlD9a+/K39TiUIFW92iRqkUteytdNfpd75Kjg04/R/UBMdQHgaBG9s0ID9QOh54YzSuA38+dx9647MTkeQIWI57GXificb2Sc01D8Jo8Uu6mUcYCykwNwVhf4SUZIZzv4gPMVbR0XKNgXBUWQ4rcTV9YtLsEcsYiz17+/qJuje1593D2y5G9A6iBLwpHmC+Y8I1oIMw/D28hG2NsL0C+EkWqlLBfDOXgEhcrOe7q/jQHCXz3fksEWiJpZCG/7eFNaZm02FYKY2o8UDyTBolLok8I1/s1auZoSE1e35GaNgmP8XgKZsFjtT/C3U6zt8PZmZMBkUYwvd7qP9j4givq80vYMTskgXeuuosAbREL/J8u9V5lJPFZRf4iHqZoPDIIryph5hAibFdUwYJBAG/EHy6MYg2lgwlazxWs1EHZRIAKAkB4VYRr5ERaOhOKEbUI7nI4I1tl3gujRGpgI0tctQxFWO6omfOy+4ErvLN3p412Y7ccOPTuYFpaavF0H292iwUoHsEHTHnQ8Xq3spoiH/RQNm6/IQeZse4Xb1xW+SC/jZ3P761lBKOjYqrNA+/4CvmU4dTgblIJPNfgZjJ1mNbKwQjVJ5xLhZrf3m2lSxJBscYRKepc3AS7u+xGleTsH95+X5967+/3zivFZmGZgfMO120thphIa4Huu/zKkA9tKP3+ACgEcn1yf4RFi9Pp2P31zD+V6qoo97lfy+WVCJCo/OqAZ24h338G8q+9WmJ+vjjND4cvbEspvJW2sWwiRmFjRxq8UP4xBgXLpLFGMoMAxSrRD51bdE6MBUkQs6vr+vQ1UJrmPHJrjb5O9nNxINQJVf5CnOwQIXiHx8cOWD9hE1Q3IY8PU5IgMmCithxZVCDqUoRJVG1nlcaBeMlYn1P+grq7k1w5tiv2UyAnBy7FgJP8F6HdRIaC0B+R6+pBHXSAN3Nz+5L/XowvacQB3mFGVXrXraSaMhInEVttSo5J1qTC7LPxH7DxWyV3BvxcikQ+KL5xhwtdoIzHqLVXzQwZJrAIv0+t6sohB7FihpznlDKuzzdlsU0fwI6mJX7YA6Wr4HBhvJphqMTxpSB97mRmYjIs9YEKuJejPj/VNFpRuHAzUl2TDad7JX/+I11iDkClQ+VG/o+ORxEtji9LfYRMHKQgloRDY1ynhFKMaElVCZEhT2ATP/MwAdbHv0nzTv/5QWwXBuyLw1UMs9Wt89Bhk7+0KC0Nx5+RiD5A/ll6gljZ1ENETkYF1E0UV3D0jg0HAdQFUgb6eTzzjU8e3/Mclva4nKvI3qm+/+XOYaP90Jrlrq/8g9yRkroAKEKc8sWM6/Z/kTVB6qmhvSahWA5e6BJTGFl6evX0N4DKSPPJc25n0/Nu3rAappjtfbsqNrKyWIpuJqatUC4p7qn8/oh23J8byIyO4/dwBGE790PR59VPKCw3HP5ScUqahO5wDjpS1x9VUljQwxoMm27bubB1LAhXmMGK5gQJToBDDcwt4MmAcH3xLfb4kZFIfg==" />
-
-
-<script type="text/javascript">
-//<![CDATA[
-var MSOWebPartPageFormName = 'aspnetForm';
-var g_presenceEnabled = true;
-var g_wsaEnabled = false;
-
-var g_correlationId = 'd95de9a1-e936-e03b-a5f1-322791e23185';
-var g_wsaQoSEnabled = false;
-var g_wsaQoSDataPoints = [];
-var g_wsaRUMEnabled = false;
-var g_wsaLCID = 1025;
-var g_wsaListTemplateId = 850;
-var g_wsaSiteTemplateId = 'BLANKINTERNET#2';
-var _spPageContextInfo={"webServerRelativeUrl":"/HealthAwareness/MedicalTools","webAbsoluteUrl":"https://www.moh.gov.sa/HealthAwareness/MedicalTools","viewId":"","listId":"{4b1f9d7d-df42-4b70-a039-4e4bc00db1d8}","listPermsMask":{"High":16,"Low":196673},"listUrl":"/HealthAwareness/MedicalTools/Pages","listTitle":"الصفحات","listBaseTemplate":850,"viewOnlyExperienceEnabled":false,"blockDownloadsExperienceEnabled":false,"idleSessionSignOutEnabled":false,"cdnPrefix":"","siteAbsoluteUrl":"https://www.moh.gov.sa","siteId":"{0fed4640-7473-45f2-8281-818ffa0fd2bf}","showNGSCDialogForSyncOnTS":false,"supportPoundStorePath":true,"supportPercentStorePath":true,"siteSubscriptionId":null,"CustomMarkupInCalculatedFieldDisabled":true,"AllowCustomMarkupInCalculatedField":false,"isSPO":false,"farmLabel":null,"serverRequestPath":"/HealthAwareness/MedicalTools/Pages/VisualAcuityTest.aspx","layoutsUrl":"_layouts/15","webId":"{d1bc6f39-8ffc-4b05-ae11-e6c1776c35ce}","webTitle":"أدوات الصحة","webTemplate":"53","webTemplateConfiguration":"BLANKINTERNET#2","webDescription":"","tenantAppVersion":"0","isAppWeb":false,"webLogoUrl":"_layouts/15/images/siteicon.png","webLanguage":1025,"currentLanguage":1025,"currentUICultureName":"ar-SA","currentCultureName":"ar-SA","currentCultureLCID":1025,"spDocIntelligence":{"isEnabled":false,"isDocSummarizeEnabled":false,"isDocTranslateEnabled":false},"env":null,"nid":0,"fid":0,"serverTime":"2026-01-03T11:49:16.3093394Z","siteClientTag":"1017$$16.0.19127.20262","crossDomainPhotosEnabled":false,"openInClient":true,"Has2019Era":true,"webUIVersion":15,"webPermMasks":{"High":16,"Low":196673},"pageListId":"{4b1f9d7d-df42-4b70-a039-4e4bc00db1d8}","pageItemId":32,"pagePermsMask":{"High":16,"Low":196673},"pagePersonalizationScope":1,"userEmail":"","userId":0,"userLoginName":null,"userDisplayName":null,"isAnonymousUser":true,"isAnonymousGuestUser":false,"isEmailAuthenticationGuestUser":false,"isExternalGuestUser":false,"sideBysideToken":"","systemUserKey":null,"alertsEnabled":false,"siteServerRelativeUrl":"/","allowSilverlightPrompt":"True","themeCacheToken":"/HealthAwareness/MedicalTools::5:","themedCssFolderUrl":null,"themedImageFileNames":null,"modernThemingEnabled":true,"isSiteAdmin":false,"ExpFeatures":[480216468,1884350801,1158731092,62197791,538521105,335811073,4194306,34614301,268500996,-1946025984,28445328,-2147475455,134291456,65544,288,950272,1282,808326148,134217873,0,0,-1073217536,545285252,18350656,-467402752,6291457,-2147483644,1074794496,-1728053184,1845537108,622628,4102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"IsHybridEnabled":false,"SPOnPremFlights":[1608625,1615140,1554278,1536594,1451530,1437361,1293572,1281075,1266854,1262861,1263396,1245315,1242554,1241972,1232868,1227765,1225014,1220075,1218539,1175952,1174945,1165662,1159162,1149960,1149522,1113916,1111397,1101858,1099085,1086764,1080816,1079075,1078153,1075954,1073830,1073759,95255,1062921,1055593,1052809,1043614,1041859,1040063,1039112,1036486,1035189,1033993,1030381,1030382,1030364,1030362,1029854,1029586,1029565,1029556,1029555,1028671,1025113,1021288,1021275,1021274,1021272,1020637,1020043,1018275,1018016,1012433,1011886,1010592,1009740,1009585,1008744,1007603,1004459,1003886,1002806,1001164,116041,114176,114166,112973,108499,108186,107054,100994,100425,99885,99722,96075,94920],"InternalValidAuthorities":["www.moh.gov.sa","moh.gov.sa"],"CorrelationId":"d95de9a1-e936-e03b-a5f1-322791e23185","hasManageWebPermissions":false,"isNoScriptEnabled":false,"groupId":null,"groupHasHomepage":true,"groupHasQuickLaunchConversationsLink":false,"departmentId":null,"hubSiteId":null,"hasPendingWebTemplateExtension":false,"isHubSite":false,"isWebWelcomePage":false,"siteClassification":"","hideSyncButtonOnODB":false,"showNGSCDialogForSyncOnODB":false,"sitePagesEnabled":false,"sitePagesFeatureVersion":0,"suiteNavInfo":{"suiteBarBackground":null,"suiteBarText":null,"suiteNavAccentColor":null,"suiteNavAllowCustom":false,"suiteNavAllowOverwrite":false,"suiteNavBrandingLogoNavigationUrl":null,"suiteNavBrandingLogoTitle":null,"suiteNavBrandingLogoUrl":null,"suiteNavBrandingText":null},"DesignPackageId":"00000000-0000-0000-0000-000000000000","groupType":null,"groupColor":"#23874b","siteColor":"#23874b","headerEmphasis":0,"navigationInfo":null,"guestsEnabled":false,"MenuData":{"SignInUrl":"/HealthAwareness/MedicalTools/_layouts/15/Authenticate.aspx?Source=%2FHealthAwareness%2FMedicalTools%2FPages%2FVisualAcuityTest%2Easpx"},"RecycleBinItemCount":-1,"PublishingFeatureOn":true,"PreviewFeaturesEnabled":false,"disableAppViews":false,"disableFlows":false,"serverRedirectedUrl":null,"formDigestValue":"0x2D32933ECED95F17D3F3FF101E98F7AECC96217339E61D892ACDC36213E127C9D2967A710794CC2BC08E9EDF5909AB45B6223A18BC1CAB05BFDB8FFD082818E6,03 Jan 2026 11:49:16 -0000","maximumFileSize":15360,"formDigestTimeoutSeconds":1800,"canUserCreateMicrosoftForm":false,"canUserCreateVisioDrawing":true,"readOnlyState":null,"isTenantDevSite":false,"preferUserTimeZone":false,"userTimeZoneData":null,"userTime24":false,"userFirstDayOfWeek":null,"webTimeZoneData":null,"webTime24":false,"webFirstDayOfWeek":null,"isSelfServiceSiteCreationEnabled":null,"alternateWebAppHost":"","aadTenantId":"","aadUserId":"","aadInstanceUrl":"","msGraphEndpointUrl":"https://","allowInfectedDownload":true};_spPageContextInfo.updateFormDigestPageLoaded=new Date();_spPageContextInfo.clientServerTimeDelta=new Date(_spPageContextInfo.serverTime)-new Date();if(typeof(define)=='function'){define('SPPageContextInfo',[],function(){return _spPageContextInfo;});}document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/HealthAwareness\/MedicalTools"};
-function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
-
-    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fHealthAwareness\u002fMedicalTools\u002fPages\u002fVisualAcuityTest.aspx");
-
-}
-Flighting.ExpFeatures = [480216468,1884350801,1158731092,62197791,538521105,335811073,4194306,34614301,268500996,-1946025984,28445328,-2147475455,134291456,65544,288,950272,1282,808326148,134217873,0,0,-1073217536,545285252,18350656,-467402752,6291457,-2147483644,1074794496,-1728053184,1845537108,622628,4102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]; (function()
-{
-    if(typeof(window.SP) == "undefined") window.SP = {};
-    if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
-
-    var ysObj = window.SP.YammerSwitch;
-    ysObj.IsEnabled = false;
-    ysObj.TargetYammerHostName = "www.yammer.com";
-} )(); var _spWebPartComponents = new Object();//]]>
-</script>
-
-<script src="/_layouts/15/blank.js?rev=ouoUUw6rg6w3rCq5nEYM7w%3D%3DTAG0" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-(function(){
-
-        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
-            return;
-        }
-        _spBodyOnLoadFunctions.push(function() {
-            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
-        });
-    })();(function(){
-
-        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
-            return;
-        }
-        _spBodyOnLoadFunctions.push(function() {
-            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });
-        });
-    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();window.SPThemeUtils && SPThemeUtils.RegisterCssReferences([{"Url":"\u002f_layouts\u002f15\u002f1025\u002fstyles\u002fThemable\u002fcorev15.css?rev=hyjbsok5cftBAvwFdx5OCQ\u00253D\u00253DTAG0","OriginalUrl":"\u002f_layouts\u002f15\u002f1025\u002fstyles\u002fThemable\u002fcorev15.css?rev=hyjbsok5cftBAvwFdx5OCQ\u00253D\u00253DTAG0","Id":"CssRegistration1","ConditionalExpression":"","After":"","RevealToNonIE":"false"}]);
-//]]>
-</script>
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" />
-<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-        <script type="text/javascript"> var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } }; </script>
-        <span id="DeltaSPWebPartManager">
-            
-        </span>
-        
-        <span id="DeltaDelegateControls">
-            
-            
-        </span>        
-        
-       <!-- start -->
-        <div class="header_sec">       
-        
-<link rel="stylesheet" href="/_layouts/15/MOH/Internet/New/css/bootstrap.min.css">
-<link rel="stylesheet" href="/_layouts/15/MOH/Internet/New/css/responsive.css">
-<link rel="stylesheet" href="/_layouts/15/MOH/Internet/New/css/fontawesome-pro-all.css">
-<div class="noindex">
-     <div class="gov-verification">
-  <div class="gov-header" id="toggleButton">
-   <div class="digital_icon_container">
-   
-  <img src="https://static.moh.gov.sa/assets/images/Saudiflag.svg" alt="Saudi flag" width="20" />
-   
-   </div>
-    <span>موقع حكومي رسمي تابع لحكومة المملكة العربية السعودية</span>
-    <a href="#" class="verify-link">كيف تتحقق</a>
-    <i class="fas fa-chevron-down arrow" id="arrowIcon"></i>
-  </div>
-
-  <div class="gov-content" id="govContent">
-    <div class="row text-end">
-      <div class="col-md-6 mb-3">
-        <div class="gov-info">
-        <div class="img-border-rounded">
-
-                 <i class="fa-regular fa-link fa-2xl mt-4 green-color-verify"></i>
-
-                </div>
-          <div>
-            <h5>روابط المواقع الالكترونية الرسمية السعودية تنتهي بـ <span class="gov-domain">.gov.sa</span></h5>
-            <p>جميع روابط المواقع الرسمية التابعة للجهات الحكومية في المملكة العربية السعودية تنتهي بـ <b>gov.sa</b>.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-6 mb-3">
-        <div class="gov-info">
-      <div class="img-border-rounded">
-
-                <i class="fa-regular fa-lock fa-2xl mt-4 green-color-verify"></i>
-
-                </div>
-          <div>
-            <h5>المواقع الالكترونية الحكومية تستخدم بروتوكول <span class="https">HTTPS</span> للتشفير و الأمان.</h5>
-            <p>المواقع الإلكترونية الآمنة في المملكة العربية السعودية تستخدم بروتوكول <b>HTTPS</b> للتشفير.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="gov-footer">
-	<div class="digital_more_content_icon"><img src="https://static.moh.gov.sa/assets/images/logo_autoridad.svg" alt="Register Icon" width="20" /></div>
-	
-      <p>مسجل لدى هيئة الحكومة الرقمية برقم:</p>
-      <a href="https://raqmi.dga.gov.sa/platforms/platforms/8a2efbf5-200a-48ce-9db6-2a47c98b1fb5/platform-license" target="_blank" class="gov-number">20250423356</a>
-    </div>
-  </div>
-</div>
-    <div class="header">
-        <div class="no-gutters" style="padding: 0px;">
-            <div class="row no-gutters">
-                <div class="col-sm-6">
-                    <a href="https://www.moh.gov.sa/Pages/default.aspx" class="logo" title="Home"><img alt="Home" src="/_layouts/15/MOH/Internet/New/images/logo.png" /></a>
-                    <a target="_blank" href="http://vision2030.gov.sa/" class="vision" title="2030"><img alt="Vision" src="/_layouts/15/MOH/Internet/New/images/vision.png" /></a>
-                </div>
-                <div class="col-sm-6" style="">
-                    <div class="top-header-style-1">
-                        <ul class="contact-info_R contact-info-HM">
-                            <li>
-                                <a class="" href="/statistics/Pages/dashboard.aspx" title="إحصاءات الوزارة"> <i class="fa fa-bar-chart sizeIcon" aria-hidden="true" title="إحصاءات الوزارة"></i> <span class="fontSizeArabic" style="display:none;">إحصاءات الوزارة </span> </a>
-                            </li>
-
-                            <li>
-                                <div class="popover__wrapper_app" style="z-index: 9999999999999 !important;">
-                                    <a href="/Support/Pages/MobileApp.aspx" title="تطبيقات الجوال">
-                                        <i class="fa-solid fa-mobile-screen sizeIcon" aria-hidden="true"></i>
-										<span style="display:none">Support</span>
-                                    </a>
-                                </div>
-                            </li>
-
-                            <li>
-                                <div class="popover__wrapper_setting" style="z-index: 9999999999999 !important;">
-                                    <a href="#" aria-label="Settings">
-                                        <i class="fa fa-cog sizeIcon" aria-hidden="true" title="الإعدادات"></i>
-										<span style="display:none">Support</span>
-                                    </a>
-                                    <div class="popover__content_setting">
-                                        <!--<label for="email">Email:</label>-->
-
-                                        <div>
-                                            <ul class="settings_ul">
-                                                <li>
-                                                    <img alt="Font size" src="https://www.moh.gov.sa/_layouts/15/MOH/Internet/New/images/lang_size_en.png" />
-                                                    <div>
-                                                        <span class="incFont" title="Increase font size" style="width: 32px;">+</span>
-                                                        <span class="resetFont" title="Restore the default font size" style="width: 35px;">
-                                                            <img alt="Restore the default font size" src="https://www.moh.gov.sa/_layouts/15/MOH/Internet/New/images/refresh_ico.png" />
-                                                        </span>
-                                                        <span class="decFont" title="Minimize font size" style="width: 32px;">-</span><i class="clr"></i>
-                                                    </div>
-                                                </li>
-												<li>
-                                                    <img alt="gray_color" id="imgVision" onclick="toggleVision(this);" data-vision="normal" height="30" width="30" src="/_layouts/15/MOH/Internet/New/images/gray_color.png">
-                                                   <div id="dvUISettingswqw" style="width: 100px !important;" >
-                                                      
-                                                    </div> 
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </li>
-
-                            <li>
-                                <a class="" href="https://deaf.dga.gov.sa/" title="تطبيق لغة الإشارة " aria-label="sign link">
-                                    <i class="fa fa-deaf sizeIcon" aria-hidden="true"></i>
-									<span style="display:none">Deaf</span>
-                                </a>
-                            </li>
-
-                            <li>
-                               <div class="searchbar">
-									      <a href="#" class="search_icon" aria-label="search link"><i class="fa fa-search sizeIcon"></i><span style="display:none">Search</span></a>
-                                          <!-- <input class="search_input" type="text"  title="بحث" placeholder="بحث..."> -->
-                                </div> 
-                            </li>
-
-                            <li>
-                                <div class="Litter3">
-                                    <a class="" id="langlink" href="javascript:void(0)" title=" عربـي ">
-                                        <span class="ArabicSize">
-                                            EN
-                                        </span>
-                                    </a>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-        <div class="clr"></div>
-        <div id="ctl00_ss_pnlArabicMenu">
-	
-<div class="noindex">
-    <div class="top_menu">
-            <div class="t_menu">
-                <ul id="menu">
-                    <li class="home"><a href="/">الرئيسية</a></li>
-                    <li class="ministry">
-                        <a href="/Ministry/Pages/default.aspx">الوزارة <img alt="MOH Default Image" src='/_layouts/15/MOH/Internet/New/images/down-arrow_green.svg' /><img alt="MOH Default Image" src='/_layouts/15/MOH/Internet/New/images/down-arrow_white.svg' /></a>
-                        <ul class="dropdown">					
-                            <li>
-                                <a href="/Ministry/About/Pages/default.aspx">عن الوزارة <img alt="MOH Default Image" src='/_layouts/15/MOH/Internet/New/images/down-arrow_gray.svg' /></a>
-                                <ul>
-								
-                                    <li><a href="/Ministry/About/Pages/default.aspx">- نبذة عن الوزارة</a></li>
-									<li><a href="/Ministry/Statistics/Indicator/Pages/default.aspx">- مؤشرات الصحة</a> </li>
-									<li><a href="/Ministry/Structure/Pages/default.aspx">- هيكل الوزارة</a></li>
-									<li><a href="/Ministry/About/Strategy-Policies-SLA/Pages/default.aspx">-  الاستراتيجيات والسياسات والتزامات الخدمة</a></li>
-									<li><a href="/Ministry/About/Pages/Budget.aspx">- الميزانية والإنفاق</a></li>
-									<li><a href="/Ministry/About/Pages/Tenders-and-Procurement.aspx">- منافسات ومشتريات الوزارة</a></li>
-									<li><a href="/Ministry/Partnerships/Pages/default.aspx">- الشراكات الصحية الاستراتيجية</a></li>
-									<li><a href="/Ministry/About/Pages/Work-for-US.aspx">- اعمل معنا</a></li>
-									<li><a href="/Ministry/About/Pages/ContactUS.aspx">- تواصل معنا</a></li>
-									<li><a href="/Ministry/nehs/Pages/SustainableDevelopment.aspx">- التنمية المستدامة</a></li>
-                                    <li><a href="/Support/Pages/default.aspx">- المساعدة والدعم</a></li>
-                                    <li><a href="/Ministry/OpenData/Pages/default.aspx">- البيانات المفتوحة</a></li>									
-								</ul>
-								                                
-                            </li>			
-                            <li>
-                                <a href="/Ministry/Minister/Pages/default.aspx">عن الوزير <img alt="MOH Default Image" src='/_layouts/15/MOH/Internet/New/images/down-arrow_gray.svg' /></a>
-                                <ul>
-                                    <li><a href="/Ministry/Minister/Pages/default.aspx">- السيرة الذاتية لمعالي الوزير</a></li>
-                                    <li><a href="/Ministry/Minister/Office/Pages/default.aspx">- مكتب معالي الوزير</a></li>
-                                    <li><a href="/Ministry/Minister/Pages/minister-1.aspx">- تواصل مع معالي الوزير</a></li> 
-                                </ul>
-								
-                            </li> 
-							
-							 <li>
-								<a href="/Ministry/pxmp/Pages/default.aspx"> نتائج رضا المرضى </a>
-								<a href="/Ministry/Rules/Pages/default.aspx">الأنظمة واللوائح</a>
-								<a href="/Ministry/Forms/Pages/default.aspx">الإجراءات والنماذج</a>
-								<a href="/Ministry/Information-and-services/Pages/default.aspx">سياسة مكافحة التمييز </a>
-								<a href="/Ministry/Unified-Health-File/Pages/default.aspx">الملف الصحي الموحد </a>
-                                <a href="/Ministry/Projects/Knowledge-Management/Pages/default.aspx">إدارة المعرفة</a>
-						        <a href="/Ministry/nehs/Pages/default.aspx">استراتيجية الصحة الإلكترونية</a>
-								<a href="/Ministry/Life-events/Pages/default.aspx"> أحداث الحياة </a>
-								<a href="/Portal/Pages/default.aspx">حول البوابة الإلكترونية</a>
-						    </li>
-							<li>
-							<li>
-                                <a href="/E-Participation/Pages/default.aspx">المشاركة الإلكترونية</a>
-                            </li>								
-                        </ul>
-                    </li>  
-                    <li class="sectors">
-                        <a href="/eServices/interactive-maps/Pages/default.aspx">الخريطة التفاعلية </a>
-                     
-                    </li>
-                    <li class="awareness">
-                        <a href="/awarenessplateform/Pages/default.aspx">التوعية الصحية <img alt="MOH Default" src='/_layouts/15/MOH/Internet/New/images/down-arrow_green.svg' /><img alt="MOH Default" src='/_layouts/15/MOH/Internet/New/images/down-arrow_white.svg' /></a>
-                        <ul class="dropdown">
-                            <li>
-                                <a href="/HealthAwareness/EducationalContent/HealthTips/Pages/001.aspx">وثيقة حقوق ومسؤوليات المرضى</a>
-                                <!-- <img class="s_img" alt="MOH Default" src='/_layouts/15/MOH/Internet/New/images/02.png' /> -->
-                            </li>
-                            <li>
-                                <a href="/HealthAwareness/EducationalContent/Pages/default.aspx">المحتوى التثقيفي <img alt="MOH Default" src='/_layouts/15/MOH/Internet/New/images/down-arrow_gray.svg' /></a>
-                                <ul>
-								    <li><a href="/awarenessplateform/Patientsrights/Pages/default.aspx">- حقوق المرضى</a></li>
-                                    <li><a href="/awarenessplateform/ChronicDisease/Pages/default.aspx">- الأمراض المزمنة</a></li>
-                                    <li><a href="/awarenessplateform/HealthyLifestyle/Pages/default.aspx">- نمط الحياة الصحية</a></li>
-									<li><a href="/awarenessplateform/OralHealth/Pages/default.aspx">- صحة الفم والأسنان</a></li>
-                                    <li><a href="/awarenessplateform/Firstaid/Pages/default.aspx">- إسعافات أولية</a></li>
-                                    <li><a href="/awarenessplateform/EducationalSeries/Pages/default.aspx">- السلاسل التوعوية</a></li>
-                                    <li><a href="/awarenessplateform/SeasonalAndFestivalHealth/Pages/default.aspx">- الصحة الموسمية والأعياد</a></li>
-                                    <li><a href="/awarenessplateform/ChildsHealth/Pages/default.aspx">- صحة الطفل</a></li>
-                                    <li><a href="/awarenessplateform/WomensHealth/Pages/default.aspx">- صحة المرأة</a></li>
-									<li><a href="/awarenessplateform/VariousTopics/Pages/default.aspx">- مواضيع مختلفة</a></li>
-									<li><a href="/awarenessplateform/ElderlysHealth/Pages/default.aspx">- صحة المسنين</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="/HealthAwareness/MedicalTools/Pages/default.aspx">أدوات الصحة<img alt="MOH Default" src='/_layouts/15/MOH/Internet/New/images/down-arrow_gray.svg' /></a>
-                                <ul>
-                                    <li><a href="/HealthAwareness/MedicalTools/Pages/BodyMassIndex.aspx">- حساب كتلة الجسم</a></li>
-                                    <li><a href="/HealthAwareness/MedicalTools/Pages/IdealBodyWeight.aspx">- حساب الوزن المثالي</a></li>
-                                    <li><a href="/HealthAwareness/MedicalTools/Pages/CalorieCalculate.aspx">- حساب السعرات الحرارية</a></li>
-                                    <li><a href="/HealthAwareness/MedicalTools/Pages/BestTimeToGetPregnant.aspx">- حساب الوقت المناسب للحمل</a></li>
-                                    <li><a href="/HealthAwareness/MedicalTools/Pages/PregnancyDueDateCalculate.aspx">- حساب الموعد التقريبي للولادة</a></li>
-									<li><a href="/HealthAwareness/MedicalTools/Pages/VisualAcuityTest.aspx">- اختبار النظر</a></li>
-                                    <li><a href="/HealthAwareness/MedicalTools/Pages/Prediabetes-Risk-Test.aspx">- اختبار خطر الإصابة بمرحلة ما قبل السكري</a></li>
-									<li><a href="/HealthAwareness/MedicalTools/Pages/AsthmaCalculator.aspx">- اختبار التحكم بالربو</a></li>
-                                </ul>
-                              
-                            </li>
-                            <li>
-                                <a href="/HealthAwareness/HealthDay/2025/Pages/default.aspx">الأيام الصحية العالمية</a>
-                                <a href="/HealthAwareness/Beforemarriage/Pages/default.aspx">الفحص الطبي قبل الزواج</a>
-								<a href="/HealthAwareness/Pilgrims-Health/Pages/default.aspx">صحة ضيوف الرحمن</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="services">
-					<a href="/eservices/pages/personal.aspx">الخدمات الإلكترونية</a>
-                    </li>
-				   <li class="media">
-							<a href="/Ministry/MediaCenter/Pages/default.aspx">المركز الإعلامي <img alt="MOH Default" src='/_layouts/15/MOH/Internet/New/images/down-arrow_green.svg' /><img alt="MOH Default Image" src='/_layouts/15/MOH/Internet/New/images/down-arrow_white.svg' /></a>
-							<ul class="dropdown">
-										<li><a href="/Ministry/MediaCenter/News/Pages/default.aspx"> أخبار الوزارة</a></li>
-										<li><a href="/Ministry/MediaCenter/Ads/Pages/default.aspx">إعلانات الوزارة</a></li>
-										<li><a href="/Ministry/MediaCenter/Publications/Pages/default.aspx">إصدارات وتقارير الوزارة</a></li>
-										<li><a href="/Ministry/Links/Pages/default.aspx">روابط تهمك</a></li>
-										<li><a href="/Ministry/MediaCenter/MinistryActivities/Pages/default.aspx"> الأحداث والفعاليات والأنشطة</a></li>
-							</ul>
-					</li>
-                    <li class="e-participation">
-                        <a href="/E-Participation/Pages/default.aspx">المشاركة الإلكترونية</a>
-                    </li>					
-			 </ul>
-			 
-			 
-			 
-			 
-			 
-			 <ul class="logout_links">
-		<li class="tooltips logout srclose">
-			<label class="loginclass" title="Login">
-        <a id="ctl00_ss_IdWelcomeAn_lvName_hlLogin" href="https://www.moh.gov.sa//_layouts/MOH/SSOLogin.aspx?ReturnUrl=https://www.moh.gov.sa/HealthAwareness/MedicalTools/Pages/VisualAcuityTest.aspx" style="text-decoration: none;">تسجيل الدخول</a>
-         <link type="text/css" rel="stylesheet" href='/_layouts/15/MOH/Internet/New/css/logoutclass.css' />
-        
-    
-</label>
-		    <span class="logoutclass" title="Logout"><img alt="Logout" src="/_layouts/15/MOH/Internet/New/images/logout.png" width="36" height="36">  </span>
-			<div class="Logout_ul">
-				<ul>
-					<li>
-						
-        <a id="ctl00_ss_IdWelcome_lvName_hlLogin" href="https://www.moh.gov.sa//_layouts/MOH/SSOLogin.aspx?ReturnUrl=https://www.moh.gov.sa/HealthAwareness/MedicalTools/Pages/VisualAcuityTest.aspx" style="text-decoration: none;">تسجيل الدخول</a>
-         <link type="text/css" rel="stylesheet" href='/_layouts/15/MOH/Internet/New/css/logoutclass.css' />
-        
-    
-
-					</li>
-				
-				</ul>
-			</div>
-		</li>
-	</ul>
-	       </div>
-        </div>
-</div>
-
-</div>
-
-
-    </div>
-
-    <!--start body-->
-    <div class="internal_body">
-        <div class="bc">
-            <div>
-                <!-- <a href="#">البوابة الإلكترونية لوزارة الصحة</a> <img alt="MOH" src="https://static.moh.gov.sa/assets/images/bc_arrow.png" /> <a href="#">الوزارة</a> <img alt="MOH" src="https://static.moh.gov.sa/assets/images/bc_arrow.png" /> <a href="#">عن الوزارة</a> -->
-                
-				<ul id="ctl00_PlaceHolderTitleBreadcrumb_ListSiteMapPath1" class="ms-breadcrumb">
-	<li class="ms-breadcrumbRootNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/15/moh/internet/new/images/breadcrumb_arrow_rtl.png" alt="" style="position:absolute;left:-199px !important;top:-210px !important;" /></span></span><a title="البوابة الإلكترونية لوزارة الصحة" class="ms-breadcrumbRootNode" href="/Pages/Default.aspx">البوابة الإلكترونية لوزارة الصحة</a><ul class="ms-breadcrumbRootNode"><li class="ms-breadcrumbNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/15/moh/internet/new/images/breadcrumb_arrow_rtl.png" alt="" style="position:absolute;left:-199px !important;top:-210px !important;" /></span></span><a title="التوعية الصحية" class="ms-breadcrumbNode" href="/HealthAwareness/Pages/default.aspx">التوعية الصحية</a><ul class="ms-breadcrumbNode"><li class="ms-breadcrumbNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/15/moh/internet/new/images/breadcrumb_arrow_rtl.png" alt="" style="position:absolute;left:-199px !important;top:-210px !important;" /></span></span><a class="ms-breadcrumbNode" href="/HealthAwareness/MedicalTools/Pages/default.aspx">أدوات الصحة</a><ul class="ms-breadcrumbNode"><li class="ms-breadcrumbCurrentNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/15/moh/internet/new/images/breadcrumb_arrow_rtl.png" alt="" style="position:absolute;left:-199px !important;top:-210px !important;" /></span></span><span class="ms-breadcrumbCurrentNode">اختبار النظر</span></li></ul></li></ul></li></ul></li>
-</ul>
-				
-				<span class="clr"></span>
-            </div>
-        </div>
-        <div class="icons_title">
-            <div>
-                <h1 class="sstitle">
-	                
-	أدوات الصحة
-
-				</h1>
-                <div class="int_icons">
-                    <ul>
-                        <li>
-                         <div id="readspeaker_button1" class="rs_skip rsbtn rs_preserve">
-                         <a rel="nofollow" class="rsbtn_play" accesskey="L" title="ReadSpeaker webReader إستمع إلى هذه الصفحةِ مستخدماً" href="//app-me.readspeaker.com/cgi-bin/rsent?customerid=10452&amp;lang=ar_ar&amp;readid=divPlaceHolderMain&amp;url=">
-                         <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>استمع</span></span></span>
-                         <span class="rsbtn_right rsimg rsplay rspart"></span>
-                         </a></div>
-                        </li>
-                        <li><a href="javascript:void(0);" class="decFont" title="تصغير حجم الخط"><img alt="MOH" src='https://static.moh.gov.sa/assets/images/in_decfont_ico.png' /></a></li>
-                        <li><a href="javascript:void(0);" class="incFont" title="تكبير حجم الخط"><img alt="MOH" src='https://static.moh.gov.sa/assets/images/in_incfont_ico.png' /></a></li>
-                        <li class="tooltips sharepage srclose">
-                            <span title="مشاركة الصفحة"><img alt="MOH" src='https://static.moh.gov.sa/assets/images/in_share_ico.png' /></span>
-                            <i class="triangle-up"></i>
-                            <div>
-                                <a href="https://twitter.com/SaudiMOH" target="_blank" id="twitter_share" title="تويتر"><img alt="MOH" src='https://static.moh.gov.sa/assets/images/ls_twitter.png' /></a>
-                                <a href="https://www.facebook.com/SaudiMOH" target="_blank" id="facebook_share" title="فيسبوك"><img alt="MOH" src='https://static.moh.gov.sa/assets/images/ls_facebook.png' /></a>
-                                <a href="javascript:void(0)" target="_blank" onclick="copyToClipboard();" title="نسخ رابط الصفحة"><img alt="MOH" src='https://static.moh.gov.sa/assets/images/clink.png' /></a>
-								<a href="javascript:void(0)"  target="_blank" title="لينكدان" id="linkedin_share"><img alt="MOH" src='https://static.moh.gov.sa/assets/images/ls_linkedin.png' /></a>
-                                <a href="javascript:void(0)" target="_blank" title="واتساب" id="whatsapp_share" data-action="share/whatsapp/share"><img alt="MOH" src='https://static.moh.gov.sa/assets/images/ls_whatsapp.png' /></a>
-                            </div>
-                        </li>
-                        <li><a href="javascript:void(0);" class="sendToFriend" title="إرسال إلى صديق"><img alt="MOH" src="https://static.moh.gov.sa/assets/images/in_stf_ico.png" /></a></li>
-                        <li><a href="javascript:void(0);" id="BookmarkMe" onclick="AddToFavorites();" title="إضافة للمفضلة"><img alt="MOH" src="https://static.moh.gov.sa/assets/images/in_fav_ico.png" /></a></li>
-                        <li><a href="javascript:void(0);" onclick="window.print();" title="طباعة الصفحة"><img alt="MOH" src="https://static.moh.gov.sa/assets/images/in_print_ico.png" /></a></li>
-                    </ul>
-                </div>
-                <span class="clr"></span>
-            </div>
-        </div>
-        <div class="int_contents">
-            <div class="main_conts">
-                <!-- -->
-                <div id="DeltaPageStatusBar">
-	
-		<div id="ctl00_MSO_ContentDiv">
-			<div id="pageStatusBar"></div>
-			<div id="divPlaceHolderMain">
-				
-	<div class="noindex" id="PageContent">
-		<div class="nd_title">
-			اختبار النظر</div>
-
-			
-				<div class="news_details" style="padding:10px;">
-					<div align="justify">						
-						<div id="ctl00_PlaceHolderMain_ctl01_label" style='display:none'>محتوى الصفحة</div><div id="ctl00_PlaceHolderMain_ctl01__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_label"><p>​​​​​​​​​​<br></p></div>
-					</div>
-				</div>
-				<div style="clear:both;">
-					
-				<div class="ms-webpart-zone ms-fullWidth">
-		<div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
-			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
-				<div WebPartID="b3b47e21-528f-455b-af55-3b22d33eadac" HasPers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody " allowDelete="false" style="" ><div class="ms-rtestate-field">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link type="text/css" rel="stylesheet"
-	  href="https://www.moh.gov.sa/HealthAwareness/MedicalTools/AsthmaCalculator/assets/css/bootstrap.min.css">
-<link type="text/css" rel="stylesheet"
-	  href="https://www.moh.gov.sa/HealthAwareness/MedicalTools/AsthmaCalculator/ajax/libs/bootstrap-datepicker/1.9.0/css/bootstrap-datepicker.css">
-<link type="text/css" rel="stylesheet"
-	  href="https://www.moh.gov.sa/HealthAwareness/MedicalTools/AsthmaCalculator/assets/css/animate.min.css">
-<link type="text/css" rel="stylesheet"
-	  href="https://www.moh.gov.sa/HealthAwareness/MedicalTools/AsthmaCalculator/assets/css/style.css">
-
-<link type="text/css" rel="stylesheet" type="text/css"
-	  href="https://www.moh.gov.sa/HealthAwareness/MedicalTools/AsthmaCalculator/assets/css/colors/switch.css">
-<!-- Color Alternatives -->
-<link type="text/css"
-	  href="https://www.moh.gov.sa/HealthAwareness/MedicalTools/AsthmaCalculator/assets/css/colors/color-2.css"
-	  rel="alternate stylesheet" type="text/css" title="color-2">
-<link rel="stylesheet" media="screen, print" href="https://www.moh.gov.sa/HealthAwareness/MedicalTools/AsthmaCalculator/assets/css/arabicFont/notokufiarabic.css" />
-
-<!-- This code is use for color chooser, you can delete -->
-
-<div class="clearfix"></div>
-
-
-<div class="wrapper">
-	<!--<div class="steps-area steps-area-fixed">
-		<div class="image-holder">
-			<img src="assets/img/side-img.jpg" alt="">
-		</div>
-		<div class="steps clearfix">
-			<ul class="tablist multisteps-form__progress">
-				<li class="multisteps-form__progress-btn js-active current">
-					<span>1</span>
-				</li>
-				<li class="multisteps-form__progress-btn">
-					<span>2</span>
-				</li>
-				<li class="multisteps-form__progress-btn">
-					<span>3</span>
-				</li>
-				<li class="multisteps-form__progress-btn">
-					<span>4</span>
-				</li>
-				<li class="multisteps-form__progress-btn">
-					<span>5</span>
-				</li>
-				<li class="multisteps-form__progress-btn last">
-					<span>6</span>
-				</li>
-
-			</ul>
-		</div>
-	</div>-->
-
-	<div class="form-area position-relative">
-
-
-		<div class=" js-active" data-animation="slideHorz">
-
-			<!-- div 1   children-->
-			<div class="wizard-forms">
-
-				<div id="childQuestion">
-
-					<!-- Next Quation 1 -->
-					<div class="inner` clearfix">
-						<div class="form-content pera-content" style="background-color:#f5f6f6; border: solid 1px #dcdcdc; margin-left:15px; margin-right:15px ">
-							<div class="step-inner-content">
-
-
-								<h3 class="colorGreen pbottom">اختبار حدة البصر (عن طريق مخطط سنيلين)</h3>
-								<h3 class="pbottom">ملاحظة هامة: </h3>
-
-								<h6 class="pbottom">
-									يمكن تثبيت هذا التطبيق على الأجهزة الجوَّالة بغرض قياس حدة الإبصار، غير أنه ليس بديلًا لإجراء قياس النظر الذي يتمُّ في عيادات العيون. والحق أن الأدلة على دقة تطبيقات الأجهزة الذكية في قياس حدة البصر لا تزال محدودة، بل إنه لا يوجد حتى الآن أي تطبيق دقيق، على الأقل قياسًا إلى أحد الاختبارات الرسمية المعتمدة في قياس النظر (وإن كان الأمر بحاجة إلى مزيد من التحقق). ومن الجدير بالذكر أن الاختلاف في مستوى دقة الشاشة وحجم الخط قد يؤثر على دقة القياس.
-								</h6>
-								<h4>تعليمات قياس النظر: </h4>
-								<h6 class="pbottom" >- تأكد من أن إضاءة الغرفة مناسبة، واضبط درجة سطوع الهاتف بحيث تكون 100%.	</h6>
-								<h6>- أمسك بالهاتف الجوّال، بحيث تبعد الشاشة عن المريض مسافة مقدارها 4 أقدام (1.2 متر) . </h6>
-								<h6>- قم بفحص النظر لكل عين على حدة، بينما تكون العين الأخرى مغطاة تمامًا.</h6>
-
-
-
-
-
-
-							</div>
-						</div>
-					</div>
-					</br>
-					<!-- Next Quation 2 -->
-					<div style="background-color:#f5f6f6; border: solid 1px #dcdcdc; margin-left:15px; margin-right:15px ">
-
-						<div class="inner` clearfix">
-							<div class="form-content pera-content">
-								<div class="step-inner-content">
-
-
-									<h3 class="colorGreen">- قم بقياس مستوى حدة البصر لكلٍّ من العينين على حدة، ثم لهما معًا.  </h3>
-
-
-									<h3 class="colorGreen">  	- حدِّد السطر الأدنى الذي يتمكن المريض من قراءته على نحوٍ صائب.   </h3>
-
-									<br />
-
-									<div class="step-box">
-										<div class="row">
-											<div class="col-md-12">
-												<label id="11"
-													   class="step-box-content bg-white text-center relative-position hightBoxQ1 cat">
-													<span class="step-box-icon">
-														<img src="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Visual%20Acuity%20Test/assets/img/e001.png" alt="">
-													</span>
-												</label>
-											</div>
-										</div>
-									</div>
-
-
-									<div class="step-box">
-										<div class="row">
-											<div class="col-md-12">
-												<label id="12"
-													   class="step-box-content bg-white text-center relative-position hightBoxQ1 cat">
-													<span class="step-box-icon">
-														<img src="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Visual%20Acuity%20Test/assets/img/e002.png" alt="">
-													</span>
-												</label>
-											</div>
-										</div>
-									</div>
-
-
-
-									<div class="step-box">
-										<div class="row">
-											<div class="col-md-12">
-												<label id="13"
-													   class="step-box-content bg-white text-center relative-position hightBoxQ1 cat">
-													<span class="step-box-icon">
-														<img src="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Visual%20Acuity%20Test/assets/img/e003.png" alt="">
-													</span>
-												</label>
-											</div>
-										</div>
-									</div>
-
-
-
-									<div class="step-box">
-										<div class="row">
-											<div class="col-md-12">
-												<label id="14"
-													   class="step-box-content bg-white text-center relative-position hightBoxQ1 cat">
-													<span class="step-box-icon">
-														<img src="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Visual%20Acuity%20Test/assets/img/e004.png" alt="">
-													</span>
-												</label>
-											</div>
-										</div>
-									</div>
-
-
-
-									<div class="step-box">
-										<div class="row">
-											<div class="col-md-12">
-												<label id="15"
-													   class="step-box-content bg-white text-center relative-position hightBoxQ1 cat">
-													<span class="step-box-icon">
-														<img src="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Visual%20Acuity%20Test/assets/img/e005.png" alt="">
-													</span>
-												</label>
-											</div>
-										</div>
-									</div>
-
-
-
-									<div class="step-box">
-										<div class="row">
-											<div class="col-md-12">
-												<label id="16"
-													   class="step-box-content bg-white text-center relative-position hightBoxQ1 cat">
-													<span class="step-box-icon">
-														<img src="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Visual%20Acuity%20Test/assets/img/e006.png" alt="">
-													</span>
-												</label>
-											</div>
-										</div>
-									</div>
-
-
-
-									<div class="step-box">
-										<div class="row">
-											<div class="col-md-12">
-												<label id="17"
-													   class="step-box-content bg-white text-center relative-position hightBoxQ1 cat">
-													<span class="step-box-icon">
-														<img src="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Visual%20Acuity%20Test/assets/img/e007.png" alt="">
-													</span>
-												</label>
-											</div>
-										</div>
-									</div>
-
-
-
-									<div class="step-box">
-										<div class="row">
-											<div class="col-md-12">
-												<label id="18"
-													   class="step-box-content bg-white text-center relative-position hightBoxQ1 cat">
-													<span class="step-box-icon">
-														<img src="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Visual%20Acuity%20Test/assets/img/e008.png" alt="">
-													</span>
-												</label>
-											</div>
-										</div>
-									</div>
-
-
-
-									<div class="step-box">
-										<div class="row">
-											<div class="col-md-12">
-												<label id="19"
-													   class="step-box-content bg-white text-center relative-position hightBoxQ1 cat">
-													<span class="step-box-icon">
-														<img src="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Visual%20Acuity%20Test/assets/img/e009.png" alt="">
-													</span>
-												</label>
-											</div>
-										</div>
-									</div>
-
-
-
-									<div class="step-box">
-										<div class="row">
-											<div class="col-md-12">
-												<label id="20"
-													   class="step-box-content bg-white text-center relative-position hightBoxQ1 cat">
-													<span class="step-box-icon">
-														<img src="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Visual%20Acuity%20Test/assets/img/e010.png" alt="">
-													</span>
-												</label>
-											</div>
-										</div>
-									</div>
-
-
-
-									<div class="step-box">
-										<div class="row">
-											<div class="col-md-12">
-												<label id="21"
-													   class="step-box-content bg-white text-center relative-position hightBoxQ1 cat">
-													<span class="step-box-icon">
-														<img src="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Visual%20Acuity%20Test/assets/img/e011.png" alt="">
-													</span>
-												</label>
-											</div>
-										</div>
-									</div>
-
-								</div>
-							</div>
-						</div>
-
-
-
-
-
-						<!-- Next Quation 3 -->
-
-
-					</div>
-
-				</div>
-
-				<!-- Next Quation 5 -->
-
-				<br />
-
-
-				<br />
-				<!--Result -->
-				<div>
-
-
-					<div id="childResult" style=" margin-left:15px; margin-right:15px; background-color:#f5f6f6; border: solid 1px #dcdcdc; margin-left:15px; margin-right:15px">
-
-						<div class="inner` clearfix" id="resultMain">
-							<div class="form-content pera-content">
-								<div class="step-inner-content">
-
-									<div class="step-box  " style="color:#00d74b; font-weight:bold">
-
-
-
-										<div class="row justify-content-md-center">
-											<div class="col col-lg-8">
-												<label id="result11"
-													   class="step-box-content bg-white text-center relative-position hightBox6">
-
-													<span class="step-box-text">
-														<h3 class="text-center" style="color:#01974f!important; font-weight:bold!important">
-															6/60
-														</h3>
-														<h4 class="text-center"> حدة البصر</h4>
-
-													</span>
-													<p class="paddingTop BoxText" style="color:#01974f!important; ">
-														تحتاج زيارة الطبيب لتشخيص أدق
-													</p>
-
-												</label>
-											</div>
-
-										</div>
-
-										<div class="row justify-content-md-center">
-											<div class="col col-lg-8">
-												<label id="result12"
-													   class="step-box-content bg-white text-center relative-position hightBox6">
-
-													<span class="step-box-text">
-														<h3 class="text-center" style="color:#01974f!important; font-weight:bold!important">
-															6/30
-														</h3>
-														<h4 class="text-center"> حدة البصر</h4>
-
-													</span>
-													<p class="paddingTop BoxText" style="color:#01974f!important; ">
-														تحتاج زيارة الطبيب لتشخيص أدق
-													</p>
-
-												</label>
-											</div>
-
-										</div>
-
-
-										<div class="row justify-content-md-center">
-											<div class="col col-lg-8">
-												<label id="result13"
-													   class="step-box-content bg-white text-center relative-position hightBox6">
-
-													<span class="step-box-text">
-														<h3 class="text-center" style="color:#01974f!important; font-weight:bold!important">
-															6/21
-														</h3>
-														<h4 class="text-center"> حدة البصر</h4>
-
-													</span>
-													<p class="paddingTop BoxText" style="color:#01974f!important; ">
-														تحتاج زيارة الطبيب لتشخيص أدق
-													</p>
-
-												</label>
-											</div>
-
-										</div>
-
-
-										<div class="row justify-content-md-center">
-											<div class="col col-lg-8">
-												<label id="result14"
-													   class="step-box-content bg-white text-center relative-position hightBox6">
-
-													<span class="step-box-text">
-														<h3 class="text-center" style="color:#01974f!important; font-weight:bold!important">
-															6/15
-														</h3>
-														<h4 class="text-center"> حدة البصر</h4>
-
-													</span>
-													<p class="paddingTop BoxText" style="color:#01974f!important; ">
-														تحتاج زيارة الطبيب لتشخيص أدق
-													</p>
-
-												</label>
-											</div>
-
-										</div>
-
-										<div class="row justify-content-md-center">
-											<div class="col col-lg-8">
-												<label id="result15"
-													   class="step-box-content bg-white text-center relative-position hightBox6">
-
-													<span class="step-box-text">
-														<h3 class="text-center" style="color:#01974f!important; font-weight:bold!important">
-															6/12
-														</h3>
-														<h4 class="text-center"> حدة البصر</h4>
-
-													</span>
-													<p class="paddingTop BoxText" style="color:#01974f!important; ">
-														تحتاج زيارة الطبيب لتشخيص أدق
-													</p>
-
-												</label>
-											</div>
-
-										</div>
-
-										<div class="row justify-content-md-center">
-											<div class="col col-lg-8">
-												<label id="result16"
-													   class="step-box-content bg-white text-center relative-position hightBox6">
-
-													<span class="step-box-text">
-														<h3 class="text-center" style="color:#01974f!important; font-weight:bold!important">
-															6/9
-														</h3>
-														<h4 class="text-center"> حدة البصر</h4>
-
-													</span>
-													<p class="paddingTop BoxText" style="color:#01974f!important; ">
-														تحتاج زيارة الطبيب لتشخيص أدق
-													</p>
-
-												</label>
-											</div>
-
-										</div>
-
-										<div class="row justify-content-md-center">
-											<div class="col col-lg-8">
-												<label id="result17"
-													   class="step-box-content bg-white text-center relative-position hightBox6">
-
-													<span class="step-box-text">
-														<h3 class="text-center" style="potion:center; color:#01974f!important; font-weight:bold!important">6/7.5 </h3>
-														<h4 class="text-center"> حدة البصر</h4>
-													</span>
-													<p class="paddingTop BoxText" style="color:#01974f!important; ">
-														استمر في الاهتمام بصحة عينيك
-													</p>
-
-												</label>
-											</div>
-
-										</div>
-
-										<div class="row justify-content-md-center">
-											<div class="col col-lg-8">
-												<label id="result18"
-													   class="step-box-content bg-white text-center relative-position hightBox6">
-
-													<span class="step-box-text">
-														<h3 class="text-center" style="potion:center; color:#01974f!important; font-weight:bold!important">6/6 </h3>
-														<h4 class="text-center"> حدة البصر</h4>
-													</span>
-													<p class="paddingTop BoxText" style="color:#01974f!important; ">
-														استمر في الاهتمام بصحة عينيك
-													</p>
-
-												</label>
-											</div>
-
-										</div>
-
-
-										<div class="row justify-content-md-center">
-											<div class="col col-lg-8">
-												<label id="result19"
-													   class="step-box-content bg-white text-center relative-position hightBox6">
-
-													<span class="step-box-text">
-														<h3 class="text-center" style="potion:center; color:#01974f!important; font-weight:bold!important">6/6 </h3>
-														<h4 class="text-center"> حدة البصر</h4>
-													</span>
-													<p class="paddingTop BoxText" style="color:#01974f!important; ">
-														استمر في الاهتمام بصحة عينيك
-													</p>
-
-												</label>
-											</div>
-
-										</div>
-
-
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</div>
-
-					<br />
-
-					<div class="inner` clearfix">
-						<div class="form-content pera-content" style="background-color:#f5f6f6; border: solid 1px #dcdcdc; margin-left:15px; margin-right:15px ">
-							<div class="step-inner-content">
-
-
-								<h3 class="colorGreen pbottom">نصائح </h3>
-
-
-								<h6 class="pbottom">- عندما ينخفض مستوى حدة البصر عن 20/25، ينبغي تحويل المريض إلى أخصائي عيون مصرَّح له بمزاولة المهنة، لتحديد ما إذا كانت حالة المريض تستدعي الاعتماد على عدسات تصحيح الإبصار، أو غيرها من التدخلات العلاجية.	</h6>
-								<h6>- لا يُعد اختبار حدة البصر إجراءً طبيًا، أو أساسًا لوصفة علاجية؛ وإنما هو اختبار تقديري مستقل، يلزم التحقق من نتيجته عن طريق فحص النظر في عيادة عيون. </h6>
-
-								<h6 class="colorGreen pbottom">التعامل مع حالات ضعف البصر: </h6>
-								<h6>-	في حال تعرُّض المريض لأية تغيرات مفاجئة في القيمة القاعدية لمستوى حدة الإبصار، أو أية معوقات جديدة للرؤية، يلزم تحويله على الفور إلى اختصاصي أمراض عيون لإجراء ما يُعرف بفحص القاع المتوسِّع، وغيره من الفحوصات اللازمة. </h6>
-
-
-							</div>
-						</div>
-					</div>
-
-				</div>
-				<!-- end Result-->
-
-			</div>
-
-
-
-			<!-- div 2  Adult -->
-			<!-- end Result-->
-
-
-
-
-		</div>
-
-
-
-	</div>
-
-</div>
-<script type="text/javascript"
-		src="https://www.moh.gov.sa/HealthAwareness/MedicalTools/Visual%20Acuity%20Test/main.js"></script>
-
-<style>
-.main_conts p {
-    text-align: right ! important;
-}
-</style></div><div class="ms-clear"></div></div>
-			</div>
-		</div>
-	</div>
-					
-				</div>
-				
-	</div>
-	<div class="container" style="margin-top:120px">
-                                <div class="row">
-                                      <div class="splide">
-                                          <div id="splide" class="splide__track">
-                                              <div class="splide__list">
-                            
-                                              </div>
-                                        </div>
-                                     </div>
-                                </div>
-    </div>
-	<link rel="stylesheet" href="/_layouts/15/MOH/Internet/New/css/splide.min.css" />
-	<script src="/_layouts/15/MOH/Internet/New/js/splide.min.js"></script>
-	<script>
-		var viewpage ; 
-    const getDeviceType = () => {
-      const ua = navigator.userAgent;
-       if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua)) {
-         return viewpage = 2;
-          }
-      if (/Mobile|iP(hone|od)|Android|BlackBerry|IEMobile|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(ua)) {
-          return viewpage = 1;
-         }
-          return viewpage = 3;
-        }; 
-    $(function () {
-	    getDeviceType();
-		const pageTitle = (document.title).split('-').map(element => element.trim());
-		const viewType = pageTitle[1];
-		console.log(viewType);
-        GetListItems($util.LangUrl + "/HealthAwareness/MedicalTools/Lists/HealthTools/", viewType, MedicalTools , "dd/MMM/yyyy", "#MedicalTools");
-		
-    });
-    function MedicalTools(data, listName) {
-	   console.log(data);
-        var html_content = "";
-        if (data != undefined && data.length > 0) {
-            $.each(data, function (key, item) {
-                html_content +='<div class="col-sm-4 splide__slide m-2">\
-				                 <a href="'+ item.ServiceLink +'" class="custom-card">\
-				                  <div class="card bg-white text-white">\
-                                    <div id="crouselcard" class="card-body">\
-									<div class="econsultationlogo"><img alt="MOH" class="econsultationimg" src='+ item.Logo +'></div>\
-                                        <h5 id="crouselTitle" class="card-title">'+ item.Title +'</h5>\
-                                        <div id="crouselBody" class="card-text">'+ item.ShortDescription +'</div>\
-                                    </div>\
-								  </a></div>\
-								</div>';
-            });
-
-            $(".splide__list").html(html_content);
-			var splide = new Splide('.splide', {
-                type: 'loop',
-				perPage: viewpage,
-                rewind: true,
-            });
-            splide.mount();
-        }
-    }
-	
-</script>
-<style>
- .card-text{
-    display: -webkit-box;
-    line-height: 1.4;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    text-overflow: ellipsis;
-	font-family: 'DroidArabicKufi', 'tahoma';
-    font-size: 18px !important;
-	color: #757575;
-
-}
-img.econsultationimg {
-    margin: auto;
-    width: 75%;
-    display: block;
-}
-.card-title{
-   font-size: 20px;
-   color: #0d8c60;
-   display: -webkit-box;
-   line-height: 1.4;
-   overflow: unset;
-   height: 50px;
-}
-.splide__list {
-  Direction:ltr !important;
-}
-.card-body {
-direction: rtl !important;
-}
-.col-sm-4.splide__slide.m-2 {
-    flex: 0 0 auto;
-    width: 32% !important;
-}
-.splide__pagination__page {
-    background: #0d8c60 !important;
-}
-.splide__pagination {
-    position: relative !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-}
-@media (min-width: 768px) {
-		.col-sm-4.splide__slide.m-2 {
-    flex: 0 0 auto;
-    width: 31.66% !important;
-    }
-	}
-@media only screen and (min-width: 576px) and (max-width: 768px) {
-		.col-sm-4.splide__slide.m-2 {
-    flex: 0 0 auto;
-    width: 49% !important;
-    }
-	}
-	@media (max-width: 576px) {
-		.col-sm-4.splide__slide.m-2 {
-    flex: 0 0 auto;
-    width: 98% !important;
-    }
-	}
-</style>
-<div style='display:none' id='hidZone'><menu class="ms-hide">
-		
-	</menu></div>				
-			</div>
-		</div>
-	
-</div>
-                <!-- -->
-            </div>
-            <div class="left_conts noindex">
-            	
-				<div class="leftmenu">
-                    <div class="sm_title"><span>في هذا</span> القسم </div>
-                    <div class="sm_conts">
-                        <div id="DeltaPlaceHolderLeftNavBar" class="ms-core-navigation" role="navigation">
-	
-				    
-					<div id="startNavigation" tabIndex="-1"></div>
-				    
-				    
-				    
-				    
-				    
-				    <div class="ms-core-sideNavBox-removeLeftMargin">
-				    <div id="ctl00_RightMenuItems1_PlaceHolderLeftNavBar_QuickLaunchNavigationManager">
-		
-					    
-						<div id="zz1_V4QuickLaunchMenu" class=" noindex ms-core-listMenu-verticalBox">
-			<ul id="zz2_RootAspMenu" class="root ms-core-listMenu-root static">
-				<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">أدوات الصحة</span></span></a></li><li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-core-listMenu-selected ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/VisualAcuityTest.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">اختبار النظر</span><span class="ms-hidden">محدد حالياً</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/BodyMassIndex.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">حساب مؤشر كتلة الجسم</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/IdealBodyWeight.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">حساب الوزن المثالي</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/CalorieCalculate.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">حساب السعرات الحرارية</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/BestTimeToGetPregnant.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">حساب التاريخ المناسب للحمل</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/PregnancyDueDateCalculate.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">حساب الموعد التقريبي للولادة</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/AsthmaCalculator.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">اختبا�� التحكم بالربو</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/Prediabetes-Risk-Test.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">اختبار خطر الإصابة بمرحلة ما قبل السكري</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/SleepAssessment.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">هل تعاني من مشاكل في النوم؟</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/eating-disorder-test.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">اختبار اضطراب الأكل</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/depressiontest.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">هل تعاني من الاكتئاب؟</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/Anxiety.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">هل تعاني من القلق؟</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/Nomophobia.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">نوموفوبيا</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/Hydration_Calculator.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">حساب احتياج البالغين للماء</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/PilgrimsHealth.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">قائمة الاستعدادات الصحية للحاج</span></span></a></li><li class="static"><span class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">الأخيرة</span></span></span></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/Diabetes-Campaign-Tool.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">أداة تقييم احتمالية الإصابة بمضاعفات السكري</span></span></a></li>
-			</ul>
-		</div>
-				    
-	</div>
-					    
-				    </div>
-			    
-			    
-</div>
-                    </div>
-                </div>
-            
-                <div class="ls_slider" style="display:none;">
-                    <div class="sm_title"><span>أيضاً قد</span> يهمك </div>
-                    <div class="left_slider">
-                    </div>
-                </div>
-                
-	
-
-            </div>
-            <span class="clr sp"></span>
-        </div>
-    </div>
-	<div class="container">
-	<div class="row evaluation mb-5">
-	<div class="col-md-5 mb-3 feedback-section"><div class="feedback-container"></div></div>
-	
-    <div class="col-md-4 mb-3">
-			<span class="fc_title"></span>
-			<strong class="rdCounts">آخر تعديل :</strong>
-			 <span id="ctl00_stamp_lblLastUpdate">28 ذو الحجة 1445 هـ 08:24 ص</span>
-	</div>
-	<div class="col-md-3 mb-3">
-		<span class="fc_title"></span>
-		<strong class="rdCounts">عدد القراءات :</strong>		
-		<span id="readsCount"> </span>
-	</div>
-
-
-
-	</div>
-	</div>
-    <!--End body-->
-    	
-<div class="noindex">
-    <div class="footer_sec">
-    <footer class="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 col-md-3">
-                    <strong id="fc1"><span>نظرة عامة</span></strong>
-                    <ul class="ful">
-                        <li><a href="/Ministry/About/Pages/default.aspx">عن وزارة الصحة</a></li>
-                        <li><a href="/Support/Pages/Accessibility.aspx">كيفية استخدام موقع وزارة الصحة</a></li>
-                        <li><a href="/Portal/Pages/Privacy.aspx">الخصوصية وشروط الاستخدام</a></li>
-                        <li><a href="/Ministry/MediaCenter/MinistryActivities/Pages/default.aspx">الأخبار والأنشطة</a></li>
-                        <li><a href="/eServices/Pages/subscription.aspx">اشترك الآن</a></li>
-                        <li><a href="/eServices/Pages/E-Agreement.aspx">اتفاقية مستوى الخدمة</a></li>	
-                        <li><a href="/Ministry/OpenData/Pages/default.aspx">بوابة البيانات المفتوحة</a></li>	
-                        <li><a href="/Ministry/Health-Emergencies-Preparedness-Disasters/Pages/default.aspx">الطوارئ الصحية</a></li>						
-                    </ul>
-                </div>
-
-                <div class="col-xs-12 col-sm-6 col-md-3">
-                    <strong id="fc2"> <span>الاتصال </span> والدعم</strong>
-                    <ul class="ful">
-                        <li><a href="/Ministry/About/Pages/ContactUS.aspx">تواصل معنا</a></li>
-                        <li><a href="/Ministry/eParticipation/Pages/default.aspx">المشاركة الالكترونية </a></li>
-                        <li><a href="/Support/Pages/default.aspx">تقديم شكوى</a></li>
-                        <li><a target="_blank" href="https://www.my.gov.sa/wps/portal/snp/content/reportcorruption">الإبلاغ عن الفساد</a></li>
-                        <li><a href="/Portal/Pages/Info-Rights.aspx">حريه البيانات</a></li>
-                        <li><a href="/Support/FAQ/Pages/default.aspx">الأسئلة الشائعة</a></li>
-						<li><a href="/eServices/interactive-maps/Pages/default.aspx">الخريطة التفاعلية</a></li>
-						
-                    </ul>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-3">
-                    <strong id="fc3">  <span> روابط</span> مهمة</strong>
-                    <ul class="ful">
-                        <li><a target="_blank" href="https://www.my.gov.sa/ar">المنصة الوطنية الموحدة</a></li>
-                        <li><a target="_blank" href="https://open.data.gov.sa/ar/home">منصة البيانات المفتوحة</a></li>
-                        <li><a target="_blank" href="https://sdaia.gov.sa/ar/SDAIA/SdaiaStrategies/Pages/NationalStrategyForDataAndAI.aspx">الاستراتيجية الوطنية للبيانات والذكاء الاصطناعي</a></li>
-
-                        <li><a target="_blank" href="https://eparticipation.my.gov.sa/">بوابة المشاركة الإلكترونية</a></li>
-                        <li><a target="_blank" href="https://portal.etimad.sa/">بوابة المشتريات الإلكترونية</a></li>
-                        <li><a href="/Ministry/About/Pages/Budget.aspx">ميزانية الدولة</a></li>
-                        <li><a target="_blank" href="https://istitlaa.ncc.gov.sa/ar/Pages/default.aspx">منصة الاستشارات القانونية</a></li>
-                    </ul>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-3">
-                    <strong id="fc4"> <span>تابعنا على</span></strong>
-                    <ul style="display: inline-flex;" class="fSocialMedia pb-3">
-                        <li class="px-2">
-                            <a target="_blank" href="https://www.linkedin.com/company/ministry-of-health-saudi-arabia" aria-label="linkedin link"><i class="fa-brands fa-linkedin-in fa-2xl"></i><span style="display:none">linkedin</span></a>
-                        </li>
-                        <li class="px-2 footer-logo">
-                            <a target="_blank" href="https://twitter.com/SaudiMOH"><img src="/_layouts/15/MOH/Internet/New/images/twitter-x-logo.svg" alt="Twitter-X"><span style="display:none">twitter</span></a>
-							
-                        </li>
-                        <li class="px-2">
-                            <a target="_blank" href="https://www.facebook.com/SaudiMOH" aria-label="facebook link"><i class="fa-brands fa-facebook-f fa-2xl"></i><span style="display:none">facebook</span></a>
-                        </li>
-                        <li class="px-2">
-                            <a target="_blank" href="https://www.youtube.com/c/Saudimoh" aria-label="youtube link"><i class="fa-brands fa-youtube  fa-2x"></i><span style="display:none">youtube</span></a>
-                        </li>
-                        <li class="px-2">
-                            <a target="_blank" href="https://www.snapchat.com/add/saudi_moh" aria-label="snapchat link"><i class="fa-brands fa-snapchat fa-2xl"></i><span style="display:none">snapchat</span></a>
-                        </li>
-                        <li class="px-2">
-                            <a target="_blank" href="https://www.instagram.com/saudimoh/" aria-label="instagram link"><i class="fa-brands fa-instagram fa-2xl"></i><span style="display:none">instagram</span></a>
-                        </li>
-                    </ul>
-                    <strong id="fc5"> <span>أدوات الدخول للموقع الإلكتروني </span></strong>
-                    <ul style="display: inline-flex;" class="fSocialMedia pb-3">
-                     
-                        <li class="px-2">
-                            <a href="/Support/Pages/Accessibility.aspx" title="المساعدة والدعم"><i class="fa fa-volume-up fa-2x"></i><span style="display:none">volume</span></a>
-                        </li>
-                        <li class="px-2">
-                            <a href="/Support/Pages/Accessibility.aspx" title="المساعدة والدعم"><i class="fa fa-search-plus fa-2x"></i><span style="display:none">search</span></a>
-                        </li>
-                        <li class="px-2">
-                            <a href="/Support/Pages/Accessibility.aspx" title="المساعدة والدعم"><i class="fa fa-eye fa-2x"></i><span style="display:none">eye</span></a>
-                        </li>
-						<li class="px-2">
-                            <a target="_blank" href="https://deaf.dga.gov.sa/" title="الدعم الفني بلغة الإشارة"><i class="fa fa-deaf fa-2x"></i><span style="display:none">deaf</span></a>
-                        </li>
-                    </ul>
-                    <strong id="fc6"> <span>حمل تطبيقات الجوال </span></strong>
-                    <ul style="display: inline-flex;" class="fSocialMedia pb-3">
-                        <li class="left">
-                            <a title="Mobile App" target="_blank" href="https://www.moh.gov.sa/Support/Pages/MobileApp.aspx "><img alt="Android" style="height: 36px;" src="https://www.moh.gov.sa/_Layouts/15/MOH/Internet/New/images/AppG.svg" /></a>
-                        </li>
-                        <li class="right">
-                            <a href="https://www.moh.gov.sa/Support/Pages/MobileApp.aspx " target="_blank" title="Facebook">
-                                <img alt="Apple" style="height: 36px; padding-left: 32px;" src="https://www.moh.gov.sa/_Layouts/15/MOH/Internet/New/images/AppA.svg" />
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <span class="clr spp"></span>
-        <div class="footer-copyright">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-6 col-md-3 text-center">
-                        <div class="ful">
-                            <a class="" href="/Pages/Sitemap.aspx">خريطة الموقع</a>
-                            <a class="px-3" href="/Ministry/MediaCenter/RSS/Pages/default.aspx">RSS خدمة</a>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-3 text-center">
-                        <div class="ful">
-                            <span>إعداد ومتابعة وزارة الصحة</span>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-3 text-center">
-                        <div class="ful">
-                            <span>© جميع الحقوق محفوظة لوزارة الصحة -2025</span>
-                        </div>
-                    </div>
-					<div class="col-xs-12 col-sm-6 col-md-3 text-center" data-original-font-size="16">
-    <p>
-        <a href="https://jigsaw.w3.org/css-validator/check/referer">
-            <img style="border: 0; width: 88px; height: 31px;" src="https://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!" />
-        </a>
-    </p>
-</div>
-
-                </div>
-            </div>
-        </div>
-    </footer>
-</div>
-</div>
-
-
-
-<!-- -->	             
-            
-     
-       
-            
-          
-			
-	
-    
-    
-        <!-- end -->
-
-        <div id="s4-workspace" class="ms-core-overlay" style="display: none">
-            <div id="s4-bodyContainer">
-                <div id="s4-titlerow"
-                    class="ms-dialogHidden s4-titlerowhidetitle">
-                    <div id="titleAreaBox"
-                        class="ms-noList ms-table ms-core-tableNoSpace">
-                        <div id="titleAreaRow"
-                            class="ms-tableRow">
-                            <div id="siteIcon" class="ms-tableCell ms-verticalAlignTop">
-                                <div id="DeltaSiteLogo">
-	
-                                    <a id="ctl00_onetidProjectPropertyTitleGraphic" title="أدوات الصحة" class="ms-siteicon-a" href="/HealthAwareness/MedicalTools"><img id="ctl00_onetidHeadbnnr2" class="ms-siteicon-img" src="/_layouts/15/images/siteIcon.png?rev=23#ThemeKey=siteicon" alt="أدوات الصحة" /></a>
-                                
-</div>
-                            </div>
-                            <div class="ms-breadcrumb-box ms-tableCell ms-verticalAlignTop">
-                                <div
-                                    class="ms-breadcrumb-top">
-                                    <div class="ms-breadcrumb-dropdownBox" style="display: none;">
-                                        <span id="DeltaBreadcrumbDropdown">
-                                            
-                                        </span>
-                                    </div>
-                                    <div id="DeltaTopNavigation" class="ms-displayInline ms-core-navigation" role="navigation">
-	
-                                        
-                                        
-											<div id="zz3_TopNavigationMenu" class=" noindex ms-core-listMenu-horizontalBox">
-		<ul id="zz4_RootAspMenu" class="root ms-core-listMenu-root static">
-			<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/default.aspx" accesskey="1"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">أدوات الصحة</span></span></a><ul class="static">
-				<li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-core-listMenu-selected ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/VisualAcuityTest.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">اختبار النظر</span><span class="ms-hidden">محدد حالياً</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/BodyMassIndex.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">حساب مؤشر كتلة الجسم</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/IdealBodyWeight.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">حساب الوزن المثالي</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/CalorieCalculate.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">حساب السعرات الحرارية</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/BestTimeToGetPregnant.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">حساب التاريخ المناسب للحمل</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/PregnancyDueDateCalculate.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">حساب الموعد التقريبي للولادة</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/AsthmaCalculator.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">اختبار التحكم بالربو</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/Prediabetes-Risk-Test.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">اختبار خطر الإصابة بمرحلة ما قبل السكري</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/SleepAssessment.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">هل تعاني من مشاكل في النوم؟</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/eating-disorder-test.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">اختبار اضطراب الأكل</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/depressiontest.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">هل تعاني من الاكتئاب؟</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/Anxiety.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">هل تعاني من القلق؟</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/Nomophobia.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">نوموفوبيا</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/PilgrimsHealth.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">قائمة الاستعدادات الصحية للحاج</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/Hydration_Calculator.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">حساب احتياج البالغين للماء</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/HealthAwareness/MedicalTools/Pages/Diabetes-Campaign-Tool.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">أداة تقييم احتمالية الإصابة بمضاعفات السكري</span></span></a></li>
-			</ul></li>
-		</ul>
-	</div>
-                                        
-                                    
-</div>
-                                </div>
-                                <h2 id="pageTitle" class="ms-core-pageTitle">
-                                    
-                                      Page Title
-                                    
-                                </h2>
-
-                                <span id="DeltaPlaceHolderPageTitleInTitleArea">
-                                     
-	
-
-                                </span>
-
-                               <div id="DeltaPlaceHolderPageDescription" class="ms-displayInlineBlock ms-normalWrap">
-	
-                                     <a href="javascript:;" id="ms-pageDescriptionDiv" style="display: none;">
-                                       <span id="ms-pageDescriptionImage">&#160;</span>
-                                     </a>
-                                     <span class="ms-accessible" id="ms-pageDescription">
-                                          
-                                     </span>
-                                <script type="text/javascript">// <![CDATA[ 
-
-
-                                    _spBodyOnLoadFunctionNames.push("setupPageDescriptionCallout");
-                                // ]]>
-</script>
-                               
-</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div id="contentRow">
-                    <div id="sideNavBox"
-                        class="ms-dialogHidden ms-forceWrap ms-noList">
-                    </div>
-
-                    <div id="DeltaFormDigest">
-	
-                        
-							<script type="text/javascript">//<![CDATA[
-        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
-        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
-            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
-        {
-            formDigestElement.value = '0x2D32933ECED95F17D3F3FF101E98F7AECC96217339E61D892ACDC36213E127C9D2967A710794CC2BC08E9EDF5909AB45B6223A18BC1CAB05BFDB8FFD082818E6,03 Jan 2026 11:49:16 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
-        }
-        //]]>
-        </script>
-                        
-                    
-</div>
-                    
-                    
-                    
-
-                    
-					
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                </div>
-            </div>
-        </div>
-    
-
-<script type="text/javascript">
-//<![CDATA[
-var _spFormDigestRefreshInterval = 1440000;function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null); }
-function loadMDN1() { ExecuteOrDelayUntilScriptLoaded(loadMDN2, 'sp.ribbon.js'); }
-_spBodyOnLoadFunctionNames.push('loadMDN1');
-function _spNavigateHierarchyEx(nodeDiv, dataSourceId, dataPath, url, listInContext, type, additionalQString) {
-    CoreInvoke('SetAdditionalNavigateHierarchyQString', additionalQString);
-    g_originalSPNavigateFunc(nodeDiv, dataSourceId, dataPath, url, listInContext, type);
-}
-
-g_originalSPNavigateFunc = _spNavigateHierarchy;
-_spNavigateHierarchy = _spNavigateHierarchyEx;
- IsSPSocialSwitchEnabled = function() { return true; };window.SPThemeUtils && SPThemeUtils.ApplyCurrentTheme(true);var _fV4UI = true;
-function _RegisterWebPartPageCUI()
-{
-    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{4b1f9d7d-df42-4b70-a039-4e4bc00db1d8}",itemId: 32,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fHealthAwareness\u002fMedicalTools\u002fPages",itemPermissions:{High:16,Low:196673}};
-    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
-    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
-    var hid;
-    hid = document.getElementById("_wpSelected");
-    if (hid != null)
-    {
-        var wpid = hid.value;
-        if (wpid.length > 0)
-        {
-            var zc = document.getElementById(wpid);
-            if (zc != null)
-                wpcomp.selectWebPart(zc, false);
-        }
-    }
-    hid = document.getElementById("_wzSelected");
-    if (hid != null)
-    {
-        var wzid = hid.value;
-        if (wzid.length > 0)
-        {
-            wpcomp.selectWebPartZone(null, wzid);
-        }
-    }
-};
-function __RegisterWebPartPageCUI() {
-ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
-_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var slNavUrl = '\u002fHealthAwareness\u002fMedicalTools';_spBodyOnLoadFunctionNames.push('_cUpdonetidProjectPropertyTitleGraphic');function _cUpdonetidProjectPropertyTitleGraphic(){var myd = null; if (typeof(dataonetidProjectPropertyTitleGraphic) != 'undefined') {myd = dataonetidProjectPropertyTitleGraphic;} var myc = document.getElementById('ctl00_onetidProjectPropertyTitleGraphic');_cUpdconetidProjectPropertyTitleGraphic(myd, myc);}function _cUpdconetidProjectPropertyTitleGraphic(data, ctrl){ctrl.href = slNavUrl;}function _cUpdonetidHeadbnnr2(){var myd = null; if (typeof(dataonetidHeadbnnr2) != 'undefined') {myd = dataonetidHeadbnnr2;} var myc = document.getElementById('ctl00_onetidHeadbnnr2');_cUpdconetidHeadbnnr2(myd, myc);}function _cUpdconetidHeadbnnr2(data, ctrl){SiteLogoImagePageUpdate(ctrl, data);}var g_clientIdDeltaPlaceHolderPageTitleInTitleArea = "DeltaPlaceHolderPageTitleInTitleArea";
-var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
-g_QuickLaunchControlIds.push("zz1_V4QuickLaunchMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz1_V4QuickLaunchMenu = null; function init_zz1_V4QuickLaunchMenu() { if (g_zz1_V4QuickLaunchMenu == null) g_zz1_V4QuickLaunchMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz1_V4QuickLaunchMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz1_V4QuickLaunchMenu, 'SP.Core.js');
-g_QuickLaunchControlIds.push("zz3_TopNavigationMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz3_TopNavigationMenu = null; function init_zz3_TopNavigationMenu() { if (g_zz3_TopNavigationMenu == null) g_zz3_TopNavigationMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz3_TopNavigationMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz3_TopNavigationMenu, 'SP.Core.js');
-//]]>
-</script>
-</form>
-    <span id="DeltaPlaceHolderUtilityContent">
-        
-    </span>
-    <script type="text/javascript">// <![CDATA[ 
-
-
-		var g_Workspace = "s4-workspace";
-    // ]]>
-</script>
-    
-    <script src="https://static.moh.gov.sa/assets/js/popper.min.js"></script>
-	<script src="https://static.moh.gov.sa/assets/js/bootstrap.min.js"></script>
-    <script src="https://static.moh.gov.sa/assets/js/jquery.hoverIntent.minified.js"></script>
-    <script src="https://static.moh.gov.sa/assets/js/jquery.slicknav.js"></script>
-    <script src="https://static.moh.gov.sa/assets/js/slick.js"></script>   
-    <script src="https://static.moh.gov.sa/assets/js/tabs.js"></script>
-    <script src="https://static.moh.gov.sa/assets/js/utils.js"></script>
-    <script src="https://static.moh.gov.sa/assets/js/jquery.colorbox-min.js"></script>
-    <script src="https://static.moh.gov.sa/assets/js/jquery.collapsible.js"></script>
-    <script src="https://static.moh.gov.sa/assets/js/jquery.cookie.js"></script>
-    <script src="https://static.moh.gov.sa/assets/js/Jquery.JqueryRating.js"></script>
-    <script src="https://static.moh.gov.sa/assets/js/MedicalEquation.js"></script>
-    <script src="https://static.moh.gov.sa/assets/js/custom.js"></script>
-    <script src="https://static.moh.gov.sa/assets/js/moh_portal_feedback.js"></script>
-	<script src="https://static.moh.gov.sa/assets/js/jquery.idle.min.js"></script>
-    <script src="https://static.moh.gov.sa/assets/js/jquery.idleSignout.min.js"></script>
-    <!-- Google tag (gtag.js) -->
-   <script async src="https://www.googletagmanager.com/gtag/js?id=G-XWJW9Y23ZQ"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-XWJW9Y23ZQ');
-    </script>
-    <script>
-    var getfullurl ;
-    $( document ).ready(function() {
-    getfullurl =  window.location.href;
-	$("#lnkurl").attr("href", "//app-as.readspeaker.com/cgi-bin/rsent?customerid=10452&amp;lang=ar_ar&amp;readid=divPlaceHolderMain&amp;url=" + encodeURI(getfullurl))
-    });
-    </script>
-	<script >
-            var BotName = "مسعف";
-            var botId = 172;
-            var lang = "ar";
-            var lchatId = "61e432df86ae7328dcf5e72f";
-            var animatedIcon= 0;
-            var param=null;           
-
-            (function (w, d, s, o, f, js, fjs) {
-                w['alkawarizmi'] = o; w[o] = w[o] || function () { (w[o].q = w[o].q || []).push(arguments) };
-                js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];
-                js.id = o; js.src = f; js.async = 1; fjs.parentNode.insertBefore(js, fjs);
-            }(window, document, 'script', 'myBbot', 'https://static.moh.gov.sa/alkhwarizmi/plugins/alkhwarizmi.sdk.1.1.2.js'));
-            myBbot('init', { id: botId, lchatId: lchatId, title:BotName ,draggable:true,animatedIcon: animatedIcon,lang:lang,param:param });
-           
-      </script>
-</body>
-</html>
+   HTTP/2 200 date: Sat, 03 Jan 2026 13:57:45 GMT content-type: text/html;
+   charset=utf-8 server: cloudflare report-to:
+   {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
+   loudflare.com/report/v4?s=84EM5IJg9m%2BKxfWixeT%2BXUENL7%2FVMVvs9Q%2BEG
+   lySgc3e%2BA0fAvxGI%2F5ElQHy5C0AMM9y7krhTMnXsuJSf37FVIuBZd7OT7Qo67jZ5Tyq
+   "}]} rk: 33a7367c-5362-4fc0-9269-78d151e77b98 via: 1.1 varnish, 1.1
+   varnish nel:
+   {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} age:
+   1213627 set-cookie: country-code=FR; path=/; set-cookie:
+   UUID_DMS=5489f4ac-be88-44f0-bf2e-f49a71cfe0fb; expires=Sun, 03 Jan 2027
+   13:57:45 GMT; path=/; secure; HttpOnly;Domain=.webteb.com country-code:
+   FR region: IDF x-served-by: cache-lcy-egml8630057-LCY,
+   cache-par-lfpg1960031-PAR x-cache: HIT, HIT x-cache-hits: 266, 0
+   x-timer: S1767448665.097949,VS0,VE1 vary:
+   Accept-Encoding,X-UA-Device,X-UA-Device cf-cache-status: DYNAMIC
+   cf-ray: 9b8301ccdf3a6f0c-CDG alt-svc: h3=":443"; ma=86400 #Webteb ويب
+   طب publisher
+
+   ويب طب
+   معلومة أثق بها
+   ____________________ (BUTTON)
+   دخول تسجيل
+   ويب طب
+   ويب طب معلومة أثق بها
+   ____________________ (BUTTON)
+   Webteb on Instagram
+
+   طب وصحة
+   الصحة والجمال
+   الحمل والولادة
+   الأمراض
+   الأدوية
+   اختبر نفسك
+   فحص المؤشرات الحيوية
+
+   جميع الأقسام
+   [ ]
+   ×
+     *
+   طب وصحة
+          + أجهزة الجسم
+          + صحة الأسنان
+          + القلب
+          + الطب البديل
+          + صحة المرأة
+          + السرطان
+          + صحة العيون
+          + ثقافة جنسية
+          + الصحة النفسية
+          + مشخص الأعراض
+          + السكري
+          + التكنولوجيا الطبية
+          + أخبار الصحة
+     *
+   الحمل والولادة
+          + ﺣﺎﺳﺒﺔ اﻟﺤﻤﻞ واﻟﻮﻻدة
+          + معاني الاسماء
+          + ﺗﺨﻄﻴﻂ اﻟﺤﻤﻞ
+          + اﻟﻮﻻدة
+          + ﻧﻤﻮ وﺗﻄﻮر اﻟﻄﻔﻞ
+          + اﻟﺤﻤﻞ
+          + الاطفال الرضع
+          + رعاية الاطفال
+          + ﻣﺮاﺣﻞ ﻧﻤﻮ اﻟﻄﻔﻞ اﻟﺮﺿﻴﻊ
+
+     *
+   الصحة والجمال
+          + الريجيم وتخفيف الوزن
+          + التغذية السليمة
+          + الرياضة والرشاقة
+          + الحياة الزوجية
+          + العناية بالشعر
+          + العناية بالبشرة والجمال
+          + جودة الحياة
+          + الجيل الذهبي
+          + وصفات صحية
+          + القيم الغذائية
+     *
+   ادوات وميديا
+          + فيديو
+          + عروض مرئية
+          + حاسبات
+          + اختبر نفسك
+          + صح أم خطأ
+          + فحص المؤشرات الحيوية
+
+     *
+   عام
+          + الصفحة الرئيسية
+          + امراض
+          + علاجات
+          + تطعيمات
+          + مصطلحات
+          + سرطان الثدي
+          + رمضان
+          + ادوية
+          + فيتامينات
+          + اسئلة واجوبة
+          + فحوصات
+          + مقالات
+          + تفاعلات الادوية
+
+   ابحث عن طبيب
+
+   لانك الأهم احجزي موعدك مع طبيب النسائية في عيادة ويب طب الإلكترونية
+   (BUTTON) احجز الآن
+   (BUTTON) احجزي الآن
+
+   احجزي موعد في عيادة ويب طب الإلكترونية
+
+   ×
+
+     الرئيسية
+
+     العيون
+
+     فحص النظر على الانترنت
+
+فحص النظر على الإنترنت
+
+   برعاية sponsered by
+   شارك غرد
+   فحص النظر
+
+   قوموا باجراء فحص النظر وكأنكم عند طبيب العيون واكتشفوا هل أنتم بحاجة
+   الى تركيب نظارات لتحسين الرؤية وكأنكم عند طبيب العيون! يسمى هذا
+   الاختبار "فحص النظر بواسطة حرف E" حيث يستخدم رسم حرف E لفحص حدة الرؤية
+   ويشير الجانب المفتوح للحرف E في كل مرة الى جهة مختلفة (أعلى، أسفل،
+   يمينًا، يسارًا). كما يظهر حرف E في أحجام مختلفة أيضًا. عليكم تحديد أي
+   اتجاه يشير ذلك الجانب المفتوح في كل مرة.
+   ابدأ الفحص
+
+   أولاً: عليكم تحديد دقة/وضوح الشاشة (Screen Resolution) وكذلك حجمها.
+   [800x600__]
+   + اضف دقة جديدة للشاشة
+   [15"__]
+   + اضف حجم جديد للشاشة
+   التالي
+     __________________________________________________________________
+
+   حافظوا على مسافة 1 متر بين جبهتكم (مستوى نظركم) والشاشة طوال الوقت. قد
+   تحتاجون الى شخص ما ليساعدكم في الضغط على الاسهم.
+   ابدا
+
+   الان ابدؤوا الاختبار واضغطوا على الاسهم الواضحة على الشاشة وفقاً لما
+   ترون:
+
+   ابدأ من جديد
+
+مواضيع ذات علاقة بـِ : فحص النظر على الإنترنت
+
+   قياس ضغط العين: طريقة إجراء الفحص وتحليل النتائج قياس ضغط العين: طريقة
+   إجراء الفحص وتحليل النتائج
+   قياس ضغط العين: طريقة إجراء الفحص وتحليل النتائج
+   قصر النظر: الأسباب، الأعراض والعلاج قصر النظر: الأسباب، الأعراض والعلاج
+   قصر النظر: الأسباب، الأعراض والعلاج
+   اختبار النظر: طريقة إجراء الفحص وتحليل النتائج اختبار النظر: طريقة
+   إجراء الفحص وتحليل النتائج
+   اختبار النظر: طريقة إجراء الفحص وتحليل النتائج
+   اختبار شيرمر: طريقة إجراء الفحص وتحليل النتائج اختبار شيرمر: طريقة
+   إجراء الفحص وتحليل النتائج
+   اختبار شيرمر: طريقة إجراء الفحص وتحليل النتائج
+   التصوير المقطعي بالتماس البصري: طريقة إجراء الفحص والنتائج التصوير
+   المقطعي بالتماس البصري: طريقة إجراء الفحص والنتائج
+   التصوير المقطعي بالتماس البصري: طريقة إجراء الفحص والنتائج
+   كيف أقيس الضغط بالجوال؟ كيف أقيس الضغط بالجوال؟
+   كيف أقيس الضغط بالجوال؟
+   تنظير قاع العين: طريقة إجراء الفحص وتحليل النتائج تنظير قاع العين:
+   طريقة إجراء الفحص وتحليل النتائج
+   تنظير قاع العين: طريقة إجراء الفحص وتحليل النتائج
+   درجات ضعف النظر بالأرقام درجات ضعف النظر بالأرقام
+   درجات ضعف النظر بالأرقام
+   تصوير القرنية: طريقة إجراء الفحص وتحليل النتائج تصوير القرنية: طريقة
+   إجراء الفحص وتحليل النتائج
+   تصوير القرنية: طريقة إجراء الفحص وتحليل النتائج
+
+الأكثر قراءة
+
+   حاسبة الحمل والولادة حاسبة الحمل والولادة
+   حاسبة الحمل والولادة
+   الجدول الصيني لتوقع جنس المولود الجدول الصيني لتوقع جنس المولود
+   الجدول الصيني لتوقع جنس المولود
+   حاسبة مؤشر كتلة الجسم (BMI) حاسبة مؤشر كتلة الجسم (BMI)
+   حاسبة مؤشر كتلة الجسم (BMI)
+   اكتشف شخصيتك إذا كنت تُعاني من الاكتئاب؟ اكتشف شخصيتك إذا كنت تُعاني من
+   الاكتئاب؟
+   اكتشف شخصيتك إذا كنت تُعاني من الاكتئاب؟
+   مقاومة الأنسولين مقاومة الأنسولين
+   مقاومة الأنسولين
+
+مقالات ذات علاقة بـ : فحص النظر على الإنترنت
+
+     * سرطان العين لدى الأطفال: دليلك الشامل
+     * كي لا يتلف التوتر بشرتك
+     * اهم احداث عام 2014 الصحية: بين اليأس والأمل
+     * علاج الشبكية لمرضى السكري
+     * الصداع الناجم عن التناول المستمر لمسكنات الالم
+     * النظارات الشمسية للأطفال
+     * جراحة رفع الحاجبين: هل هي تجميلية فقط
+
+فحوصات ذات علاقة بـ : فحص النظر على الإنترنت
+
+     * تصوير القرنية
+     * قياس ضغط العين
+     * التصوير المقطعي بالتماس البصري
+     * اختبار شيرمر
+     * اختبار عمى الألوان
+     * اختبار النظر
+     * تنظير قاع العين
+
+أعراض ذات علاقة بـ : فحص النظر على الإنترنت
+
+     * العيون الحمراء عند الأطفال
+     * جفاف العين والفم
+     * إفرازات العين
+     * ألم العين
+     * مشاكل البصر
+
+     * اتصل بنا
+     * أعلن معنا
+     * شروط الاستخدام
+     * عن Webteb
+
+   ويب طب ويب طب
+
+   المواد المنشورة في موقع ويب طب هي بمثابة معلومات فقط ولا يجوز اعتبارها
+   استشارة طبية أو توصية علاجية. يجب استشارة الطبيب في حال لم تختفي
+   الأعراض. - اقرأ المزيد
+   Ucla Content Mayo Clinic Harvard Content
+   alweb logo
+   Powered by
+
+   حقوق الطبع محفوظة - ويب طب م.ض 2025-2011
+
+   facebook pixel
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M6N6LPR

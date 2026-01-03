@@ -1,692 +1,836 @@
-<!DOCTYPE HTML>
-<html xmlns="http://www.w3.org/1999/xhtml" dir="rtl" lang="fa">
-<head>
-    <title>النظر - ویکی فقه</title>
-    <!-- <meta http-equiv="expires" content="" /> -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <link rel="icon" href="https://ar.wikifeqh.ir/assets/icon/favicon.ico" type="image/x-icon" />
-    <link rel="shortcut icon" href="https://ar.wikifeqh.ir/assets/icon/favicon.ico" type="image/x-icon" />
-	
-    <link href="https://ar.wikifeqh.ir/assets/css/main-rtl.css?0410" rel="stylesheet" type="text/css" media="screen" />
-    <link href="https://ar.wikifeqh.ir/assets/css/shared.css" rel="stylesheet" type="text/css" media="screen" />
-    <link href="https://ar.wikifeqh.ir/assets/css/commonPrint.css" rel="stylesheet" type="text/css" media="print" />
-    <link href="https://ar.wikifeqh.ir/assets/css/combined.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://ar.wikifeqh.ir/assets/css/jquery-ui-1.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://ar.wikifeqh.ir/assets/css/index.css" rel="stylesheet" type="text/css" media="handheld" />
-    <link href="https://ar.wikifeqh.ir/assets/css/index_002.css" rel="stylesheet" type="text/css" media="print" />
-    <link href="https://ar.wikifeqh.ir/assets/css/index_003.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://ar.wikifeqh.ir/assets/css/index_004.css?980417" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://ar.wikifeqh.ir/assets/css/index_005.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="https://ar.wikifeqh.ir/assets/css/style.css?35" rel="stylesheet" type="text/css" media="all" />	
-    <link href="https://ar.wikifeqh.ir/assets/css/style_ghalami.css" rel="stylesheet" type="text/css" />
-    <link href="https://ar.wikifeqh.ir/assets/css/form.css?0920" rel="stylesheet" type="text/css" />
-    <script type="text/javascript" src="https://ar.wikifeqh.ir/assets/js/ms-general.js"></script>    <script type="text/javascript" src="https://ar.wikifeqh.ir/assets/js/ajax/ajax.js"></script>    <script type="text/javascript" src="https://ar.wikifeqh.ir/assets/js/jquery-1.8.3.min.js"></script>    <script type="text/javascript" src="https://ar.wikifeqh.ir/assets/js/const.js?990201"></script>
-    <style>
-        .rade_mosbat {
-            display: none;
-        }
-    </style>
-    <style>
-    </style>
-</head>
-
-<body class="rtl" style="direction:rtl">
-
-<div id="mw-page-base" class="noprint"></div>
-
-<div id="mw-head-base" class="noprint"></div>
-
-<!-- content -->
-<div id="content">
-    <a id="top"></a>
-    <!-- sitenotice -->
-    <div id="mw-js-message" style="display: none;"></div>
-    <!-- /sitenotice -->
-
-    <!-- bodyContent -->
-    <div id="bodyContent">
-
-        <!-- bodytext -->
-        <div id="mp-banner" style="margin-bottom: 1em; margin-top: 0.5em;">
-            <table id="mp-topbanner" style="border: 1px solid rgb(204, 204, 204); background:#FFF none repeat scroll 0% 0%; width: 100%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
-                <tbody>
-				<tr><td>
-					<div id="responsive-edit" class="resp-edit">
-						
-<ul>
-	<li><a href="https://ar.wikifeqh.ir/النظر" title="اقرأ"><img src="https://ar.wikifeqh.ir/assets/images/reading.svg" alt="خواندن" title="خواندن" /></a></li>
-	<li class="distance"></li>
-	<li><a href="https://ar.wikifeqh.ir/history/النظر" title="استعراض للتاريخ"><img src="https://ar.wikifeqh.ir/assets/images/history.svg" alt="نمایش تاریخچه" title="نمایش تاریخچه" /></a></li>
-	<li class="distance"></li>
-	<li><a href="https://ar.wikifeqh.ir/edit/النظر" title="تعديل"><img src="https://ar.wikifeqh.ir/assets/images/edit.svg" alt="ویرایش" title="ویرایش" /></a></li>
-</ul>
-					</div>
-				</td></tr>
-                <tr>
-                    <td style="width: 56%; color: rgb(0, 0, 0);" onclick="hideMenue()">
-                        &nbsp;
-                        <table width="100%" style="vertical-align: top; background-color: transparent; color: rgb(0, 0, 0);" id="Table02" width="100%" cellpadding="2" cellspacing="5">
-                            <tbody>
-                            <div style="margin:2px 2px 2px 2px;">
-    <br/>
-
-    <span class="black" style="font-size:20px;"><h1 style="font-weight: bold;font-size: larger;margin-bottom:0 !important;border-bottom:none !important;">النظر</h1></span><span class="Tools-pdf" style="float:left;"><a href="#" disabled="disabled" title="سرویس pdf موقتا در دسترس نمی باشد">احفظ هذه المقالة بتنسيق PDF</a></span><br /><br/><hr /><br/>النّظر في إصطلاح <a href="https://ar.wikifeqh.ir/الفلاسفة" title="الفلاسفة" style="color:blue;" target="_blank" name="_الفلاسفة">الفلاسفة</a> عبارة عن ترتيب أمور <a href="https://ar.wikifeqh.ir/معلومة" title="معلومة (لا يوجد رابط)" style="color:red;" name="_معلومة">معلومة</a> متصوّرة، أو <a href="https://ar.wikifeqh.ir/مصدّق" title="مصدّق (لا يوجد رابط)" style="color:red;" name="_مصدّق">مصدّق</a> بها على وجه يؤدّى إلى <a href="https://ar.wikifeqh.ir/استعلام" title="استعلام (لا يوجد رابط)" style="color:red;" name="_استعلام">استعلام</a> ما ليس بمعلوم، فهو <a href="https://ar.wikifeqh.ir/حركة_النّفس" title="حركة النّفس (لا يوجد رابط)" style="color:red;" name="_حركة_النّفس">حركة النّفس</a> في <a href="https://ar.wikifeqh.ir/المعقولات" title="المعقولات (لا يوجد رابط)" style="color:red;" name="_المعقولات">المعقولات</a> مبتدئة من <a href="https://ar.wikifeqh.ir/المطلوب" title="المطلوب (لا يوجد رابط)" style="color:red;" name="_المطلوب">المطلوب</a> مستعرضة للمعاني <a href="https://ar.wikifeqh.ir/الحاضرة" title="الحاضرة (لا يوجد رابط)" style="color:red;" name="_الحاضرة">الحاضرة</a> عندها طالبة مباديه <a href="https://ar.wikifeqh.ir/المؤدّية" title="المؤدّية (لا يوجد رابط)" style="color:red;" name="_المؤدّية">المؤدّية</a> اليه.<br /><br /><div style="direction:rtl; display:inline-block;"><div class="titlemenu"><center><h3>محتويات</h3></center><a href="#_تعريف النّظر" name="تعريف النّظر" title="تعريف النّظر" >۱ - تعريف النّظر</a><br /><a href="#_المراجع" name="المراجع" title="المراجع" >۲ - المراجع</a><br /><a href="#_المصدر" name="المصدر" title="المصدر" >۳ - المصدر</a><br /></div></div><br /><div><span class="titr"><h3><a href="#تعريف النّظر" name="_تعريف النّظر">۱ - تعريف النّظر</a></h3></span><span class="edit_tpc">[<a href="https://ar.wikifeqh.ir/edit_sub/النظر/تعريف_النّظر" title="تعديل">تعديل</a>]</span></div><hr class="titr-line">فعل <a href="https://ar.wikifeqh.ir/البصر" title="البصر (لا يوجد رابط)" style="color:red;" name="_البصر">البصر</a> يسمّى نظرا.<div class="tooltip"><a href="#foot1" name="foot-main1"> <sup>[۱]</sup></a>
-  <span class="tooltiptext">ابن سينا، ابوعلي، في النّفس، ص۶۵.</span>
-</div> ترتيب أمور <a href="https://ar.wikifeqh.ir/معلومة" title="معلومة (لا يوجد رابط)" style="color:red;" name="_معلومة">معلومة</a> متصوّرة، أو مصدّق بها على وجه يؤدّى إلى استعلام ما ليس بمعلوم.<div class="tooltip"><a href="#foot2" name="foot-main2"> <sup>[۲]</sup></a>
-  <span class="tooltiptext">الاصفهاني شمس الدين، مطالع الأنظار، ص۷، ۱۰.</span>
-</div> و <a href="https://ar.wikifeqh.ir/الفكر" title="الفكر" style="color:blue;" target="_blank" name="_الفكر">الفكر</a> بهذا <a href="https://ar.wikifeqh.ir/المعنى" title="المعنى" style="color:blue;" target="_blank" name="_المعنى">المعنى</a> (حركة <a href="https://ar.wikifeqh.ir/النّفس" title="النّفس" style="color:blue;" target="_blank" name="_النّفس">النّفس</a> في <a href="https://ar.wikifeqh.ir/المعقولات" title="المعقولات (لا يوجد رابط)" style="color:red;" name="_المعقولات">المعقولات</a> مبتدئة من <a href="https://ar.wikifeqh.ir/المطلوب" title="المطلوب (لا يوجد رابط)" style="color:red;" name="_المطلوب">المطلوب</a> مستعرضة للمعاني <a href="https://ar.wikifeqh.ir/الحاضرة" title="الحاضرة (لا يوجد رابط)" style="color:red;" name="_الحاضرة">الحاضرة</a> عندها طالبة مباديه المؤدّية اليه) هو الّذي يترتّب عليه <a href="https://ar.wikifeqh.ir/العلوم_الكسبيّة" title="العلوم الكسبيّة (لا يوجد رابط)" style="color:red;" name="_العلوم_الكسبيّة">العلوم الكسبيّة</a>، و ملاحظة <a href="https://ar.wikifeqh.ir/المعاني_الحاضرة" title="المعاني الحاضرة (لا يوجد رابط)" style="color:red;" name="_المعاني_الحاضرة">المعاني الحاضرة</a> عند الاستعراض على الوجه المذكور. و يسمّى أيضا نظرا.<div class="tooltip"><a href="#foot3" name="foot-main3"> <sup>[۳]</sup></a>
-  <span class="tooltiptext">الإصفهاني شمس الدين، مطالع الأنظار، ص۱۰.</span>
-</div> <a href="https://ar.wikifeqh.ir/اكتساب" title="اكتساب (لا يوجد رابط)" style="color:red;" name="_اكتساب">اكتساب</a> <a href="https://ar.wikifeqh.ir/المجهول" title="المجهول (لا يوجد رابط)" style="color:red;" name="_المجهول">المجهول</a> بالمعلومات <a href="https://ar.wikifeqh.ir/السّابقة" title="السّابقة (لا يوجد رابط)" style="color:red;" name="_السّابقة">السّابقة</a> على ذلك <a href="https://ar.wikifeqh.ir/المجهول" title="المجهول (لا يوجد رابط)" style="color:red;" name="_المجهول">المجهول</a>. ترتيب أمور معلومة أو <a href="https://ar.wikifeqh.ir/مظنونة" title="مظنونة (لا يوجد رابط)" style="color:red;" name="_مظنونة">مظنونة</a> للتأدّي إلى أمر آخر.<div class="tooltip"><a href="#foot4" name="foot-main4"> <sup>[۴]</sup></a>
-  <span class="tooltiptext"><a href="lib.eshia.ir/71427/1/196/النظر" title="الايجي، السيد مير، شرح المواقف، ج1، ص196." name="outlink" target="_blank">الايجي، السيد مير، شرح المواقف، ج۱، ص۱۹۶.</a><span class="outlink">&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
-</div> هو ملاحظة <a href="https://ar.wikifeqh.ir/العقل" title="العقل" style="color:blue;" target="_blank" name="_العقل">العقل</a> ما هو حاصل عنده لتحصيل غيره.<div class="tooltip"><a href="#foot5" name="foot-main5"> <sup>[۵]</sup></a>
-  <span class="tooltiptext"><a href="lib.eshia.ir/71427/1/200/التصديقات" title="الايجي، السيد مير، شرح المواقف، ج1، ص200." name="outlink" target="_blank">الايجي، السيد مير، شرح المواقف، ج۱، ص۲۰۰.</a><span class="outlink">&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
-</div> هو تحديق <a href="https://ar.wikifeqh.ir/العقل" title="العقل" style="color:blue;" target="_blank" name="_العقل">العقل</a> نحو <a href="https://ar.wikifeqh.ir/المعقول" title="المعقول" style="color:blue;" target="_blank" name="_المعقول">المعقول</a>.<div class="tooltip"><a href="#foot6" name="foot-main6"> <sup>[۶]</sup></a>
-  <span class="tooltiptext">الخوانساري، حسين، حاشية المحاكمات، ص۳.</span>
-</div> <br /><br /><div><span class="titr"><h3><a href="#المراجع" name="_المراجع">۲ - المراجع</a></h3></span><span class="edit_tpc">[<a href="https://ar.wikifeqh.ir/edit_sub/النظر/المراجع" title="تعديل">تعديل</a>]</span></div><hr class="titr-line"><div class="footnotes"><span class=alphaTd>۱.</span><span class=alphaTd><a href="#foot-main1" name="foot1"> ↑ </a> ابن سينا، ابوعلي، في النّفس، ص۶۵.</span><br><span class=alphaTd>۲.</span><span class=alphaTd><a href="#foot-main2" name="foot2"> ↑ </a> الاصفهاني شمس الدين، مطالع الأنظار، ص۷، ۱۰.</span><br><span class=alphaTd>۳.</span><span class=alphaTd><a href="#foot-main3" name="foot3"> ↑ </a> الإصفهاني شمس الدين، مطالع الأنظار، ص۱۰.</span><br><span class=alphaTd>۴.</span><span class=alphaTd><a href="#foot-main4" name="foot4"> ↑ </a> <a href="lib.eshia.ir/71427/1/196/النظر" title="الايجي، السيد مير، شرح المواقف، ج1، ص196." name="outlink" target="_blank">الايجي، السيد مير، شرح المواقف، ج۱، ص۱۹۶.</a><span class="outlink">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><br><span class=alphaTd>۵.</span><span class=alphaTd><a href="#foot-main5" name="foot5"> ↑ </a> <a href="lib.eshia.ir/71427/1/200/التصديقات" title="الايجي، السيد مير، شرح المواقف، ج1، ص200." name="outlink" target="_blank">الايجي، السيد مير، شرح المواقف، ج۱، ص۲۰۰.</a><span class="outlink">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><br><span class=alphaTd>۶.</span><span class=alphaTd><a href="#foot-main6" name="foot6"> ↑ </a> الخوانساري، حسين، حاشية المحاكمات، ص۳.</span><br></div><br /><br /><div><span class="titr"><h3><a href="#المصدر" name="_المصدر">۳ - المصدر</a></h3></span><span class="edit_tpc">[<a href="https://ar.wikifeqh.ir/edit_sub/النظر/المصدر" title="تعديل">تعديل</a>]</span></div><hr class="titr-line"><a href="http://lib.eshia.ir/73066/1/405" title="مجمع البحوث الإسلامیة، شرح المصطلحات الفلسفیة، المأخوذ من عنوان «النّظر» ج1، ص405." name="outlink" target="_blank">مجمع البحوث الإسلامیة، شرح المصطلحات الفلسفیة، المأخوذ من عنوان «النّظر» ج۱، ص۴۰۵.</a><span class="outlink">&nbsp;&nbsp;&nbsp;&nbsp;</span><br />   <br /><br /><div class="rade">الفئات في هذه الصفحة : <a href="https://ar.wikifeqh.ir/تصنيف:المصطلحات_الفلسفيّة" title="تصنيف:المصطلحات الفلسفيّة" style="color:blue;" target="_blank" name="_تصنيف:المصطلحات_الفلسفيّة">المصطلحات الفلسفيّة</a> | <a href="https://ar.wikifeqh.ir/تصنيف:أقسام_العرض" title="تصنيف:أقسام العرض" style="color:blue;" target="_blank" name="_تصنيف:أقسام_العرض">أقسام العرض</a> | <a href="https://ar.wikifeqh.ir/تصنيف:أقسام_المقولة" title="تصنيف:أقسام المقولة" style="color:blue;" target="_blank" name="_تصنيف:أقسام_المقولة">أقسام المقولة</a> | <a href="https://ar.wikifeqh.ir/تصنيف:أقسام_الوجود" title="تصنيف:أقسام الوجود" style="color:blue;" target="_blank" name="_تصنيف:أقسام_الوجود">أقسام الوجود</a></div>  <ul id="quick-menue" class="tools">
-	<li ><button class="trans1" id="search1">ترجمة</button></li>
-	<li ><button class="trans1" id="search2">التعريب</button></li>
-	<li id="quick-search"><button class="trans1" id="search4">بحث سريع</button></li>
-  </ul>
-    <br/><br/><br/><br/>
-</div>                            </tbody>
-                        </table>
-                    </td>
-                </tr>
-                </tbody>
-            </table>
-        </div>
-        <!-- /bodytext -->
-
-        <!-- catlinks -->
-        <div class="catlinks catlinks-allhidden" id="catlinks"></div>
-        <!-- /catlinks -->
-
-        <div class="visualClear"></div>
-
-    </div>
-
-    <!-- /bodyContent -->
-</div>
-
-<!-- /content -->
-
-<!-- header -->
-<div id="mw-head" class="noprint">
-    <!--Naderi-->
-    <div id="responsiveMenu" class="respMenu"  onclick="responsiveMenu()">
-        <img src="https://ar.wikifeqh.ir/assets/images/respMenu.png" alt="جعبه ابزار" title="جعبه ابزار" />    </div>
-    <div id="responsiveMenuBar">
-        <div class="portal first persistent" id="p-navigation">
-            <div class="body">
-                <ul>
-                    <li ><a href="https://ar.wikifeqh.ir/insert" title="اكتب مقالا"><span>اكتب مقالا</span></a></li>
-					<li ><a href="https://ar.wikifeqh.ir/about_us" title="عن ويكي فقه"><span>عن ويكي فقه</span></a></li>
-					<li ><a href="https://ar.wikifeqh.ir/index" title="الصفحة الرئيسية"><span>الصفحة الرئيسية</span></a></li>
-					<li><div   id="link-sharing-li-res" onclick="sharing('-res')">يشارك</div>
-						<ul id="link-sharing-ul-res">
-												<li><a href="https://eitaa.com/share/url?url=https://ar.wikifeqh.ir/النظر" title="اشتراک گذاری در تلگرام" target="_blank" rel="noopener noreferrer">ایتا</a></li>
-						<li><a href="https://telegram.me/share/url?url=https://ar.wikifeqh.ir/النظر" title="اشتراک گذاری در تلگرام" target="_blank" rel="noopener noreferrer">تلگرام</a></li>
-						<li><a href="https://api.whatsapp.com/send?text=https://ar.wikifeqh.ir/النظر" title="اشتراک گذاری در واتساپ" target="_blank" rel="noopener noreferrer"  data-action="share/whatsapp/share"
-					>واتساپ</a></li>
-					</ul>
-				</li>
-                </ul>
-                
-<ul>
-	<li><a href="https://ar.wikifeqh.ir/last" title="أحدَث المقالات المضافة"><span >أحدَث المقالات المضافة</span></a></li>
-	<li id="ca-talk"><a href="https://ar.wikifeqh.ir/talk/النظر" title="بحث"><span style="color: red;">بحث</span></a></li>
-	<li class="selected"><a href="https://ar.wikifeqh.ir/النظر" title="مقاله"><span>مقاله</span></a></li>
-</ul>
-
-
-                <hr align="right" width="90%" />
-                <ul>
-                    <li><a title="دروس مدرسة الفقاهة" href=" http://www.eShia.ir" target="_blank">مدرسه الفقاهه</a></li>
-                    <li><a title="المكتبة لمدرسة الفقاهة" href="http://lib.eShia.ir" target="_blank">المكتبة لمدرسة الفقاهة</a></li>
-                    <li><a title="ویکی پرسش" href="http://wikiporsesh.ir" target="_blank">ویکی پرسش</a></li>
-                </ul>
-            </div>
-        </div>
-        <!-- /navigation -->
-
-        <!-- TOOLBOX -->
-        <div class="portal" id="p-tb">
-            <div id="majid_panel_break"></div>
-
-            <h5 id="nav">الأدوات</h5>
-
-            <div style="display: block;" class="body">
-                <ul>
-                    <li><a href="https://ar.wikifeqh.ir/random" title="مقالة عشوائية">مقالة عشوائية</a></li>
-                    <li><a href="https://ar.wikifeqh.ir/alphalist" title="فهرس أبجدي">فهرس أبجدي</a></li>
-                    
-                    <li><a href="https://ar.wikifeqh.ir/راهنمای_ویکی‌فقه" title="دليل ويكي فقه">دليل ويكي فقه</a></li>
-                    <li><a href="https://ar.wikifeqh.ir/help" title="دليل مصور">دليل مصور</a></li>
-                </ul>
-            </div>
-        </div>
-        
-    </div>
-    <!-- /TOOLBOX -->
-    <!--Naderi-->
-    <!-- 0 -->
-    <div id="p-personal" class="">
-        <ul>
-            <li id="pt-login">
-                                    
-<a href="https://ar.wikifeqh.ir/auth/login" title="ادخل / أنشئ حسابا">ادخل / أنشئ حسابا</a>                            </li>
-
-            <li>
-                <a href="http://wikifeqh.ir/" title="فارسی" accesskey="e">فارسی</a>  | <a href="http://ur.wikifeqh.ir/" title="اردو" accesskey="e">اردو</a> | <a href="http://tr.wikifeqh.ir/" title="Türkçe" accesskey="e">Türkçe</a>
-            </li>
-        </ul>
-    </div>
-    <!-- /0 -->
-
-    <div id="left-navigation">
-        <!-- 1 -->
-        <div id="p-namespaces" class="vectorTabs" >
-            <ul>
-                                <div id="p-views" class="vectorTabs">
-	<ul>
-		<li><a href="https://ar.wikifeqh.ir/last" title="أحدَث المقالات المضافة"><span >أحدَث المقالات المضافة</span></a></li>
-		<li id="ca-talk"><a href="https://ar.wikifeqh.ir/talk/النظر" title="بحث"><span style="color: red;">بحث</span></a></li>
-		<li class="selected"><a href="https://ar.wikifeqh.ir/النظر" title="مقاله"><span>مقاله</span></a></li>
-	</ul>
-</div>
-            </ul>
-        </div>
-        <!-- /1 -->
-    </div>
-
-    <!-- SEARCH -->
-    <div id="right-navigation">
-        <div id="p-search">
-
-            <form action="https://ar.wikifeqh.ir/النظر" method="post" accept-charset="utf-8" name="searchform" id="searchform">            <div>
-                <div class="advanced-search"><a href="/search/advanced">پیشرفته</a>‌</div>
-                <input type="text" name="key" value="إبحث..." id="search_box" size="30" autocomplete="off" style="height:20px; font-size:14px; vertical-align:middle; font-family:Tahoma;" onfocus="if (this.value == 'إبحث...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'إبحث...';} a=setTimeout('hide_id(\'search_drop\')','500')"  />
-                <br />
-
-                <div id="search_drop" style="background-color:#FFFFFF; border-width:1px; border-color:#999999; border-style:inset; direction:rtl; position:absolute; display:none; font-family:Tahoma; font-size:14px; padding:2px;z-index:2000" >
-                    &nbsp;
-                </div>
-
-                <script type="text/javascript" src="https://ar.wikifeqh.ir/assets/js/ajax/search.js?9905090754"></script>
-            </div>
-            </form>
-        </div>
-        <div id="p-views" class="vectorTabs">
-
-	<ul>
-			<li id="ca-history"><a href="https://ar.wikifeqh.ir/history/النظر" title="استعراض للتاريخ"><span>استعراض للتاريخ</span></a></li>
-		<li id="ca-viewsource"><a href="https://ar.wikifeqh.ir/edit/النظر" title="تعديل"><span>تعديل</span></a></li>
-		<li id="ca-view" class="selected"><a href="https://ar.wikifeqh.ir/النظر" title="اقرأ"><span>اقرأ</span></a></li>
-	</ul>
-
-</div>
-    </div>
-    <!-- /SEARCH -->
-</div>
-<!-- /header -->
-
-<!-- panel -->
-<style>
-    #left_part {
-		background-color: #ecf0f0 !important;
-        box-shadow: 0 0 3px rgba(0, 0, 0, 0.4);
-        width: 290px;
-        background-color: #f8f9fa;
-        border: #ccc solid 1px;
-        border-radius: 5px;
-        padding-bottom: 30px;
-        float: left;
-        direction: rtl;
-        /*text-align: center;*/
-        margin: 40px 20px 20px;
-        font-size: 11px;
-        position: relative;
-        padding-right: 10px;
-    }
-
-    #left_part img {
-        width: 250px !important;
-		text-align: center;
-		margin-right: 2% !important;
-		margin-top: 0px !important;
-		margin-bottom: 0px !important;
-    }
-
-    #left_part h4 {
-        margin-top: 20px;
-        margin-bottom: -30px;
-		text-align: center;
-    }
-	#left_part h6 {
-		text-align: center;
-    }
-
-    #left_part .header {
-		text-align: center;
-		background: #B0CDE3;
-		margin-top: 5px;
-		border-radius: 5px;
-
-    }
-
-	.comment_information{
-		text-align: center;
-		font-size: 13px;
-	}
-	.img_information_title{
-		text-align: center;
-		font-size: 13px;
-		margin-top: 1px;
-	}
-    .title_information {
-		font-weight: bolder;
-		vertical-align: top;
-		font-size: 13px;
-		background-color: #bfd5d5;
-		padding-right: 5px;
-		text-align: left;
-		width: 33%;
-    }
-	.text_information{
-		font-size: 14px;
-        width: 67%; 
-		padding-right: 5px;
-	}
-	.div_information{
-		border: 1px solid darkgray;
-		margin-top: 1px;
-
-	}
-	.general_title {
-		text-align: center;
-		font-weight: bolder;
-		font-size: 13px;
-	}
-    .hover_me {
-        cursor: pointer;
-        color: #00b300;
-    }
-
-    /*
-    این کد سی اس اس مربوط به جعبه ناوبری است
-    .navbox {
-        box-sizing: border-box;
-        border: 1px solid #a2a9b1;
-        width: 100%;
-        margin: auto;
-        clear: both;
-        font-size: 88%;
-        text-align: center;
-        padding: 1px;
-    }
-    .navbox h4{
-        float: right;
-
-        width: 100%;
-    }
-    .navbox table{
-        width: 100%;
-    }
-    .navbox th{
-       position: relative;
-
-        width: 100%;
-    }
-    .navbox tr{
-        text-align: center;
-
-        width: 100%;
-    }
-    .collapseButton {
-        font-weight: normal;
-
-        margin-right: 0.5em;
-
-        text-align: left;
-
-        width: auto;
-
-        position: absolute;
-
-        top: 0;
-
-        left: 20px;
-    }
-    tr.hidden{
-        display:none;
-    }
-    tr.hidden td{
-        cursor: pointer;
-    }
-    .collapse{
-        cursor: pointer;
-    }
-        پایان کد مربوط به جعبه ناوبری
-     */
-    /* این استایل مربوط به جعبه نامرئی است که زیر رده ها را نشان می دهد
-     این جعبه در زمانی که روی نقطه + کلیک می شود نمایان می شود*/
-    .hidden_box {
-        display: none;
-        margin-right: 20px;
-        /* border: 1px solid blue;  */
-    }
-
-        .target {
-        /*  display: none; */
-    }
-
-        .amar_rade {
-        border-bottom: 1px solid black;
-        font-weight: bolder;
-        padding-left: 50px;
-        text-align: left;
-        width: 25%;
-        float: left;
-    }
-    .amar_line{
-        display: inline-block !important;
-        width: 50px;
-        height: 20px;
-    }
-</style>
-<script>
-    // این اسکریپت آمار های رده ها و مقالات را بر حسب کلاس آن ها می شمارد
-    // دقت شود که این کلاس ها فقط باید داخل رده اصلی والد باشید نه زیر رده هایی که بعد ها تولید می شوند
-    // در صورت نبود هیچ زیر رده برچسب آمار آن حذف می شود
-    // در صورتی که مقالات و رده ها با هم وجود داشته باشند رده ها به سمت چپ شیفت داده می شوند.
-    // در صورت وجود مقالات و رده ها با هم جدول در برگیردنده ی مقالات عرض کمتری به خود می گیرد
-    var father = $('.alphaTd').parent().parent().parent();
-    var margin_top = 0;
-    if ($('.alphaTd > .target').length > 0) {
-        $('.amar_rade').html('تعداد زیررده های این رده : ' +'<span id="zirrade_target"><b>'+ $('.alphaTd > .target').length+'</b></span>');
-
-    } else {
-        $('.amar_rade').remove();
-
-    }
-    if ($('.alphaTd > .article').length > 0) {
-        $('.alphaTd > .target').each(function () {
-            $(this).css('position', 'absolute');
-            $(this).css('top', '300px');
-            $(this).css('right', '70%');
-            $(this).css('margin-top', margin_top + 'px');
-            $(this).css('border-right', '1px solid brown');
-            $(this).css('padding-right', '20px');
-            margin_top += 30;
-        });
-        $('.amar_article').text('تعداد مقالات این رده : ' + $('.alphaTd > .article').length)
-        if ($('.alphaTd > .target').length > 0)
-            father.css('width', '80%');
-
-    } else {
-        $('.amar_rade').css('float', 'right');
-    }
-
-
-    // Script code addedd by sadeq Khan
-    // این تابع در رویداد کلیک هر + مربوط به هر رده اجرا می شود
-    // این تابع یک div که دو المان بعد از خود قرار دارد را فعال می کند و لینک مربوط به رده مقابل خود را
-    // درون آن می ریزد این مقادیر داخل یک div هست که شناسه Target  دارد به این ترتیب ما فقط آن قسمت از صفحه که می خواهیم را نشان می دهیم
-
-    var all_target;
-
-    function remove_mosbat() {
-
-
-        all_target.each(function () {
-            var param = $(this).find('li>a').text();
-
-
-            $(this).find('.hidden_box').load(URL + encodeURIComponent(param) + ' #target');
-
-        });
-
-
-       // all_target = $('.target');
-        setTimeout(function () {
-            all_target.each(function () {
-                if ($(this).find('.hidden_box').html() === '') {
-                    $(this).find('.hover_me').remove();
-                    // alert('ok1');
-                    //alert($(this).find('.hidden_box').html());
-                }
-            });
-            //all_target.fadeIn();
-        }, 1000);
-
-
-    }
-
-    // این وفقه برای زیبایی کار است در اینجا تا زمانی که رده ها اصلاح شوند مخفی می مانند
-    
-    setTimeout(function () {
-        all_target = $('.target');
-
-        remove_mosbat();
-    },500);
-
-
-    
-    var key = false;
-    // این تابع زمانی که روی علامت سبز رنگ کلیک می شود عمل می کند
-    //
-    function func(obj) {
-        var item = $(obj);
-        item.next().next().toggle();
-        if (item.html() == '<strong>▼</strong>') {
-            key = true;
-        } else {
-            key = false;
-        }
-        if (!key) {
-            item.html('<strong>▼</strong>');
-            key = true;
-            item.css('margin-right', '15px');
-            item.css('color', '#004a00');
-        } else {
-            key = false;
-            item.html('<strong>◄</strong>');
-            item.css('margin-right', '0');
-        }
-        var param = item.next().find('a').text();
-
-        //alert(param);
-
-
-        //item.next().next().load('http://wikifeqh.ir/' + encodeURIComponent(param) + ' #target');
-        // این وقفه سبب می شود تا زمانی که اطلاعات لازمه بارگذاری نشده کاری انجام نشود
-        // سپس مجدد زیر رده ها بررسی شده و علامت های سبز اضافی حذف می شوند.
-        setTimeout(function () {
-             all_target = item.next().next().find('.target');
-             remove_mosbat();
-          }, 1000);
-
-
-    }
-
-    // End of Script Code...
-
-    /*
-    $('.collapse').click(function(){
-            //alert('ok');
-            $('.hidden').toggle();
-    });
-    $('tr.hidden td').click(function(){
-            alert('ok');
-
-    });
-    */
-</script>
-<div id="mw-panel" class="noprint collapsible-nav" style=" border-width:thick; border-color:#FF0000;">
-
-    <!-- logo -->
-
-    <div id="p-logo">
-        <a href="https://ar.wikifeqh.ir/" title="الصفحة الرئيسية" style="background-image: url(https://ar.wikifeqh.ir/assets/images/logo.jpg);"> </a>    </div>
-
-    <!-- /logo -->
-
-
-
-    <!-- navigation -->
-    <div class="portal first persistent" id="p-navigation">
-        <div class="body">
-            <ul>
-
-                <li><a href="https://ar.wikifeqh.ir/" title="الصفحة الرئيسية">الصفحة الرئيسية</a></li>
-                <li><a href="https://ar.wikifeqh.ir/insert" title="اكتب مقالا">اكتب مقالا</a></li>
-                <li><a href="https://ar.wikifeqh.ir/last" title="أحدَث المقالات المضافة">أحدَث المقالات المضافة</a></li>
-            	<li><div   id="link-sharing-li" onclick="sharing('')">يشارك</div>
-				<ul id="link-sharing-ul">
-								<li><a href="https://eitaa.com/share/url?url=https://ar.wikifeqh.ir/النظر" title="اشتراک گذاری در تلگرام" target="_blank" rel="noopener noreferrer">ایتا</a></li>
-				<li><a href="https://telegram.me/share/url?url=https://ar.wikifeqh.ir/النظر" title="اشتراک گذاری در تلگرام" target="_blank" rel="noopener noreferrer">تلگرام</a></li>
-				<li><a href="https://api.whatsapp.com/send?text=https://ar.wikifeqh.ir/النظر" title="اشتراک گذاری در واتساپ" target="_blank" rel="noopener noreferrer"  data-action="share/whatsapp/share"
-				>واتساپ</a></li>
-				</ul>
-				</li>
-            </ul>
-            <hr align="right" width="90%" />
-            <ul>
-                <li><a title="دروس مدرسة الفقاهة" href=" http://www.eShia.ir" target="_blank">مدرسه الفقاهه</a></li>
-                <li><a title="المكتبة لمدرسة الفقاهة" href="http://lib.eShia.ir" target="_blank">المكتبة لمدرسة الفقاهة</a></li>
-                <li><a title="ویکی پرسش" href="http://wikiporsesh.ir" target="_blank">ویکی پرسش</a></li>
-            </ul>
-        </div>
-
-    </div>
-    <!-- /navigation -->
-
-
-
-    <!-- TOOLBOX -->
-    <div class="portal" id="p-tb">
-        <div id="majid_panel_break"></div>
-
-        <h5 id="nav">الأدوات</h5>
-
-        <div style="display: block;" class="body">
-            <ul>
-                <li><a href="https://ar.wikifeqh.ir/random" title="مقالة عشوائية">مقالة عشوائية</a></li>
-                <li><a href="https://ar.wikifeqh.ir/alphalist" title="فهرس أبجدي">فهرس أبجدي</a></li>
-
-                
-                <li><a href="https://ar.wikifeqh.ir/راهنمای_ویکی‌فقه" title="دليل ويكي فقه">دليل ويكي فقه</a></li>
-                <li><a href="https://ar.wikifeqh.ir/help" title="دليل مصور">دليل مصور</a></li>
-            </ul>
-        </div>
-    </div>
-
-    </div>
-<!-- /TOOLBOX -->
-
-<!-- /panel -->
-
-<!-- footer -->
-<div id="footer">
-    <br />
-    <ul id="footer-info">
-        <li id="footer-info-lastmod">
-            سياسة الخصوصية وشروط الاستخدام : تسعى ويكي فقه لمطارحة الافكار والآراء للفقهاء وذوي الخبرات الحوزوية على اساس الاحترام لاصحاب الفكر والمقال . ومن سياساتها ايضا اتقان المقالات على اسس علمية ومستندة يتم مراعاتها من قبل الكتاب. تتم اضافة المقالات من قبل طلاب الحوزات العلمية في النجف الاشرف ومشهد وقم المقدستين وباقي الحوزات العلمية مع مراعات البنود المذكورة.
-        </li>
-        <li id="footer-info-copyright"></li>
-    </ul>
-
-    <ul id="footer-icons" class="noprint">
-        <li id="footer-icon-poweredby">
-
-            <a href="http://www.baharsound.ir" title="صدای بهار" target="_blank" >
-                <img src="https://ar.wikifeqh.ir/assets/images/bahar-sound.jpg" alt="صدای بهار" title="صدای بهار" />            </a>
-        </li>
-
-    </ul>
-
-    <div style="clear: both;"></div>
-</div>
-<!-- /footer -->
-
-<script type="text/javascript">
-function fixedEncodeURIComponent(str)
-{
-	return encodeURIComponent(str).replace(/[!'()]/g, escape).replace(/\*/g, "%2A");
-}
-
-function do_search(query)
-{
-	query = query.replace(/^\s+|\s+$/g, '');
-	
-	if (query && query != "جستجو...")
-	{
-		query = query.replace(/ +/g, '_').replace(/['\0\\]+/g, '');
-		window.location.assign('/search/' + '?' + '&q=' + fixedEncodeURIComponent(query));
-	}
-	
-	return false;
-}
-</script>
-
-
-<!--ResponsiveMenu-->
-<script type="text/javascript">
-    function responsiveMenu() {
-        var x = document.getElementById("responsiveMenuBar");
-        if (x.style.display === "none" || x.style.display == "") {
-            x.style.display = "block";
-        } else {
-            x.style.display = "none";
-        }
-    }
-	function responsiveRightMenu() {
-		var x = document.getElementById("dropdown-content-id");
-		if (x.style.display === "none" || x.style.display == "") {
-			x.style.display = "block";
-		} else {
-			x.style.display = "none";
-		}
-    }
-	function sharing(par) {
-		
-		var x = document.getElementById("link-sharing-ul"+par);
-		if (x.style.display === "none" || x.style.display == "") {
-			x.style.display = "block";
-		} else {
-			x.style.display = "none";
-		}
-    }
-</script>
-<!--EndResponsiveMenu-->
-<!--LazyImageLoading-->
-<script type="text/javascript">
-    function init() {
-        var imgDefer = document.getElementsByTagName('img');
-        for (var i=0; i<imgDefer.length; i++) {
-            if(imgDefer[i].getAttribute('data-src')) {
-                imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
-            } } }
-    window.onload = init;
-</script>
-<!--EndLazyImageLoading-->
-<script>
-    // این کد برای نمایش سایر عناوین مشابه هست و ربطی به درج و ویرایش مطلب ندارد
-    // این کد تمامی li ها را از نو اصلاح می کند و مجدد به لینک تبدیل می نماید
-    var target = $('#zirrade_body').parent().parent().find('li');
-    target.each(function () {
-        // تصیحی و ساخت لینک ها
-        $(this).find('strong').remove();
-        $(this).find('div').remove();
-        var text = $(this).find('span').text();
-        $(this).find('span').remove();
-        $(this).html('<a href="' + text + '">' + text + '</a>');
-    });
-
-
-</script>
-<script type="text/javascript" src="https://ar.wikifeqh.ir/assets/js/shortkey.js?1"></script></body>
-</html>
+   HTTP/2 200 date: Sat, 03 Jan 2026 13:57:57 GMT content-type: text/html;
+   charset=UTF-8 set-cookie: PHPSESSID=05925a6de0876bdcf65ba69b901c7eef;
+   path=/; secure; HttpOnly expires: Thu, 19 Nov 1981 08:52:00 GMT
+   cache-control: no-store, no-cache, must-revalidate pragma: no-cache
+   x-ua-compatible: IE=edge link: /www.arrabita.ma/wp-json/>;
+   rel="https://api.w.org/" link:
+   /www.arrabita.ma/wp-json/wp/v2/posts/54975>; rel="alternate";
+   title="JSON"; type="application/json" link: /www.arrabita.ma/?p=54975>;
+   rel=shortlink access-control-allow-origin: * report-to:
+   {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
+   loudflare.com/report/v4?s=JwMe5d86jvix1oWu1YUnVa3gZi3fx356eyO3TJuCPFfwA
+   9ueC%2BQsnkV4S3nIn7huLC6avSTf2Sz55266bktAEtgiwzAO5kJTifca3tNO3Q%3D%3D"}
+   ]} vary: Accept-Encoding,User-Agent,User-Agent server: cloudflare
+   alt-svc: h3=":443"; ma=86400 x-turbo-charged-by: LiteSpeed
+   cf-cache-status: DYNAMIC nel:
+   {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} cf-ray:
+   9b830214e91088fd-CDG #بوابة الرابطة المحمدية للعلماء « الخلاصة بوابة
+   الرابطة المحمدية للعلماء « خلاصة التعليقات JSON oEmbed (JSON) oEmbed
+   (XML)
+
+   السبت, 3 يناير 2026
+     * المراكز والوحدات
+          + مركز الدراسات والأبحاث وإحياء التراث
+          + مركز الدراسات القرآنية
+          + مركز دراس بن إسماعيل لتقريب المذهب والعقيدة والسلوك
+          + مركز ابن أبي الربيع السبتي للدراسات اللغوية والأدبية
+          + مركز الإمام أبي عمرو الداني للدراسات والبحوث القرائية المتخصصة
+          + مركز ابن القطان للدراسات والأبحاث في الحديث الشريف والسيرة
+            العطرة
+          + مركز الأبحاث والدراسات في القيم
+          + مركز الدراسات والبحوث في القضايا النسائية في الإسلام
+          + مركز ابن البنا المراكشي للبحوث والدراسات في تاريخ العلوم في
+            الحضارة الإسلامية
+          + مركز عقبة بن نافع للدراسات والأبحاث حول الصحابة والتابعين
+          + مركز الإمام الجنيد للدراسات والبحوث الصوفية المتخصصة
+          + مركز أبي الحسن الأشعري للدراسات والبحوث العقدية
+          + مركز البحوث والدراسات في الفقه المالكي
+          + مركز علم وعمران للدراسات والأبحاث وإحياء التراث الصحراوي
+          + مركز مـــســارات للرصد والدراســـات الاستشـــرافية
+          + مركز أجيال للتكوين والوقاية الاجتماعية
+          + مركز أجيال للمواكبة والوقاية والتمنيع بالناظور
+          + مركز أجيال واد نون للتأطير والتكوين
+          + مركز أجيال للدراسات والأبحاث والتكوين بالحسيمة
+          + مركز أجيال ملتقى البحرين للدراسات وبناء القدرات بطنجة
+          + ميثاق الرابطة
+          + وحدة المملكة المغربية علم وعمران
+          + وحدة الإحياء
+     * الإسلام والسياق المعاصر
+     * دفاتر التفكيك
+     * منصة الرائد
+     * أجيال
+     * الفطرة
+     * فنون وعمران
+     * اتصل بنا
+
+   القائمة
+   بوابة الرابطة المحمدية للعلماء بوابة الرابطة المحمدية للعلماء
+
+   بوابة الرابطة المحمدية للعلماء بوابة الرابطة المحمدية للعلماء
+     * الرئيسية
+     * عن الرابطة
+          + الظهير الشريف
+          + الأمين العام
+          + المكتب التنفيذي
+          + المجلس الأكاديمي
+          + تاريخ الرابطة
+          + شراكات
+     * دراسات وأبحاث
+          + دراسات محكمة
+          + دراسات عامة
+          + مفاهيم
+          + حوارات
+          + قراءة في كتاب
+          + أعلام
+          + شذور
+          + معالم
+          + تراث
+          + فهارس
+          + فنون
+          + طبيعة ومجال
+          + نصوص مترجمة
+     * المجلات المحكمة
+          + مجلة الغنية
+          + مجلة الحجة
+          + مجلة الإحياء
+          + مجلة الإبانة
+          + مجلة مرآة التراث
+          + مجلة الترتيل
+          + مجلة التأويل
+          + مجلة قوت القلوب
+          + مجلة فقه اللسان
+          + مجلة الدليل
+          + مجلة الصفوة
+          + مجلة الشفا
+          + مجلة لسان المحدث
+          + المجلة الفقهية
+          + مجلة إيقاظ
+          + مجلة أجيال
+     * الإصدارات
+          + كتب
+          + مجلات
+          + تقارير
+          + قصص مصورة
+          + ألعاب الفيديو
+     * الفعاليات
+          + أنشطة الأمين العام
+          + ندوات ومنتديات
+          + محاضرات وملتقيات
+          + ورشات متخصصة
+          + دورات تدريبية
+     * مرئيات
+          + فيديوهات
+          + صور
+          + متاحف
+               o متحف العلم والعمران
+               o متحف تاريخ العلوم
+               o متحف الصحراء
+          + خرائط
+               o خريطة الساقية الحمراء
+               o خريطة فاس
+               o خريطة مراكش
+               o خريطة الرباط
+     * البحث المتقدم
+     * أخبار
+          + أخبار الرابطة
+          + أخبار عامة
+
+   الرئيسية/دراسات وأبحاث/مفاهيم/“مفهوم النظر عند الأشاعرة”
+   مركز أبي الحسن الأشعري للدراسات والبحوت العقديةمفاهيم
+
+“مفهوم النظر عند الأشاعرة”
+
+   2012-02-14
+   7٬286 10 دقائق
+   شاركها
+   Facebook Twitter LinkedIn Pinterest WhatsApp Telegram مشاركة عبر البريد
+   طباعة
+
+
+   النظر لغة واصطلاحا:
+
+   في اللغة: قال ابن فارس في مادة “نظر”: «النون والظاء والراء أصلٌ صحيح
+   يرجع فروعه إلى معنى واحد وهو تأمُّل الشيءِ ومعاينته، ثم يُستعار ويتَّسع
+   فيه» [1]، وجاء في لسان العرب: « نظرت إلى كذا وكذا من نظر العين ونظر
+   القلب ….، وإذا قلت نظرت إليه لم يكن إلا بالعين، وإذا قلت نظرت في الأمر
+   احتمل أن يكون تفكرا فيه وتدبرا بالقلب،…والمناظرة؛ أن تناظر أخاك في أمر
+   إذا نظرتما فيه معا؛ كيف تأتيانه»[2].
+   والنظر: «الفكر في الشيء تقدره وتقيسه» [3].
+   والنظر من الألفاظ المشتركة،«يطلق ويراد به نظر العين، ومنه قوله تعالى:
+   {وجوه يومئذ ناضرة إلى ربها ناظرة}[القيامة: 21-22]، وثانيها: يطلق ويراد
+   به الانتظار، ومنه قوله تعالى حكاية عن الكفار{انظرونا نقتبس من نوركم}
+   [الحديد: 13]، وثالثها: يطلق ويراد به الترحم، ومنه قوله تعالى:{لا ينظر
+   إليهم يوم القيامة}[آل عمران: 76]، أي لا يرحمهم، ورابعها: يطلق ويراد به
+   التقابل، ومنه قولهم: دار فلان ناظرة إلى دار فلان، أي تقابلها، وخامسها:
+   يطلق ويراد به النظرة، وهي الرقبا، ومنه قوله تعالى:{فنظرة إلى ميسرة}[
+   البقرة: 279]، وسادسها: يطلق ويراد به الفكر، ومنه قوله تعالى:{قل انظروا
+   ماذا في السماوات والأرض} [يونس: 101]، وهذه الوجوه مع اختلافها، لا يختص
+   فيها بواحد منها إلا بقرينة تخصه»[4].
+   و المعنى الذي يعتني به المتكلمون عند البحث في  النظر، هو معنى الفكر.
+   في الاصطلاح: هو:«طلب المعنى بالقلب من جهة الذكر، كما يطلب إدراك المحسوس
+   بالعين، ذكره الحرالي؛ وأول موقع العين على الصورة نظر، ومعرفة خبرتها
+   الحسية بصر، ونفوذه إلى حقيقتها رؤية، فالبصر متوسط بين النظر والرؤية،
+   كما قال تعالى:{وتراهم ينظرون إليك وهم لا يبصرون}[ الأعراف: 198] وقال
+   غيره: تقليب البصر أو البصيرة لإدراك الشيء ورؤيته، وقد يراد به التأمل
+   والفحص، وقد يراد به المعرفة الحاصلة بعد الفحص»[5].
+   وقيل هو: «ترتيب أمور معلومة على وجه يؤدي إلى استعلام ما ليس بمعلوم،
+   وقيل النظر عبارة عن حركة القلب لطلب علم عن علم؛… واستعمال النظر في
+   البصر أكثر عند العامة، وفي البصيرة أكثر عند الخاصة، والنظر عام» [6].
+   قال ابن خلدون في مقدمته: عن النظر العقلي: « مَلَكةُ الانتقالِ من الأدلة
+   إلى المدلولات، وهو معنى النظر العقلي الذي يُكسب العلوم المجهولة فيُكسب
+   بذلك مَلَكةً من التعقُّل تكون زيادةَ عقلٍ، ويحصل به قوة فطنةٍ وكَيس في
+   الأمور» [7].
+    وعلم النظر هو: «القواعد المنطقية من حيث إجرائها في الأدلة السمعية،
+   فصورة تلك القواعد وإن كانت جارية على منهاج العقل، لكن موادها مستنبطة من
+   الشرع، ولهذا الاعتبار جعل ابن الحاجب القواعد المنطقية من مبادئ أصول
+   الفقه»[8].
+
+   تحديد النظر عند علماء الأشاعرة:
+
+   قال القاضي أبو بكر الباقلاني(تـ403هـ): «النظر هو الفكر الذي يطلب به من
+   قام به علما، أو غلبة ظن ».
+    قال الآمدي شارحا للتعريف بعد حكايته: «وقوله: هو الذي يطلب به من قام به
+   علما، أو غلبة ظن، شرح لمعنى الفكر، فإنه لما قال: النظر هو الفكر، كأن
+   سائلا سأل وقال: فما الفكر؟
+   فقال: هو الذي يطلب به من قام به علما، أو غلبة ظن، وقد قصد بقوله: يطلب
+   به، الاحتراز عن سائر الصفات المشروطة بالحياة، وعن الحياة؛ فإنه لو قال:
+   هو الذي يطلب به من قام به علما، أو غلبة ظن، ولم يقل به؛  لانتقض بسائر
+   هذه الصفات؛ فإنها قائمة بطالب العلم، والظن، وليست فكرا.
+   وبقوله علما، أو غلبة ظن، تعميم القاطع، والظني» [9].
+   وجاء في كتاب المواقف: «فهذا الحد الذي ذكره القاضي؛ تعريفه الشامل لجميع
+   أقسامه، من الصحيح، والفاسد، والقطعي، والظني، والموصل إلى التصور، سواء
+   كان في مفرد، أو مركب، والموصل إلى التصديق على اختلاف أقسامه»[10].
+   والعلم النظري عند القاضي هو:  « علم يقع بعقب استدلال وتفكر في حال
+   المنظور فيه، أو تذكر نظر فيه، فكل ما احتاج من العلوم إلى تقدم الفكر،
+   والروية، وتأمل حال المعلوم، فهو الموصوف بقولنا علم نظري.»[11]قال أبو
+   المعالي الجويني (تـ 478هـ) في “الارشاد”: «النظر في اصطلاح الموحدين هو
+   الفكر الذي يطلب به من قام به علمـا أو غلبة ظن»[12]؛ يقول اليفرني شارحا
+   هذا التعريف: « وهذا أيضا فيه الجمع بين الحد والفائدة، فقوله: في اصطلاح
+   الموحدين، احترز به عن النظر في اللغة، فإن له بالنسبة إليها محامل؛ وقوله
+   هو الفكر هذا كالجنس، لأن الفكرة تارة يطلب به العلم والظن، وتارة يطلب به
+   غيرهمـا، وقال بعضهم: إن الفكر لفظ مشترك يراد به التدبر والتأمل، ويراد
+   به حديث النفس، ومنه الخبر والاستخبار، والأمر والنفي، وقوله: الذي يطلب
+   به، أخرج به الخبر، وبقي الأمر والنهي، لأنه يطلب بهمـا، وقوله: علمـا أو
+   غلبة ظن، هو شرح لمعنى الفكر، كأن سائلا قال له: ومـا الفكر؟ فقال: هو
+   الذي يطلب به من قام به علمـا أو غلبة ظن، وفيه احتراز عن الفكر الذي لا
+   يطلب به علم ولا غلبة ظن، وقوله: علمـا، يدخل فيه التصورات والتصديقات من
+   المعقولات، وقوله: أو غلبة ظن، يريد به المشروعات الاجتهادية، كالظواهر
+   والأقيسة»[13].
+   وقال في الشامل: «ولو اجترأ المجترئ فقال: النظر الصحيح هو الفكر المنوط
+   بطلب وجه الدليل على وجه يوصل إليه، كان سديدا» [14].
+   وقال أبو حامد الغزالي(تـ505هـ): «فهذه ثلاثة مناهج في الاستدلال جلية، لا
+   يتصور إنكار حصول العلم منها، والعلم الحاصل هو المطلوب والمدلول، وازدواج
+   الأصلين الملتزمين لهذا العلم هو الدليل، والعلم بوجه لزوم هذا المطلوب من
+   ازدواج الأصلين، علم بوجه دلالة الدليل، وفكرك الذي هو عبارة عن إحضارك
+   الأصلين في الذهن، وطلبك التفطن لوجه لزوم العلم الثالث من العلمين
+   الأصلين، هو النظر؛ فإذن عليك في درك العلم المطلوب وظيفتان؛ إحداهما:
+   إحضار الأصلين في الذهن، وهذا يسمى فكراً، والآخر: تشوقك إلى التفطن لوجه
+   لزوم المطلوب من ازدواج الأصلين، وهذا يسمى طلباً، فلذلك قال من جرد
+   التفاته إلى الوظيفة الأولى حيث أراد حد النظر، أنه الفكر، وقال من جرد
+   التفاته إلى الوظيفة الثانية في حد النظر، أنه طلب علم، أو غلبة ظن، وقال
+   من التفت إلى الأمرين جميعاً، أنه الفكر الذي يطلب به من قام به علماً، أو
+   غلبة ظن، فهكذا ينبغي أن تفهم الدليل، والمدلول، ووجه الدلالة، وحقيقة
+   النظر، ودع عنك ما سودت به أوراق كثيرة من تطويلات، وترديد عبارات، لا
+   تشفي غليل طالب، ولا تسكن نهمة متعطش، ولن يعرف قدر هذه الكلمات الوجيزة،
+   إلا من انصرف خائباً عن مقصده، بعد مطالعة تصانيف كثيرة، فإن رجعت الآن في
+   طلب الصحيح إلى ما قيل في حد النظر، دل ذلك على أنك  لم تخلص من هذا
+   الكلام بطائل، ولن ترجع منه إلى حاصل، فإنك إذا عرفت أنه ليس ههنا إلا
+   علوم ثلاثة: علمان هما أصلان يترتبان ترتباً مخصوصاً، وعلم ثالث يلزم
+   منهما، وليس عليك فيه إلا وظيفتان: إحداهما إحضار العلمين في ذهنك،
+   والثانية التفطن لوجه العلم الثالث منهما، والخيرة بعد ذلك إليك في إطلاق
+   لفظ النظر في أن تعبر به عن الفكر الذي هو إحضار العلمين، أو عن التشوف
+   الذي هو طلب التفطن لوجه لزوم العلم الثالث، أو عن الأمرين جميعاً، فإن
+   العبارات مباحة والاصطلاحات لا مشاحة فيها.
+   فإن قلت: غرضي أن أعرف اصطلاح المتكلمين، وأنهم عبروا بالنظر عماذا؟،
+   فاعلم أنك إذا سمعت واحداً يحد النظر بالفكر، وآخر بالطلب، وآخر بالفكر
+   الذي هو يطلب به، لم تسترب في اختلاف اصطلاحاتهم على ثلاثة أوجه، والعجب
+   ممن لا يتفطن هذا، ويفرض الكلام في حد النظر.»[15]
+   وقال الإمام فخر الدين الرازي(تـ 606هـ): «النظر والفكر عبارة عن ترتيب
+   مقدمات علمية أو ظنية ليتوصل بها إلى تحصيل علم أو ظن»[16].
+   قال ابن التلمساني في شرح المعالم: «قول المصنف: إنه ترتيب مقدمات علمية
+   أو ظنية ليتوصل بها إلى تحصيل علم أو ظن، يشير إلى أن النظر مـاهية مركبة،
+   وأنه لابد فيه من مادة وهي التصديقات، ولابد له من صورة، وهي الترتيب
+   المخصوص، ويعبرون عن هذين الأمرين بالعلة المادية والصورية،… وقوله:
+   ليتوصل بها إلى علم أو ظن إشارة إلى علته الغائية، وهي ما يقصد الشيء
+   لأجله، وهي متقدمة في الذهن متأخرة في الوجود.
+   وفي ضمن قوله: ترتيب إشارة إلى المستحضر  للعلوم المرتب لها، وهي عنده
+   العلة الفاعلية»[17].
+   ويقول  عضد الدين الإيجي(تـ756هـ)  في تحديده: «ونقول نحن في تعريف النظر
+   على مذهبهم بحيث يتناول جميع أقسامه في التصورات والتصديقات بلا إشكال:
+   (هو ملاحظة العقل ما هو حاصل عنده، لتحصيل غيره)»[18].
+
+   حكم النظر:
+
+    قال الإمام أبو بكر الباقلاني: ِ«وإذا صح وجوب النظر، فالواجب على المكلف
+   النظر، والتفكر في مخلوقات الله، لا في ذات الله، والدليل عليه قوله
+   تعالى: {ويتفكرون في خلق السموات والأرض}[آل عمران:191] ولم يقل: في
+   الخالق، وأيضاً قوله تعالى: {أفلا ينظرون إلى الإبل كيف
+   خلقت}[الغاشية:17]، فالنظر، والتفكر، والتكييف يكون في المخلوقات، لا في
+   الخالق، وأيضاً قوله صلى الله عليه وسلم: (تفكروا في خلق الله)[19]،
+   وأيضاً قوله عليه السلام: (مثل الناظر في قدر الله، كالناظر في عين الشمس،
+   فمهما أراد نظراً ازداد حيرة) [انظر تعليق محقق كتاب الإنصاف، ص: 28 منه].
+   وأيضاً: فإن موسى عليه السلام لما سأله اللعين فرعون عن ذات الله، أجابه
+   بأن مصنوعاته تدل على أنه إله ورب قادر، لا إله سواه، إذا نظر فيها وتأمل
+   ولم يحدد له الذات فلا يكيفها؛ لأنه لما قال له: {وما رب
+   العالمين}[الشعراء:23]، قال: {رب السموات والأرض وما بينهما}[الشعراء:24]،
+   إلى أن كرر عليه السؤال، وأجابه بمثل الأول، إلى آخر الآيات كلها، فمهما
+   سأله عن الذات، أجابه بالنظر في المصنوعات التي تدل على معرفته.
+   وقيل: سئل بعض أهل التحقيق عن الله عز وجل ما هو ؟ فقال: إله واحد؛ فقيل
+   له: كيف هو؟ فقال: ملك قادر؛ فقيل: له أين هو ؟ فقال: بالمرصاد؛ فقال
+   السائل: ليس عن هذا أسألك؟ فقال: الذي أجبتك به هو صفة الحق؛ فأما غيره
+   فصفة الخلق، وأراد بذلك أن يسأله عن التكييف، والتحديد، والتمثيل، وذلك
+   صفة المخلوق لا صفة الخالق، ولأن التفكر إذا تفكر في خلق السموات والأرض،
+   وخلق نفسه، وعجائب صنع ربه، أداه ذلك إلى صريح التوحيد؛ لأنه يعلم بذلك
+   أنه لا بد لهذه المصنوعات من صانع، قادر، عليم، حكيم، {ليس كمثله شيء وهو
+   السميع البصير}[ الشورى:11].»[20]
+
+   أقسام النظر:
+
+   وهو ينقسم إلى صحيح وفاسد، قال أبو المعالي الجويني: «والصحيح منه كل مـا
+   يؤدي إلى العثور على الوجه الذي منه يدل الدليل،  والفاسد ما عداه، ثم قد
+   يفسد النظر بِحَيده عن سنن الدليل أصلاً، وقد يفسد مع استناده للسداد أو
+   لا لطروء قاطعٍ» [21].
+   وقال في كتاب المواقف:«إنه أي النظر ينقسم إلى صحيح، وهو الذي يؤدي إلى
+   المطلوب، وفاسد يقابله، أي لا يؤدي إلى المطلوب، فالصحة والفساد صفتان
+   عارضتان للنظر حقيقة لا مجازا، لكنه أراد أن يبين السبب في اتصافه بهما
+   فقال: ولما كان المختار عند المتأخرين مذهب أهل التعليم وهو أنه ترتيب
+   العلوم بحيث يؤدي إلى هيئة مخصوصة للتأدى إلى مجهول ولا شك أن هذا الترتيب
+   يتعلق بشيئين أحدهما تلك العلوم التي يقع فيها الترتيب وهي بمنزلة المادة
+   له والثاني تلك الهيئة المترتبة عليه وهي منزلة الصورة له، فإذا اتصفت كل
+   واحدة منهما بما هو صحتها في نفسها اتصف الترتيب قطعا بصحته في نفسه، أعني
+   تأديته إلى المطلوب، وإلا فلا، وهذا معنى قوله ولكل ترتيب مادة وصورة،
+   …وصحته أي صحة النظر بمعنى تأديته إلى المطلوب بصحة المادة أي بسبب صحتها
+   …ومنهم من قسمه أي النظر إلى الجلي والخفي وهذا بعيد لأن النظر أمر يطلب
+   به البيان ولا يجامعه فلا يتصف بما هو من صفات البيان.»[22]
+
+   شرائط النظر:
+
+    قال الإمام الآمدي ( تـ631هـ) في أبكار الأفكار: «وشرائط النّظر:منها ما
+   يعم النظر الصّحيح، والفاسد.
+   ومنها ما يخصّ الصّحيح دون الفاسد.
+   فأما الشّروط العامة: فالعقل، وانتفاء أضداد النظر .
+   أما اشتراط العقل: فلتعذر النظر دونه.
+   …وأما اشتراط انتفاء أضداد النّظر: فلأنّ وجود كلّ واحد من الضدين، متوقف
+   على انتفاء الضّد الآخر لاستحالة الجمع بينهما.
+   وأضداد النظر: العلم بالمنظور فيه، واعتقاده على خلاف ما هو عليه،
+   والنّوم، والغفلة، والموت، على ما سبق تحقيقه في قاعدة العلم .
+   وأما الشروط الخاصة بالنّظر الصّحيح: فأن يكون النّظر في الدليل دون
+   الشبهة، وفي الوجه الّذي منه يدل الدليل دون غيره، وإن اختلّ شيء من ذلك
+   فالنّظر يكون فاسدا»[23].
+
+   فائدة النظر:
+
+   «به يحصل المطلوب الذي هو إثبات العقائد الدينية »[24].
+
+   بيان كيفية التفكر في خلق الله تعالى:
+
+   «اعلم أن كل ما في الوجود مما سوى الله تعالى فهو فعل الله وخلقه، وكل ذرة
+   من الذرات من جوهر وعرض وصفة وموصوف ففيها عجائب وغرائب تظهر بها حكمة
+   الله وقدرته وجلاله وعظمته، وإحصاء ذلك غير ممكن؛ لأنه لو كان البحر مدادا
+   لذلك لنفد البحر قبل أن ينفد عشر عشيره، ولكنا نشير إلى جمل منه ليكون ذلك
+   كالمثال لما عداه، فنقول: الموجودات المخلوقة منقسمة إلى مالا يعرف أصلها،
+   فلا يمكننا التفكر فيها، وكم من الموجودات التى لا نعلمها كما قال الله
+   تعالى: {ويخلق ما لا تعلمون }،[ النحل:8] وقال:{سبحان الذي خلق الأزواج
+   كلها مما تنبت الأرض ومن أنفسهم ومما لا يعلمون}[يس:62] وقال: {وننشئكم
+   فيما لا تعلمون}[ الواقعة:61] وإلى ما يعرف أصلها وجملتها ولا يعرف
+   تفصيلها، فيمكننا أن نتفكر في تفصيلها، وهي منقسمة إلى: ما أدركناه بحس
+   البصر:وإلى ما لا ندركه بالبصر: أما الذي لا ندركه بالبصر فكالملائكة
+   والجن والشياطين والعرش والكرسي وغير ذلك؛ ومجال الفكر في هذه الأشياء مما
+   يضيق ويغمض، فلنعدل إلى الأقرب إلى الأفهام وهي المدركات بحس البصر، وذلك
+   هو السماوات السبع والأرض وما بينهما، فالسماوات مشاهدة بكواكبها وشمسها
+   وقمرها وحركتها ودورانها في طلوعها وغروبها، والأرض مشاهدة بما فيها من
+   جبالها ومعادنها وأنهارها وبحارها وحيوانها ونباتها، وما بين السماء
+   والأرض وهو الجو، مدرك بغيومها وأمطارها وثلوجها ورعدها وبرقها وصواعقها
+   وشهبها وعواصف رياحها.
+    فهذه هي الأجناس المشاهدة من السموات والأرض وما بينهما، وكل جنس منها
+   ينقسم إلى أنواع، وكل نوع ينقسم إلى أقسام، ويتشعب كل قسم إلى أصناف، ولا
+   نهاية لانشعاب ذلك وانقسامه في اختلاف صفاته وهيآته ومعانيه الظاهرة
+   والباطنة، وجميع ذلك مجال الفكر.
+    فلا تتحرك ذرة في السموات والأرض من جماد ولا نبات ولا حيوان ولا فلك ولا
+   كوكب إلا والله تعالى هو محركها، وفي حركتها حكمة أو حكمتان أو عشر أو ألف
+   حكمة كل ذلك شاهد لله تعالى بالوحدانية، ودال على جلاله وكبريائه، وهي
+   الآيات الدالة عليه، وقد ورد القرآن بالحث على التفكر في هذه الآيات، كما
+   قال الله تعالى: {إن في خلق السموات والأرض واختلاف الليل والنهار لآيات
+   لأولي الألباب}[آل عمران:19]،وكما قال تعالى: {ومن آياته}،[الروم:30]، من
+   أول القرآن إلى آخره .»[25]
+
+
+
+   الهوامش:
+   [1]  مقاييس اللغة، ابن فارس، مادة: “نظر”. (مج5، ص444).
+   [2]  لسان العرب، مادة:”نظر”، (5/ 215).
+   [3]  القاموس المحيط، مادة:” نظر”، (ص: 623).
+   [4] المباحث العقلية في شرح معاني العقيدة البرهانية، لأبي الحسن علي بن
+   عبد الرحمن اليفرني الطنجي، مخطوطة بالخزانة الحسنية تحت رقم: 11741،
+   (ص:95).
+   [5] التوقيف على مهمات التعاريف محمد عبد الرؤوف المناوي تحقيق: د. محمد
+   رضوان الداية دار الفكر المعاصر , دار الفكر – بيروت , دمشق الطبعة
+   الأولى، 1410هـ(ص: 701-702).
+   [6] الكليات ـ لأبى البقاء الكفوى، بعناية عدنان درويش ومحمد المصري،
+   مؤسسة الرسالة،ط2، 1419هـ/1998م، (ص: 904-905).
+   [7]  مقدمة ابن خلدون، تحقيق عبد السلام الشدادي، بيت الفنون والعلوم
+   والآداب، الدار البيضاء، ط1 2005م، (ج:2، ص: 338).
+   [8]  أبجد العلوم  الوشي المرقوم في بيان أحوال العلوم صديق بن حسن
+   القنوجي/ بعناية عبد الجبار زكار وزارة الثقافة دمشق، 1978م (2/ 566).
+   [9] أبكار الأفكار في أصول الدين، للآمدي، تحقيق أحمد فريد المزيدي، دار
+   الكتب العلمية، ط1، 1424هـ/2003م،  (ج:1ص: 63).
+   [10]  كتاب المواقف، لعضد الدين الإيجي، بشرح السيد الشريف الجرجاني،
+   تحقيق: د.عبد الرحمن عميرة، دار الجيل/بيروت- الطبعة الأولى، 1997م، ص:
+   (1/119).
+   [11] تمهيد الأوائل وتلخيص الدلائل، الباقلاني، تحقيق عماد الدين أحمد
+   حيدر، مؤسسة الكتب الثقافية،ط1، 1408هـ/1987م، (ص:27)، و الإنصاف فيما يجب
+   اعتقاده ولا يجوز الجهل به، للباقلاني، بتحقيق محمد زاهد الكوثري، طبعة
+   المكتبة الأزهرية الطبعة الثانية لسنة 1421هـ/2000م، ( ص:14).
+   [12]  الإرشاد إلى قواطع الأدلة في أصول الاعتقاد، لإمام الحرمين
+   الجويني/مكتبة الثقافة الدينية، (ص: 11).
+   [13]  مخطوطة المباحث العقلية في شرح العقيدة البرهانية .
+   [14]  الشامل في أصول الدين، للإمام الجويني، على سامي النشار وآخرون، نشر
+   منشأة المعارف بالاسكندرية، 1969م، (ص: 97).
+   [15] الاقتصاد في الاعتقاد، للإمام الغزالي،  ضبطه وقدم له، موفق فوزي
+   الجبر، دار الحكمة بدمشق، ط1 1415هـ/1994م، (ص:36-37).
+   [16] معالم أصول الدين، فخر الدين الرازي، تحقيق: طه عبد الرؤوف سعد، دار
+   الكتاب العربي،  لبنان، (ص: 22).
+   [17] شرح معالم أصول الدين لابن التلمساني تحقيق عواد محمود عواد سالم ط1
+   المكتبة الأزهرية، 2011م،(ص: 96).
+   [18]  كتاب المواقف، بشرح السيد الشريف الجرجاني، (1/120-121).
+   [19] ورد الحديث في “الإنصاف فيما يجب اعتقاده ولا يجوز الجهل به”، بتحقيق
+   محمد زاهد الكوثري، طبعة المكتبة الأزهرية الطبعة الثانية لسنة
+   1421هـ/2000م، هكذا (تفكروا في الله)، وأشار المحقق في التخريج إلى أنه
+   أخرجه أبو نعيم في الحلية، واللالكائي في شرح أصول اعتقاد أهل السنة،
+   بألفاظ متقاربة والمعنى واحد، وقد وقع سقط في الحديث أثناء الطباعة،
+   فالموجود فيهما هو (تفكروا فى خلق الله ولا تفكروا فى الله) و(لا تفكروا
+   في الله وتفكروا في خلق الله) والحديث: أخرجه من حديث ابن عمر مرفوعا:
+   اللالكائي في شرح أصول الاعتقاد (3/ 580-927) والبيهقي في الشعب (1/
+   136-120) والطبراني في الأوسط (7/ 171 – 172/ 6315)، وابن نعيم في حلية
+   الأولياء وطبقات الأصفياء (6/ 66). قال في المقاصد الحسنة (ص: 261)
+   وأسانيدها ضعيفة لكن اجتماعها يكتسب قوة والمعنى صحيح.
+   [20]  الانصاف، (ص: 28-29).
+   [21] الإرشاد، (ص:11).
+   [22]  كتاب المواقف لعضد الدين الإيجي، بشرح السيد الشريف الجرجاني، (ج:1،
+   ص: 122-124).
+   [23] أبكار الأفكار في أصول الدين، للإمام سيف الدين الآمدي، تحقيق: أحمد
+   محمد المهدي دار الكتب والآثار القومية بالقاهرة، ط2،1424 هـ – 2004 م،
+   وانظر: شرح المواقف للجرجانى ص 111-110، 130-،128، وشرح المقاصد
+   للتفتازانى، (ص: 25-23).
+   [24] كتاب المواقف، بشرح السيد الشريف الجرجاني،( ص: 116).
+   [25] إحياء علوم الدين، لأبي حامد الغزالي، تحقيق سيد عمران دار الحديث
+   القاهرة، 1425هـ/2004م،(ج:5، ص:39-94).
+   شاركها
+   Facebook Twitter LinkedIn Pinterest Pocket WhatsApp مشاركة عبر البريد
+   طباعة
+
+حُسن توظيف الانترنت لمكافحة استغلال الأطفال جنسيا
+
+معرض الكتاب المغاربي بباريس يحتفي بغنى الإبداع الأدبي المغربي
+
+مقالات ذات صلة
+
+   تقريب مفاهيم التأصيل في المذهب المالكي(ج3)2
+
+تقريب مفاهيم التأصيل في المذهب المالكي(ج3)2
+
+   الدكتور مولاي إدريس غازي 2025-10-16
+   تقريب مفاهيم التأصيل في المذهب المالكي(ج3)2
+
+تقريب مفاهيم التأصيل في المذهب المالكي(ج3)1
+
+   الدكتور مولاي إدريس غازي 2025-09-25
+   تقريب مفاهيم التأصيل في المذهب المالكي(ج2)3
+
+تقريب مفاهيم التأصيل في المذهب المالكي(ج2)3
+
+   الدكتور مولاي إدريس غازي 2025-07-01
+   تقريب مفاهيم التأصيل في المذهب المالكي(ج2) 2
+
+تقريب مفاهيم التأصيل في المذهب المالكي(ج2) 2
+
+   الدكتور مولاي إدريس غازي 2025-06-05
+
+شاهد أيضاً
+
+   إغلاق
+     * تقريب مفاهيم التأصيل في المذهب المالكي(ج2) 2
+
+تقريب مفاهيم التأصيل في المذهب المالكي(ج2) 2
+       2025-06-05
+     * تقريب مفاهيم التأصيل في المذهب المالكي(ج2)1
+
+تقريب مفاهيم التأصيل في المذهب المالكي(ج2)1
+       2025-05-27
+     * مفارقة الوفاء للقيم في التسامح والتنوع
+
+مفارقة الوفاء للقيم في التسامح والتنوع
+       2025-05-05
+     * تقريب مفاهيم التأصيل في المذهب المالكي(ج2)1
+
+تقريب مفاهيم التأصيل في المذهب المالكي(ج1)3
+       2025-04-22
+
+     * الأحدث
+     * الأكثر قراءة
+
+     *
+
+الأستاذ د. جمال بامي: المادة الطبية في الصحراء المغربية بين التراث العلمي
+والعلاج التقليدي، دراسة أنثروبولوجية
+       منذ 21 ساعة
+     * A7
+
+أرَى الدَّهْرَ مِقْلاعًا
+       منذ 21 ساعة
+     *
+
+المالكية ونقد محدثات شهر رجب:” أبو بكر الطرطوشي (520 هـ) أنموذجا”
+       منذ 22 ساعة
+     * تقرير الندوة العلمية الوطنية في موضوع: تقريب علوم الدين -معالم
+       ومراسم -الدورة الثانية: مداخل التقريب في العلوم الشرعية
+
+“ندوة علمية وطنية ” تقريب علوم الدين -معالم ومراسم -الدورة الثانية: مداخل
+التقريب في العلوم الشرعية
+       منذ 3 أيام
+     *
+
+دُرَرٌ منْ كلام الصّحب الكرام (2)
+       منذ 3 أيام
+
+     *
+
+أحاديث نبوية في فضائل اغتنام الوقت
+       2020-04-25
+     *
+
+وقفات مع حديث: “إنما العلم بالتعلم، والحلم بالتحلم، ومن يتحر الخير يعطه، ومن
+يتق الشر يوقه”.
+       2020-09-10
+     *
+
+أَحَادِيث فِي فَضْل المَدِينَة النَّبَويَّة
+       2018-08-28
+     * قضاء حوائج الناس
+
+أحسن الحديث (13): قضاء حوائج الناس من خلال حديث: «أحب الناس إلى الله تعالى
+أنفعهم للناس»
+       2020-04-26
+     * من وصايا الرسول صلى الله عليه وسلم
+
+من وصايا الرسول صلى الله عليه وسلم: «الوصايا التسع
+       2019-12-27
+
+مختارات
+
+   الأستاذ د. جمال بامي: المادة الطبية في الصحراء المغربية بين التراث
+   العلمي والعلاج التقليدي، دراسة أنثروبولوجية
+   منذ 21 ساعة
+
+الأستاذ د. جمال بامي: المادة الطبية في الصحراء المغربية بين التراث العلمي
+والعلاج التقليدي، دراسة أنثروبولوجية
+
+   أرَى الدَّهْرَ مِقْلاعًا
+   ذ. حمزة الحداد منذ 21 ساعة
+
+أرَى الدَّهْرَ مِقْلاعًا
+
+   المالكية ونقد محدثات شهر رجب:” أبو بكر الطرطوشي (520 هـ) أنموذجا”
+   دة. خديجة أبوري منذ 22 ساعة
+
+المالكية ونقد محدثات شهر رجب:” أبو بكر الطرطوشي (520 هـ) أنموذجا”
+
+   دُرَرٌ منْ كلام الصّحب الكرام (2)
+   الدكتور بدر العمراني منذ 3 أيام
+
+دُرَرٌ منْ كلام الصّحب الكرام (2)
+
+   صَحَّ الهَوَى مِنك
+   ذ. حمزة الحداد منذ 3 أيام
+
+صَحَّ الهَوَى مِنك
+
+العلوم
+
+   أصول الفقه الأدب الاستشراف البلاغة التاريخ التراجم التربية والسلوكيات
+   التصوف الحديث الشريف السياق السير السيرة النبوية العقيدة الفقه الفكر
+   الإسلامي الفنون الفهارس والبرامج القراءات القرٱن الكريم اللغة المخطوطات
+   المذهب المالكي النحو تاريخ العلوم
+
+   جميع الحقوق محفوظة للرابطة المحمدية للعلماء 2026 ©
+     * Facebook
+     * Twitter
+     * YouTube
+
+   Facebook Twitter WhatsApp Telegram Viber
+   زر الذهاب إلى الأعلى
+
+   إغلاق
+
+     * Facebook
+     * Twitter
+     * YouTube
+
+   البحث عن: ____________________ بحث
+   البحث عن: ____________________ بحث
+
+أحدث المقالات
+
+     * الأستاذ د. جمال بامي: المادة الطبية في الصحراء المغربية بين التراث
+       العلمي والعلاج التقليدي، دراسة أنثروبولوجية
+     * أرَى الدَّهْرَ مِقْلاعًا
+     * المالكية ونقد محدثات شهر رجب:” أبو بكر الطرطوشي (520 هـ) أنموذجا”
+     * “ندوة علمية وطنية ” تقريب علوم الدين -معالم ومراسم -الدورة الثانية:
+       مداخل التقريب في العلوم الشرعية
+     * دُرَرٌ منْ كلام الصّحب الكرام (2)
+
+أحدث التعليقات
+
+     * عبد الواحد التزاني على الدَّعْوةُ الإِسْلامِية بَيْنَ العَهْد
+       المَكِّي وَالمَدَني: خَصَائِصٌ وَمُمَيِّزَات
+     * أحمد الأغلالي على تاريخ المكتبات الإسلامية ومن ألَّف في الكُتب
+     * رشيد الامالي على زاوية أحنصال : مفخرة الأطلس الكبير الأوسط
+     * Universitas Islam Sultan Agung على مقاصد الصيام للإمام المحدث
+       الزاهد قطب الدين القسطلاني(ت686هـ) (1)
+     * عبدالرحمن الحازمي على نصح ملوك الإسلام بالتعريف بما يجب عليهم من
+       حقوق آل البيت الكرام
+
+الأرشيف
+
+     * يناير 2026
+     * ديسمبر 2025
+     * نوفمبر 2025
+     * أكتوبر 2025
+     * سبتمبر 2025
+     * أغسطس 2025
+     * يوليو 2025
+     * يونيو 2025
+     * مايو 2025
+     * أبريل 2025
+     * مارس 2025
+     * فبراير 2025
+     * يناير 2025
+     * ديسمبر 2024
+     * نوفمبر 2024
+     * أكتوبر 2024
+     * سبتمبر 2024
+     * أغسطس 2024
+     * يوليو 2024
+     * يونيو 2024
+     * مايو 2024
+     * أبريل 2024
+     * مارس 2024
+     * فبراير 2024
+     * يناير 2024
+     * ديسمبر 2023
+     * نوفمبر 2023
+     * أكتوبر 2023
+     * سبتمبر 2023
+     * أغسطس 2023
+     * يوليو 2023
+     * يونيو 2023
+     * مايو 2023
+     * أبريل 2023
+     * مارس 2023
+     * فبراير 2023
+     * يناير 2023
+     * ديسمبر 2022
+     * نوفمبر 2022
+     * أكتوبر 2022
+     * سبتمبر 2022
+     * أغسطس 2022
+     * يوليو 2022
+     * يونيو 2022
+     * مايو 2022
+     * أبريل 2022
+     * مارس 2022
+     * فبراير 2022
+     * يناير 2022
+     * ديسمبر 2021
+     * نوفمبر 2021
+     * أكتوبر 2021
+     * سبتمبر 2021
+     * أغسطس 2021
+     * يوليو 2021
+     * يونيو 2021
+     * مايو 2021
+     * أبريل 2021
+     * مارس 2021
+     * فبراير 2021
+     * يناير 2021
+     * ديسمبر 2020
+     * نوفمبر 2020
+     * أكتوبر 2020
+     * سبتمبر 2020
+     * أغسطس 2020
+     * يوليو 2020
+     * يونيو 2020
+     * مايو 2020
+     * أبريل 2020
+     * مارس 2020
+     * فبراير 2020
+     * يناير 2020
+     * ديسمبر 2019
+     * نوفمبر 2019
+     * أكتوبر 2019
+     * سبتمبر 2019
+     * يوليو 2019
+     * يونيو 2019
+     * مايو 2019
+     * أبريل 2019
+     * مارس 2019
+     * فبراير 2019
+     * يناير 2019
+     * ديسمبر 2018
+     * نوفمبر 2018
+     * أكتوبر 2018
+     * سبتمبر 2018
+     * أغسطس 2018
+     * يوليو 2018
+     * يونيو 2018
+     * مايو 2018
+     * أبريل 2018
+     * مارس 2018
+     * فبراير 2018
+     * يناير 2018
+     * ديسمبر 2017
+     * نوفمبر 2017
+     * أكتوبر 2017
+     * سبتمبر 2017
+     * أغسطس 2017
+     * يوليو 2017
+     * يونيو 2017
+     * مايو 2017
+     * أبريل 2017
+     * مارس 2017
+     * فبراير 2017
+     * يناير 2017
+     * ديسمبر 2016
+     * نوفمبر 2016
+     * أكتوبر 2016
+     * سبتمبر 2016
+     * أغسطس 2016
+     * يوليو 2016
+     * يونيو 2016
+     * مايو 2016
+     * أبريل 2016
+     * مارس 2016
+     * فبراير 2016
+     * يناير 2016
+     * ديسمبر 2015
+     * نوفمبر 2015
+     * أكتوبر 2015
+     * سبتمبر 2015
+     * أغسطس 2015
+     * يوليو 2015
+     * يونيو 2015
+     * مايو 2015
+     * أبريل 2015
+     * مارس 2015
+     * فبراير 2015
+     * يناير 2015
+     * ديسمبر 2014
+     * نوفمبر 2014
+     * أكتوبر 2014
+     * سبتمبر 2014
+     * أغسطس 2014
+     * يوليو 2014
+     * يونيو 2014
+     * مايو 2014
+     * أبريل 2014
+     * مارس 2014
+     * فبراير 2014
+     * يناير 2014
+     * ديسمبر 2013
+     * نوفمبر 2013
+     * أكتوبر 2013
+     * سبتمبر 2013
+     * أغسطس 2013
+     * يوليو 2013
+     * يونيو 2013
+     * مايو 2013
+     * أبريل 2013
+     * مارس 2013
+     * فبراير 2013
+     * يناير 2013
+     * ديسمبر 2012
+     * نوفمبر 2012
+     * أكتوبر 2012
+     * سبتمبر 2012
+     * أغسطس 2012
+     * يوليو 2012
+     * يونيو 2012
+     * مايو 2012
+     * أبريل 2012
+     * مارس 2012
+     * فبراير 2012
+     * يناير 2012
+     * ديسمبر 2011
+     * نوفمبر 2011
+     * أكتوبر 2011
+     * سبتمبر 2011
+     * أغسطس 2011
+     * يوليو 2011
+     * يونيو 2011
+     * مايو 2011
+     * أبريل 2011
+     * مارس 2011
+     * فبراير 2011
+     * يناير 2011
+     * ديسمبر 2010
+     * نوفمبر 2010
+     * أكتوبر 2010
+     * سبتمبر 2010
+     * أغسطس 2010
+     * يوليو 2010
+     * يونيو 2010
+     * مايو 2010
+     * أبريل 2010
+     * مارس 2010
+     * فبراير 2010
+     * يناير 2010
+     * ديسمبر 2009
+     * نوفمبر 2009
+     * أكتوبر 2009
+     * سبتمبر 2009
+     * أغسطس 2009
+     * يوليو 2009
+     * يونيو 2009
+     * مايو 2009
+     * أبريل 2009
+     * مارس 2009
+     * فبراير 2009
+     * يناير 2009
+     * ديسمبر 2008
+     * نوفمبر 2008
+     * أكتوبر 2008
+     * سبتمبر 2008
+     * أغسطس 2008
+     * يوليو 2008
+     * يونيو 2008
+     * مايو 2008
+     * أبريل 2008
+     * مارس 2008
+     * فبراير 2008
+
+تصنيفات
+
+     * فنون وعمران
+     * مخطوطات
+     * فعاليات المركز
+     * دراسات محكمة
+     * أخبار الرابطة
+     * دراسات وأبحاث
+     * أخبار
+     * أخبار متنوعة
+     * دراسات عامة
+     * عن المراكز
+     * مفاهيم
+     * شراكات
+     * غير مصنف
+     * أعلام
+     * حوارات
+     * قراءة في كتاب
+     * شذور
+     * نصوص مترجمة
+     * معالم
+     * تراث
+     * فهارس
+     * فنون
+     * طبيعة ومجال
+
+منوعات
+
+     * تسجيل الدخول
+     * خلاصات Feed الإدخالات
+     * خلاصة التعليقات
+     * WordPress.org
+
+   إغلاق
+
+تسجيل الدخول
