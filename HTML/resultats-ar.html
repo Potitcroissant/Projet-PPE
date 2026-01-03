@@ -3,14 +3,13 @@
 <head>
   <meta charset="UTF-8"/>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" />
-  <title>Résultats – Arabe</title>
+  <title>Résultats arabe</title>
 </head>
 
 <body>
   <!-- Header -->
   <div class="navbar is-primary">
     <a href="../index.html" class="title is-2 mt-4 ml-4">"Regard" sur Internet</a>
-
     <div class="navbar-end mr-4">
       <div class="navbar-item has-dropdown is-hoverable">
         <a class="navbar-link">Tableaux</a>
@@ -20,11 +19,9 @@
           <a href="../tableaux/ar.html" class="navbar-item">Arabe</a>
         </div>
       </div>
-
       <a href="script.html" class="navbar-item">Scripts</a>
-
       <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link">Résultats</a>
+        <a href="resultats.html" class="navbar-link">Résultats</a>
         <div class="navbar-dropdown">
           <a href="resultats-fr.html" class="navbar-item">Français</a>
           <a href="resultats-en.html" class="navbar-item">Anglais</a>
@@ -39,44 +36,63 @@
     <h3 class="title is-3">Arabe</h3>
 
     <p>
-      Pour analyser les contextes d’utilisation du mot arabe <strong>نظر</strong>
-      (« regard / point de vue »), nous avons tokenisé le corpus (un token par ligne),
-      puis utilisé l’outil <strong>PALS</strong> afin d’identifier les cooccurrences lexicales
-      les plus significatives.
+      Pour analyser les contextes dans lesquels le mot arabe <strong>نظر</strong> est utilisé,
+      nous faisons appel au script <strong>PALS</strong> afin d’obtenir des cooccurrences significatives.
     </p>
 
-    <div class="block mt-5">
-      <p>Commande utilisée :</p>
+    <div class="block mt-6">
+      <p>
+        Tout d’abord, nous devons tokéniser le corpus afin que chaque ligne ne soit composée que d’un token.
+        Nous utilisons les dumps (<code>dump-text/ar-*.txt</code>) et nous retirons l’entête HTTP avant la tokenisation.
+      </p>
+
+      <p class="box has-background-primary-soft">
+        rm -rf corpus-texte/ar<br>
+        mkdir -p corpus-texte/ar<br><br>
+
+        lineno=1<br>
+        for f in dump-text/ar-*.txt<br>
+        do<br>
+        &nbsp;&nbsp;sed '1,/^$/d' "$f" | sed -E 's/([^[:space:][:punct:]]+|[[:punct:]])/\1\n/g' | grep -v '^[[:space:]]*$' &gt; corpus-texte/ar/ar-$lineno.txt<br>
+        &nbsp;&nbsp;lineno=$((lineno+1))<br>
+        done
+      </p>
+
+      <p>
+        Cette étape nous permet de préparer un corpus compatible avec PALS, tout en limitant le bruit lié au HTML.
+      </p>
+    </div>
+
+    <div class="block mt-6">
+      <p>Ensuite, nous utilisons le script PALS :</p>
+
       <p class="box has-background-primary-soft">
         python3 PALS/cooccurrents.py --target نظر --match-mode exact corpus-texte/ar/* &gt; resultat-ar.csv
       </p>
 
       <p>
-        Le mot cible <strong>نظر</strong> apparaît <strong>82 fois</strong> dans le corpus arabe.
-        Le fichier <code>resultat-ar.csv</code> contient <strong>760</strong> cooccurrents (lignes).
+        Le terminal indique que le mot cible <strong>نظر</strong> apparaît <strong>82 fois</strong>.
+        Le fichier <code>resultat-ar.csv</code> contient <strong>760</strong> lignes (cooccurrents).
       </p>
     </div>
 
-    <div class="block mt-5">
+    <div class="block mt-6">
       <p>
-        Les résultats montrent que <strong>نظر</strong> est fréquemment associé à des termes
-        liés au <em>point de vue</em> (<strong>وجهة</strong>, <strong>وجهات</strong>) ainsi qu’au champ lexical
-        de la vision (<strong>بصر</strong>). On observe aussi des cooccurrents renvoyant à des thèmes sociaux
-        (<strong>النساء</strong>).
+        Les analyses de cooccurrences montrent que <strong>نظر</strong> est souvent associé à des mots
+        renvoyant au <em>point de vue</em> et à la <em>vision</em>. Par exemple :
       </p>
 
-      <p>Exemples de cooccurrents (extrait du CSV) :</p>
       <ul>
-        <li><strong>وجهة</strong> (co-fréquence 39, spécificité 39.00)</li>
-        <li><strong>وجهات</strong> (co-fréquence 8, spécificité 6.34)</li>
-        <li><strong>بصر</strong> (co-fréquence 4, spécificité 6.15)</li>
-        <li><strong>النساء</strong> (co-fréquence 9, spécificité 6.12)</li>
-        <li><strong>لسان</strong> (co-fréquence 4, spécificité 5.68)</li>
+        <li><strong>وجهة</strong> (co-fréquence 39, spécificité 39.00) — souvent dans l’expression « وجهة نظر »</li>
+        <li><strong>وجهات</strong> (8, 6.34) — variantes autour du “point de vue”</li>
+        <li><strong>بصر</strong> (4, 6.15) — champ lexical de la vision</li>
+        <li><strong>النساء</strong> (9, 6.12) — thème social présent dans le corpus</li>
+        <li><strong>لسان</strong> (4, 5.68) — lien avec discours / langage</li>
       </ul>
 
-      <p class="has-text-weight-bold">
-        Ces cooccurrences confirment que « نظر » se situe à l’interface entre un usage perceptif
-        (vision/regard) et un usage discursif (point de vue, interprétation).
+      <p class="has-text-centered has-text-weight-bold">
+        De manière générale, « نظر » apparaît à la fois dans un sens perceptif (vision/regard)
+        et dans un sens discursif (point de vue).
       </p>
     </div>
 
