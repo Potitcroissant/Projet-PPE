@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ar-aa" lang="ar-aa" dir="rtl">
+<head>
+		
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="utf-8" />
+	<base href="https://www.almirkaz.com/library/self-improve-articles/69-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86" />
+	<meta name="keywords" content="لغة العيون, التعبير الأمثل, القلوب, المعلومات" />
+	<meta name="description" content="لغة العيون" />
+	<meta name="generator" content="MYOB" />
+	<title>لغة العيون - المركاز - دليل أعمال المملكة</title>
+	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/themes/smoothness/jquery-ui.css" rel="stylesheet" />
+	<link href="/components/com_jrealtimeanalytics/css/mainstyle.css" rel="stylesheet" />
+	<link href="/media/system/css/modal.css?7dcb1febc2d355bd359d8ce15391bbaa" rel="stylesheet" />
+	<link href="/media/com_attachments/css/attachments_hide.css" rel="stylesheet" />
+	<link href="/media/com_attachments/css/attachments_list.css" rel="stylesheet" />
+	<link href="/media/com_attachments/css/attachments_list_rtl.css" rel="stylesheet" />
+	<link href="/templates/jm-job-listings/css/bootstrap_rtl.11.css" rel="stylesheet" />
+	<link href="/templates/jm-job-listings/css/bootstrap_responsive_rtl.11.css" rel="stylesheet" />
+	<link href="/templates/jm-job-listings/css/template.11.css" rel="stylesheet" />
+	<link href="/templates/jm-job-listings/css/offcanvas.11.css" rel="stylesheet" />
+	<link href="/templates/jm-job-listings/css/template_rtl.11.css" rel="stylesheet" />
+	<link href="/templates/jm-job-listings/css/template_responsive.11.css" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700" rel="stylesheet" />
+	<link href="/templates/jm-job-listings/cache/template_params_de389652cf3dbe9e4159bf0a588843b1.css" rel="stylesheet" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.compat.min.css" rel="stylesheet" />
+	<link href="/modules/mod_djmegamenu/assets/css/offcanvas_right.min.css?4.3.6.pro" rel="stylesheet" />
+	<link href="/modules/mod_djmegamenu/mobilethemes/light/djmobilemenu.css?4.3.6.pro" rel="stylesheet" />
+	<link href="/modules/mod_djmegamenu/mobilethemes/light/djmobilemenu_rtl.css?4.3.6.pro" rel="stylesheet" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="/modules/mod_djmegamenu/assets/css/theme_override.min.css?4.3.6.pro" rel="stylesheet" />
+	<link href="https://www.almirkaz.com/components/com_comprofiler/plugin/templates/default/bootstrap.css?v=86e92bd2db3041ff" rel="stylesheet" />
+	<link href="https://www.almirkaz.com/components/com_comprofiler/plugin/templates/default/fontawesome.css?v=86e92bd2db3041ff" rel="stylesheet" />
+	<link href="https://www.almirkaz.com/components/com_comprofiler/plugin/templates/default/template.css?v=86e92bd2db3041ff" rel="stylesheet" />
+	<link href="https://www.almirkaz.com/components/com_comprofiler/plugin/templates/default/rtl.css?v=86e92bd2db3041ff" rel="stylesheet" />
+	<link href="/templates/jm-job-listings/css/djmegamenu.11.css" rel="stylesheet" />
+	<link href="/templates/jm-job-listings/css/djmegamenu_rtl.11.css" rel="stylesheet" />
+	<link href="/templates/jm-job-listings/css/custom.11.css" rel="stylesheet" />
+	<link href="/media/foundry/css/foundry-rtl.min.css?71f13d02d937c88bb0a174fd617138cd=1" rel="stylesheet" />
+	<link href="/media/foundry/css/vendor/fontawesome/css/all.min.css?71f13d02d937c88bb0a174fd617138cd=1" rel="stylesheet" />
+	<link href="/media/foundry/css/vendor/prism/prism.min.css?71f13d02d937c88bb0a174fd617138cd=1" rel="stylesheet" />
+	<link href="/media/foundry/css/vendor/lightbox/lightbox.min.css?71f13d02d937c88bb0a174fd617138cd=1" rel="stylesheet" />
+	<link href="/media/foundry/css/vendor/markitup/markitup.min.css?71f13d02d937c88bb0a174fd617138cd=1" rel="stylesheet" />
+	<link href="/media/com_komento/themes/wireframe/css/style.min.css?8a7a1be926313fc39bae3776fed8819b=1" rel="stylesheet" />
+	<link href="/media/com_komento/themes/wireframe/css/style-rtl.min.css?8a7a1be926313fc39bae3776fed8819b=1" rel="stylesheet" />
+	<link href="/media/foundry/css/utilities-rtl.min.css?71f13d02d937c88bb0a174fd617138cd=1" rel="stylesheet" />
+	<style>
+#jmm-social-167 li.item-1 .jmm-ico {
+ background: transparent;
+}
+
+#jmm-social-167 li.item-1:hover .jmm-ico {
+ background: transparent;
+}#jmm-social-167 li.item-2 .jmm-ico {
+ background: #42c8f4;
+}
+
+#jmm-social-167 li.item-2:hover .jmm-ico {
+ background: #4fafcf;
+}#jmm-social-167 li.item-3 .jmm-ico {
+ background: #4e67a9;
+}
+
+#jmm-social-167 li.item-3:hover .jmm-ico {
+ background: #3c528f;
+}#jmm-social-167 li.item-4 .jmm-ico {
+ background: #65afeb;
+}
+
+#jmm-social-167 li.item-4:hover .jmm-ico {
+ background: #3299ed;
+}.dj-hideitem { display: none !important; }
+
+		@media (min-width: 980px) { #dj-megamenu150mobile { display: none; } }
+		@media (max-width: 979px) { #dj-megamenu150, #dj-megamenu150sticky, #dj-megamenu150placeholder { display: none !important; } }
+	
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"3d3ecacdc5c33aef3b4cd20fae941689","system.paths":{"root":"","base":""},"fd.options":{"rootUrl":"https:\/\/www.almirkaz.com","environment":"production","version":"1.1.15","token":"3d3ecacdc5c33aef3b4cd20fae941689","scriptVersion":"71f13d02d937c88bb0a174fd617138cd=1","scriptVersioning":true,"isMobile":false},"system.keepalive":{"interval":1740000,"uri":"\/component\/ajax\/?format=json"}}</script>
+	<script src="/media/jui/js/jquery.min.js"></script>
+	<script src="/media/jui/js/jquery-noconflict.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+	<script src="/media/system/js/mootools-core.js?7dcb1febc2d355bd359d8ce15391bbaa"></script>
+	<script src="/media/system/js/core.js?7dcb1febc2d355bd359d8ce15391bbaa"></script>
+	<script src="/media/system/js/mootools-more.js?7dcb1febc2d355bd359d8ce15391bbaa"></script>
+	<script src="/media/system/js/modal.js?7dcb1febc2d355bd359d8ce15391bbaa"></script>
+	<script src="/media/system/js/caption.js?7dcb1febc2d355bd359d8ce15391bbaa"></script>
+	<!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?7dcb1febc2d355bd359d8ce15391bbaa"></script><![endif]-->
+	<script src="/media/system/js/keepalive.js?7dcb1febc2d355bd359d8ce15391bbaa"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?7dcb1febc2d355bd359d8ce15391bbaa"></script>
+	<script src="/media/jui/js/bootstrap.min.js?7dcb1febc2d355bd359d8ce15391bbaa"></script>
+	<script src="/components/com_jrealtimeanalytics/js/stream.js" defer></script>
+	<script src="/media/com_attachments/js/attachments_refresh.js"></script>
+	<script src="/media/foundry/scripts/core.min.js?71f13d02d937c88bb0a174fd617138cd=1"></script>
+	<script src="/plugins/system/ef4_jmframework/includes/assets/template/js/layout.min.js"></script>
+	<script src="/plugins/system/ef4_jmframework/includes/assets/template/js/lazy.min.js"></script>
+	<script src="/templates/jm-job-listings/js/offcanvas.js"></script>
+	<script src="/templates/jm-job-listings/js/fontswitcher.js"></script>
+	<script src="/templates/jm-job-listings/js/backtotop.js"></script>
+	<script src="/templates/jm-job-listings/js/scripts.js"></script>
+	<script src="/modules/mod_djmegamenu/assets/js/jquery.djmegamenu.min.js?4.3.6.pro" defer></script>
+	<script src="/modules/mod_djmegamenu/assets/js/jquery.djmobilemenu.min.js?4.3.6.pro" defer></script>
+	<script>
+				var COM_JREALTIME_NETWORK_ERROR = 'A network error occurred during data stream: '; var jrealtimeBaseURI='https://www.almirkaz.com/';
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			initSqueezeBox();
+			$(document).on('subform-row-add', initSqueezeBox);
+
+			function initSqueezeBox(event, container)
+			{
+				SqueezeBox.assign($(container || document).find('a.modal').get(), {
+					parse: 'rel'
+				});
+			}
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});</script>
+	<!--googleoff: index-->
+<script type="text/javascript">
+window.kt = {
+	"appearance": "light",
+	"theme": "",
+	"ajaxUrl": "https://www.almirkaz.com/index.php?option=com_komento&lang=&Itemid=400",
+	"direction": "rtl",
+	"environment": "production",
+	"ios": false,
+	"locale": "ar-AA",
+	"mobile": false,
+	"rootUrl": "https://www.almirkaz.com",
+	"ratings": {
+		"options": {
+			"starType": 'i',
+			"half": true,
+			"starOn": 'raty raty-star raty-star--on',
+			"starOff": 'raty raty-star-o raty-star--off',
+			"starHalf": 'raty raty-star-half-o',
+			"hints": [
+				"سيء", 
+				"ضعيف",
+				"عادي",
+				"جيد",
+				"رائع"
+			]
+		}
+	},
+	"siteName": "المركاز - دليل أعمال المملكة",
+	"token": "3d3ecacdc5c33aef3b4cd20fae941689",
+	"isHttps": true,
+};
+</script>
+<!--googleon: index-->
+	<script src="/media/com_komento/scripts/site-4.0.6.min.js"></script>
+	<link rel="stylesheet preload" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.compat.min.css" as="style">
+	<link rel="stylesheet preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" as="style">
+
+	<link href="https://www.almirkaz.com/images/favicon.ico" rel="Shortcut Icon" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R0EECSXGM3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R0EECSXGM3');
+</script>
+
+<!-- Start of  Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=648cee25-3b1a-491e-ac76-3069b5bdb375"> </script>
+<!-- End of  Zendesk Widget script --></head>
+<body class=" fixed  top-bar top-menu off-canvas-right"><div class="dj-offcanvas-wrapper"><div class="dj-offcanvas-pusher"><div class="dj-offcanvas-pusher-in">
+	<div id="jm-allpage">
+		<div id="jm-page">
+																										<header id="jm-bar-menu">
+		<div id="jm-bar" class="">  
+		<div class="container-fluid">
+			<div id="jm-bar-in" class="clearfix">      
+								<div id="jm-logo-sitedesc" class="pull-left">
+										<div id="jm-logo">
+						<a href="https://www.almirkaz.com/">
+														<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22234%22%20height%3D%2284%22%20viewBox%3D%220%200%20234%2084%22%2F%3E" data-original="https://www.almirkaz.com/images/al-logo-original.png" loading="lazy" alt="المركاز | دليل أعمال المملكة" />
+													</a>
+					</div>
+														</div>
+													<div id="jm-bar-button" class="pull-right">
+												<div id="jm-top-bar" class="pull-left ">
+							<div class="jm-module-raw "><div id="dj-megamenu150mobileWrap"></div>
+</div><div class="jm-module-raw "><form action="https://www.almirkaz.com/login" method="post" id="login-form" class="form-inline cbLoginForm">
+	<input type="hidden" name="option" value="com_comprofiler" />
+	<input type="hidden" name="view" value="login" />
+	<input type="hidden" name="op2" value="login" />
+	<input type="hidden" name="return" value="B:aHR0cHM6Ly93d3cuYWxtaXJrYXouY29tL2xpYnJhcnkvc2VsZi1pbXByb3ZlLWFydGljbGVzLzY5LdmE2LrYqS3Yp9mE2LnZitmI2YY=" />
+	<input type="hidden" name="message" value="1" />
+	<input type="hidden" name="loginfrom" value="loginmodule" />
+	<input type="hidden" name="3d3ecacdc5c33aef3b4cd20fae941689" value="1" />						<span class="userdata">
+			<span id="form-login-username">
+									<input id="modlgn-username" type="text" name="username" class="input-medium"  size="14" placeholder="اسم المستخدم" />
+							</span>
+			&nbsp;
+			<span id="form-login-password">
+									<input id="modlgn-passwd" type="password" name="passwd" class="input-medium" size="14" placeholder="كلمة المرور"  />
+							</span>
+			&nbsp;
+										<span id="form-login-remember">
+					<input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes" checked="checked" />
+					<label for="modlgn-remember">تذكرني</label>
+				</span>
+				&nbsp;
+									<span id="form-login-submit">
+				<button type="submit" name="Submit" class="btn btn-primary login-button">
+																تسجيل الدخول									</button>
+			</span>
+			&nbsp;
+					</span>
+				<span id="form-login-links">
+							<span id="form-login-forgot">
+					<a href="https://www.almirkaz.com/forgot-login">
+																			فقدت بيانات الدخول؟											</a>
+				</span>
+				&nbsp;
+										<span id="form-login-register">
+					<a href="https://www.almirkaz.com/registration" class="custom-register-link">
+																			تسجيل جديد											</a>
+				</span>
+				&nbsp;
+					</span>
+				</form>
+</div>
+						</div>
+																	</div>
+							</div>
+		</div>
+	</div>
+		<div id="jm-top-menu" class="">
+		<div class="container-fluid">
+			<nav id="jm-top-menu-in" class="clearfix">
+				<div class="jm-module-raw "><div class="dj-megamenu-wrapper" data-tmpl="jm-job-listings">
+		<ul id="dj-megamenu150" class="dj-megamenu dj-megamenu-override dj-megamenu-wcag horizontalMenu  dj-fa-1" data-options='{"wrap":null,"animIn":"fadeInUp","animOut":"zoomOut","animSpeed":"normal","openDelay":"250","closeDelay":"500","event":"mouseenter","eventClose":"mouseleave","parentOpen":0,"fixed":"0","offset":"0","theme":"override","direction":"rtl","wcag":"1","overlay":0}' data-trigger="979" role="menubar" aria-label="DJ-MegaMenu">
+		<li class="dj-up itemid101 first" role="none"><a class="dj-up_a  " href="/"  role="menuitem"><span ><span class="title"><span class="name">الرئيسية</span></span></span></a></li><li class="dj-up itemid159 parent alias" role="none"><a class="dj-up_a  "  aria-haspopup="true" aria-expanded="false" href="/saudi-tenders-directory"  role="menuitem"><span class="dj-drop" ><span class="title"><span class="name">المناقصات</span></span><span class="arrow" aria-hidden="true"></span></span></a><div class="dj-subwrap  single_column subcols1" style=""><div class="dj-subwrap-in" style="width:200px;"><div class="dj-subcol" style="width:200px"><ul class="dj-submenu" role="menu" aria-label="المناقصات"><li class="itemid316 first parent separator" role="none"><a class="dj-more "  aria-haspopup="true" aria-expanded="false"   tabindex="0"  role="menuitem"><span class="title"><span class="name">الأقسام</span></span><span class="arrow" aria-hidden="true"></span></a><div class="dj-subwrap  single_column subcols1" style=""><div class="dj-subwrap-in" style="width:200px;"><div class="dj-subcol" style="width:200px"><ul class="dj-submenu" role="menu" aria-label="الأقسام"><li class="itemid317 first alias" role="none"><a href="/saudi-tenders-directory/type"  role="menuitem"><span class="title"><span class="name">نوع العمل</span></span></a></li><li class="itemid318 alias" role="none"><a href="/saudi-tenders-directory/location"  role="menuitem"><span class="title"><span class="name">منطقة العمل</span></span></a></li><li class="itemid319 alias" role="none"><a href="/saudi-tenders-directory/announcer"  role="menuitem"><span class="title"><span class="name">الجهة المعلنة</span></span></a></li></ul></div></div></div></li><li class="itemid160 parent separator" role="none"><a class="dj-more "  aria-haspopup="true" aria-expanded="false"   tabindex="0"  role="menuitem"><span class="title"><span class="name">المناقصات</span></span><span class="arrow" aria-hidden="true"></span></a><div class="dj-subwrap  single_column subcols1" style=""><div class="dj-subwrap-in" style="width:200px;"><div class="dj-subcol" style="width:200px"><ul class="dj-submenu" role="menu" aria-label="المناقصات"><li class="itemid320 first alias" role="none"><a href="/saudi-tenders-directory/new"  role="menuitem"><span class="title"><span class="name">المضافة مؤخرا</span></span></a></li><li class="itemid321 alias" role="none"><a href="/saudi-tenders-directory/recently-updated"  role="menuitem"><span class="title"><span class="name">المحدثة مؤخرا</span></span></a></li><li class="itemid322 alias" role="none"><a href="/saudi-tenders-directory/popular"  role="menuitem"><span class="title"><span class="name">الأكثر مشاهدة</span></span></a></li><li class="itemid323 alias" role="none"><a href="/saudi-tenders-directory/most-favoured"  role="menuitem"><span class="title"><span class="name">الأكثر تفضيلا</span></span></a></li><li class="itemid161 alias" role="none"><a href="/saudi-tenders-directory/all"  role="menuitem"><span class="title"><span class="name">كل المناقصات</span></span></a></li><li class="itemid517 alias" role="none"><a href="/saudi-tenders-directory/tenders-archive"  role="menuitem"><span class="title"><span class="name">الأرشيف (المنتهية)</span></span></a></li></ul></div></div></div></li><li class="itemid514 alias" role="none"><a href="/saudi-tenders-directory/new"  role="menuitem"><span class="title"><span class="name">جديد المناقصات</span></span></a></li><li class="itemid324 alias" role="none"><a href="/saudi-tenders-directory/saudi-tenders-notification"  role="menuitem"><span class="title"><span class="name">نشرة المناقصات اليومية</span></span></a></li></ul></div></div></div></li><li class="dj-up itemid201 parent alias" role="none"><a class="dj-up_a  "  aria-haspopup="true" aria-expanded="false" href="/saudi-laws-directory"  role="menuitem"><span class="dj-drop" ><span class="title"><span class="name">الأنظمة</span></span><span class="arrow" aria-hidden="true"></span></span></a><div class="dj-subwrap  single_column subcols1" style=""><div class="dj-subwrap-in" style="width:200px;"><div class="dj-subcol" style="width:200px"><ul class="dj-submenu" role="menu" aria-label="الأنظمة"><li class="itemid360 first parent separator" role="none"><a class="dj-more "  aria-haspopup="true" aria-expanded="false"   tabindex="0"  role="menuitem"><span class="title"><span class="name">الأقسام</span></span><span class="arrow" aria-hidden="true"></span></a><div class="dj-subwrap  single_column subcols1" style=""><div class="dj-subwrap-in" style="width:200px;"><div class="dj-subcol" style="width:200px"><ul class="dj-submenu" role="menu" aria-label="الأقسام"><li class="itemid379 first alias" role="none"><a href="/saudi-laws-directory/أنظمة-الجرائم-والعقوبات"  role="menuitem"><span class="title"><span class="name">أنظمة الجرائم والعقوبات</span></span></a></li><li class="itemid363 alias" role="none"><a href="/saudi-laws-directory/الأحوال-المدنية-والجنسية-والأمن-الداخلي"  role="menuitem"><span class="title"><span class="name">الأحوال المدنية والجنسية والأمن الداخلي</span></span></a></li><li class="itemid361 alias" role="none"><a href="/saudi-laws-directory/أنظمة-أساسية"  role="menuitem"><span class="title"><span class="name">أنظمة أساسية</span></span></a></li><li class="itemid372 alias" role="none"><a href="/saudi-laws-directory/الأنظمة-البحرية"  role="menuitem"><span class="title"><span class="name">الأنظمة البحرية</span></span></a></li><li class="itemid371 alias" role="none"><a href="/saudi-laws-directory/الأنظمة-القضائية"  role="menuitem"><span class="title"><span class="name">الأنظمة القضائية</span></span></a></li><li class="itemid364 alias" role="none"><a href="/saudi-laws-directory/الأنظمة-الموحدة-لمجلس-التعاون-لدول-الخليج-العربية"  role="menuitem"><span class="title"><span class="name">الأنظمة الموحدة لمجلس التعاون لدول الخليج العربية</span></span></a></li><li class="itemid374 alias" role="none"><a href="/saudi-laws-directory/التعليم"  role="menuitem"><span class="title"><span class="name">أنظمة التعليم والعلوم</span></span></a></li><li class="itemid365 alias" role="none"><a href="/saudi-laws-directory/المواصلات-والنقل"  role="menuitem"><span class="title"><span class="name">أنظمة المواصلات والاتصالات</span></span></a></li><li class="itemid366 alias" role="none"><a href="/saudi-laws-directory/المال-والرقابة"  role="menuitem"><span class="title"><span class="name">أنظمة المالية العامة</span></span></a></li><li class="itemid367 alias" role="none"><a href="/saudi-laws-directory/حقوق-الإنسان-ورعاية-المجتمع"  role="menuitem"><span class="title"><span class="name">أنظمة الرعاية الاجتماعية</span></span></a></li><li class="itemid368 alias" role="none"><a href="/saudi-laws-directory/الشؤون-الصحية"  role="menuitem"><span class="title"><span class="name">أنظمة الشئون الصحية</span></span></a></li><li class="itemid369 alias" role="none"><a href="/saudi-laws-directory/الحج-والشؤون-الإسلامية"  role="menuitem"><span class="title"><span class="name">أنظمة الشئون الإسلامية</span></span></a></li><li class="itemid362 alias" role="none"><a href="/saudi-laws-directory/العمل-والتأمينات-الإجتماعية"  role="menuitem"><span class="title"><span class="name">أنظمة العمل</span></span></a></li><li class="itemid370 alias" role="none"><a href="/saudi-laws-directory/السياحة-والآثار"  role="menuitem"><span class="title"><span class="name">أنظمة السياحة والأثار</span></span></a></li><li class="itemid373 alias" role="none"><a href="/saudi-laws-directory/أنظمة-الشباب-والرياضة"  role="menuitem"><span class="title"><span class="name">أنظمة الرياضة والشباب</span></span></a></li><li class="itemid375 alias" role="none"><a href="/saudi-laws-directory/الأوسمة-والجوائز-والشؤون-الخارجية"  role="menuitem"><span class="title"><span class="name">أنظمة التشريفات والمراسم</span></span></a></li><li class="itemid376 alias" role="none"><a href="/saudi-laws-directory/أنظمة-التجارة-والإستثمار"  role="menuitem"><span class="title"><span class="name">أنظمة التجارة والاستثمار</span></span></a></li><li class="itemid377 alias" role="none"><a href="/saudi-laws-directory/الخدمات-البلدية-والتخطيط"  role="menuitem"><span class="title"><span class="name">أنظمة البلدية والتخطيط والتطوير الحضري</span></span></a></li><li class="itemid378 alias" role="none"><a href="/saudi-laws-directory/الإعلام-والثقافة-والنشر"  role="menuitem"><span class="title"><span class="name">الإعلام والثقافة والنشر</span></span></a></li><li class="itemid1679 alias" role="none"><a href="/saudi-laws-directory/غير-السعوديين"  role="menuitem"><span class="title"><span class="name">غير السعوديين</span></span></a></li></ul></div></div></div></li><li class="itemid380 parent separator" role="none"><a class="dj-more "  aria-haspopup="true" aria-expanded="false"   tabindex="0"  role="menuitem"><span class="title"><span class="name">الوثائق</span></span><span class="arrow" aria-hidden="true"></span></a><div class="dj-subwrap  single_column subcols1" style=""><div class="dj-subwrap-in" style="width:200px;"><div class="dj-subcol" style="width:200px"><ul class="dj-submenu" role="menu" aria-label="الوثائق"><li class="itemid381 first alias" role="none"><a href="/saudi-laws-directory/new"  role="menuitem"><span class="title"><span class="name">مضافة مؤخرا</span></span></a></li><li class="itemid382 alias" role="none"><a href="/saudi-laws-directory/updated"  role="menuitem"><span class="title"><span class="name">محدثة مؤخرا</span></span></a></li><li class="itemid383 alias" role="none"><a href="/saudi-laws-directory/all"  role="menuitem"><span class="title"><span class="name">كل الوثائق</span></span></a></li><li class="itemid384 alias" role="none"><a href="/saudi-laws-directory/popular"  role="menuitem"><span class="title"><span class="name">الأكثر مشاهدة</span></span></a></li><li class="itemid385 alias" role="none"><a href="/saudi-laws-directory/most-favoured"  role="menuitem"><span class="title"><span class="name">الأكثر تفضيلا</span></span></a></li></ul></div></div></div></li><li class="itemid518 alias" role="none"><a href="/saudi-laws-directory/new"  role="menuitem"><span class="title"><span class="name">جديد الأنظمة</span></span></a></li><li class="itemid387 alias" role="none"><a href="/saudi-laws-directory/saudi-laws-notification"  role="menuitem"><span class="title"><span class="name">نشرة الأنظمة اليومية</span></span></a></li></ul></div></div></div></li><li class="dj-up itemid150 parent alias" role="none"><a class="dj-up_a  "  aria-haspopup="true" aria-expanded="false" href="/forum"  role="menuitem"><span class="dj-drop" ><span class="title"><span class="name">المنتديات</span></span><span class="arrow" aria-hidden="true"></span></span></a><div class="dj-subwrap  single_column subcols1" style=""><div class="dj-subwrap-in" style="width:200px;"><div class="dj-subcol" style="width:200px"><ul class="dj-submenu" role="menu" aria-label="المنتديات"><li class="itemid392 first alias" role="none"><a href="/forum/newtopic"  role="menuitem"><span class="title"><span class="name">أضف موضوع</span></span></a></li><li class="itemid389 alias" role="none"><a href="/forum/index"  role="menuitem"><span class="title"><span class="name">أقسام المنتديات</span></span></a></li><li class="itemid390 alias" role="none"><a href="/forum/recent"  role="menuitem"><span class="title"><span class="name">نقاشات جديدة</span></span></a></li><li class="itemid391 alias" role="none"><a href="/forum/noreplies"  role="menuitem"><span class="title"><span class="name">في إنتظار ردود</span></span></a></li><li class="itemid459 alias" role="none"><a href="/forum/search"  role="menuitem"><span class="title"><span class="name">بحث في المنتديات</span></span></a></li></ul></div></div></div></li><li class="dj-up itemid396 active parent alias" role="none"><a class="dj-up_a active "  aria-haspopup="true" aria-expanded="false" href="/library"  role="menuitem"><span class="dj-drop" ><span class="title"><span class="name">المكتبة</span></span><span class="arrow" aria-hidden="true"></span></span></a><div class="dj-subwrap  single_column subcols1" style=""><div class="dj-subwrap-in" style="width:200px;"><div class="dj-subcol" style="width:200px"><ul class="dj-submenu" role="menu" aria-label="المكتبة"><li class="itemid461 first alias" role="none"><a href="/library/search-library"  role="menuitem"><span class="title"><span class="name">بحث في المكتبة</span></span></a></li><li class="itemid401 alias" role="none"><a href="/library/management-articles"  role="menuitem"><span class="title"><span class="name">مقالات في الإدارة</span></span></a></li><li class="itemid402 alias" role="none"><a href="/library/hr-articles"  role="menuitem"><span class="title"><span class="name">مقالات في الموارد بشرية</span></span></a></li><li class="itemid403 alias" role="none"><a href="/library/finance-articles"  role="menuitem"><span class="title"><span class="name">مقالات في الإدارة المالية</span></span></a></li><li class="itemid404 alias" role="none"><a href="/library/sales-marketing-articles"  role="menuitem"><span class="title"><span class="name">مقالات في المبيعات والتسويق</span></span></a></li><li class="itemid405 alias" role="none"><a href="/library/econ-articles"  role="menuitem"><span class="title"><span class="name">مقالات إقتصادية</span></span></a></li><li class="itemid406 active alias" role="none"><a class="active " href="/library/self-improve-articles"  role="menuitem"><span class="title"><span class="name">مقالات في تطوير الذات</span></span></a></li></ul></div></div></div></li></ul>
+			<div id="dj-megamenu150mobile" class="dj-megamenu-offcanvas dj-megamenu-offcanvas-light ">
+	<button class="dj-mobile-open-btn dj-fa-1" aria-label="Open mobile menu"><span class="dj-mobile-open-icon" aria-hidden="true"></span></button>	<aside id="dj-megamenu150offcanvas" class="dj-offcanvas dj-offcanvas-light dj-offcanvas-right dj-fa-1 " data-effect="3" aria-hidden="true" aria-label="DJ-MegaMenu">
+		<div class="dj-offcanvas-top">
+			<button class="dj-offcanvas-close-btn" aria-label="Close mobile menu"><span class="dj-offcanvas-close-icon" aria-hidden="true"></span></button>
+		</div>
+					<div class="dj-offcanvas-logo">
+				<a href="https://www.almirkaz.com/">
+					<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22234%22%20height%3D%2284%22%20viewBox%3D%220%200%20234%2084%22%2F%3E" data-original="/images/al-logo.png" loading="lazy" alt="المركاز - دليل أعمال المملكة" />
+				</a>
+			</div>
+						<div class="dj-offcanvas-content">
+			<ul class="dj-mobile-nav dj-mobile-light " role="menubar">
+<li class="dj-mobileitem itemid-101" role="none"><a class="active " href="/"  role="menuitem"><span class="title"><span class="name">الرئيسية</span></span></a></li><li class="dj-mobileitem itemid-159 deeper parent" role="none"><a class="active "  aria-haspopup="true" aria-expanded="false" href="/saudi-tenders-directory"  role="menuitem"><span class="title"><span class="name">المناقصات</span></span></a><ul class="dj-mobile-nav-child"><li class="dj-mobileitem itemid-316 divider deeper parent" role="none"><a class="active "  aria-haspopup="true" aria-expanded="false"   tabindex="0"  role="menuitem"><span class="title"><span class="name">الأقسام</span></span></a><ul class="dj-mobile-nav-child"><li class="dj-mobileitem itemid-317" role="none"><a class="active " href="/saudi-tenders-directory/type"  role="menuitem"><span class="title"><span class="name">نوع العمل</span></span></a></li><li class="dj-mobileitem itemid-318" role="none"><a class="active " href="/saudi-tenders-directory/location"  role="menuitem"><span class="title"><span class="name">منطقة العمل</span></span></a></li><li class="dj-mobileitem itemid-319" role="none"><a class="active " href="/saudi-tenders-directory/announcer"  role="menuitem"><span class="title"><span class="name">الجهة المعلنة</span></span></a></li></ul></li><li class="dj-mobileitem itemid-160 divider deeper parent" role="none"><a class="active "  aria-haspopup="true" aria-expanded="false"   tabindex="0"  role="menuitem"><span class="title"><span class="name">المناقصات</span></span></a><ul class="dj-mobile-nav-child"><li class="dj-mobileitem itemid-320" role="none"><a class="active " href="/saudi-tenders-directory/new"  role="menuitem"><span class="title"><span class="name">المضافة مؤخرا</span></span></a></li><li class="dj-mobileitem itemid-321" role="none"><a class="active " href="/saudi-tenders-directory/recently-updated"  role="menuitem"><span class="title"><span class="name">المحدثة مؤخرا</span></span></a></li><li class="dj-mobileitem itemid-322" role="none"><a class="active " href="/saudi-tenders-directory/popular"  role="menuitem"><span class="title"><span class="name">الأكثر مشاهدة</span></span></a></li><li class="dj-mobileitem itemid-323" role="none"><a class="active " href="/saudi-tenders-directory/most-favoured"  role="menuitem"><span class="title"><span class="name">الأكثر تفضيلا</span></span></a></li><li class="dj-mobileitem itemid-161" role="none"><a class="active " href="/saudi-tenders-directory/all"  role="menuitem"><span class="title"><span class="name">كل المناقصات</span></span></a></li><li class="dj-mobileitem itemid-517" role="none"><a class="active " href="/saudi-tenders-directory/tenders-archive"  role="menuitem"><span class="title"><span class="name">الأرشيف (المنتهية)</span></span></a></li></ul></li><li class="dj-mobileitem itemid-514" role="none"><a class="active " href="/saudi-tenders-directory/new"  role="menuitem"><span class="title"><span class="name">جديد المناقصات</span></span></a></li><li class="dj-mobileitem itemid-324" role="none"><a class="active " href="/saudi-tenders-directory/saudi-tenders-notification"  role="menuitem"><span class="title"><span class="name">نشرة المناقصات اليومية</span></span></a></li></ul></li><li class="dj-mobileitem itemid-201 deeper parent" role="none"><a class="active "  aria-haspopup="true" aria-expanded="false" href="/saudi-laws-directory"  role="menuitem"><span class="title"><span class="name">الأنظمة</span></span></a><ul class="dj-mobile-nav-child"><li class="dj-mobileitem itemid-360 divider deeper parent" role="none"><a class="active "  aria-haspopup="true" aria-expanded="false"   tabindex="0"  role="menuitem"><span class="title"><span class="name">الأقسام</span></span></a><ul class="dj-mobile-nav-child"><li class="dj-mobileitem itemid-379" role="none"><a class="active " href="/saudi-laws-directory/أنظمة-الجرائم-والعقوبات"  role="menuitem"><span class="title"><span class="name">أنظمة الجرائم والعقوبات</span></span></a></li><li class="dj-mobileitem itemid-363" role="none"><a class="active " href="/saudi-laws-directory/الأحوال-المدنية-والجنسية-والأمن-الداخلي"  role="menuitem"><span class="title"><span class="name">الأحوال المدنية والجنسية والأمن الداخلي</span></span></a></li><li class="dj-mobileitem itemid-361" role="none"><a class="active " href="/saudi-laws-directory/أنظمة-أساسية"  role="menuitem"><span class="title"><span class="name">أنظمة أساسية</span></span></a></li><li class="dj-mobileitem itemid-372" role="none"><a class="active " href="/saudi-laws-directory/الأنظمة-البحرية"  role="menuitem"><span class="title"><span class="name">الأنظمة البحرية</span></span></a></li><li class="dj-mobileitem itemid-371" role="none"><a class="active " href="/saudi-laws-directory/الأنظمة-القضائية"  role="menuitem"><span class="title"><span class="name">الأنظمة القضائية</span></span></a></li><li class="dj-mobileitem itemid-364" role="none"><a class="active " href="/saudi-laws-directory/الأنظمة-الموحدة-لمجلس-التعاون-لدول-الخليج-العربية"  role="menuitem"><span class="title"><span class="name">الأنظمة الموحدة لمجلس التعاون لدول الخليج العربية</span></span></a></li><li class="dj-mobileitem itemid-374" role="none"><a class="active " href="/saudi-laws-directory/التعليم"  role="menuitem"><span class="title"><span class="name">أنظمة التعليم والعلوم</span></span></a></li><li class="dj-mobileitem itemid-365" role="none"><a class="active " href="/saudi-laws-directory/المواصلات-والنقل"  role="menuitem"><span class="title"><span class="name">أنظمة المواصلات والاتصالات</span></span></a></li><li class="dj-mobileitem itemid-366" role="none"><a class="active " href="/saudi-laws-directory/المال-والرقابة"  role="menuitem"><span class="title"><span class="name">أنظمة المالية العامة</span></span></a></li><li class="dj-mobileitem itemid-367" role="none"><a class="active " href="/saudi-laws-directory/حقوق-الإنسان-ورعاية-المجتمع"  role="menuitem"><span class="title"><span class="name">أنظمة الرعاية الاجتماعية</span></span></a></li><li class="dj-mobileitem itemid-368" role="none"><a class="active " href="/saudi-laws-directory/الشؤون-الصحية"  role="menuitem"><span class="title"><span class="name">أنظمة الشئون الصحية</span></span></a></li><li class="dj-mobileitem itemid-369" role="none"><a class="active " href="/saudi-laws-directory/الحج-والشؤون-الإسلامية"  role="menuitem"><span class="title"><span class="name">أنظمة الشئون الإسلامية</span></span></a></li><li class="dj-mobileitem itemid-362" role="none"><a class="active " href="/saudi-laws-directory/العمل-والتأمينات-الإجتماعية"  role="menuitem"><span class="title"><span class="name">أنظمة العمل</span></span></a></li><li class="dj-mobileitem itemid-370" role="none"><a class="active " href="/saudi-laws-directory/السياحة-والآثار"  role="menuitem"><span class="title"><span class="name">أنظمة السياحة والأثار</span></span></a></li><li class="dj-mobileitem itemid-373" role="none"><a class="active " href="/saudi-laws-directory/أنظمة-الشباب-والرياضة"  role="menuitem"><span class="title"><span class="name">أنظمة الرياضة والشباب</span></span></a></li><li class="dj-mobileitem itemid-375" role="none"><a class="active " href="/saudi-laws-directory/الأوسمة-والجوائز-والشؤون-الخارجية"  role="menuitem"><span class="title"><span class="name">أنظمة التشريفات والمراسم</span></span></a></li><li class="dj-mobileitem itemid-376" role="none"><a class="active " href="/saudi-laws-directory/أنظمة-التجارة-والإستثمار"  role="menuitem"><span class="title"><span class="name">أنظمة التجارة والاستثمار</span></span></a></li><li class="dj-mobileitem itemid-377" role="none"><a class="active " href="/saudi-laws-directory/الخدمات-البلدية-والتخطيط"  role="menuitem"><span class="title"><span class="name">أنظمة البلدية والتخطيط والتطوير الحضري</span></span></a></li><li class="dj-mobileitem itemid-378" role="none"><a class="active " href="/saudi-laws-directory/الإعلام-والثقافة-والنشر"  role="menuitem"><span class="title"><span class="name">الإعلام والثقافة والنشر</span></span></a></li><li class="dj-mobileitem itemid-1679" role="none"><a class="active " href="/saudi-laws-directory/غير-السعوديين"  role="menuitem"><span class="title"><span class="name">غير السعوديين</span></span></a></li></ul></li><li class="dj-mobileitem itemid-380 divider deeper parent" role="none"><a class="active "  aria-haspopup="true" aria-expanded="false"   tabindex="0"  role="menuitem"><span class="title"><span class="name">الوثائق</span></span></a><ul class="dj-mobile-nav-child"><li class="dj-mobileitem itemid-381" role="none"><a class="active " href="/saudi-laws-directory/new"  role="menuitem"><span class="title"><span class="name">مضافة مؤخرا</span></span></a></li><li class="dj-mobileitem itemid-382" role="none"><a class="active " href="/saudi-laws-directory/updated"  role="menuitem"><span class="title"><span class="name">محدثة مؤخرا</span></span></a></li><li class="dj-mobileitem itemid-383" role="none"><a class="active " href="/saudi-laws-directory/all"  role="menuitem"><span class="title"><span class="name">كل الوثائق</span></span></a></li><li class="dj-mobileitem itemid-384" role="none"><a class="active " href="/saudi-laws-directory/popular"  role="menuitem"><span class="title"><span class="name">الأكثر مشاهدة</span></span></a></li><li class="dj-mobileitem itemid-385" role="none"><a class="active " href="/saudi-laws-directory/most-favoured"  role="menuitem"><span class="title"><span class="name">الأكثر تفضيلا</span></span></a></li></ul></li><li class="dj-mobileitem itemid-518" role="none"><a class="active " href="/saudi-laws-directory/new"  role="menuitem"><span class="title"><span class="name">جديد الأنظمة</span></span></a></li><li class="dj-mobileitem itemid-387" role="none"><a class="active " href="/saudi-laws-directory/saudi-laws-notification"  role="menuitem"><span class="title"><span class="name">نشرة الأنظمة اليومية</span></span></a></li></ul></li><li class="dj-mobileitem itemid-150 deeper parent" role="none"><a class="active "  aria-haspopup="true" aria-expanded="false" href="/forum"  role="menuitem"><span class="title"><span class="name">المنتديات</span></span></a><ul class="dj-mobile-nav-child"><li class="dj-mobileitem itemid-392" role="none"><a class="active " href="/forum/newtopic"  role="menuitem"><span class="title"><span class="name">أضف موضوع</span></span></a></li><li class="dj-mobileitem itemid-389" role="none"><a class="active " href="/forum/index"  role="menuitem"><span class="title"><span class="name">أقسام المنتديات</span></span></a></li><li class="dj-mobileitem itemid-390" role="none"><a class="active " href="/forum/recent"  role="menuitem"><span class="title"><span class="name">نقاشات جديدة</span></span></a></li><li class="dj-mobileitem itemid-391" role="none"><a class="active " href="/forum/noreplies"  role="menuitem"><span class="title"><span class="name">في إنتظار ردود</span></span></a></li><li class="dj-mobileitem itemid-459" role="none"><a class="active " href="/forum/search"  role="menuitem"><span class="title"><span class="name">بحث في المنتديات</span></span></a></li></ul></li><li class="dj-mobileitem itemid-396 alias-parent-active deeper parent" role="none"><a class="active "  aria-haspopup="true" aria-expanded="false" href="/library"  role="menuitem"><span class="title"><span class="name">المكتبة</span></span></a><ul class="dj-mobile-nav-child"><li class="dj-mobileitem itemid-461" role="none"><a class="active " href="/library/search-library"  role="menuitem"><span class="title"><span class="name">بحث في المكتبة</span></span></a></li><li class="dj-mobileitem itemid-401" role="none"><a class="active " href="/library/management-articles"  role="menuitem"><span class="title"><span class="name">مقالات في الإدارة</span></span></a></li><li class="dj-mobileitem itemid-402" role="none"><a class="active " href="/library/hr-articles"  role="menuitem"><span class="title"><span class="name">مقالات في الموارد بشرية</span></span></a></li><li class="dj-mobileitem itemid-403" role="none"><a class="active " href="/library/finance-articles"  role="menuitem"><span class="title"><span class="name">مقالات في الإدارة المالية</span></span></a></li><li class="dj-mobileitem itemid-404" role="none"><a class="active " href="/library/sales-marketing-articles"  role="menuitem"><span class="title"><span class="name">مقالات في المبيعات والتسويق</span></span></a></li><li class="dj-mobileitem itemid-405" role="none"><a class="active " href="/library/econ-articles"  role="menuitem"><span class="title"><span class="name">مقالات إقتصادية</span></span></a></li><li class="dj-mobileitem itemid-406 current active" role="none"><a class="active " href="/library/self-improve-articles"  role="menuitem"><span class="title"><span class="name">مقالات في تطوير الذات</span></span></a></li></ul></li></ul>
+		</div>
+			</aside>
+</div>	</div></div>
+			</nav>
+		</div>
+	</div>
+	 
+</header>
+ 														<div id="jm-system-message"><div class="container-fluid"><div id="system-message-container">
+	</div>
+</div></div>														<div id="jm-main" class="">
+	<div class="container-fluid">
+				<div class="row-fluid">
+			<div id="jm-breadcrumbs" class="span12 ">
+				<div aria-label="Breadcrumbs" role="navigation">
+	<ul itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
+					<li class="active">
+				<span class="divider icon-location"></span>
+			</li>
+		
+						<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+											<a itemprop="item" href="/" class="pathway"><span itemprop="name">الرئيسية</span></a>
+					
+											<span class="divider">
+							<img src="/media/system/images/arrow_rtl.png" alt="" />						</span>
+										<meta itemprop="position" content="1">
+				</li>
+							<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+											<a itemprop="item" href="/library" class="pathway"><span itemprop="name">المكتبة</span></a>
+					
+											<span class="divider">
+							<img src="/media/system/images/arrow_rtl.png" alt="" />						</span>
+										<meta itemprop="position" content="2">
+				</li>
+							<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+											<a itemprop="item" href="/library/self-improve-articles" class="pathway"><span itemprop="name">مقالات في تطوير الذات</span></a>
+					
+											<span class="divider">
+							<img src="/media/system/images/arrow_rtl.png" alt="" />						</span>
+										<meta itemprop="position" content="3">
+				</li>
+							<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="active">
+					<span itemprop="name">
+						لغة العيون					</span>
+					<meta itemprop="position" content="4">
+				</li>
+				</ul>
+</div>
+
+			</div>
+		</div>
+				<div class="row-fluid">
+			<div id="jm-content" class="span9" data-xtablet="span12" data-tablet="span12" data-mobile="span12">
+												<main id="jm-maincontent">
+										<div id="jm-font-switcher" class="text-right">
+						<a href="javascript:void(0);" class="texttoggler small" rel="smallview" title="small size">A</a>
+						<a href="javascript:void(0);" class="texttoggler normal" rel="normalview" title="normal size">A</a>
+						<a href="javascript:void(0);" class="texttoggler large" rel="largeview" title="large size">A</a>
+						<script type="text/javascript">
+						//documenttextsizer.setup("shared_css_class_of_toggler_controls")
+						documenttextsizer.setup("texttoggler");
+						</script>
+					</div>
+										<div class="item-page" itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="ar-AA" />
+	
+		
+			<div class="page-header">
+		<h2 itemprop="headline">
+			لغة العيون		</h2>
+							</div>
+					
+		
+	
+	
+		
+						<div itemprop="articleBody">
+		<p style="text-align: right;">إن العيون ليست وسيلة فقط لرؤية الخارج بل هي وسيلة بليغة للتعبير عما في الداخل أي ما في النفوس والقلوب ونقله للخارج .<br /><br />فهناك النظرات القلقة المضطربة وغيرها المستغيثة المهزومة المستسلمة ، وأخرى حاقدة ثائرة ، وأخرى ساخرة ، وأخرى مصممة ، وأخرى سارحة لا مبالية ، وأخرى مستفهمة وأخرى محبة ، وهكذا تتعدد النظرات المعبرة وقد سمى القرآن بعض النظرات ( خائنة الأعين ) .<br /><br />والإنسان في تعامله مع لغة العيون يتعامل معها كوسيلة تعبير عما في نفسه للآخرين ، وكذا يتعامل معها كوسيلة لفهم ما في نفوس الآخرين .</p>
+ 
+<p style="text-align: right;"><br /><strong>التعبير الأمثل بالعيون</strong><br /><br />إذا أردت إيصال مرادك بعينيك فاحرص على الأمور الآتية:<br /><br />- أن تكون عيناك مرتاحتين أثناء الكلام مما يشعر الآخر بالاطمئنان إليك والثقة في سلامة موقفك وصحة أفكارك . <br />- تحدث إليه ورأسك مرتفع إلى الأعلى ، لأن طأطأة الرأس أثناء الحديث ، يشعر بالهزيمة والضعف والخور . <br />- لا تنظر بعيداً عن المتحدث أو تثبت نظرك في السماء أو الأرض أثناء الحديث ، لأن ذلك يشعر باللامبالاة بمن تتحدث معه أو بعدم الاهتمام بالموضوع الذي تتحدث فيه . <br />- لا تطيل التحديق بشكل محرج فيمن تتحدث معه . <br />- أحذر من كثرة الرمش بعينيك أثناء الحديث ، لأن هذا يشعر بالقلق واضطراب . <br />- ابتعد عن لبس النظارات القاتمة أثناء الحديث مع غيرك ، لأن ذلك يعيق بناء الثقة بينك وبينه . <br />- أحذر من النظرات الساخرة الباهتة إلى من يتحدث إليك أو تتحدث معه ، لأن ذلك ينسف جسور التفاهم والثقة بينك وبينه ، ولا يشجعه على الاستمرار في التواصل معك ورب نظرة أورثت حسرة . <br /><br /><br /><strong>كيف تفهم ما في نفوس الآخرين من خلال نظرات عيونهم ؟</strong><br /><br />لقد قام علماء النفس بالكثير من التجارب للوصول إلى معرفة دلالات حركات العيون عما في النفوس ، ورحم الله ابن القيم الذي قال : إن العيون مغاريف القلوب بها يعرف ما في القلوب وإن لم يتكلم صاحبها . <br /><br />وكان مما وصلوا إليه كما ذكر الدكتور محمد التكريتي في كتابه ( آفاق بلا حدود ) :<br /><br />النظر أثناء الكلام إلى جهة الأعلى لليسار: يعني أن الإنسان يعبر عن صور داخلية في الذاكرة ، وإن كان يتكلم وعيناه تزيغان لجهة اليمين للأعلى فهو ينشئ صوراً داخلية ويركبها ولم يسبق له أن رآها، أما إن كانت عيناه تتجهان لجهة اليسار مباشرة فهو ينشي كلاماً لم يسبق أن سمعه، وإن نظر لجهة اليمين للأسفل فهو يتحدث عن إحساس داخلي ومشاعر داخلية وإن نظر لجهة اليسار من الأسفل فهو يستمتع إلى نفسه ويحدثها في داخله كمن يقرأ مع نفسه مثلاً . <br /><br />هذا في حالة الإنسان العادي، أما الإنسان الأعسر فهو عكس ما ذكرنا تماماً.<br /><br />وبناء على هذه المعلومات يمكنك أن تحدد كمن أي الأنماط يتحدث الإنسان وهو يتحدث معك بل ويُمكنك عند قراءة قصيدة أو قطعة نثرية أن تحدد النمط الذي كان يعيشه صاحبها عند إعداده لها هل هو النمط السمعي أو الصوري من الذاكرة أو مما ينشئه أو من الأحاسيس الداخلية ، وذلك من خلال تأمل كلامه وتصنيفه في أحد الأصناف السابقة .<br />--<br />حتى لا تكون كلا -د عوض القرني - مركز المدينة المنورة للعلم والهندسة.</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_69"></div>
+
+</div>	</div>
+
+											<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+							</dt>
+
+			
+			
+			
+			
+			
+		
+					
+			
+										<dd class="hits">
+					<span class="icon-eye-open" aria-hidden="true"></span>
+					<meta itemprop="interactionCount" content="UserPageVisits:18962" />
+					الزيارات: 18962			</dd>						</dl>
+					
+	<ul class="pager pagenav">
+	<li class="previous">
+		<a class="hasTooltip" title="تطوير الذات" aria-label="المقال السابق: تطوير الذات" href="/library/self-improve-articles/78-تطوير-الذات" rel="prev">
+			<span class="icon-chevron-right" aria-hidden="true"></span> <span aria-hidden="true">السابق</span>		</a>
+	</li>
+	<li class="next">
+		<a class="hasTooltip" title="البرمجة اللغوية العصبية NLP" aria-label="المقال التالي: البرمجة اللغوية العصبية NLP" href="/library/self-improve-articles/68-البرمجة-اللغوية-العصبية-nlp" rel="next">
+			<span aria-hidden="true">التالي</span> <span class="icon-chevron-left" aria-hidden="true"></span>		</a>
+	</li>
+</ul>
+									<div id="fd" data-kt-structure="69590239ee619">
+	
+	<div
+		id="kt"
+	class="kt-frontend
+	light si-theme-		"
+		data-kt-compact-wrapper
+	data-component="com_content"
+	data-cid="69"
+	data-type="inline"
+>
+	<div
+				data-kt-wrapper
+		data-component="com_content"
+		data-cid="69" 
+		data-url="L2xpYnJhcnkvc2VsZi1pbXByb3ZlLWFydGljbGVzLzY5LSVEOSU4NCVEOCVCQSVEOCVBOS0lRDglQTclRDklODQlRDglQjklRDklOEElRDklODglRDklODY="
+		data-live="1"
+		data-live-interval="180"
+	>
+				<div data-kt-loader class="t-hidden">
+			<div class="space-y-md">
+			<div class="o-placeholder-loader">
+			<div class="flex w-full">
+								<div class="flex-shrink-0 h-[40px] w-[40px]">
+					<div class="o-placeholder-box h-[40px] w-[40px] rounded-full"></div>
+				</div>
+				
+				<div class="ml-md space-y-xs flex flex-grow flex-col">
+										<div class="o-placeholder-box w-11/12"></div>
+										<div class="o-placeholder-box w-12/12"></div>
+										<div class="o-placeholder-box w-9/12"></div>
+										<div class="o-placeholder-box w-8/12"></div>
+									</div>
+
+							</div>
+		</div>
+			<div class="o-placeholder-loader">
+			<div class="flex w-full">
+								<div class="flex-shrink-0 h-[40px] w-[40px]">
+					<div class="o-placeholder-box h-[40px] w-[40px] rounded-full"></div>
+				</div>
+				
+				<div class="ml-md space-y-xs flex flex-grow flex-col">
+										<div class="o-placeholder-box w-11/12"></div>
+										<div class="o-placeholder-box w-12/12"></div>
+										<div class="o-placeholder-box w-9/12"></div>
+										<div class="o-placeholder-box w-8/12"></div>
+									</div>
+
+							</div>
+		</div>
+			<div class="o-placeholder-loader">
+			<div class="flex w-full">
+								<div class="flex-shrink-0 h-[40px] w-[40px]">
+					<div class="o-placeholder-box h-[40px] w-[40px] rounded-full"></div>
+				</div>
+				
+				<div class="ml-md space-y-xs flex flex-grow flex-col">
+										<div class="o-placeholder-box w-11/12"></div>
+										<div class="o-placeholder-box w-12/12"></div>
+										<div class="o-placeholder-box w-9/12"></div>
+										<div class="o-placeholder-box w-8/12"></div>
+									</div>
+
+							</div>
+		</div>
+			<div class="o-placeholder-loader">
+			<div class="flex w-full">
+								<div class="flex-shrink-0 h-[40px] w-[40px]">
+					<div class="o-placeholder-box h-[40px] w-[40px] rounded-full"></div>
+				</div>
+				
+				<div class="ml-md space-y-xs flex flex-grow flex-col">
+										<div class="o-placeholder-box w-11/12"></div>
+										<div class="o-placeholder-box w-12/12"></div>
+										<div class="o-placeholder-box w-9/12"></div>
+										<div class="o-placeholder-box w-8/12"></div>
+									</div>
+
+							</div>
+		</div>
+			<div class="o-placeholder-loader">
+			<div class="flex w-full">
+								<div class="flex-shrink-0 h-[40px] w-[40px]">
+					<div class="o-placeholder-box h-[40px] w-[40px] rounded-full"></div>
+				</div>
+				
+				<div class="ml-md space-y-xs flex flex-grow flex-col">
+										<div class="o-placeholder-box w-11/12"></div>
+										<div class="o-placeholder-box w-12/12"></div>
+										<div class="o-placeholder-box w-9/12"></div>
+										<div class="o-placeholder-box w-8/12"></div>
+									</div>
+
+							</div>
+		</div>
+			<div class="o-placeholder-loader">
+			<div class="flex w-full">
+								<div class="flex-shrink-0 h-[40px] w-[40px]">
+					<div class="o-placeholder-box h-[40px] w-[40px] rounded-full"></div>
+				</div>
+				
+				<div class="ml-md space-y-xs flex flex-grow flex-col">
+										<div class="o-placeholder-box w-11/12"></div>
+										<div class="o-placeholder-box w-12/12"></div>
+										<div class="o-placeholder-box w-9/12"></div>
+										<div class="o-placeholder-box w-8/12"></div>
+									</div>
+
+							</div>
+		</div>
+			<div class="o-placeholder-loader">
+			<div class="flex w-full">
+								<div class="flex-shrink-0 h-[40px] w-[40px]">
+					<div class="o-placeholder-box h-[40px] w-[40px] rounded-full"></div>
+				</div>
+				
+				<div class="ml-md space-y-xs flex flex-grow flex-col">
+										<div class="o-placeholder-box w-11/12"></div>
+										<div class="o-placeholder-box w-12/12"></div>
+										<div class="o-placeholder-box w-9/12"></div>
+										<div class="o-placeholder-box w-8/12"></div>
+									</div>
+
+							</div>
+		</div>
+			<div class="o-placeholder-loader">
+			<div class="flex w-full">
+								<div class="flex-shrink-0 h-[40px] w-[40px]">
+					<div class="o-placeholder-box h-[40px] w-[40px] rounded-full"></div>
+				</div>
+				
+				<div class="ml-md space-y-xs flex flex-grow flex-col">
+										<div class="o-placeholder-box w-11/12"></div>
+										<div class="o-placeholder-box w-12/12"></div>
+										<div class="o-placeholder-box w-9/12"></div>
+										<div class="o-placeholder-box w-8/12"></div>
+									</div>
+
+							</div>
+		</div>
+			<div class="o-placeholder-loader">
+			<div class="flex w-full">
+								<div class="flex-shrink-0 h-[40px] w-[40px]">
+					<div class="o-placeholder-box h-[40px] w-[40px] rounded-full"></div>
+				</div>
+				
+				<div class="ml-md space-y-xs flex flex-grow flex-col">
+										<div class="o-placeholder-box w-11/12"></div>
+										<div class="o-placeholder-box w-12/12"></div>
+										<div class="o-placeholder-box w-9/12"></div>
+										<div class="o-placeholder-box w-8/12"></div>
+									</div>
+
+							</div>
+		</div>
+			<div class="o-placeholder-loader">
+			<div class="flex w-full">
+								<div class="flex-shrink-0 h-[40px] w-[40px]">
+					<div class="o-placeholder-box h-[40px] w-[40px] rounded-full"></div>
+				</div>
+				
+				<div class="ml-md space-y-xs flex flex-grow flex-col">
+										<div class="o-placeholder-box w-11/12"></div>
+										<div class="o-placeholder-box w-12/12"></div>
+										<div class="o-placeholder-box w-9/12"></div>
+										<div class="o-placeholder-box w-8/12"></div>
+									</div>
+
+							</div>
+		</div>
+	</div>		</div>
+
+		<div class="space-y-md" data-kt-container-content></div>
+			</div>
+</div>
+
+	<!--[KOMENTO PAID START]-->
+		<!--[KOMENTO PAID END]-->
+
+	<div class="t-hidden" data-fd-tooltip-wrapper>
+	<div id="fd" data-fd-tooltip-block data-appearance="light">
+		<div class="light si-theme-">
+			<div class="o-tooltip" data-fd-tooltip-message></div>
+		</div>
+	</div>
+</div></div></div>
+				</main>
+												<div id="jm-content-bottom" class="">
+									</div>
+							</div>
+									<aside id="jm-right" class="span3" data-xtablet="span12 first-span" data-tablet="span12 first-span" data-mobile="span12 first-span">
+				<div class="">
+					<div class="jm-module color-ms"><div class="jm-module-in"><h3 class="jm-title "><span>الإخطار</span> الآلي للمناقصات</h3><div class="jm-module-content clearfix ">
+
+<div class="customcolor-ms"  >
+	<p dir="rtl"><span style="color: #000000;"><img style="float: left;" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22118%22%20height%3D%22106%22%20viewBox%3D%220%200%20118%20106%22%2F%3E" data-original="/images/email-logo-samll.jpg" loading="lazy" alt="" />إستلم المناقصات الجديدة على بريدك الإلكتروني <span style="color: #ff0000;"><strong>مجانا!</strong></span></span></p>
+<p> </p>
+<p dir="rtl"><strong><a class="btn" title="إضغط هنا للإشتراك" href="/saudi-tenders-directory/saudi-tenders-notification">للإشتراك</a></strong></p></div>
+</div></div></div><div class="jm-module color-ms"><div class="jm-module-in"><h3 class="jm-title "><span>مكتبة</span> المركاز</h3><div class="jm-module-content clearfix "><ul class="nav menu mod-list">
+<li class="item-393"><a href="/library/management-articles" >مقالات في الإدارة</a></li><li class="item-394"><a href="/library/hr-articles" >مقالات في الموارد بشرية</a></li><li class="item-397"><a href="/library/finance-articles" >مقالات في الإدارة المالية</a></li><li class="item-398"><a href="/library/sales-marketing-articles" >مقالات في المبيعات والتسويق</a></li><li class="item-399"><a href="/library/econ-articles" >مقالات إقتصادية</a></li><li class="item-400 current"><a href="/library/self-improve-articles" >مقالات في تطوير الذات</a></li><li class="item-3081"><a href="/library/tech-articles" >مقالات تقنية</a></li><li class="item-460"><a href="/library/search-library" >بحث في المكتبة</a></li></ul>
+</div></div></div>				</div>
+			</aside>
+					</div>
+	</div>
+</div>
+														<div id="jm-footer-mod" class=" jm-footer">
+	<div class="container-fluid">
+		<div id="jm-footer-mod-in">
+			<div class="row-fluid jm-flexiblock jm-footer"><div class="span6"  data-default="span6" data-wide="span6" data-normal="span6" data-xtablet="span6" data-tablet="span100" data-mobile="span100"><div class="jm-module "><div class="jm-module-in"><div class="jm-module-content clearfix notitle"><ul class="nav menu horizontal-ms mod-list">
+<li class="item-286"><a href="/about" >عن المركاز</a></li><li class="item-287"><a href="/about/almirkaz-subscription-plans" >باقات الإشتراك</a></li><li class="item-288"><a href="/about/our-clients" >من عملائنا</a></li><li class="item-289"><a href="/saudi-tenders-directory/saudi-tenders-notification" >النشرات البريدية</a></li><li class="item-290"><a href="/about/terms" >إتفاقية الإستخدام</a></li><li class="item-291"><a href="/support" >الدعم والمساعدة</a></li><li class="item-294"><a href="/support/contact-us" >إتصل بنا</a></li></ul>
+</div></div></div></div><div class="span6"  data-default="span6" data-wide="span6" data-normal="span6" data-xtablet="span6" data-tablet="span100 first-span" data-mobile="span100 first-span"><div class="jm-module  text-right"><div class="jm-module-in"><div class="jm-module-content clearfix notitle">
+<div id="jmm-social-167" class="jmm-social override  text-right">
+	<div class="jmm-social-in view-1">
+				<ul class="jmm-list items-4"><li class="jmm-item item-1 "><a class="jmm-link" href="https://api.whatsapp.com/send?phone=966114554996" target="_blank" aria-label="واتس اب" title="واتس اب"><span class="jmm-img"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2250%22%20height%3D%2250%22%20viewBox%3D%220%200%2050%2050%22%2F%3E" data-original="/images/whatsapp.jpg" loading="lazy" alt="واتس اب"></span></a></li><li class="jmm-item item-2 "><a class="jmm-link" href="http://www.twitter.com/almirkaz_com" target="_blank" aria-label="تويتر" title="تويتر"><span class="jmm-ico fa fa-twitter" aria-hidden="true"></span></a></li><li class="jmm-item item-3 "><a class="jmm-link" href="http://www.facebook.com/almirkaz" target="_blank" aria-label="فيسبوك" title="فيسبوك"><span class="jmm-ico fa fa-facebook" aria-hidden="true"></span></a></li><li class="jmm-item item-4 "><a class="jmm-link" href="https://www.linkedin.com/company/almirkaz-com" target="_blank" aria-label="لينكدان" title="لينكدان"><span class="jmm-ico fa fa-linkedin" aria-hidden="true"></span></a></li></ul>	</div>
+</div>
+</div></div></div></div></div>		</div>
+	</div>
+</div>
+							<footer id="jm-footer" class="">
+	<div class="container-fluid jm-footer">
+		<div id="jm-footer-in" class="row-fluid">
+						<div id="jm-footer-right" class="pull-right span6">
+							</div>
+		</div>
+	</div>
+</footer>
+<p id="jm-back-top"><a id="backtotop" href="#"><span>&nbsp;</span></a></p>
+							
+							</div>
+	</div>
+</div></div></div><script type="text/javascript">
+
+
+Komento.ready(function($){
+	if (!Komento.editorInitialized) {
+		Komento.theme = 'light'
+		Komento.bbcode = false;
+
+		
+		Komento.editorInitialized = true;
+	}
+});
+
+Komento.require()
+.script('site/structure/structure')
+.done(function($) {
+
+	var options = {
+		"cid": "69",
+		"component": "com_content",
+		"type": "inline",
+		"commentOptions": JSON.stringify({"trigger":"onContentAfterDisplay","context":"com_content.article","params":{"article_layout":"_:default","show_title":1,"link_titles":1,"show_intro":1,"info_block_position":1,"info_block_show_title":0,"show_category":0,"link_category":1,"show_parent_category":0,"link_parent_category":0,"show_associations":0,"flags":1,"show_author":0,"link_author":0,"show_create_date":0,"show_modify_date":0,"show_publish_date":0,"show_item_navigation":1,"show_vote":0,"show_readmore":1,"show_readmore_title":1,"readmore_limit":100,"show_tags":1,"show_icons":1,"show_print_icon":0,"show_email_icon":0,"show_hits":1,"record_hits":1,"show_noauth":0,"urls_position":1,"captcha":0,"show_publishing_options":1,"show_article_options":1,"save_history":1,"history_limit":10,"show_urls_images_frontend":1,"show_urls_images_backend":1,"targeta":0,"targetb":0,"targetc":0,"float_intro":"right","float_fulltext":"right","category_layout":"_:blog","show_category_heading_title_text":0,"show_category_title":0,"show_description":1,"show_description_image":0,"maxLevel":0,"show_empty_categories":1,"show_no_articles":0,"show_subcat_desc":1,"show_cat_num_articles":1,"show_cat_tags":1,"show_base_description":1,"maxLevelcat":-1,"show_empty_categories_cat":1,"show_subcat_desc_cat":1,"show_cat_num_articles_cat":1,"num_leading_articles":0,"num_intro_articles":0,"num_columns":1,"num_links":0,"multi_column_order":0,"show_subcategory_content":-1,"show_pagination_limit":1,"filter_field":"hide","show_headings":1,"list_show_date":0,"date_format":"","list_show_hits":1,"list_show_author":1,"orderby_pri":"order","orderby_sec":"rdate","order_date":"published","show_pagination":2,"show_pagination_results":1,"show_featured":"show","show_feed_link":1,"feed_summary":0,"feed_show_readmore":0,"sef_advanced":0,"sef_ids":0,"custom_fields_enable":1,"show_page_heading":0,"layout_type":"blog","menu_text":1,"menu_show":1,"secure":0,"djmegamenu-fullwidth":0,"djmegamenu-column_break":0,"djmegamenu-bg_pos_hor":"right","djmegamenu-bg_pos_ver":"bottom","djmegamenu-module_style":"System-xhtml","djmegamenu-module_show_link":0,"djmobilemenu-module_style":"System-xhtml","djmobilemenu-module_show_link":0,"page_title":"\u0645\u0642\u0627\u0644\u0627\u062a \u0641\u064a \u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0630\u0627\u062a","page_description":"\u062f\u0644\u064a\u0644 \u0627\u0644\u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0648\u0627\u0644\u0623\u0646\u0638\u0645\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0648 \u0645\u0646\u0635\u0629 \u0644\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0623\u0639\u0645\u0627\u0644.","page_rights":null,"robots":null,"access-view":true},"page":null,"enable":false,"disable":false,"lock":false,"parentid":0,"threaded":1,"loadreplies":true,"showRepliesCount":true,"sticked":0,"sort":"latest","limit":20}),
+		"initialLoad": true,
+		"returnUrl": "aHR0cHM6Ly93d3cuYWxtaXJrYXouY29tL2xpYnJhcnkvc2VsZi1pbXByb3ZlLWFydGljbGVzLzY5LSVEOSU4NCVEOCVCQSVEOCVBOS0lRDglQTclRDklODQlRDglQjklRDklOEElRDklODglRDklODYjY29tbWVudGZvcm0="
+	};
+
+	$('[data-kt-structure="69590239ee619"]').implement(Komento.Controller.Structure, options);
+});
+
+
+</script>
+</body>
+</html>

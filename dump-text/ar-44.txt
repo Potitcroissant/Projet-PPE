@@ -1,0 +1,692 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="rtl" lang="fa">
+<head>
+    <title>النظر - ویکی فقه</title>
+    <!-- <meta http-equiv="expires" content="" /> -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="https://ar.wikifeqh.ir/assets/icon/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="https://ar.wikifeqh.ir/assets/icon/favicon.ico" type="image/x-icon" />
+	
+    <link href="https://ar.wikifeqh.ir/assets/css/main-rtl.css?0410" rel="stylesheet" type="text/css" media="screen" />
+    <link href="https://ar.wikifeqh.ir/assets/css/shared.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="https://ar.wikifeqh.ir/assets/css/commonPrint.css" rel="stylesheet" type="text/css" media="print" />
+    <link href="https://ar.wikifeqh.ir/assets/css/combined.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="https://ar.wikifeqh.ir/assets/css/jquery-ui-1.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="https://ar.wikifeqh.ir/assets/css/index.css" rel="stylesheet" type="text/css" media="handheld" />
+    <link href="https://ar.wikifeqh.ir/assets/css/index_002.css" rel="stylesheet" type="text/css" media="print" />
+    <link href="https://ar.wikifeqh.ir/assets/css/index_003.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="https://ar.wikifeqh.ir/assets/css/index_004.css?980417" rel="stylesheet" type="text/css" media="all" />
+    <link href="https://ar.wikifeqh.ir/assets/css/index_005.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="https://ar.wikifeqh.ir/assets/css/style.css?35" rel="stylesheet" type="text/css" media="all" />	
+    <link href="https://ar.wikifeqh.ir/assets/css/style_ghalami.css" rel="stylesheet" type="text/css" />
+    <link href="https://ar.wikifeqh.ir/assets/css/form.css?0920" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="https://ar.wikifeqh.ir/assets/js/ms-general.js"></script>    <script type="text/javascript" src="https://ar.wikifeqh.ir/assets/js/ajax/ajax.js"></script>    <script type="text/javascript" src="https://ar.wikifeqh.ir/assets/js/jquery-1.8.3.min.js"></script>    <script type="text/javascript" src="https://ar.wikifeqh.ir/assets/js/const.js?990201"></script>
+    <style>
+        .rade_mosbat {
+            display: none;
+        }
+    </style>
+    <style>
+    </style>
+</head>
+
+<body class="rtl" style="direction:rtl">
+
+<div id="mw-page-base" class="noprint"></div>
+
+<div id="mw-head-base" class="noprint"></div>
+
+<!-- content -->
+<div id="content">
+    <a id="top"></a>
+    <!-- sitenotice -->
+    <div id="mw-js-message" style="display: none;"></div>
+    <!-- /sitenotice -->
+
+    <!-- bodyContent -->
+    <div id="bodyContent">
+
+        <!-- bodytext -->
+        <div id="mp-banner" style="margin-bottom: 1em; margin-top: 0.5em;">
+            <table id="mp-topbanner" style="border: 1px solid rgb(204, 204, 204); background:#FFF none repeat scroll 0% 0%; width: 100%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                <tbody>
+				<tr><td>
+					<div id="responsive-edit" class="resp-edit">
+						
+<ul>
+	<li><a href="https://ar.wikifeqh.ir/النظر" title="اقرأ"><img src="https://ar.wikifeqh.ir/assets/images/reading.svg" alt="خواندن" title="خواندن" /></a></li>
+	<li class="distance"></li>
+	<li><a href="https://ar.wikifeqh.ir/history/النظر" title="استعراض للتاريخ"><img src="https://ar.wikifeqh.ir/assets/images/history.svg" alt="نمایش تاریخچه" title="نمایش تاریخچه" /></a></li>
+	<li class="distance"></li>
+	<li><a href="https://ar.wikifeqh.ir/edit/النظر" title="تعديل"><img src="https://ar.wikifeqh.ir/assets/images/edit.svg" alt="ویرایش" title="ویرایش" /></a></li>
+</ul>
+					</div>
+				</td></tr>
+                <tr>
+                    <td style="width: 56%; color: rgb(0, 0, 0);" onclick="hideMenue()">
+                        &nbsp;
+                        <table width="100%" style="vertical-align: top; background-color: transparent; color: rgb(0, 0, 0);" id="Table02" width="100%" cellpadding="2" cellspacing="5">
+                            <tbody>
+                            <div style="margin:2px 2px 2px 2px;">
+    <br/>
+
+    <span class="black" style="font-size:20px;"><h1 style="font-weight: bold;font-size: larger;margin-bottom:0 !important;border-bottom:none !important;">النظر</h1></span><span class="Tools-pdf" style="float:left;"><a href="#" disabled="disabled" title="سرویس pdf موقتا در دسترس نمی باشد">احفظ هذه المقالة بتنسيق PDF</a></span><br /><br/><hr /><br/>النّظر في إصطلاح <a href="https://ar.wikifeqh.ir/الفلاسفة" title="الفلاسفة" style="color:blue;" target="_blank" name="_الفلاسفة">الفلاسفة</a> عبارة عن ترتيب أمور <a href="https://ar.wikifeqh.ir/معلومة" title="معلومة (لا يوجد رابط)" style="color:red;" name="_معلومة">معلومة</a> متصوّرة، أو <a href="https://ar.wikifeqh.ir/مصدّق" title="مصدّق (لا يوجد رابط)" style="color:red;" name="_مصدّق">مصدّق</a> بها على وجه يؤدّى إلى <a href="https://ar.wikifeqh.ir/استعلام" title="استعلام (لا يوجد رابط)" style="color:red;" name="_استعلام">استعلام</a> ما ليس بمعلوم، فهو <a href="https://ar.wikifeqh.ir/حركة_النّفس" title="حركة النّفس (لا يوجد رابط)" style="color:red;" name="_حركة_النّفس">حركة النّفس</a> في <a href="https://ar.wikifeqh.ir/المعقولات" title="المعقولات (لا يوجد رابط)" style="color:red;" name="_المعقولات">المعقولات</a> مبتدئة من <a href="https://ar.wikifeqh.ir/المطلوب" title="المطلوب (لا يوجد رابط)" style="color:red;" name="_المطلوب">المطلوب</a> مستعرضة للمعاني <a href="https://ar.wikifeqh.ir/الحاضرة" title="الحاضرة (لا يوجد رابط)" style="color:red;" name="_الحاضرة">الحاضرة</a> عندها طالبة مباديه <a href="https://ar.wikifeqh.ir/المؤدّية" title="المؤدّية (لا يوجد رابط)" style="color:red;" name="_المؤدّية">المؤدّية</a> اليه.<br /><br /><div style="direction:rtl; display:inline-block;"><div class="titlemenu"><center><h3>محتويات</h3></center><a href="#_تعريف النّظر" name="تعريف النّظر" title="تعريف النّظر" >۱ - تعريف النّظر</a><br /><a href="#_المراجع" name="المراجع" title="المراجع" >۲ - المراجع</a><br /><a href="#_المصدر" name="المصدر" title="المصدر" >۳ - المصدر</a><br /></div></div><br /><div><span class="titr"><h3><a href="#تعريف النّظر" name="_تعريف النّظر">۱ - تعريف النّظر</a></h3></span><span class="edit_tpc">[<a href="https://ar.wikifeqh.ir/edit_sub/النظر/تعريف_النّظر" title="تعديل">تعديل</a>]</span></div><hr class="titr-line">فعل <a href="https://ar.wikifeqh.ir/البصر" title="البصر (لا يوجد رابط)" style="color:red;" name="_البصر">البصر</a> يسمّى نظرا.<div class="tooltip"><a href="#foot1" name="foot-main1"> <sup>[۱]</sup></a>
+  <span class="tooltiptext">ابن سينا، ابوعلي، في النّفس، ص۶۵.</span>
+</div> ترتيب أمور <a href="https://ar.wikifeqh.ir/معلومة" title="معلومة (لا يوجد رابط)" style="color:red;" name="_معلومة">معلومة</a> متصوّرة، أو مصدّق بها على وجه يؤدّى إلى استعلام ما ليس بمعلوم.<div class="tooltip"><a href="#foot2" name="foot-main2"> <sup>[۲]</sup></a>
+  <span class="tooltiptext">الاصفهاني شمس الدين، مطالع الأنظار، ص۷، ۱۰.</span>
+</div> و <a href="https://ar.wikifeqh.ir/الفكر" title="الفكر" style="color:blue;" target="_blank" name="_الفكر">الفكر</a> بهذا <a href="https://ar.wikifeqh.ir/المعنى" title="المعنى" style="color:blue;" target="_blank" name="_المعنى">المعنى</a> (حركة <a href="https://ar.wikifeqh.ir/النّفس" title="النّفس" style="color:blue;" target="_blank" name="_النّفس">النّفس</a> في <a href="https://ar.wikifeqh.ir/المعقولات" title="المعقولات (لا يوجد رابط)" style="color:red;" name="_المعقولات">المعقولات</a> مبتدئة من <a href="https://ar.wikifeqh.ir/المطلوب" title="المطلوب (لا يوجد رابط)" style="color:red;" name="_المطلوب">المطلوب</a> مستعرضة للمعاني <a href="https://ar.wikifeqh.ir/الحاضرة" title="الحاضرة (لا يوجد رابط)" style="color:red;" name="_الحاضرة">الحاضرة</a> عندها طالبة مباديه المؤدّية اليه) هو الّذي يترتّب عليه <a href="https://ar.wikifeqh.ir/العلوم_الكسبيّة" title="العلوم الكسبيّة (لا يوجد رابط)" style="color:red;" name="_العلوم_الكسبيّة">العلوم الكسبيّة</a>، و ملاحظة <a href="https://ar.wikifeqh.ir/المعاني_الحاضرة" title="المعاني الحاضرة (لا يوجد رابط)" style="color:red;" name="_المعاني_الحاضرة">المعاني الحاضرة</a> عند الاستعراض على الوجه المذكور. و يسمّى أيضا نظرا.<div class="tooltip"><a href="#foot3" name="foot-main3"> <sup>[۳]</sup></a>
+  <span class="tooltiptext">الإصفهاني شمس الدين، مطالع الأنظار، ص۱۰.</span>
+</div> <a href="https://ar.wikifeqh.ir/اكتساب" title="اكتساب (لا يوجد رابط)" style="color:red;" name="_اكتساب">اكتساب</a> <a href="https://ar.wikifeqh.ir/المجهول" title="المجهول (لا يوجد رابط)" style="color:red;" name="_المجهول">المجهول</a> بالمعلومات <a href="https://ar.wikifeqh.ir/السّابقة" title="السّابقة (لا يوجد رابط)" style="color:red;" name="_السّابقة">السّابقة</a> على ذلك <a href="https://ar.wikifeqh.ir/المجهول" title="المجهول (لا يوجد رابط)" style="color:red;" name="_المجهول">المجهول</a>. ترتيب أمور معلومة أو <a href="https://ar.wikifeqh.ir/مظنونة" title="مظنونة (لا يوجد رابط)" style="color:red;" name="_مظنونة">مظنونة</a> للتأدّي إلى أمر آخر.<div class="tooltip"><a href="#foot4" name="foot-main4"> <sup>[۴]</sup></a>
+  <span class="tooltiptext"><a href="lib.eshia.ir/71427/1/196/النظر" title="الايجي، السيد مير، شرح المواقف، ج1، ص196." name="outlink" target="_blank">الايجي، السيد مير، شرح المواقف، ج۱، ص۱۹۶.</a><span class="outlink">&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
+</div> هو ملاحظة <a href="https://ar.wikifeqh.ir/العقل" title="العقل" style="color:blue;" target="_blank" name="_العقل">العقل</a> ما هو حاصل عنده لتحصيل غيره.<div class="tooltip"><a href="#foot5" name="foot-main5"> <sup>[۵]</sup></a>
+  <span class="tooltiptext"><a href="lib.eshia.ir/71427/1/200/التصديقات" title="الايجي، السيد مير، شرح المواقف، ج1، ص200." name="outlink" target="_blank">الايجي، السيد مير، شرح المواقف، ج۱، ص۲۰۰.</a><span class="outlink">&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
+</div> هو تحديق <a href="https://ar.wikifeqh.ir/العقل" title="العقل" style="color:blue;" target="_blank" name="_العقل">العقل</a> نحو <a href="https://ar.wikifeqh.ir/المعقول" title="المعقول" style="color:blue;" target="_blank" name="_المعقول">المعقول</a>.<div class="tooltip"><a href="#foot6" name="foot-main6"> <sup>[۶]</sup></a>
+  <span class="tooltiptext">الخوانساري، حسين، حاشية المحاكمات، ص۳.</span>
+</div> <br /><br /><div><span class="titr"><h3><a href="#المراجع" name="_المراجع">۲ - المراجع</a></h3></span><span class="edit_tpc">[<a href="https://ar.wikifeqh.ir/edit_sub/النظر/المراجع" title="تعديل">تعديل</a>]</span></div><hr class="titr-line"><div class="footnotes"><span class=alphaTd>۱.</span><span class=alphaTd><a href="#foot-main1" name="foot1"> ↑ </a> ابن سينا، ابوعلي، في النّفس، ص۶۵.</span><br><span class=alphaTd>۲.</span><span class=alphaTd><a href="#foot-main2" name="foot2"> ↑ </a> الاصفهاني شمس الدين، مطالع الأنظار، ص۷، ۱۰.</span><br><span class=alphaTd>۳.</span><span class=alphaTd><a href="#foot-main3" name="foot3"> ↑ </a> الإصفهاني شمس الدين، مطالع الأنظار، ص۱۰.</span><br><span class=alphaTd>۴.</span><span class=alphaTd><a href="#foot-main4" name="foot4"> ↑ </a> <a href="lib.eshia.ir/71427/1/196/النظر" title="الايجي، السيد مير، شرح المواقف، ج1، ص196." name="outlink" target="_blank">الايجي، السيد مير، شرح المواقف، ج۱، ص۱۹۶.</a><span class="outlink">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><br><span class=alphaTd>۵.</span><span class=alphaTd><a href="#foot-main5" name="foot5"> ↑ </a> <a href="lib.eshia.ir/71427/1/200/التصديقات" title="الايجي، السيد مير، شرح المواقف، ج1، ص200." name="outlink" target="_blank">الايجي، السيد مير، شرح المواقف، ج۱، ص۲۰۰.</a><span class="outlink">&nbsp;&nbsp;&nbsp;&nbsp;</span></span><br><span class=alphaTd>۶.</span><span class=alphaTd><a href="#foot-main6" name="foot6"> ↑ </a> الخوانساري، حسين، حاشية المحاكمات، ص۳.</span><br></div><br /><br /><div><span class="titr"><h3><a href="#المصدر" name="_المصدر">۳ - المصدر</a></h3></span><span class="edit_tpc">[<a href="https://ar.wikifeqh.ir/edit_sub/النظر/المصدر" title="تعديل">تعديل</a>]</span></div><hr class="titr-line"><a href="http://lib.eshia.ir/73066/1/405" title="مجمع البحوث الإسلامیة، شرح المصطلحات الفلسفیة، المأخوذ من عنوان «النّظر» ج1، ص405." name="outlink" target="_blank">مجمع البحوث الإسلامیة، شرح المصطلحات الفلسفیة، المأخوذ من عنوان «النّظر» ج۱، ص۴۰۵.</a><span class="outlink">&nbsp;&nbsp;&nbsp;&nbsp;</span><br />   <br /><br /><div class="rade">الفئات في هذه الصفحة : <a href="https://ar.wikifeqh.ir/تصنيف:المصطلحات_الفلسفيّة" title="تصنيف:المصطلحات الفلسفيّة" style="color:blue;" target="_blank" name="_تصنيف:المصطلحات_الفلسفيّة">المصطلحات الفلسفيّة</a> | <a href="https://ar.wikifeqh.ir/تصنيف:أقسام_العرض" title="تصنيف:أقسام العرض" style="color:blue;" target="_blank" name="_تصنيف:أقسام_العرض">أقسام العرض</a> | <a href="https://ar.wikifeqh.ir/تصنيف:أقسام_المقولة" title="تصنيف:أقسام المقولة" style="color:blue;" target="_blank" name="_تصنيف:أقسام_المقولة">أقسام المقولة</a> | <a href="https://ar.wikifeqh.ir/تصنيف:أقسام_الوجود" title="تصنيف:أقسام الوجود" style="color:blue;" target="_blank" name="_تصنيف:أقسام_الوجود">أقسام الوجود</a></div>  <ul id="quick-menue" class="tools">
+	<li ><button class="trans1" id="search1">ترجمة</button></li>
+	<li ><button class="trans1" id="search2">التعريب</button></li>
+	<li id="quick-search"><button class="trans1" id="search4">بحث سريع</button></li>
+  </ul>
+    <br/><br/><br/><br/>
+</div>                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <!-- /bodytext -->
+
+        <!-- catlinks -->
+        <div class="catlinks catlinks-allhidden" id="catlinks"></div>
+        <!-- /catlinks -->
+
+        <div class="visualClear"></div>
+
+    </div>
+
+    <!-- /bodyContent -->
+</div>
+
+<!-- /content -->
+
+<!-- header -->
+<div id="mw-head" class="noprint">
+    <!--Naderi-->
+    <div id="responsiveMenu" class="respMenu"  onclick="responsiveMenu()">
+        <img src="https://ar.wikifeqh.ir/assets/images/respMenu.png" alt="جعبه ابزار" title="جعبه ابزار" />    </div>
+    <div id="responsiveMenuBar">
+        <div class="portal first persistent" id="p-navigation">
+            <div class="body">
+                <ul>
+                    <li ><a href="https://ar.wikifeqh.ir/insert" title="اكتب مقالا"><span>اكتب مقالا</span></a></li>
+					<li ><a href="https://ar.wikifeqh.ir/about_us" title="عن ويكي فقه"><span>عن ويكي فقه</span></a></li>
+					<li ><a href="https://ar.wikifeqh.ir/index" title="الصفحة الرئيسية"><span>الصفحة الرئيسية</span></a></li>
+					<li><div   id="link-sharing-li-res" onclick="sharing('-res')">يشارك</div>
+						<ul id="link-sharing-ul-res">
+												<li><a href="https://eitaa.com/share/url?url=https://ar.wikifeqh.ir/النظر" title="اشتراک گذاری در تلگرام" target="_blank" rel="noopener noreferrer">ایتا</a></li>
+						<li><a href="https://telegram.me/share/url?url=https://ar.wikifeqh.ir/النظر" title="اشتراک گذاری در تلگرام" target="_blank" rel="noopener noreferrer">تلگرام</a></li>
+						<li><a href="https://api.whatsapp.com/send?text=https://ar.wikifeqh.ir/النظر" title="اشتراک گذاری در واتساپ" target="_blank" rel="noopener noreferrer"  data-action="share/whatsapp/share"
+					>واتساپ</a></li>
+					</ul>
+				</li>
+                </ul>
+                
+<ul>
+	<li><a href="https://ar.wikifeqh.ir/last" title="أحدَث المقالات المضافة"><span >أحدَث المقالات المضافة</span></a></li>
+	<li id="ca-talk"><a href="https://ar.wikifeqh.ir/talk/النظر" title="بحث"><span style="color: red;">بحث</span></a></li>
+	<li class="selected"><a href="https://ar.wikifeqh.ir/النظر" title="مقاله"><span>مقاله</span></a></li>
+</ul>
+
+
+                <hr align="right" width="90%" />
+                <ul>
+                    <li><a title="دروس مدرسة الفقاهة" href=" http://www.eShia.ir" target="_blank">مدرسه الفقاهه</a></li>
+                    <li><a title="المكتبة لمدرسة الفقاهة" href="http://lib.eShia.ir" target="_blank">المكتبة لمدرسة الفقاهة</a></li>
+                    <li><a title="ویکی پرسش" href="http://wikiporsesh.ir" target="_blank">ویکی پرسش</a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- /navigation -->
+
+        <!-- TOOLBOX -->
+        <div class="portal" id="p-tb">
+            <div id="majid_panel_break"></div>
+
+            <h5 id="nav">الأدوات</h5>
+
+            <div style="display: block;" class="body">
+                <ul>
+                    <li><a href="https://ar.wikifeqh.ir/random" title="مقالة عشوائية">مقالة عشوائية</a></li>
+                    <li><a href="https://ar.wikifeqh.ir/alphalist" title="فهرس أبجدي">فهرس أبجدي</a></li>
+                    
+                    <li><a href="https://ar.wikifeqh.ir/راهنمای_ویکی‌فقه" title="دليل ويكي فقه">دليل ويكي فقه</a></li>
+                    <li><a href="https://ar.wikifeqh.ir/help" title="دليل مصور">دليل مصور</a></li>
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    <!-- /TOOLBOX -->
+    <!--Naderi-->
+    <!-- 0 -->
+    <div id="p-personal" class="">
+        <ul>
+            <li id="pt-login">
+                                    
+<a href="https://ar.wikifeqh.ir/auth/login" title="ادخل / أنشئ حسابا">ادخل / أنشئ حسابا</a>                            </li>
+
+            <li>
+                <a href="http://wikifeqh.ir/" title="فارسی" accesskey="e">فارسی</a>  | <a href="http://ur.wikifeqh.ir/" title="اردو" accesskey="e">اردو</a> | <a href="http://tr.wikifeqh.ir/" title="Türkçe" accesskey="e">Türkçe</a>
+            </li>
+        </ul>
+    </div>
+    <!-- /0 -->
+
+    <div id="left-navigation">
+        <!-- 1 -->
+        <div id="p-namespaces" class="vectorTabs" >
+            <ul>
+                                <div id="p-views" class="vectorTabs">
+	<ul>
+		<li><a href="https://ar.wikifeqh.ir/last" title="أحدَث المقالات المضافة"><span >أحدَث المقالات المضافة</span></a></li>
+		<li id="ca-talk"><a href="https://ar.wikifeqh.ir/talk/النظر" title="بحث"><span style="color: red;">بحث</span></a></li>
+		<li class="selected"><a href="https://ar.wikifeqh.ir/النظر" title="مقاله"><span>مقاله</span></a></li>
+	</ul>
+</div>
+            </ul>
+        </div>
+        <!-- /1 -->
+    </div>
+
+    <!-- SEARCH -->
+    <div id="right-navigation">
+        <div id="p-search">
+
+            <form action="https://ar.wikifeqh.ir/النظر" method="post" accept-charset="utf-8" name="searchform" id="searchform">            <div>
+                <div class="advanced-search"><a href="/search/advanced">پیشرفته</a>‌</div>
+                <input type="text" name="key" value="إبحث..." id="search_box" size="30" autocomplete="off" style="height:20px; font-size:14px; vertical-align:middle; font-family:Tahoma;" onfocus="if (this.value == 'إبحث...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'إبحث...';} a=setTimeout('hide_id(\'search_drop\')','500')"  />
+                <br />
+
+                <div id="search_drop" style="background-color:#FFFFFF; border-width:1px; border-color:#999999; border-style:inset; direction:rtl; position:absolute; display:none; font-family:Tahoma; font-size:14px; padding:2px;z-index:2000" >
+                    &nbsp;
+                </div>
+
+                <script type="text/javascript" src="https://ar.wikifeqh.ir/assets/js/ajax/search.js?9905090754"></script>
+            </div>
+            </form>
+        </div>
+        <div id="p-views" class="vectorTabs">
+
+	<ul>
+			<li id="ca-history"><a href="https://ar.wikifeqh.ir/history/النظر" title="استعراض للتاريخ"><span>استعراض للتاريخ</span></a></li>
+		<li id="ca-viewsource"><a href="https://ar.wikifeqh.ir/edit/النظر" title="تعديل"><span>تعديل</span></a></li>
+		<li id="ca-view" class="selected"><a href="https://ar.wikifeqh.ir/النظر" title="اقرأ"><span>اقرأ</span></a></li>
+	</ul>
+
+</div>
+    </div>
+    <!-- /SEARCH -->
+</div>
+<!-- /header -->
+
+<!-- panel -->
+<style>
+    #left_part {
+		background-color: #ecf0f0 !important;
+        box-shadow: 0 0 3px rgba(0, 0, 0, 0.4);
+        width: 290px;
+        background-color: #f8f9fa;
+        border: #ccc solid 1px;
+        border-radius: 5px;
+        padding-bottom: 30px;
+        float: left;
+        direction: rtl;
+        /*text-align: center;*/
+        margin: 40px 20px 20px;
+        font-size: 11px;
+        position: relative;
+        padding-right: 10px;
+    }
+
+    #left_part img {
+        width: 250px !important;
+		text-align: center;
+		margin-right: 2% !important;
+		margin-top: 0px !important;
+		margin-bottom: 0px !important;
+    }
+
+    #left_part h4 {
+        margin-top: 20px;
+        margin-bottom: -30px;
+		text-align: center;
+    }
+	#left_part h6 {
+		text-align: center;
+    }
+
+    #left_part .header {
+		text-align: center;
+		background: #B0CDE3;
+		margin-top: 5px;
+		border-radius: 5px;
+
+    }
+
+	.comment_information{
+		text-align: center;
+		font-size: 13px;
+	}
+	.img_information_title{
+		text-align: center;
+		font-size: 13px;
+		margin-top: 1px;
+	}
+    .title_information {
+		font-weight: bolder;
+		vertical-align: top;
+		font-size: 13px;
+		background-color: #bfd5d5;
+		padding-right: 5px;
+		text-align: left;
+		width: 33%;
+    }
+	.text_information{
+		font-size: 14px;
+        width: 67%; 
+		padding-right: 5px;
+	}
+	.div_information{
+		border: 1px solid darkgray;
+		margin-top: 1px;
+
+	}
+	.general_title {
+		text-align: center;
+		font-weight: bolder;
+		font-size: 13px;
+	}
+    .hover_me {
+        cursor: pointer;
+        color: #00b300;
+    }
+
+    /*
+    این کد سی اس اس مربوط به جعبه ناوبری است
+    .navbox {
+        box-sizing: border-box;
+        border: 1px solid #a2a9b1;
+        width: 100%;
+        margin: auto;
+        clear: both;
+        font-size: 88%;
+        text-align: center;
+        padding: 1px;
+    }
+    .navbox h4{
+        float: right;
+
+        width: 100%;
+    }
+    .navbox table{
+        width: 100%;
+    }
+    .navbox th{
+       position: relative;
+
+        width: 100%;
+    }
+    .navbox tr{
+        text-align: center;
+
+        width: 100%;
+    }
+    .collapseButton {
+        font-weight: normal;
+
+        margin-right: 0.5em;
+
+        text-align: left;
+
+        width: auto;
+
+        position: absolute;
+
+        top: 0;
+
+        left: 20px;
+    }
+    tr.hidden{
+        display:none;
+    }
+    tr.hidden td{
+        cursor: pointer;
+    }
+    .collapse{
+        cursor: pointer;
+    }
+        پایان کد مربوط به جعبه ناوبری
+     */
+    /* این استایل مربوط به جعبه نامرئی است که زیر رده ها را نشان می دهد
+     این جعبه در زمانی که روی نقطه + کلیک می شود نمایان می شود*/
+    .hidden_box {
+        display: none;
+        margin-right: 20px;
+        /* border: 1px solid blue;  */
+    }
+
+        .target {
+        /*  display: none; */
+    }
+
+        .amar_rade {
+        border-bottom: 1px solid black;
+        font-weight: bolder;
+        padding-left: 50px;
+        text-align: left;
+        width: 25%;
+        float: left;
+    }
+    .amar_line{
+        display: inline-block !important;
+        width: 50px;
+        height: 20px;
+    }
+</style>
+<script>
+    // این اسکریپت آمار های رده ها و مقالات را بر حسب کلاس آن ها می شمارد
+    // دقت شود که این کلاس ها فقط باید داخل رده اصلی والد باشید نه زیر رده هایی که بعد ها تولید می شوند
+    // در صورت نبود هیچ زیر رده برچسب آمار آن حذف می شود
+    // در صورتی که مقالات و رده ها با هم وجود داشته باشند رده ها به سمت چپ شیفت داده می شوند.
+    // در صورت وجود مقالات و رده ها با هم جدول در برگیردنده ی مقالات عرض کمتری به خود می گیرد
+    var father = $('.alphaTd').parent().parent().parent();
+    var margin_top = 0;
+    if ($('.alphaTd > .target').length > 0) {
+        $('.amar_rade').html('تعداد زیررده های این رده : ' +'<span id="zirrade_target"><b>'+ $('.alphaTd > .target').length+'</b></span>');
+
+    } else {
+        $('.amar_rade').remove();
+
+    }
+    if ($('.alphaTd > .article').length > 0) {
+        $('.alphaTd > .target').each(function () {
+            $(this).css('position', 'absolute');
+            $(this).css('top', '300px');
+            $(this).css('right', '70%');
+            $(this).css('margin-top', margin_top + 'px');
+            $(this).css('border-right', '1px solid brown');
+            $(this).css('padding-right', '20px');
+            margin_top += 30;
+        });
+        $('.amar_article').text('تعداد مقالات این رده : ' + $('.alphaTd > .article').length)
+        if ($('.alphaTd > .target').length > 0)
+            father.css('width', '80%');
+
+    } else {
+        $('.amar_rade').css('float', 'right');
+    }
+
+
+    // Script code addedd by sadeq Khan
+    // این تابع در رویداد کلیک هر + مربوط به هر رده اجرا می شود
+    // این تابع یک div که دو المان بعد از خود قرار دارد را فعال می کند و لینک مربوط به رده مقابل خود را
+    // درون آن می ریزد این مقادیر داخل یک div هست که شناسه Target  دارد به این ترتیب ما فقط آن قسمت از صفحه که می خواهیم را نشان می دهیم
+
+    var all_target;
+
+    function remove_mosbat() {
+
+
+        all_target.each(function () {
+            var param = $(this).find('li>a').text();
+
+
+            $(this).find('.hidden_box').load(URL + encodeURIComponent(param) + ' #target');
+
+        });
+
+
+       // all_target = $('.target');
+        setTimeout(function () {
+            all_target.each(function () {
+                if ($(this).find('.hidden_box').html() === '') {
+                    $(this).find('.hover_me').remove();
+                    // alert('ok1');
+                    //alert($(this).find('.hidden_box').html());
+                }
+            });
+            //all_target.fadeIn();
+        }, 1000);
+
+
+    }
+
+    // این وفقه برای زیبایی کار است در اینجا تا زمانی که رده ها اصلاح شوند مخفی می مانند
+    
+    setTimeout(function () {
+        all_target = $('.target');
+
+        remove_mosbat();
+    },500);
+
+
+    
+    var key = false;
+    // این تابع زمانی که روی علامت سبز رنگ کلیک می شود عمل می کند
+    //
+    function func(obj) {
+        var item = $(obj);
+        item.next().next().toggle();
+        if (item.html() == '<strong>▼</strong>') {
+            key = true;
+        } else {
+            key = false;
+        }
+        if (!key) {
+            item.html('<strong>▼</strong>');
+            key = true;
+            item.css('margin-right', '15px');
+            item.css('color', '#004a00');
+        } else {
+            key = false;
+            item.html('<strong>◄</strong>');
+            item.css('margin-right', '0');
+        }
+        var param = item.next().find('a').text();
+
+        //alert(param);
+
+
+        //item.next().next().load('http://wikifeqh.ir/' + encodeURIComponent(param) + ' #target');
+        // این وقفه سبب می شود تا زمانی که اطلاعات لازمه بارگذاری نشده کاری انجام نشود
+        // سپس مجدد زیر رده ها بررسی شده و علامت های سبز اضافی حذف می شوند.
+        setTimeout(function () {
+             all_target = item.next().next().find('.target');
+             remove_mosbat();
+          }, 1000);
+
+
+    }
+
+    // End of Script Code...
+
+    /*
+    $('.collapse').click(function(){
+            //alert('ok');
+            $('.hidden').toggle();
+    });
+    $('tr.hidden td').click(function(){
+            alert('ok');
+
+    });
+    */
+</script>
+<div id="mw-panel" class="noprint collapsible-nav" style=" border-width:thick; border-color:#FF0000;">
+
+    <!-- logo -->
+
+    <div id="p-logo">
+        <a href="https://ar.wikifeqh.ir/" title="الصفحة الرئيسية" style="background-image: url(https://ar.wikifeqh.ir/assets/images/logo.jpg);"> </a>    </div>
+
+    <!-- /logo -->
+
+
+
+    <!-- navigation -->
+    <div class="portal first persistent" id="p-navigation">
+        <div class="body">
+            <ul>
+
+                <li><a href="https://ar.wikifeqh.ir/" title="الصفحة الرئيسية">الصفحة الرئيسية</a></li>
+                <li><a href="https://ar.wikifeqh.ir/insert" title="اكتب مقالا">اكتب مقالا</a></li>
+                <li><a href="https://ar.wikifeqh.ir/last" title="أحدَث المقالات المضافة">أحدَث المقالات المضافة</a></li>
+            	<li><div   id="link-sharing-li" onclick="sharing('')">يشارك</div>
+				<ul id="link-sharing-ul">
+								<li><a href="https://eitaa.com/share/url?url=https://ar.wikifeqh.ir/النظر" title="اشتراک گذاری در تلگرام" target="_blank" rel="noopener noreferrer">ایتا</a></li>
+				<li><a href="https://telegram.me/share/url?url=https://ar.wikifeqh.ir/النظر" title="اشتراک گذاری در تلگرام" target="_blank" rel="noopener noreferrer">تلگرام</a></li>
+				<li><a href="https://api.whatsapp.com/send?text=https://ar.wikifeqh.ir/النظر" title="اشتراک گذاری در واتساپ" target="_blank" rel="noopener noreferrer"  data-action="share/whatsapp/share"
+				>واتساپ</a></li>
+				</ul>
+				</li>
+            </ul>
+            <hr align="right" width="90%" />
+            <ul>
+                <li><a title="دروس مدرسة الفقاهة" href=" http://www.eShia.ir" target="_blank">مدرسه الفقاهه</a></li>
+                <li><a title="المكتبة لمدرسة الفقاهة" href="http://lib.eShia.ir" target="_blank">المكتبة لمدرسة الفقاهة</a></li>
+                <li><a title="ویکی پرسش" href="http://wikiporsesh.ir" target="_blank">ویکی پرسش</a></li>
+            </ul>
+        </div>
+
+    </div>
+    <!-- /navigation -->
+
+
+
+    <!-- TOOLBOX -->
+    <div class="portal" id="p-tb">
+        <div id="majid_panel_break"></div>
+
+        <h5 id="nav">الأدوات</h5>
+
+        <div style="display: block;" class="body">
+            <ul>
+                <li><a href="https://ar.wikifeqh.ir/random" title="مقالة عشوائية">مقالة عشوائية</a></li>
+                <li><a href="https://ar.wikifeqh.ir/alphalist" title="فهرس أبجدي">فهرس أبجدي</a></li>
+
+                
+                <li><a href="https://ar.wikifeqh.ir/راهنمای_ویکی‌فقه" title="دليل ويكي فقه">دليل ويكي فقه</a></li>
+                <li><a href="https://ar.wikifeqh.ir/help" title="دليل مصور">دليل مصور</a></li>
+            </ul>
+        </div>
+    </div>
+
+    </div>
+<!-- /TOOLBOX -->
+
+<!-- /panel -->
+
+<!-- footer -->
+<div id="footer">
+    <br />
+    <ul id="footer-info">
+        <li id="footer-info-lastmod">
+            سياسة الخصوصية وشروط الاستخدام : تسعى ويكي فقه لمطارحة الافكار والآراء للفقهاء وذوي الخبرات الحوزوية على اساس الاحترام لاصحاب الفكر والمقال . ومن سياساتها ايضا اتقان المقالات على اسس علمية ومستندة يتم مراعاتها من قبل الكتاب. تتم اضافة المقالات من قبل طلاب الحوزات العلمية في النجف الاشرف ومشهد وقم المقدستين وباقي الحوزات العلمية مع مراعات البنود المذكورة.
+        </li>
+        <li id="footer-info-copyright"></li>
+    </ul>
+
+    <ul id="footer-icons" class="noprint">
+        <li id="footer-icon-poweredby">
+
+            <a href="http://www.baharsound.ir" title="صدای بهار" target="_blank" >
+                <img src="https://ar.wikifeqh.ir/assets/images/bahar-sound.jpg" alt="صدای بهار" title="صدای بهار" />            </a>
+        </li>
+
+    </ul>
+
+    <div style="clear: both;"></div>
+</div>
+<!-- /footer -->
+
+<script type="text/javascript">
+function fixedEncodeURIComponent(str)
+{
+	return encodeURIComponent(str).replace(/[!'()]/g, escape).replace(/\*/g, "%2A");
+}
+
+function do_search(query)
+{
+	query = query.replace(/^\s+|\s+$/g, '');
+	
+	if (query && query != "جستجو...")
+	{
+		query = query.replace(/ +/g, '_').replace(/['\0\\]+/g, '');
+		window.location.assign('/search/' + '?' + '&q=' + fixedEncodeURIComponent(query));
+	}
+	
+	return false;
+}
+</script>
+
+
+<!--ResponsiveMenu-->
+<script type="text/javascript">
+    function responsiveMenu() {
+        var x = document.getElementById("responsiveMenuBar");
+        if (x.style.display === "none" || x.style.display == "") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+	function responsiveRightMenu() {
+		var x = document.getElementById("dropdown-content-id");
+		if (x.style.display === "none" || x.style.display == "") {
+			x.style.display = "block";
+		} else {
+			x.style.display = "none";
+		}
+    }
+	function sharing(par) {
+		
+		var x = document.getElementById("link-sharing-ul"+par);
+		if (x.style.display === "none" || x.style.display == "") {
+			x.style.display = "block";
+		} else {
+			x.style.display = "none";
+		}
+    }
+</script>
+<!--EndResponsiveMenu-->
+<!--LazyImageLoading-->
+<script type="text/javascript">
+    function init() {
+        var imgDefer = document.getElementsByTagName('img');
+        for (var i=0; i<imgDefer.length; i++) {
+            if(imgDefer[i].getAttribute('data-src')) {
+                imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+            } } }
+    window.onload = init;
+</script>
+<!--EndLazyImageLoading-->
+<script>
+    // این کد برای نمایش سایر عناوین مشابه هست و ربطی به درج و ویرایش مطلب ندارد
+    // این کد تمامی li ها را از نو اصلاح می کند و مجدد به لینک تبدیل می نماید
+    var target = $('#zirrade_body').parent().parent().find('li');
+    target.each(function () {
+        // تصیحی و ساخت لینک ها
+        $(this).find('strong').remove();
+        $(this).find('div').remove();
+        var text = $(this).find('span').text();
+        $(this).find('span').remove();
+        $(this).html('<a href="' + text + '">' + text + '</a>');
+    });
+
+
+</script>
+<script type="text/javascript" src="https://ar.wikifeqh.ir/assets/js/shortkey.js?1"></script></body>
+</html>

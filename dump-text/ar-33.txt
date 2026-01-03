@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="apple-touch-icon" sizes="57x57" href="/web/assets/images/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/web/assets/images/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/web/assets/images/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/web/assets/images/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/web/assets/images/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/web/assets/images/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/web/assets/images/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/web/assets/images/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/assets/images/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/web/assets/images/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/web/assets/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/web/assets/images/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/web/assets/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/web/assets/images/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="google-site-verification" content="k05u0yDYnewQhxc8I2_JyadqxcaPG7465dEGsLJVMjk" />
+    <meta name="msapplication-TileImage" content="/web/assets/images/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+        <title>
+        الفرق بين طول النظر وقصر النظر |طول النظر عند الاطفال
+
+    </title>
+        <link rel="preload" href="/web/assets/fonts/kahhal-book.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/web/assets/fonts/kahhal-medium.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/web/assets/fonts/kahhal-heavy.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/web/assets/fonts/kahhal-black.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+
+    <meta property="og:title" content="الفرق بين طول النظر وقصر النظر في الأعراض والعلاج"/>
+    <meta property="og:description" content="تعرف على الفرق بين طول النظر و قصر النظر،طول النظر عند الاطفال وأبرز أسباب قصر النظر وفحص قاع العين كيفية علاج قصر النظر باستخدام أحدث الطرق الطبية في الكحال" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://alkahhal.com.sa/ar/advices/%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%B7%D9%88%D9%84-%D8%A7%D9%84%D9%86%D8%B8%D8%B1-%D9%88%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D9%86%D8%B8%D8%B1"/>
+    <meta property="og:image" content="https://alkahhal.com.sa/uploads/blogs/2024/03/06/20240306232156887223577_blogs.jpg"/>
+
+    <!-- Meta description for twitter. -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="https://alkahhal.com.sa">
+    <meta name="twitter:title" content="الفرق بين طول النظر وقصر النظر في الأعراض والعلاج"/>
+    <meta name="twitter:description" content="تعرف على الفرق بين طول النظر و قصر النظر،طول النظر عند الاطفال وأبرز أسباب قصر النظر وفحص قاع العين كيفية علاج قصر النظر باستخدام أحدث الطرق الطبية في الكحال" />
+    <meta name="twitter:image" content="https://alkahhal.com.sa/uploads/blogs/2024/03/06/20240306232156887223577_blogs.jpg" />
+
+    <meta name="title" content="الفرق بين طول النظر وقصر النظر |طول النظر عند الاطفال" />
+    <meta name="description" content="تعرف على الفرق بين طول النظر و قصر النظر،طول النظر عند الاطفال وأبرز أسباب قصر النظر وفحص قاع العين كيفية علاج قصر النظر باستخدام أحدث الطرق الطبية في الكحال" />
+    <meta name="keywords" content="" />
+    <link rel="canonical" href="https://alkahhal.com.sa/ar/advices/%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%B7%D9%88%D9%84-%D8%A7%D9%84%D9%86%D8%B8%D8%B1-%D9%88%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D9%86%D8%B8%D8%B1" />
+
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": 
+        [
+                            {
+                "@type": "Question",
+                "name": "ما هو الفرق بين طول النظر وقصر النظر؟",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "قصّر النظر ترى الأشياء القريبة بوضوح لكن البعيدة ضبابية (تركيز الضوء أمام الشبكية)، أما طول النظر فالعكس (الضوء خلف الشبكية)."
+                }
+            },                                    {
+                "@type": "Question",
+                "name": "ما هي أعراض طول النظر؟",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "تشوش في الرؤية القريبة بحيث يميل الشخص لإبعاد الأشياء عن عينيه لقراءتها أو رؤيتها بوضوح."
+                }
+            },                                    {
+                "@type": "Question",
+                "name": "هل يمكن علاج طول النظر؟",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "نعم، يعالج غالبًا بالنظارات أو العدسات اللاصقة، وأحيانًا بعمليات تصحيح النظر مثل الليزك التي تُعيد تشكيل القرنية."
+                }
+            },                                    {
+                "@type": "Question",
+                "name": "كيف يرى أصحاب قصر النظر؟",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "يرون الأشياء القريبة بوضوح، لكن الأشياء البعيدة تبدو مشوشة وغير واضحة."
+                }
+            },                                    {
+                "@type": "Question",
+                "name": "كيف أعرف أني أعاني من قصر النظر؟",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "تشعر بصعوبة في رؤية الأشياء البعيدة، ما يدفعك إلى الاقتراب منها أو تجد أعراض ضبابية في الرؤية عندما تبعد."
+                }
+            },                                    {
+                "@type": "Question",
+                "name": "كيف يرى صاحب الاستجماتيزم (اللابؤرية)؟",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "يرى ضبابية أو تشوّش في الرؤية سواء للأشياء القريبة أو البعيدة بسبب انحناء غير منتظم في القرنية."
+                }
+            },                                    {
+                "@type": "Question",
+                "name": "ما هو الاستجماتيزم وما هي أعراضه؟",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "هو انحراف بصري ناجم عن شكل بيضاوي أو غير منتظم للقرنية أو العدسة، ويظهر على شكل رؤية ضبابية في كل المسافات (قريبة وبعيدة)."
+                }
+            }                        ]
+        }
+    </script>
+    
+<!-- main ltr styles -->
+    <link rel="stylesheet preload" href="/web/assets/css/main-rtl.min.css" as="style" crossorigin>
+    <!-- page style -->
+        <link rel="stylesheet preload" href="/web/assets/css/blog-post-rtl.min.css" as="style" crossorigin>
+ <style>
+    .blog-post__details a {
+        color: blue !important;
+    }
+ </style>
+        <!--any code in head!-->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GZ15P4BZEV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GZ15P4BZEV');
+</script>
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "olikdrsj86");
+</script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NBL7KG7M');</script>
+    <!-- End Google Tag Manager -->
+
+</head>
+
+<body>
+
+<!-- contact modal -->
+<div class="contact-modal">
+    <div class="modal fade" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <button type="button" class="btn btn-close" data-dismiss="modal" aria-label="Close">
+                    <svg class="icon">
+                        <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#close-icon"></use>
+                    </svg>
+                </button>
+                <div class="modal-body text-center">
+                    <h5>
+                              <span>
+                                تواصل معنا
+                              </span>
+                    </h5>
+                    <p>
+                        تفضل بزيارة مركز خدمة العملاء على مدار الساعة طوال أيام الأسبوع ماعدا يوم الجمعة أو راسلنا عبر البريد الإلكتروني - مهما كان الأمر ، فنحن مستعدون لتقديم المزيد من المساعدة لك.
+                    </p>
+                                        <div class="contact__form">
+                        <form method="post"  action="https://alkahhal.com.sa/api/tickets" class="form contactForm">
+                            <input type="hidden" name="_token" value="ScxsO6YHxcNvygrnSu8LDdBNb9XzYIJfaFpJyLh6">                            <div class="form-group">
+                                <select required name="purpose" class="custom-select form-control"
+                                        id="contactPurpose">
+                                    <option value="" selected="">الغرض من التواصل</option>
+                                                                            <option value="1" >مشكلة بخصوص الحجز</option>
+                                                                            <option value="2" >مشكلة بخصوص الدكتور</option>
+                                                                            <option value="3" >مشكلة بخصوص المواعيد</option>
+                                                                            <option value="4" >اخري</option>
+                                                                    </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="fullName">الاسم بالكامل</label>
+                                <input  required type="text" name="name" value="" class="form-control" id="fullName" placeholder="الاسم بالكامل" maxlength="25">
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="emailAddress">البريد اﻹلكتروني</label>
+                                <input  required type="email"  name="email" value="" class="form-control" id="emailAddress" placeholder="البريد اﻹلكتروني" maxlength="50">
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="emailAddress">رقم التليفون</label>
+                                <input  required type="text"  name="phone" value="" class="form-control" id="phone" onchange="return validateContactUsPhone();" placeholder="رقم التليفون" maxlength="10">
+                                <label  id='contact_phone_validation_message' style="display: none"> يرجى إدخال رقم هاتف سعودي صحيح </label>
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="subject">الموضوع</label>
+                                <input required type="text" name="topic" value="" class="form-control" id="subject" placeholder="الموضوع" maxlength="30">
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="message">الرسالة</label>
+                                <textarea  required name="content" class="form-control" placeholder="الرسالة" id="message"></textarea>
+                            </div>
+                            <button type="submit" id="contactSubmit" class="btn btn-main btn-lg btn-block">إرسال</button>
+
+                        </form>
+                    </div>
+                </div>
+                <!-- success -->
+                <div class="sent contactSent d-flex align-items-center "  style="display: none!important;" >
+                    <svg class="icon">
+                        <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#sent"></use>
+                    </svg>
+                    <p class="lead">
+                        تم ارسال الرسالة بنجاح
+                    </p>
+                </div>
+                <!-- // success -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- // contact modal -->
+
+<!-- login modal -->
+
+<!-- // login modal -->
+
+<!-- Forget-password modal -->
+
+<!-- // Forget-password modal -->
+
+<!-- Reset-password modal -->
+
+<!-- // Reset-password  modal -->
+
+<!-- Reset-password Link-sent modal -->
+
+<!-- // Reset-password Link-sent modal -->
+
+<!-- search box -->
+<div class="search-box">
+    <div class="container">
+        <form class="search-box__form">
+            <div class="search-box__container">
+                <button type="button" class="btn btn-white btn-round" aria-label="search">
+                    <svg class="icon search-icon">
+                        <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#search-icon"></use>
+                    </svg>
+                </button>
+                <input type="search" class="form-control" placeholder="Enter search keywords...">
+                <button type="button" class="btn btn-close search-toggle">
+                    <span>Close</span>
+                    <svg class="icon search-icon">
+                        <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#close-icon"></use>
+                    </svg>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+<!-- // search box -->
+
+
+<!-- header -->
+<header class="header" data-aos="fade-down">
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="https://alkahhal.com.sa/ar">
+                                    <picture>
+                        <source srcset="/web/assets/images/logo.svg" type="image/webp"><img src="/web/assets/images/logo.svg" alt="مجمع الكحال الطبي - أفضل أطباء جراحة العيون في المملكة" draggable="false">
+                    </picture>
+                            </a>
+            <!-- mobile -->
+            <div class="mobile-nav">
+                                <button class="navbar-toggler ml-2 " type="button" data-toggle="collapse" data-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+            <!-- //mobile  -->
+            <div class="collapse navbar-collapse" id="mainNavbar">
+                <ul class="navbar-nav  mr-auto ">
+                    <li class="nav-item ">
+                        <a class="nav-link" href="https://alkahhal.com.sa/ar">الرئيسية</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link" href="https://alkahhal.com.sa/ar/specialities">التخصصات</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://alkahhal.com.sa/ar/doctors">الأطباء</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://pages.alkahhal.com.sa/" rel="Dofollow"> احدث العروض</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://alkahhal.com.sa/ar/advices">نصائح طبية</a>
+                    </li>
+                    <!-- Ramadan Medical tips -->
+                                        <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            عن الكحال
+                        </a>
+                        <div class="dropdown-menu text-center" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="https://alkahhal.com.sa/ar/about">نبذة عن الكحال</a>
+                            <a class="dropdown-item" href="https://alkahhal.com.sa/ar/jcia">إعتماد JCIA</a>
+                            <a class="dropdown-item" href="https://alkahhal.com.sa/ar/cbahi">إعتماد سباهي</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <button class="nav-link" data-toggle="modal" data-target="#contactModal">
+                            تواصل معنا
+                        </button>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item right-nav">
+                        
+
+                        <a href="https://alkahhal.com.sa/ar/book" class="btn btn-main">إحجز موعد</a>
+                            
+                        <div id="practo_portal" widget="lqRhnNj6rMJD9u8D1NBdVEEpPw2xoYIIZR39eMEw" bgcolor="#008EFF" color="#ffffff"></div>
+                                            </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<!-- // header -->
+
+
+    <div class="relative page-cover d-flex align-items-center">
+        <!-- photo -->
+        <div class="page-cover__photo">
+            <picture>
+                <source srcset="/uploads/settings/2021/05/19/20210519222347813782633_settings.jpg" type="image/webp">
+                <img src="/uploads/settings/2021/05/19/20210519222347813782633_settings.jpg" alt="نصيحة طبية مهمة - مدونة مجمع الكحال الطبي" draggable="false">
+            </picture>
+        </div>
+        <!-- // photo -->
+        <!-- content -->
+        <div class="container">
+            <div class="page-cover__content">
+                <h1>الفرق بين طول النظر وقصر النظر في الأعراض والعلاج</h1>
+                <p class="lead">الفرق بين طول النظر وقصر النظر في الأعراض والعلاج</p>
+            </div>
+            <!--   -->
+            <div class="support" data-aos="fade-up">
+    <a class="support__block" href="tel:0138454355">
+        <div class="support__logo">
+            <svg class="icon">
+                <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#phone-icon"></use>
+            </svg>
+        </div>
+        <div class="support__text">
+            الرقم الموحد
+            <span>0138454355</span>
+        </div>
+    </a>
+    <a class="support__block" href="https://wa.me/+966920022066" target="_blank" rel="nofollow">
+        <div class="support__logo">
+            <svg class="icon">
+                <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#whatsapp-icon"></use>
+            </svg>
+        </div>
+        <div class="support__text">
+            راسلنا من خلال
+            <span>WhatsApp</span>
+        </div>
+    </a>
+</div>
+            <!-- //   -->
+        </div>
+        <!-- // content -->
+
+    </div>
+
+    <!-- blog post -->
+    <div class="blog-post d-pad">
+        <div class="container">
+            <div class="row">
+                <!-- blog post details -->
+                <div class="col-lg-8">
+                    <!--FAQ mobile-->
+                                        <a href="#faq-section" class="faq__mobile w-100 text-center d-flex align-items-center justify-content-center">
+                        الأسئلة الشائعة حول الموضوع
+                    </a>
+                                        <div class="embed-responsive embed-responsive-4by3 mb-5">
+                        <img class="embed-responsive-item blog-post__image" src="/uploads/blogs/2024/03/06/20240306232156887223577_blogs.jpg" alt="الفرق بين طول النظر وقصر النظر في الأعراض والعلاج"/>
+                    </div>
+                    <div class="blog-post__details" data-aos="fade-up">
+                        <p dir="rtl" style="text-align: right;">في عصر انتشار الهواتف الذكية وأجهزة الكمبيوتر، نلاحظ شيوع بعض المشكلات الصحية المتعلقة بالنظر أكثر من المعتاد، فعلى سبيل المثال نجد أن أكثر من 40% من الناس مصابون بقصر النظر، وأغلبهم من الأطفال في عمر المدارس، ويعتقد الخبراء أن أسباب قصر النظر، وطوله وأسباب استجماتيزم العين هو قضاء الناس الوقت في التحديق ومشاهدة التلفاز أو التليفونات المحمولة أو أجهزة الكمبيوتر؛ مما يساهم بشدة في انتشار تلك المشكلات البصرية.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">تعرف معنا في هذا المقال على أسباب طول النظر وقصره وأسباب <a href="/ar/advices/%D8%A7%D8%B3%D8%AA%D8%AC%D9%85%D8%A7%D8%AA%D9%8A%D8%B2%D9%85-%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D8%A8%D8%A7%D9%84%D8%BA%D9%8A%D9%86" target="_blank" rel="noopener">استجماتيزم العين</a>، وأهم أعراضهم، وطرق العلاج في مجمع <a href="/ar">الكحال </a>الطبي، وأهمية إجراء عملية طول النظر أو قصره.</p>
+<h2 dir="rtl" style="text-align: right;">ما الفرق بين طول النظر وقصر النظر والاستجماتيزم؟</h2>
+<p dir="rtl" style="text-align: right;">يُعد كلاهما من المشكلات البصرية الشائعة، وعلى الرغم أن كل منهم يحدث بسبب اختلاف شكل العين، إلا أن كل واحد منهم يختلف اختلافًا كبيرًا عن الآخر، فمثلًا:</p>
+<ol style="text-align: right;">
+<li dir="rtl" aria-level="1">
+<h3 dir="rtl" role="presentation">قصر النظر "حسر البصر"</h3>
+</li>
+</ol>
+<p dir="rtl" style="text-align: right;">هو أحد المشكلات البصرية الشائعة، التي تصيب الأشخاص قبل عمر الـ 20 في أغلب الأحيان، وتتميز تلك الحالة بوضوح رؤية الأشياء القريبة، مع تشوش رؤية الأشياء البعيدة، وترجع أسباب قصر النظر إلى وجود خلل في انكسار الأشعة التي تدخل العين، فبدل أن تتركز أشعة الضوء الداخلة تجاه الأنسجة العصبية للعين الموجودة في الشبكية، فهي تتركز أمام الشبكية، وغالبًا ما تُستخدم النظارات الطبية أو العدسات اللاصقة في تصحيح هذا الخلل.</p>
+<ol style="text-align: right;" start="2">
+<li dir="rtl" aria-level="1">
+<h3 dir="rtl" role="presentation">طول النظر "مد البصر"</h3>
+</li>
+</ol>
+<p dir="rtl" style="text-align: right;">على عكس أسباب قصر النظر، فإن أسباب طول النظر تختلف حيث تتركز الأشعة التي تدخل العين خلف الشبكية، وبالتالي تتضح رؤية الأشياء البعيدة، لكن تتشوش رؤية كل ما هو قريب، وتستخدم أيضًا النظارات الطبية او العدسات اللاصقة، أو عملية طول النظر في تصحيح الخلل في تلك الحالة.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<ol style="text-align: right;" start="3">
+<li dir="rtl" aria-level="1">
+<h3 dir="rtl" role="presentation">الاستجماتيزم (اللابؤرية)</h3>
+</li>
+</ol>
+<p dir="rtl" style="text-align: right;">هو مشكلة بصرية شائعة أيضًا تسبب ضبابية الرؤية عن قرب وعن بعد، لكن تختلف أسباب استجماتيزم العين عن أسباب قصر النظر وأسباب طول النظر، حيث أن شكل العين في تلك الحالة غالبًا ما يكون بيضاوي؛ مما يسبب تراكب الصور على بعضها، ضعف الرؤية بشكل عام من كل المسافات.</p>
+<h2 dir="rtl" style="text-align: right;">تعرف على أعراض قصر النظر وطوله وأشهر أعراض الاستجماتيزم&nbsp;</h2>
+<p dir="rtl" style="text-align: right;">على الرغم أن أعراض قصر النظر تختلف اختلافًا واضحًا مع أعراض الاستجماتيزم وأعراض طول النظر، إلا أنه هناك بعض الأعراض المشتركة بينهم جميعًا، مثل:</p>
+<ul style="text-align: right;">
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">صداع خاصةً مع محاولة التحديق لرؤية الأشياء جيدًا.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">إجهاد العينين، أشهر أعراض قصر النظر بالأخص، حيث أن يصاب به الأشخاص أثناء ممارسة الأنشطة التي تحتاج إلى تركيز العينين لوضوح الرؤية مثل القرءاة، أو العمل على أجهزة الكمبيوتر.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">التعب أثناء القيادة أو لعب الرياضة.</p>
+</li>
+</ul>
+<p dir="rtl" style="text-align: right;">يعاني أيضًا بعض الأطفال في سن الدراسة من بعض الأعراض العامة المصاحبة لمشكلات النظر وأعراض قصر النظر بالأخص، ، مثل:</p>
+<ul style="text-align: right;">
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">ضعف الأداء الدراسي.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">عدم القدرة على التركيز والانتباه.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">تقريب الأشياء من وجوههم لمحاولة رؤيتها جيدًا.</p>
+</li>
+</ul>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">&nbsp;كل تلك الأعراض السابقة هي أعراض عامة مصاحبة لكل الأنواع، أما عن الاختلافات الواضحة بين كل نوع منهم، فهي:</p>
+<ol style="text-align: right;">
+<li dir="rtl" aria-level="1">
+<h3 dir="rtl" role="presentation">أعراض قصر النظر</h3>
+</li>
+</ol>
+<p dir="rtl" style="text-align: right;">في هذا النوع لا يستطيع الأشخاص رؤية كل ما هو بعيد، لذا تجدهم يقربون الأشياء من عينيهم لرؤيتها جيدًا، ولكن قد يزداد الأمر سوءًا في تلك الحالة مع التحديق، ولا بد من علاج النظر في أسرع وقت حتى لا يسوء الأمر كثيرًا، خاصةً أن هذا النوع هو الأكثر انتشارًا بين الأطفال، ويمكن أن يتحسن مع العلاج.</p>
+<ol style="text-align: right;" start="2">
+<li dir="rtl" aria-level="1">
+<h3 dir="rtl" role="presentation">أعراض طول النظر&nbsp;</h3>
+</li>
+</ol>
+<p dir="rtl" style="text-align: right;">عادةً ما يستطيع أصحاب هذا النوع رؤية الأشياء بوضوح عن بعد، لكن تبدأ الرؤية في التشوش تدريجيًا كلما ازدات قربًا من العين، لذا تجد هؤلاء الأشخاص يميلون لإبعاد الأشياء عن عينيهم مثل الكتب، لاستطاعة قرائتها.</p>
+<ol style="text-align: right;" start="3">
+<li dir="rtl" aria-level="1">
+<h3 dir="rtl" role="presentation">أعراض الاستجماتيزم</h3>
+</li>
+</ol>
+<p dir="rtl" style="text-align: right;">أما عن أعراض الاستجماتيزم، فهي تختلف عن أعراض قصر النظر وطوله، في أنها تسبب ضبابية الرؤية من كل المسافات سواء كانت قريبة أم بعيدة.</p>
+<h2 dir="rtl" style="text-align: right;">ما أسباب طول النظر وقصره، أسباب استجماتيزم العين؟</h2>
+<p dir="rtl" style="text-align: right;">قبل معرفة أسباب كل منهم، لا بد من معرفة آلية عمل العين أولًا حتى نعرف ما أسباب طول النظر وقصره وأسباب استجماتيزم العين. في الحالات الطبيعية تدخل أشعة الضوء إلى العينين وتمر من خلال القرنية والعدسة إلى الداخل.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">تعد القرنية والعدسة هما الأجزاء المسئولة عن توجيه تلك الأشعة تجاه شبكية العين التي تحتوي على الأنسجة العصبية، التي تحمل تلك الأشعة في هيئة إشارات إلى المخ، الذي بدوره يترجمها ويجعلك تدرك الصور التي تراها في شكلها الحقيقي.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">اختلاف شكل العين أو وجود خلل بأحد أجزائها؛ يسبب انحراف الأشعة الضوئية الداخلة إلى العين إلى مكان آخر غير مكانها الطبيعي على الشبكية، فيحدث المشكلات البصرية الشائعة محور حديثنا اليوم، لكن هل يمكن علاج قصر النظر؟ وهل عملية طول النظر فعالة في تصحيح انكسار الأشعة أم لا؟ هذا ما سنعرفه في السطور القادمة بعد سرد أسباب كل منهم.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<ol style="text-align: right;">
+<li dir="rtl" aria-level="1">
+<h3 dir="rtl" role="presentation">أسباب قصر النظر</h3>
+</li>
+</ol>
+<p dir="rtl" style="text-align: right;">تعود أسباب قصر النظر إلى اختلاف شكل العين أو أحد أجزائها عن الطبيعي؛ مما يؤثر على وصول الأشعة الضوئية إلى نقطة تجمعها الصحيح على الأنسجة العصبية في الشبكية، فتتجمع جميعها أمام الشبكية نفسها، مما يسبب ضبابية الرؤية للأشياء البعيدة.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">يعد الأكثر عرضة للإصابة بقصر النظر، هم الأبناء للآباء المصابون بأعراض قصر النظر، كما تُعد النساء أكثر عرضة للإصابة بأعراض قصر النظر من الرجال، بالإضافة إلى أن تضرر شبكية العين للأطفال الخدج (ذو الولادة المبكرة) من أشهر أسباب قصر النظر أيضًا.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">هذا بالإضافة لما ذكرناه من قبل أن ممارسة العادات السيئة أحد أهم أسباب قصر النظر، وذلك بسبب التحديق في الأشياء من مسافة قريبة مثل القراءة عن قرب أو استخدام أجهزة الكمبيوتر أو الهواتف، الذي يعرضك لاحتمالية تضرر عينيك والإصابة بقصر النظر.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<ol style="text-align: right;" start="2">
+<li dir="rtl" aria-level="1">
+<h3 dir="rtl" role="presentation">أسباب طول النظر</h3>
+</li>
+</ol>
+<p dir="rtl" style="text-align: right;">على غرار ما ذكرناه في أسباب قصر النظر، فإن أسباب طول النظر ترجع إلى تجمع الأشعة الضوئية خلف الشبكية وليس أمامها، وبالتالي تتضح رؤية الأشياء البعيدة عن العين، أما الأشياء القريبة تكون ضبابية غير واضحة، ويرجع ذلك أيضًا إلى اختلاف شكل العين أو أحد أجزائها، فمثلًا من الممكن أن تكون القرنية مسطحة غير كروية؛ فتسبب أعراض طول النظر، أما إن كانت محدبة نلاحظ أعراض قصر النظر، وهكذا، لكن هل عملية طول النظر يمكنها تصحيح النظر نهائيًا؟&nbsp;</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<ol style="text-align: right;" start="3">
+<li dir="rtl" aria-level="1">
+<h3 dir="rtl" role="presentation">أسباب استجماتيزم العين</h3>
+</li>
+</ol>
+<p dir="rtl" style="text-align: right;">أما عن أسباب استجماتيزم العين ترجع إلى اتخاذ القرنية أو العدسة الشكل بيضاوي، الذي يسبب مشكلة في انكسار الأشعة الضوئية داخل العين وعدم انعكاسها بشكل صحيح، فتتكون صورتين مختلفتين لنفس الشيء وتندمجان معًا؛ ما يسبب ضبابية الرؤية لكل من الأشياء القريبة والبعيدة.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">&nbsp;</p>
+<p dir="rtl" style="text-align: right;">يمكن أن يولد الأشخاص بالاستجماتيزم كعوامل وراثية، أو ربما نتيجة التعرض لإصابة في العين أو مرض بها، أو ممارسة العادات الخاطئة التي تسبب أيضًا أعراض قصر النظر وطوله مثل الإفراط في استخدام التلفاز أو الهواتف أو أجهزة الكمبيوتر.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<h2 dir="rtl" style="text-align: right;">علاج قصر النظر وطول النظر عند الاطفال:</h2>
+<p dir="rtl" style="text-align: right;">يختلف علاج طول النظر عند الاطفال، بالإضافة إلى قصر النظر والاستجماتيزم، من حالة لأخرى حسب تشخيص الطبيب. في البداية، يجب زيارة طبيب العيون لإجراء فحص شامل وقياس النظر بدقة، حيث تختلف درجة الإصابة من طفل لآخر.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<h3 dir="rtl" style="text-align: right;">أبرز طرق علاج طول النظر عند الاطفال تشمل:</h3>
+<ul style="text-align: right;">
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">النظارات الطبية: تعد الخيار الأول والأكثر شيوعًا لتصحيح طول النظر عند الاطفال، حيث تساعد في تركيز الضوء بشكل صحيح على الشبكية.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">العدسات اللاصقة: قد تستخدم في بعض الحالات إذا كانت مناسبة لعمر الطفل وحالته الصحية.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">العلاج البصري أو التمارين البصرية: تستخدم لتحسين وظيفة العين وتقوية العضلات المسؤولة عن التركيز.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">المتابعة الدورية: من الضروري متابعة طول النظر عند الاطفال بانتظام للتأكد من تطور النظر مع النمو.</p>
+</li>
+</ul>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">"ملاحظة مهمة" النظارات أو العدسات لا تعالج السبب الجذري لطول النظر عند الاطفال، بل تعمل على تصحيح الرؤية بشكل مؤقت، إلى أن يحدد الطبيب لاحقًا إمكانية إجراء تصحيح دائم مثل الليزك عندما يثبت النظر مع التقدم في العمر.</p>
+<h3 dir="rtl" style="text-align: right;">هل توجد جراحة لعلاج قصر النظر وطوله والاستجماتيزم؟</h3>
+<p dir="rtl" style="text-align: right;">في حالات معينة، قد يوصي الطبيب بـ الليزك كعلاج نهائي لتصحيح مسار الضوء داخل العين، وهو خيار أكثر شيوعًا لدى البالغين. العملية لا تجرى للأطفال لأنها تتطلب ثباتًا في النظر لا يحدث إلا بعد عمر معين.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<h4 dir="rtl" style="text-align: right;">مزايا الجراحة التصحيحية:</h4>
+<p dir="rtl" style="text-align: right;">تعالج أسباب طول النظر وقصر النظر.</p>
+<p dir="rtl" style="text-align: right;">تعيد تركيز الأشعة الضوئية بشكل دقيق على الشبكية.</p>
+<p dir="rtl" style="text-align: right;">تقلل من الاعتماد على النظارات أو العدسات.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<h2 dir="rtl" style="text-align: right;">علاج طول النظر بعد الأربعين هل هو ممكن؟</h2>
+<p dir="rtl" style="text-align: right;">علاج طول النظر بعد الأربعين يختلف عن الأطفال أو الشباب، حيث تبدأ العين في فقدان مرونتها الطبيعية تدريجيًا، ويعرف هذا التغير بـ "طول النظر الشيخوخي".</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">إليك أبرز خيارات علاج طول النظر بعد الأربعين:</p>
+<ul style="text-align: right;">
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">النظارات متعددة البؤر أو القراءة: هي الأكثر شيوعًا لتحسين الرؤية القريبة.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">العدسات اللاصقة المتخصصة: تستخدم لتوفير وضوح في الرؤية القريبة والبعيدة.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">الليزر أو الجراحة التصحيحية: يمكن أن تكون خيارًا فعالًا في بعض الحالات، حسب تقييم الطبيب.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">زراعة العدسات داخل العين: خاصة إذا كان هناك موانع لإجراء الليزك.</p>
+</li>
+</ul>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">"ملحوظة" يجب استشارة طبيب العيون لتحديد أفضل علاج طول النظر بعد الأربعين وفقًا لحالة العين الصحية وأسلوب الحياة.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">"خلاصة"</p>
+<p dir="rtl" style="text-align: right;">&nbsp;علاج طول النظر بعد الأربعين يتضمن خيارات أكثر تنوعًا تشمل النظارات، العدسات، أو العمليات الجراحية.</p>
+<p dir="rtl" style="text-align: right;">لكل فئة عمرية احتياجات مختلفة في التشخيص والعلاج، لذا من الضروري المتابعة المستمرة مع طبيب مختص لتحديد الأنسب لكل حالة.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<h2 dir="rtl" style="text-align: right;">كيفية الوقاية من أعراض الاستجماتيزم وأعراض قصر النظر وطوله؟</h2>
+<p dir="rtl" style="text-align: right;">تساعدك النصائح التالية للحفاظ على عينيك من الإصابة بأسباب طول النظر أو أسباب قصر النظر، وأيضًا أسباب استجماتيزم العين التي تحدث نتيجة للعادات السيئة، وتلك النصائح هي:</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<ul style="text-align: right;">
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">حماية العينين من الشمس.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">استخدام الإضاءة الجيدة أثناء ممارسة الأنشطة التي تحتاج إلى القرب من العين، مثل القراءة واستخدام اجهزة الكمبيوتر، مع أخذ استراحة لمدة 20 ثانية كل 20 دقيقة.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">إجراء فحص روتيني للعين كل مدة، خاصةً أن أعراض الاستجماتيزم قد لا تبدو واضحة في بدايتها.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">تناول الأطعمة الصحية وممارسة الرياضة بانتظام.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">تجنب التدخين.</p>
+</li>
+<li dir="rtl" aria-level="1">
+<p dir="rtl" role="presentation">الحفاظ على مستويات السكر منضبطة في الجسم، وكذلك ضغط الدم.</p>
+</li>
+</ul>
+<p style="text-align: right;"><strong><br><br></strong></p>
+<p dir="rtl" style="text-align: right;">"ختامًا"</p>
+<p dir="rtl" style="text-align: right;">إن فهمنا لأسباب طول النظر وأسباب قصر النظر، أيضًا الوعي بأسباب استجماتيزم العين، يساعدنا في تجنبها والحفاظ على أعيننا صحية سليمة. كما أن الوقاية خير من العلاج، فقد يقينا اتباع طرق الوقاية من تطور أعراض الاستجماتيزم أو أعراض قصر البصر وطوله، خاصةً مع أطفالنا الذين تؤثر عليهم تلك المشكلات في أدائهم الدراسي وممارسة حياتهم اليومية.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">كما يجب علينا أيضًا الاهتمام بزيارة <a class="CellKeyword-keyword" href="/ar/doctors" target="_blank" rel="noopener">أفضل دكتور عيون</a> بصفة دائمة لفحص العينين، خاصةً إن بدر أحد الأعراض المصاحبة لمشكلات البصر الشائعة التي تناولنا ذكرها في مقالنا، حتى لا تتفاقم الحالة ونصاب بمضاعفات أخطر لا يمكن علاجها.</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">في مجمع الكحال الطبي افضل مستشفى <a href="/ar" target="_blank" rel="noopener">للعيون </a>في السعوديةسوف تجد جميع التخصصات والأدوات اللازمة لفحص العين والتأكد من صحتها، لمعرفة المزيد عن ذلك، يرجى زيارة قسم <a href="/ar/specialities" target="_blank" rel="noopener">التخصصات</a> الخاص بنا.&nbsp;<br>فقط <a href="/ar/book" target="_blank" rel="noopener">احجز </a>موعدك الآن!</p>
+<p style="text-align: right;">&nbsp;</p>
+<h2 dir="rtl" style="text-align: right;">&nbsp; &nbsp;<strong>&nbsp;</strong></h2>
+<p dir="rtl" style="text-align: right;">&nbsp;</p>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+<p dir="rtl" style="text-align: right;">&nbsp;</p>
+<p style="text-align: right;">&nbsp;</p>
+                    </div>
+
+                    <div class="book-now__card-container">
+                        <div class="book-now__card">
+                            <div class="book-now__card__icon-wrapper">
+                                <div class="book-now__card__icon-container">
+                                    <svg class="icon book-now__card__icon">
+                                        <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#eye-icon"></use>
+                                    </svg>
+                                </div>
+                                <span class="book-now__card__icon__text">قسم العيون</span>
+                            </div>
+                            <a href="https://alkahhal.com.sa/ar/book"
+                               class="btn btn-brand-arrow btn-square btn-lg book-now__card__btn" data-aos="fade-up">
+                                إحجز الآن
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- // blog post details -->
+                <!-- right side -->
+                <div class="col-lg-4">
+                     <!--FAQ-->
+                                             <div class="faq-section" id="faq-section">
+                            <h3 class="faq-section__title">الأسئلة الشائعة حول الموضوع</h3>
+                            <div class="faq__section__body">
+                                <div class="accordion d-flex flex-column" id="accordionExample">
+                                                                                                                        <div class="card" data-aos="fade-up" data-aos-delay="100">
+                                                <div class="card-header" id="headingOne">
+                                                    <h2 class="mb-0">
+                                                        <button
+                                                            class="accordion-button bg-transparent border-0 shadow-none p-0 position-relative w-100 d-flex justify-content-between"
+                                                            type="button" data-toggle="collapse" data-target="#collapseOne0"
+                                                            aria-expanded="false" aria-controls="collapseOne0">
+                                                            <span class="d-block">ما هو الفرق بين طول النظر وقصر النظر؟</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+
+                                                <div id="collapseOne0" class="collapse p-0" aria-labelledby="headingOne"
+                                                    data-parent="#accordionExample">
+                                                    <div class="card-body">
+                                                        <p class="m-0">
+                                                            قصّر النظر ترى الأشياء القريبة بوضوح لكن البعيدة ضبابية (تركيز الضوء أمام الشبكية)، أما طول النظر فالعكس (الضوء خلف الشبكية).
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <!---->
+                                                                                                                        <div class="card" data-aos="fade-up" data-aos-delay="100">
+                                                <div class="card-header" id="headingOne">
+                                                    <h2 class="mb-0">
+                                                        <button
+                                                            class="accordion-button bg-transparent border-0 shadow-none p-0 position-relative w-100 d-flex justify-content-between"
+                                                            type="button" data-toggle="collapse" data-target="#collapseOne1"
+                                                            aria-expanded="false" aria-controls="collapseOne1">
+                                                            <span class="d-block">ما هي أعراض طول النظر؟</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+
+                                                <div id="collapseOne1" class="collapse p-0" aria-labelledby="headingOne"
+                                                    data-parent="#accordionExample">
+                                                    <div class="card-body">
+                                                        <p class="m-0">
+                                                            تشوش في الرؤية القريبة بحيث يميل الشخص لإبعاد الأشياء عن عينيه لقراءتها أو رؤيتها بوضوح.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <!---->
+                                                                                                                        <div class="card" data-aos="fade-up" data-aos-delay="100">
+                                                <div class="card-header" id="headingOne">
+                                                    <h2 class="mb-0">
+                                                        <button
+                                                            class="accordion-button bg-transparent border-0 shadow-none p-0 position-relative w-100 d-flex justify-content-between"
+                                                            type="button" data-toggle="collapse" data-target="#collapseOne2"
+                                                            aria-expanded="false" aria-controls="collapseOne2">
+                                                            <span class="d-block">هل يمكن علاج طول النظر؟</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+
+                                                <div id="collapseOne2" class="collapse p-0" aria-labelledby="headingOne"
+                                                    data-parent="#accordionExample">
+                                                    <div class="card-body">
+                                                        <p class="m-0">
+                                                            نعم، يعالج غالبًا بالنظارات أو العدسات اللاصقة، وأحيانًا بعمليات تصحيح النظر مثل الليزك التي تُعيد تشكيل القرنية.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <!---->
+                                                                                                                        <div class="card" data-aos="fade-up" data-aos-delay="100">
+                                                <div class="card-header" id="headingOne">
+                                                    <h2 class="mb-0">
+                                                        <button
+                                                            class="accordion-button bg-transparent border-0 shadow-none p-0 position-relative w-100 d-flex justify-content-between"
+                                                            type="button" data-toggle="collapse" data-target="#collapseOne3"
+                                                            aria-expanded="false" aria-controls="collapseOne3">
+                                                            <span class="d-block">كيف يرى أصحاب قصر النظر؟</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+
+                                                <div id="collapseOne3" class="collapse p-0" aria-labelledby="headingOne"
+                                                    data-parent="#accordionExample">
+                                                    <div class="card-body">
+                                                        <p class="m-0">
+                                                            يرون الأشياء القريبة بوضوح، لكن الأشياء البعيدة تبدو مشوشة وغير واضحة.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <!---->
+                                                                                                                        <div class="card" data-aos="fade-up" data-aos-delay="100">
+                                                <div class="card-header" id="headingOne">
+                                                    <h2 class="mb-0">
+                                                        <button
+                                                            class="accordion-button bg-transparent border-0 shadow-none p-0 position-relative w-100 d-flex justify-content-between"
+                                                            type="button" data-toggle="collapse" data-target="#collapseOne4"
+                                                            aria-expanded="false" aria-controls="collapseOne4">
+                                                            <span class="d-block">كيف أعرف أني أعاني من قصر النظر؟</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+
+                                                <div id="collapseOne4" class="collapse p-0" aria-labelledby="headingOne"
+                                                    data-parent="#accordionExample">
+                                                    <div class="card-body">
+                                                        <p class="m-0">
+                                                            تشعر بصعوبة في رؤية الأشياء البعيدة، ما يدفعك إلى الاقتراب منها أو تجد أعراض ضبابية في الرؤية عندما تبعد.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <!---->
+                                                                                                                        <div class="card" data-aos="fade-up" data-aos-delay="100">
+                                                <div class="card-header" id="headingOne">
+                                                    <h2 class="mb-0">
+                                                        <button
+                                                            class="accordion-button bg-transparent border-0 shadow-none p-0 position-relative w-100 d-flex justify-content-between"
+                                                            type="button" data-toggle="collapse" data-target="#collapseOne5"
+                                                            aria-expanded="false" aria-controls="collapseOne5">
+                                                            <span class="d-block">كيف يرى صاحب الاستجماتيزم (اللابؤرية)؟</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+
+                                                <div id="collapseOne5" class="collapse p-0" aria-labelledby="headingOne"
+                                                    data-parent="#accordionExample">
+                                                    <div class="card-body">
+                                                        <p class="m-0">
+                                                            يرى ضبابية أو تشوّش في الرؤية سواء للأشياء القريبة أو البعيدة بسبب انحناء غير منتظم في القرنية.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <!---->
+                                                                                                                        <div class="card" data-aos="fade-up" data-aos-delay="100">
+                                                <div class="card-header" id="headingOne">
+                                                    <h2 class="mb-0">
+                                                        <button
+                                                            class="accordion-button bg-transparent border-0 shadow-none p-0 position-relative w-100 d-flex justify-content-between"
+                                                            type="button" data-toggle="collapse" data-target="#collapseOne6"
+                                                            aria-expanded="false" aria-controls="collapseOne6">
+                                                            <span class="d-block">ما هو الاستجماتيزم وما هي أعراضه؟</span>
+                                                        </button>
+                                                    </h2>
+                                                </div>
+
+                                                <div id="collapseOne6" class="collapse p-0" aria-labelledby="headingOne"
+                                                    data-parent="#accordionExample">
+                                                    <div class="card-body">
+                                                        <p class="m-0">
+                                                            هو انحراف بصري ناجم عن شكل بيضاوي أو غير منتظم للقرنية أو العدسة، ويظهر على شكل رؤية ضبابية في كل المسافات (قريبة وبعيدة).
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <!---->
+                                                                    </div>
+                            </div>
+                        </div>
+                                        <!-- recommended -->
+                                        <div class="recommended r-mb" data-aos="fade-up">
+                        <h3 class="title">ننصحك بقراءتها</h3>
+                        <!-- blog post -->
+                                                    <a href="https://alkahhal.com.sa/ar/advices/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%85%D9%87%D9%85%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D9%82%D8%B1%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%B1%D9%88%D8%B7%D9%8A%D8%A9" class="recommended-post d-flex align-items-center" data-aos="fade-up">
+                                <div class="recommended-post__photo">
+                                    <picture>
+                                        <source srcset="/uploads/blogs/2022/04/13/20220413171009624646990_blogs.jpg" type="image/webp"><img
+                                            src="/uploads/blogs/2022/04/13/20220413171009624646990_blogs.jpg" alt="معلومات مهمة عن القرنية المخروطية" draggable="false" loading="lazy">
+                                    </picture>
+                                </div>
+                                <h3 class="recommended-post__title">
+                                    !!القرنية المخروطية: مرض نادر ومعلومات مهمة
+                                </h3>
+                            </a>
+                            <!-- // blog post -->
+                                                    <a href="https://alkahhal.com.sa/ar/advices/%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D8%A5%D8%A8%D8%B5%D8%A7%D8%B1" class="recommended-post d-flex align-items-center" data-aos="fade-up">
+                                <div class="recommended-post__photo">
+                                    <picture>
+                                        <source srcset="/uploads/blogs/2022/06/02/202206020347291565723444_blogs.gif" type="image/webp"><img
+                                            src="/uploads/blogs/2022/06/02/202206020347291565723444_blogs.gif" alt="عمليات تصحيح الإبصار" draggable="false" loading="lazy">
+                                    </picture>
+                                </div>
+                                <h3 class="recommended-post__title">
+                                    أحدث عمليات تصحيح الإبصار-تعرف عليها
+                                </h3>
+                            </a>
+                            <!-- // blog post -->
+                                                    <a href="https://alkahhal.com.sa/ar/advices/%D8%A7%D9%84%D8%B3%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D9%84%D8%AC%D8%B1%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86-%D8%A8%D8%A7%D9%84%D9%84%D9%8A%D8%B2%D8%B1" class="recommended-post d-flex align-items-center" data-aos="fade-up">
+                                <div class="recommended-post__photo">
+                                    <picture>
+                                        <source srcset="/uploads/blogs/2025/11/16/20251116133817191676602_blogs.jpg" type="image/webp"><img
+                                            src="/uploads/blogs/2025/11/16/20251116133817191676602_blogs.jpg" alt="السن المناسب لجراحة العيون بالليزر" draggable="false" loading="lazy">
+                                    </picture>
+                                </div>
+                                <h3 class="recommended-post__title">
+                                    السن المناسب لجراحة العيون بالليزر
+                                </h3>
+                            </a>
+                            <!-- // blog post -->
+                                                    <a href="https://alkahhal.com.sa/ar/advices/%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D9%88%D8%B1%D8%AF%D9%8A%D8%A9-%D9%88%D9%83%D9%8A%D9%81-%D9%8A%D9%85%D9%83%D9%86-%D8%B9%D9%84%D8%A7%D8%AC%D9%87%D8%A7" class="recommended-post d-flex align-items-center" data-aos="fade-up">
+                                <div class="recommended-post__photo">
+                                    <picture>
+                                        <source srcset="/uploads/blogs/2025/10/27/2025102721224527857624_blogs.jpg" type="image/webp"><img
+                                            src="/uploads/blogs/2025/10/27/2025102721224527857624_blogs.jpg" alt="ما هي العين الوردية وكيف يمكن علاجها" draggable="false" loading="lazy">
+                                    </picture>
+                                </div>
+                                <h3 class="recommended-post__title">
+                                    ما هي العين الوردية وكيف يمكن علاجها
+                                </h3>
+                            </a>
+                            <!-- // blog post -->
+                                            </div>
+                                        <div class="newsletter r-mb" data-aos="fade-up">
+                        <h6>اشترك في صحيفتنا الإخبارية!</h6>
+                        <form class="form-row newsletter__form">
+                            <div class="col-md-8 col-lg-9">
+                                <label for="newsletterEmail" class="sr-only">Email Address</label>
+                                <input type="email" class="form-control" id="newsletterEmail" placeholder="Email Address">
+                            </div>
+                            <div class="col-md-4 col-lg-3">
+                                <button class="btn btn-main btn-block">
+                                    <svg class="icon">
+                                        <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#send-icon"></use>
+                                    </svg>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                    <!-- // newsletter -->
+                </div>
+                <!-- // right side -->
+            </div>
+        </div>
+    </div>
+    <!-- // blog post -->
+
+
+
+<!-- wrapper -->
+
+<!-- // wrapper -->
+
+<!-- footer -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <!-- links -->
+            <div class="col-md-12 col-lg-5 col-xl-3">
+                <ul class="footer__links list-inline" data-aos="fade-up">
+                    <li class="list-inline-item">
+                        <a href="https://alkahhal.com.sa/ar/about">عن الكحال</a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://alkahhal.com.sa/ar/specialities">التخصصات</a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://alkahhal.com.sa/ar/careers">الوظائف</a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://alkahhal.com.sa/ar/doctors">الأطباء</a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://alkahhal.com.sa/ar/book">إحجز موعد</a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://alkahhal.com.sa/ar/advices">نصائح طبية</a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://alkahhal.com.sa/ar/policies">سياسة الخصوصية</a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a  data-toggle="modal" data-target="#contactModal">اتصل بنا</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- // links -->
+            <!-- download apps -->
+            <div class="col-md-12 col-lg-7 col-xl-5">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <a class="twitter-timeline" data-width="400" data-height="350" data-dnt="true" href="https://twitter.com/alkahhalsa?ref_src=twsrc%5Etfw">Tweets by alkahhalsa</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>                    </div>
+            <!-- // download apps -->
+            <!-- branches -->
+            <div class="col-md-16 col-xl-4">
+                <div class="footer__branches" data-aos="fade-up">
+                    <ul class="nav nav-pills nav-justified" id="pills-tab" role="tablist">
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link active" id="pills-dammam-tab" data-toggle="pill" href="#pills-dammam" role="tab" aria-controls="pills-dammam" aria-selected="true">الدمام</a>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <a class="nav-link" id="pills-ahsaa-tab" data-toggle="pill" href="#pills-ahsaa" role="tab" aria-controls="pills-ahsaa" aria-selected="false">الإحساء</a>
+                        </li>
+                    </ul>
+                    <div class="tab-content" id="pills-tabContent">
+                        <!-- branch content -->
+                        <div class="tab-pane fade show active" id="pills-dammam" role="tabpanel" aria-labelledby="pills-dammam-tab">
+                            <ul class="footer__links list-inline">
+                                <!-- tel -->
+                                <li class="list-inline-item">
+                                    <a href="tel:920022066">
+                                        <div class="footer__links-icon">
+                                            <svg class="icon">
+                                                <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#footer-tel"></use>
+                                            </svg>
+                                        </div>
+                                        920022066
+                                    </a>
+                                </li>
+                                <!-- // tel -->
+                                <!-- address -->
+                                <li>
+                                    <a href="https://www.google.com/maps/place/Kahhal+Medical+Complex/@26.4737395,50.0945225,17z/data=!3m1!4b1!4m6!3m5!1s0x3e49fea90b63e9b5:0xa6d890753e9d119!8m2!3d26.4737395!4d50.0945225!16s%2Fg%2F1tffbntm" target="_blank" rel="nofollow">
+                                        <div class="footer__links-icon">
+                                            <svg class="icon">
+                                                <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#footer-branch"></use>
+                                            </svg>
+                                        </div>
+                                        <div class="footer__links-data">
+                                            الدمام - أبو هريرة، الحمراء، 32421
+                                        </div>
+                                    </a>
+                                </li>
+                                <!-- // address -->
+
+                                <!-- working hours -->
+                                <li>
+                                    <a href="tel:0138097777">
+                                        <div class="footer__links-icon">
+                                            <svg class="icon">
+                                                <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#footer-time"></use>
+                                            </svg>
+                                        </div>
+                                        <div class="footer__links-data">
+                                            من  8:30 صباحاً إلى 10:00 مساءً
+                                        </div>
+                                    </a>
+                                </li>
+                                <!-- // working hours -->
+                            </ul>
+                        </div>
+                        <!-- // branch content -->
+                        <!-- branch content -->
+                        <div class="tab-pane fade" id="pills-ahsaa" role="tabpanel" aria-labelledby="pills-ahsaa-tab">
+                            <ul class="footer__links list-inline">
+                                <!-- tel -->
+                                <li class="list-inline-item">
+                                    <a href="tel:920022066">
+                                        <div class="footer__links-icon">
+                                            <svg class="icon">
+                                                <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#footer-tel"></use>
+                                            </svg>
+                                        </div>
+                                        920022066
+                                    </a>
+                                </li>
+                                <!-- // tel -->
+                                <!-- address -->
+                                <li>
+                                    <a  href="https://www.google.com.eg/maps/place/%D9%85%D8%AC%D9%85%D8%B9+%D8%A7%D9%84%D9%83%D8%AD%D8%A7%D9%84+%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%E2%80%AD/@25.4035673,49.5603211,17z/data=!3m1!4b1!4m6!3m5!1s0x3e37bd80e8523e05:0xf2005e580b091f74!8m2!3d25.4035673!4d49.5603211!16s%2Fg%2F11cmhgk31b?hl=en&amp;authuser=0" target="_blank" rel="nofollow">
+                                        <div class="footer__links-icon">
+                                            <svg class="icon">
+                                                <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#footer-branch"></use>
+                                            </svg>
+                                        </div>
+                                        <div class="footer__links-data">
+                                            فرع الأحساء - محاسن ، المبرز 36422
+                                        </div>
+                                    </a>
+                                </li>
+                                <!-- // address -->
+
+                                <!-- working hours -->
+                                <li>
+                                    <a href="tel:0138097777">
+                                        <div class="footer__links-icon">
+                                            <svg class="icon">
+                                                <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#footer-time"></use>
+                                            </svg>
+                                        </div>
+                                        <div class="footer__links-data">
+                                            من  9:00 صباحاً إلى 8:00 مساءً
+                                        </div>
+                                    </a>
+                                </li>
+                                <!-- // working hours -->
+                            </ul>
+                        </div>
+                        <!-- // branch content -->
+                    </div>
+                </div>
+            </div>
+            <!-- // branches -->
+        </div>
+        <div class="footer__copyrights">
+            <div class="row">
+                <!-- footer links -->
+                <div class="col-lg-4 d-flex align-items-center justify-content-lg-start justify-content-center">
+                    <ul class="copyrights__links list-inline">
+                        <li class="list-inline-item">
+                            <a href="https://alkahhal.com.sa/ar/policies">سياسة الخصوصية</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#">شروط الإستخدام</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- // footer links -->
+                <!-- copyrights -->
+                <div class="col-lg-4 d-flex align-items-center justify-content-center text-center">
+                    <p>جميع الحقوق محفوظة لـ الكحّال - 2021
+                    <a href="https://jumppeak.net/" target="_blank" alt="jumppeak website" rel="dofollow">
+                        تم تطويره بواسطة
+                        <picture>
+                            <source srcset="https://alkahhal.com.sa/web/assets/images/jumppeak-logo.svg" type="image/svg">
+                            <img src="https://alkahhal.com.sa/web/assets/images/jumppeak-logo.svg" alt="Jumppeak" style="width: 90px;">
+                        </picture>
+                    </a>
+                   </p>
+                </div>
+                <!-- // copyrights -->
+                <!-- social-icons -->
+                <div class="col-lg-4 d-flex align-items-center justify-content-lg-end justify-content-center">
+                    <ul class="social-icons list-inline">
+                        <li class="list-inline-item">
+                            <a href="https://www.youtube.com/channel/UCcGRQUdFbFJWlafHgAUsG2w" target="_blank" rel="nofollow">
+                                <svg class="icon">
+                                    <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#youtube-icon"></use>
+                                </svg>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="https://twitter.com/alkahhalsa" target="_blank" rel="nofollow">
+                                <svg class="icon">
+                                    <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#twitter-icon"></use>
+                                </svg>
+                            </a>
+                        </li>
+                        
+                        <li class="list-inline-item">
+                            <a href="https://www.instagram.com/alkahhalsa" target="_blank" rel="nofollow">
+                                <svg class="icon">
+                                    <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#instagram-icon"></use>
+                                </svg>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="https://www.facebook.com/alkahhalsa" target="_blank" rel="nofollow">
+                                <svg class="icon">
+                                    <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#facebook-icon"></use>
+                                </svg>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- // social-icons -->
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- // footer -->
+
+<!-- fixed btn -->
+<!--        <div class="review">
+            <div class="review__btn">
+                <svg class="icon">
+                    <use xlink:href="/web/assets/images/icons/kahhal-icons.svg#review-icon"></use>
+                </svg>
+            </div>
+            <div class="review__content">
+                <h6>Did you enjoyed the service?</h6>
+                <small class="d-block">You can rate from 1 to 5</small>
+                <div class="review__rate">
+                    <input type="radio" id="star5" name="rate" value="5" />
+                    <label for="star5" title="text">5 stars</label>
+                    <input type="radio" id="star4" name="rate" value="4" />
+                    <label for="star4" title="text">4 stars</label>
+                    <input type="radio" id="star3" name="rate" value="3" />
+                    <label for="star3" title="text">3 stars</label>
+                    <input type="radio" id="star2" name="rate" value="2" />
+                    <label for="star2" title="text">2 stars</label>
+                    <input type="radio" id="star1" name="rate" value="1" />
+                    <label for="star1" title="text">1 star</label>
+                </div>
+            </div>
+        </div>-->
+<!-- // fixed btn -->
+
+<script src="https://addons.practo.com/dashboard/build/scripts/widget.js"></script>
+
+
+<!--any code in footer!-->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NBL7KG7M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- js -->
+
+<script src="/web/assets/js/main.min.js" defer></script>
+
+<script type="text/javascript" id="zsiqchat">
+    var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:"93a57e7c7c3e4572e13c4bab81a6848fa85f004af8f57c30e2a2441301928b3f", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);
+</script>
+
+<script type="text/javascript">
+    const Ziggy = {"url":"https:\/\/alkahhal.com.sa","port":null,"defaults":{},"routes":{"debugbar.openhandler":{"uri":"_debugbar\/open","methods":["GET","HEAD"]},"debugbar.clockwork":{"uri":"_debugbar\/clockwork\/{id}","methods":["GET","HEAD"]},"debugbar.telescope":{"uri":"_debugbar\/telescope\/{id}","methods":["GET","HEAD"]},"debugbar.assets.css":{"uri":"_debugbar\/assets\/stylesheets","methods":["GET","HEAD"]},"debugbar.assets.js":{"uri":"_debugbar\/assets\/javascript","methods":["GET","HEAD"]},"debugbar.cache.delete":{"uri":"_debugbar\/cache\/{key}\/{tags?}","methods":["DELETE"]},"ignition.healthCheck":{"uri":"_ignition\/health-check","methods":["GET","HEAD"]},"ignition.executeSolution":{"uri":"_ignition\/execute-solution","methods":["POST"]},"ignition.shareReport":{"uri":"_ignition\/share-report","methods":["POST"]},"ignition.scripts":{"uri":"_ignition\/scripts\/{script}","methods":["GET","HEAD"]},"ignition.styles":{"uri":"_ignition\/styles\/{style}","methods":["GET","HEAD"]},"web.home.index":{"uri":"{locale?}","methods":["GET","HEAD"]},"web.register":{"uri":"{locale?}\/registerition","methods":["GET","HEAD"]},"web.register.store":{"uri":"{locale?}\/register-store","methods":["POST"]},"web.activate":{"uri":"{locale?}\/activation","methods":["GET","HEAD"]},"web.activate.send":{"uri":"{locale?}\/activation-send","methods":["POST"]},"web.forgetPassword.send":{"uri":"{locale?}\/forgetPassword-send","methods":["POST"]},"web.resetPassword":{"uri":"{locale?}\/resetPassword\/{token}","methods":["GET","HEAD"]},"web.resetPassword.send":{"uri":"{locale?}\/sendResetPassword","methods":["POST"]},"login.post":{"uri":"{locale?}\/post-login","methods":["POST"]},"web.logout":{"uri":"{locale?}\/logout","methods":["GET","HEAD"]},"web.home.profile":{"uri":"{locale?}\/my-profile","methods":["GET","HEAD"]},"web.register.update":{"uri":"{locale?}\/update-user","methods":["PUT"]},"web.changePassword":{"uri":"{locale?}\/changePassword","methods":["POST"]},"admin.pending.users":{"uri":"pending\/users","methods":["GET","HEAD"]},"admin.pending.tickets":{"uri":"pending\/tickets","methods":["GET","HEAD"]},"admin.transactions.index":{"uri":"transactions","methods":["GET","HEAD"]},"admin.notifications.index":{"uri":"notifications","methods":["GET","HEAD"]},"admin.reviews.index":{"uri":"reviews","methods":["GET","HEAD"]},"admin.dashboard.index":{"uri":"admin","methods":["GET","HEAD"]},"admin.users.index":{"uri":"admin\/users","methods":["GET","HEAD"]},"admin.users.create":{"uri":"admin\/users\/create","methods":["GET","HEAD"]},"admin.users.store":{"uri":"admin\/users","methods":["POST"]},"admin.users.edit":{"uri":"admin\/users\/{user}\/edit","methods":["GET","HEAD"],"bindings":{"user":"id"}},"admin.users.update":{"uri":"admin\/users\/{user}","methods":["PUT","PATCH"],"bindings":{"user":"id"}},"admin.users.disable":{"uri":"admin\/users\/{user}\/disable","methods":["GET","HEAD"],"bindings":{"user":"id"}},"admin.users.enable":{"uri":"admin\/users\/{user}\/enable","methods":["GET","HEAD"],"bindings":{"user":"id"}},"admin.clients.index":{"uri":"admin\/clients","methods":["GET","HEAD"]},"admin.clients.create":{"uri":"admin\/clients\/create","methods":["GET","HEAD"]},"admin.clients.store":{"uri":"admin\/clients","methods":["POST"]},"admin.clients.edit":{"uri":"admin\/clients\/{client}\/edit","methods":["GET","HEAD"],"bindings":{"client":"id"}},"admin.clients.update":{"uri":"admin\/clients\/{client}","methods":["PUT","PATCH"],"bindings":{"client":"id"}},"admin.clients.disable":{"uri":"admin\/clients\/{client}\/disable","methods":["GET","HEAD"],"bindings":{"client":"id"}},"admin.clients.enable":{"uri":"admin\/clients\/{client}\/enable","methods":["GET","HEAD"],"bindings":{"client":"id"}},"admin.clients.delete":{"uri":"admin\/clients\/{client}\/delete","methods":["GET","HEAD"],"bindings":{"client":"id"}},"admin.clients.book":{"uri":"admin\/clients\/{client}\/book","methods":["GET","HEAD"]},"api.users.index":{"uri":"api\/users","methods":["GET","HEAD"]},"api.clients.index":{"uri":"api\/clients","methods":["GET","HEAD"]},"api.clients.booking":{"uri":"api\/clients\/booking","methods":["GET","HEAD"]},"login":{"uri":"login","methods":["GET","HEAD"]},"logout":{"uri":"logout","methods":["GET","HEAD"]},"register":{"uri":"register","methods":["GET","HEAD"]},"password.request":{"uri":"password\/reset","methods":["GET","HEAD"]},"password.email":{"uri":"password\/email","methods":["POST"]},"password.reset":{"uri":"password\/reset\/{token}","methods":["GET","HEAD"]},"password.update":{"uri":"password\/reset","methods":["POST"]},"password.confirm":{"uri":"password\/confirm","methods":["GET","HEAD"]},"admin.countries.index":{"uri":"admin\/countries","methods":["GET","HEAD"]},"admin.countries.edit":{"uri":"admin\/countries\/{country}\/edit","methods":["GET","HEAD"],"bindings":{"country":"id"}},"admin.countries.update":{"uri":"admin\/countries\/{country}","methods":["PUT","PATCH"],"bindings":{"country":"id"}},"api.countries.index":{"uri":"api\/countries","methods":["GET","HEAD"]},"admin.settings.index":{"uri":"admin\/settings","methods":["GET","HEAD"]},"admin.settings.edit":{"uri":"admin\/settings\/{setting}\/edit","methods":["GET","HEAD"],"bindings":{"setting":"id"}},"admin.settings.update":{"uri":"admin\/settings\/{setting}","methods":["PUT","PATCH"],"bindings":{"setting":"id"}},"api.settings.index":{"uri":"api\/settings","methods":["GET","HEAD"]},"api.doctors.index":{"uri":"api\/doctors","methods":["GET","HEAD"]},"api.doctors.working.hours":{"uri":"api\/doctors\/{doctor}\/{branche}\/working_hours","methods":["GET","HEAD"]},"admin.doctors.index":{"uri":"admin\/doctors","methods":["GET","HEAD"]},"admin.doctors.create":{"uri":"admin\/doctors\/create","methods":["GET","HEAD"]},"admin.doctors.store":{"uri":"admin\/doctors","methods":["POST"]},"admin.doctors.edit":{"uri":"admin\/doctors\/{doctor}\/edit","methods":["GET","HEAD"],"bindings":{"doctor":"id"}},"admin.doctors.update":{"uri":"admin\/doctors\/{doctor}","methods":["PUT","PATCH"],"bindings":{"doctor":"id"}},"admin.doctors.disable":{"uri":"admin\/doctors\/{doctor}\/disable","methods":["GET","HEAD"],"bindings":{"doctor":"id"}},"admin.doctors.enable":{"uri":"admin\/doctors\/{doctor}\/enable","methods":["GET","HEAD"],"bindings":{"doctor":"id"}},"admin.doctors.appointments":{"uri":"admin\/doctors\/{doctor}\/appointments","methods":["GET","HEAD"],"bindings":{"doctor":"id"}},"admin.doctors.Addappointments":{"uri":"admin\/doctors\/Addappointments","methods":["POST"]},"admin.doctors.Removeappointments":{"uri":"admin\/doctors\/Deleteappointments","methods":["POST"]},"web.doctors.index":{"uri":"{locale?}\/doctors","methods":["GET","HEAD"]},"api.leads.index":{"uri":"api\/leads","methods":["GET","HEAD"]},"admin.leads.index":{"uri":"admin\/leads","methods":["GET","HEAD"]},"admin.leads.edit":{"uri":"admin\/leads\/{lead}\/edit","methods":["GET","HEAD"],"bindings":{"lead":"id"}},"admin.leads.update":{"uri":"admin\/leads\/{lead}","methods":["PUT","PATCH"],"bindings":{"lead":"id"}},"api.leads.store":{"uri":"api\/leads","methods":["POST"]},"web.leads.index":{"uri":"{locale?}\/lead","methods":["GET","HEAD"]},"web.leads.store":{"uri":"{locale?}\/lead\/create","methods":["POST"]},"web.leads.thanks":{"uri":"{locale?}\/leads-thanks\/{lead}","methods":["GET","HEAD"],"bindings":{"lead":"id"}},"api.services.index":{"uri":"api\/services","methods":["GET","HEAD"]},"admin.services.index":{"uri":"admin\/services","methods":["GET","HEAD"]},"admin.services.create":{"uri":"admin\/services\/create","methods":["GET","HEAD"]},"admin.services.store":{"uri":"admin\/services","methods":["POST"]},"admin.services.edit":{"uri":"admin\/services\/{service}\/edit","methods":["GET","HEAD"],"bindings":{"service":"id"}},"admin.services.update":{"uri":"admin\/services\/{service}","methods":["PUT","PATCH"],"bindings":{"service":"id"}},"admin.services.disable":{"uri":"admin\/services\/{service}\/disable","methods":["GET","HEAD"],"bindings":{"service":"id"}},"admin.services.enable":{"uri":"admin\/services\/{service}\/enable","methods":["GET","HEAD"],"bindings":{"service":"id"}},"api.offers.index":{"uri":"api\/offers","methods":["GET","HEAD"]},"admin.offers.index":{"uri":"admin\/offers","methods":["GET","HEAD"]},"admin.offers.create":{"uri":"admin\/offers\/create","methods":["GET","HEAD"]},"admin.offers.store":{"uri":"admin\/offers","methods":["POST"]},"admin.offers.edit":{"uri":"admin\/offers\/{offer}\/edit","methods":["GET","HEAD"],"bindings":{"offer":"id"}},"admin.offers.update":{"uri":"admin\/offers\/{offer}","methods":["PUT","PATCH"],"bindings":{"offer":"id"}},"admin.offers.disable":{"uri":"admin\/offers\/{offer}\/disable","methods":["GET","HEAD"],"bindings":{"offer":"id"}},"admin.offers.enable":{"uri":"admin\/offers\/{offer}\/enable","methods":["GET","HEAD"],"bindings":{"offer":"id"}},"api.branches.index":{"uri":"api\/branches","methods":["GET","HEAD"]},"api.branches.specificities":{"uri":"{locale}\/api\/branches\/specificities\/{branche}","methods":["GET","HEAD"]},"admin.branches.index":{"uri":"admin\/branches","methods":["GET","HEAD"]},"admin.branches.create":{"uri":"admin\/branches\/create","methods":["GET","HEAD"]},"admin.branches.store":{"uri":"admin\/branches","methods":["POST"]},"admin.branches.edit":{"uri":"admin\/branches\/{branche}\/edit","methods":["GET","HEAD"],"bindings":{"branche":"id"}},"admin.branches.update":{"uri":"admin\/branches\/{branche}","methods":["PUT"],"bindings":{"branche":"id"}},"admin.branches.disable":{"uri":"admin\/branches\/{branche}\/disable","methods":["GET","HEAD"],"bindings":{"branche":"id"}},"admin.branches.enable":{"uri":"admin\/branches\/{branche}\/enable","methods":["GET","HEAD"],"bindings":{"branche":"id"}},"admin.specificities.index":{"uri":"admin\/specificities","methods":["GET","HEAD"]},"admin.specificities.create":{"uri":"admin\/specificities\/create","methods":["GET","HEAD"]},"admin.specificities.store":{"uri":"admin\/specificities","methods":["POST"]},"admin.specificities.edit":{"uri":"admin\/specificities\/{specificity}\/edit","methods":["GET","HEAD"],"bindings":{"Specificity":"id"}},"admin.specificities.update":{"uri":"admin\/specificities\/{specificity}","methods":["PUT","PATCH"],"bindings":{"Specificity":"id"}},"admin.specificities.disable":{"uri":"admin\/specificities\/{specificity}\/disable","methods":["GET","HEAD"],"bindings":{"specificity":"id"}},"admin.specificities.enable":{"uri":"admin\/specificities\/{specificity}\/enable","methods":["GET","HEAD"],"bindings":{"specificity":"id"}},"admin.categories.index":{"uri":"admin\/categories","methods":["GET","HEAD"]},"admin.categories.create":{"uri":"admin\/categories\/create","methods":["GET","HEAD"]},"admin.categories.store":{"uri":"admin\/categories","methods":["POST"]},"admin.categories.edit":{"uri":"admin\/categories\/{category}\/edit","methods":["GET","HEAD"],"bindings":{"category":"id"}},"admin.categories.update":{"uri":"admin\/categories\/{category}","methods":["PUT","PATCH"],"bindings":{"category":"id"}},"api.specificities.index":{"uri":"api\/specificities","methods":["GET","HEAD"]},"api.categories.index":{"uri":"api\/categories","methods":["GET","HEAD"]},"api.categories.status":{"uri":"api\/categories\/{category}\/status","methods":["POST"],"bindings":{"category":"id"}},"api.categories.destroy":{"uri":"api\/categories\/{category}\/destroy","methods":["DELETE"],"bindings":{"category":"id"}},"api.specialtybycategories":{"uri":"api\/category\/specificities\/{category}","methods":["GET","HEAD"]},"web.specialities.index":{"uri":"{locale?}\/specialities","methods":["GET","HEAD"]},"web.specificity.show":{"uri":"{locale?}\/specialty\/{slug}","methods":["GET","HEAD"]},"api.specificities.show":{"uri":"{locale}\/api\/specificities\/{specificity}","methods":["GET","HEAD"]},"api.specificities.doctors":{"uri":"{locale}\/api\/specificities\/doctors\/{specificity}","methods":["GET","HEAD"]},"api.bookings.index":{"uri":"api\/bookings","methods":["GET","HEAD"]},"admin.bookings.index":{"uri":"admin\/bookings","methods":["GET","HEAD"]},"admin.bookings.edit":{"uri":"admin\/bookings\/{booking}\/edit","methods":["GET","HEAD"],"bindings":{"booking":"id"}},"admin.bookings.update":{"uri":"admin\/bookings\/{booking}","methods":["PUT","PATCH"],"bindings":{"booking":"id"}},"admin.bookings.export":{"uri":"admin\/export-bookings","methods":["GET","HEAD"]},"api.bookings.store":{"uri":"api\/bookings","methods":["POST"]},"web.booking.store":{"uri":"store","methods":["POST"]},"web.medication.store":{"uri":"medication\/store","methods":["POST"]},"web.booking.check.availability":{"uri":"validate-available-booking","methods":["GET","HEAD"]},"web.clinic.store":{"uri":"clinic\/store","methods":["POST"]},"web.booking.index":{"uri":"{locale?}\/book","methods":["GET","HEAD"]},"web.bookings.confirm":{"uri":"{locale?}\/confirm\/{id}\/{entityId}","methods":["GET","HEAD","POST","PUT","PATCH","DELETE","OPTIONS"]},"web.bookings.payment":{"uri":"{locale?}\/payment\/{referal_code?}\/{msg?}","methods":["GET","HEAD"]},"web.bookings.thanksInstallment":{"uri":"{locale?}\/thanks-for-installment","methods":["GET","HEAD","POST","PUT","PATCH","DELETE","OPTIONS"]},"web.bookings.installment.cancellation":{"uri":"{locale?}\/installment-tabby\/cancellation","methods":["GET","HEAD","POST","PUT","PATCH","DELETE","OPTIONS"]},"web.bookings.installment.error":{"uri":"{locale?}\/book-installment\/error","methods":["GET","HEAD","POST","PUT","PATCH","DELETE","OPTIONS"]},"web.webhook.callback":{"uri":"{locale?}\/webhook\/callback","methods":["GET","HEAD","POST","PUT","PATCH","DELETE","OPTIONS"]},"web.doctor.appointments":{"uri":"{locale?}\/doctor\/appointments","methods":["GET","HEAD"]},"web.doctor.times":{"uri":"{locale?}\/doctor\/times","methods":["GET","HEAD"]},"web.booking.medication":{"uri":"{locale?}\/medication","methods":["GET","HEAD"]},"web.bookings.thanks":{"uri":"{locale?}\/medication-thanks\/{id}\/{entityId}","methods":["GET","HEAD","POST","PUT","PATCH","DELETE","OPTIONS"]},"web.clinic.page":{"uri":"{locale?}\/clinic\/diabetic-retinopathy-screening","methods":["GET","HEAD"]},"admin.blogs.index":{"uri":"admin\/blogs","methods":["GET","HEAD"]},"admin.blogs.create":{"uri":"admin\/blogs\/create","methods":["GET","HEAD"]},"admin.blogs.store":{"uri":"admin\/blogs","methods":["POST"]},"admin.blogs.edit":{"uri":"admin\/blogs\/{blog}\/edit","methods":["GET","HEAD"],"bindings":{"blog":"id"}},"admin.blogs.update":{"uri":"admin\/blogs\/{blog}","methods":["PUT","PATCH"],"bindings":{"blog":"id"}},"admin.blogs.disable":{"uri":"admin\/blogs\/{blog}\/disable","methods":["GET","HEAD"],"bindings":{"Blog":"id"}},"admin.blogs.enable":{"uri":"admin\/blogs\/{blog}\/enable","methods":["GET","HEAD"],"bindings":{"Blog":"id"}},"admin.blogs.audits":{"uri":"admin\/blogs\/{blog}\/audits","methods":["GET","HEAD"],"bindings":{"Blog":"id"}},"admin.blogs.audits.show":{"uri":"admin\/blog\/{blog}\/audits\/{audit}\/show","methods":["GET","HEAD"],"bindings":{"Blog":"id"}},"admin.blogs.audits.remove":{"uri":"admin\/blogs\/{blog}\/audits\/remove","methods":["GET","HEAD"],"bindings":{"Blog":"id"}},"admin.blogs.faq.delete":{"uri":"admin\/blog\/faq\/{blog_faq}\/delete","methods":["GET","HEAD"],"bindings":{"blog_faq":"id"}},"admin.blog-categories.index":{"uri":"admin\/blog-categories","methods":["GET","HEAD"]},"admin.blog-categories.create":{"uri":"admin\/blog-categories\/create","methods":["GET","HEAD"]},"admin.blog-categories.store":{"uri":"admin\/blog-categories","methods":["POST"]},"admin.blog-categories.edit":{"uri":"admin\/blog-categories\/{blog_category}\/edit","methods":["GET","HEAD"],"bindings":{"blogCategory":"id"}},"admin.blog-categories.update":{"uri":"admin\/blog-categories\/{blog_category}","methods":["PUT","PATCH"],"bindings":{"blogCategory":"id"}},"api.blogs.index":{"uri":"api\/blogs","methods":["GET","HEAD"]},"api.blog.status":{"uri":"api\/blog\/{blog}\/status","methods":["POST"],"bindings":{"blog":"id"}},"api.blog.destroy":{"uri":"api\/blog\/{blog}","methods":["DELETE"],"bindings":{"blog":"id"}},"api.blog.categories.index":{"uri":"api\/blog-categories","methods":["GET","HEAD"]},"api.blog-category.status":{"uri":"api\/blog-category\/{category}\/status","methods":["POST"],"bindings":{"category":"id"}},"api.blog-category.destroy":{"uri":"api\/blog-category\/{category}","methods":["DELETE"],"bindings":{"category":"id"}},"web.advices.index":{"uri":"{locale?}\/advices","methods":["GET","HEAD"]},"web.advices.details":{"uri":"{locale?}\/advices\/{slug}","methods":["GET","HEAD"]},"web.ramadan.index":{"uri":"{locale?}\/ramadan","methods":["GET","HEAD"]},"web.ramadan.details":{"uri":"{locale?}\/ramadan\/{slug}","methods":["GET","HEAD"]},"web.reviewBlog":{"uri":"{locale?}\/advices\/{slug?}\/review","methods":["GET","HEAD"]},"api.tickets.index":{"uri":"api\/tickets","methods":["GET","HEAD"]},"admin.tickets.index":{"uri":"admin\/tickets","methods":["GET","HEAD"]},"admin.tickets.edit":{"uri":"admin\/tickets\/{ticket}\/edit","methods":["GET","HEAD"]},"admin.tickets.update":{"uri":"admin\/tickets\/{ticket}","methods":["PUT","PATCH"]},"admin.tickets.export":{"uri":"admin\/export-tickets","methods":["GET","HEAD"]},"api.tickets.store":{"uri":"api\/tickets","methods":["POST"]},"api.partners.index":{"uri":"api\/partners","methods":["GET","HEAD"]},"admin.partners.index":{"uri":"admin\/partners","methods":["GET","HEAD"]},"admin.partners.create":{"uri":"admin\/partners\/create","methods":["GET","HEAD"]},"admin.partners.store":{"uri":"admin\/partners","methods":["POST"]},"admin.partners.edit":{"uri":"admin\/partners\/{partner}\/edit","methods":["GET","HEAD"],"bindings":{"partner":"id"}},"admin.partners.update":{"uri":"admin\/partners\/{partner}","methods":["PUT","PATCH"],"bindings":{"partner":"id"}},"admin.partners.disable":{"uri":"admin\/partners\/{partner}\/disable","methods":["GET","HEAD"],"bindings":{"partner":"id"}},"admin.partners.enable":{"uri":"admin\/partners\/{partner}\/enable","methods":["GET","HEAD"],"bindings":{"partner":"id"}},"api.jobs.index":{"uri":"api\/jobs","methods":["GET","HEAD"]},"admin.jobs.index":{"uri":"admin\/jobs","methods":["GET","HEAD"]},"admin.jobs.create":{"uri":"admin\/jobs\/create","methods":["GET","HEAD"]},"admin.jobs.store":{"uri":"admin\/jobs","methods":["POST"]},"admin.jobs.edit":{"uri":"admin\/jobs\/{job}\/edit","methods":["GET","HEAD"],"bindings":{"job":"id"}},"admin.jobs.update":{"uri":"admin\/jobs\/{job}","methods":["PUT"],"bindings":{"job":"id"}},"admin.jobs.disable":{"uri":"admin\/jobs\/{job}\/disable","methods":["GET","HEAD"],"bindings":{"job":"id"}},"admin.jobs.enable":{"uri":"admin\/jobs\/{job}\/enable","methods":["GET","HEAD"],"bindings":{"job":"id"}},"web.jobs.index":{"uri":"{locale?}\/careers","methods":["GET","HEAD"]},"api.job.requests.index":{"uri":"api\/job-requests","methods":["GET","HEAD"]},"admin.job-requests.index":{"uri":"admin\/job-requests","methods":["GET","HEAD"]},"admin.job-requests.edit":{"uri":"admin\/job-requests\/{job_request}\/edit","methods":["GET","HEAD"],"bindings":{"lead":"id"}},"admin.job-requests.update":{"uri":"admin\/job-requests\/{job_request}","methods":["PUT","PATCH"],"bindings":{"lead":"id"}},"api.job.requests.store":{"uri":"api\/job-requests","methods":["POST"]},"api.sliders.index":{"uri":"api\/sliders","methods":["GET","HEAD"]},"admin.sliders.index":{"uri":"admin\/sliders","methods":["GET","HEAD"]},"admin.sliders.create":{"uri":"admin\/sliders\/create","methods":["GET","HEAD"]},"admin.sliders.store":{"uri":"admin\/sliders","methods":["POST"]},"admin.sliders.edit":{"uri":"admin\/sliders\/{slider}\/edit","methods":["GET","HEAD"],"bindings":{"slider":"id"}},"admin.sliders.update":{"uri":"admin\/sliders\/{slider}","methods":["PUT","PATCH"],"bindings":{"slider":"id"}},"admin.sliders.disable":{"uri":"admin\/sliders\/{slider}\/disable","methods":["GET","HEAD"],"bindings":{"slider":"id"}},"admin.sliders.enable":{"uri":"admin\/sliders\/{slider}\/enable","methods":["GET","HEAD"],"bindings":{"slider":"id"}},"api.testimonials.index":{"uri":"api\/testimonials","methods":["GET","HEAD"]},"admin.testimonials.index":{"uri":"admin\/testimonials","methods":["GET","HEAD"]},"admin.testimonials.create":{"uri":"admin\/testimonials\/create","methods":["GET","HEAD"]},"admin.testimonials.store":{"uri":"admin\/testimonials","methods":["POST"]},"admin.testimonials.edit":{"uri":"admin\/testimonials\/{testimonial}\/edit","methods":["GET","HEAD"],"bindings":{"testimonial":"id"}},"admin.testimonials.update":{"uri":"admin\/testimonials\/{testimonial}","methods":["PUT"],"bindings":{"testimonial":"id"}},"admin.testimonials.disable":{"uri":"admin\/testimonials\/{testimonial}\/disable","methods":["GET","HEAD"],"bindings":{"testimonial":"id"}},"admin.testimonials.enable":{"uri":"admin\/testimonials\/{testimonial}\/enable","methods":["GET","HEAD"],"bindings":{"testimonial":"id"}},"admin.histories.delete":{"uri":"admin\/histories\/{history}\/delete","methods":["GET","HEAD"],"bindings":{"history":"id"}},"api.pages.index":{"uri":"api\/pages","methods":["GET","HEAD"]},"admin.pages.index":{"uri":"admin\/pages","methods":["GET","HEAD"]},"admin.pages.create":{"uri":"admin\/pages\/create","methods":["GET","HEAD"]},"admin.pages.store":{"uri":"admin\/pages","methods":["POST"]},"admin.pages.edit":{"uri":"admin\/pages\/{page}\/edit","methods":["GET","HEAD"],"bindings":{"page":"id"}},"admin.pages.update":{"uri":"admin\/pages\/{page}","methods":["PUT"],"bindings":{"page":"id"}},"admin.pages.disable":{"uri":"admin\/pages\/{page}\/disable","methods":["GET","HEAD"],"bindings":{"page":"id"}},"admin.pages.enable":{"uri":"admin\/pages\/{page}\/enable","methods":["GET","HEAD"],"bindings":{"page":"id"}},"web.pages.about":{"uri":"{locale?}\/about","methods":["GET","HEAD"]},"web.pages.jcia":{"uri":"{locale?}\/jcia","methods":["GET","HEAD"]},"web.pages.thanks":{"uri":"thanks","methods":["GET","HEAD"]},"web.bh.pages.thanks":{"uri":"bh-thanks","methods":["GET","HEAD"]},"web.pages.index":{"uri":"{slug}","methods":["GET","HEAD"]},"web.pages.policy":{"uri":"{locale?}\/policies","methods":["GET","HEAD"]},"web.pages.cbahi":{"uri":"{locale?}\/cbahi","methods":["GET","HEAD"]}}};
+
+    !function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):(t=t||self).route=e()}(this,function(){var t=Object.prototype.hasOwnProperty,e=Array.isArray,r=function(){for(var t=[],e=0;e<256;++e)t.push("%"+((e<16?"0":"")+e.toString(16)).toUpperCase());return t}(),n=function(t,e){for(var r=e&&e.plainObjects?Object.create(null):{},n=0;n<t.length;++n)void 0!==t[n]&&(r[n]=t[n]);return r},o={arrayToObject:n,assign:function(t,e){return Object.keys(e).reduce(function(t,r){return t[r]=e[r],t},t)},combine:function(t,e){return[].concat(t,e)},compact:function(t){for(var r=[{obj:{o:t},prop:"o"}],n=[],o=0;o<r.length;++o)for(var i=r[o],u=i.obj[i.prop],f=Object.keys(u),a=0;a<f.length;++a){var s=f[a],c=u[s];"object"==typeof c&&null!==c&&-1===n.indexOf(c)&&(r.push({obj:u,prop:s}),n.push(c))}return function(t){for(;t.length>1;){var r=t.pop(),n=r.obj[r.prop];if(e(n)){for(var o=[],i=0;i<n.length;++i)void 0!==n[i]&&o.push(n[i]);r.obj[r.prop]=o}}}(r),t},decode:function(t,e,r){var n=t.replace(/\+/g," ");if("iso-8859-1"===r)return n.replace(/%[0-9a-f]{2}/gi,unescape);try{return decodeURIComponent(n)}catch(t){return n}},encode:function(t,e,n){if(0===t.length)return t;var o=t;if("symbol"==typeof t?o=Symbol.prototype.toString.call(t):"string"!=typeof t&&(o=String(t)),"iso-8859-1"===n)return escape(o).replace(/%u[0-9a-f]{4}/gi,function(t){return"%26%23"+parseInt(t.slice(2),16)+"%3B"});for(var i="",u=0;u<o.length;++u){var f=o.charCodeAt(u);45===f||46===f||95===f||126===f||f>=48&&f<=57||f>=65&&f<=90||f>=97&&f<=122?i+=o.charAt(u):f<128?i+=r[f]:f<2048?i+=r[192|f>>6]+r[128|63&f]:f<55296||f>=57344?i+=r[224|f>>12]+r[128|f>>6&63]+r[128|63&f]:(f=65536+((1023&f)<<10|1023&o.charCodeAt(u+=1)),i+=r[240|f>>18]+r[128|f>>12&63]+r[128|f>>6&63]+r[128|63&f])}return i},isBuffer:function(t){return!(!t||"object"!=typeof t||!(t.constructor&&t.constructor.isBuffer&&t.constructor.isBuffer(t)))},isRegExp:function(t){return"[object RegExp]"===Object.prototype.toString.call(t)},maybeMap:function(t,r){if(e(t)){for(var n=[],o=0;o<t.length;o+=1)n.push(r(t[o]));return n}return r(t)},merge:function r(o,i,u){if(!i)return o;if("object"!=typeof i){if(e(o))o.push(i);else{if(!o||"object"!=typeof o)return[o,i];(u&&(u.plainObjects||u.allowPrototypes)||!t.call(Object.prototype,i))&&(o[i]=!0)}return o}if(!o||"object"!=typeof o)return[o].concat(i);var f=o;return e(o)&&!e(i)&&(f=n(o,u)),e(o)&&e(i)?(i.forEach(function(e,n){if(t.call(o,n)){var i=o[n];i&&"object"==typeof i&&e&&"object"==typeof e?o[n]=r(i,e,u):o.push(e)}else o[n]=e}),o):Object.keys(i).reduce(function(e,n){var o=i[n];return e[n]=t.call(e,n)?r(e[n],o,u):o,e},f)}},i=String.prototype.replace,u=/%20/g,f={RFC1738:"RFC1738",RFC3986:"RFC3986"},a=o.assign({default:f.RFC3986,formatters:{RFC1738:function(t){return i.call(t,u,"+")},RFC3986:function(t){return String(t)}}},f),s=Object.prototype.hasOwnProperty,c={brackets:function(t){return t+"[]"},comma:"comma",indices:function(t,e){return t+"["+e+"]"},repeat:function(t){return t}},l=Array.isArray,p=Array.prototype.push,d=function(t,e){p.apply(t,l(e)?e:[e])},y=Date.prototype.toISOString,h=a.default,b={addQueryPrefix:!1,allowDots:!1,charset:"utf-8",charsetSentinel:!1,delimiter:"&",encode:!0,encoder:o.encode,encodeValuesOnly:!1,format:h,formatter:a.formatters[h],indices:!1,serializeDate:function(t){return y.call(t)},skipNulls:!1,strictNullHandling:!1},v=function t(e,r,n,i,u,f,a,s,c,p,y,h,v){var m,g=e;if("function"==typeof a?g=a(r,g):g instanceof Date?g=p(g):"comma"===n&&l(g)&&(g=o.maybeMap(g,function(t){return t instanceof Date?p(t):t}).join(",")),null===g){if(i)return f&&!h?f(r,b.encoder,v,"key"):r;g=""}if("string"==typeof(m=g)||"number"==typeof m||"boolean"==typeof m||"symbol"==typeof m||"bigint"==typeof m||o.isBuffer(g))return f?[y(h?r:f(r,b.encoder,v,"key"))+"="+y(f(g,b.encoder,v,"value"))]:[y(r)+"="+y(String(g))];var w,j=[];if(void 0===g)return j;if(l(a))w=a;else{var O=Object.keys(g);w=s?O.sort(s):O}for(var E=0;E<w.length;++E){var S=w[E],N=g[S];if(!u||null!==N){var R=l(g)?"function"==typeof n?n(r,S):r:r+(c?"."+S:"["+S+"]");d(j,t(N,R,n,i,u,f,a,s,c,p,y,h,v))}}return j},m=Object.prototype.hasOwnProperty,g=Array.isArray,w={allowDots:!1,allowPrototypes:!1,arrayLimit:20,charset:"utf-8",charsetSentinel:!1,comma:!1,decoder:o.decode,delimiter:"&",depth:5,ignoreQueryPrefix:!1,interpretNumericEntities:!1,parameterLimit:1e3,parseArrays:!0,plainObjects:!1,strictNullHandling:!1},j=function(t){return t.replace(/&#(\d+);/g,function(t,e){return String.fromCharCode(parseInt(e,10))})},O=function(t,e){return t&&"string"==typeof t&&e.comma&&t.indexOf(",")>-1?t.split(","):t},E=function(t,e,r,n){if(t){var o=r.allowDots?t.replace(/\.([^.[]+)/g,"[$1]"):t,i=/(\[[^[\]]*])/g,u=r.depth>0&&/(\[[^[\]]*])/.exec(o),f=u?o.slice(0,u.index):o,a=[];if(f){if(!r.plainObjects&&m.call(Object.prototype,f)&&!r.allowPrototypes)return;a.push(f)}for(var s=0;r.depth>0&&null!==(u=i.exec(o))&&s<r.depth;){if(s+=1,!r.plainObjects&&m.call(Object.prototype,u[1].slice(1,-1))&&!r.allowPrototypes)return;a.push(u[1])}return u&&a.push("["+o.slice(u.index)+"]"),function(t,e,r,n){for(var o=n?e:O(e,r),i=t.length-1;i>=0;--i){var u,f=t[i];if("[]"===f&&r.parseArrays)u=[].concat(o);else{u=r.plainObjects?Object.create(null):{};var a="["===f.charAt(0)&&"]"===f.charAt(f.length-1)?f.slice(1,-1):f,s=parseInt(a,10);r.parseArrays||""!==a?!isNaN(s)&&f!==a&&String(s)===a&&s>=0&&r.parseArrays&&s<=r.arrayLimit?(u=[])[s]=o:u[a]=o:u={0:o}}o=u}return o}(a,e,r,n)}},S=function(t,e){var r=function(t){if(!t)return w;if(null!=t.decoder&&"function"!=typeof t.decoder)throw new TypeError("Decoder has to be a function.");if(void 0!==t.charset&&"utf-8"!==t.charset&&"iso-8859-1"!==t.charset)throw new TypeError("The charset option must be either utf-8, iso-8859-1, or undefined");return{allowDots:void 0===t.allowDots?w.allowDots:!!t.allowDots,allowPrototypes:"boolean"==typeof t.allowPrototypes?t.allowPrototypes:w.allowPrototypes,arrayLimit:"number"==typeof t.arrayLimit?t.arrayLimit:w.arrayLimit,charset:void 0===t.charset?w.charset:t.charset,charsetSentinel:"boolean"==typeof t.charsetSentinel?t.charsetSentinel:w.charsetSentinel,comma:"boolean"==typeof t.comma?t.comma:w.comma,decoder:"function"==typeof t.decoder?t.decoder:w.decoder,delimiter:"string"==typeof t.delimiter||o.isRegExp(t.delimiter)?t.delimiter:w.delimiter,depth:"number"==typeof t.depth||!1===t.depth?+t.depth:w.depth,ignoreQueryPrefix:!0===t.ignoreQueryPrefix,interpretNumericEntities:"boolean"==typeof t.interpretNumericEntities?t.interpretNumericEntities:w.interpretNumericEntities,parameterLimit:"number"==typeof t.parameterLimit?t.parameterLimit:w.parameterLimit,parseArrays:!1!==t.parseArrays,plainObjects:"boolean"==typeof t.plainObjects?t.plainObjects:w.plainObjects,strictNullHandling:"boolean"==typeof t.strictNullHandling?t.strictNullHandling:w.strictNullHandling}}(e);if(""===t||null==t)return r.plainObjects?Object.create(null):{};for(var n="string"==typeof t?function(t,e){var r,n={},i=(e.ignoreQueryPrefix?t.replace(/^\?/,""):t).split(e.delimiter,Infinity===e.parameterLimit?void 0:e.parameterLimit),u=-1,f=e.charset;if(e.charsetSentinel)for(r=0;r<i.length;++r)0===i[r].indexOf("utf8=")&&("utf8=%E2%9C%93"===i[r]?f="utf-8":"utf8=%26%2310003%3B"===i[r]&&(f="iso-8859-1"),u=r,r=i.length);for(r=0;r<i.length;++r)if(r!==u){var a,s,c=i[r],l=c.indexOf("]="),p=-1===l?c.indexOf("="):l+1;-1===p?(a=e.decoder(c,w.decoder,f,"key"),s=e.strictNullHandling?null:""):(a=e.decoder(c.slice(0,p),w.decoder,f,"key"),s=o.maybeMap(O(c.slice(p+1),e),function(t){return e.decoder(t,w.decoder,f,"value")})),s&&e.interpretNumericEntities&&"iso-8859-1"===f&&(s=j(s)),c.indexOf("[]=")>-1&&(s=g(s)?[s]:s),n[a]=m.call(n,a)?o.combine(n[a],s):s}return n}(t,r):t,i=r.plainObjects?Object.create(null):{},u=Object.keys(n),f=0;f<u.length;++f){var a=u[f],s=E(a,n[a],r,"string"==typeof t);i=o.merge(i,s,r)}return o.compact(i)};class N{constructor(t,e,r){var n;this.name=t,this.definition=e,this.bindings=null!=(n=e.bindings)?n:{},this.config=r}get template(){return((this.config.absolute?this.definition.domain?""+this.config.url.match(/^\w+:\/\//)[0]+this.definition.domain+(this.config.port?":"+this.config.port:""):this.config.url:"")+"/"+this.definition.uri).replace(/\/+$/,"")}get parameterSegments(){var t,e;return null!=(t=null===(e=this.template.match(/{[^}?]+\??}/g))||void 0===e?void 0:e.map(t=>({name:t.replace(/{|\??}/g,""),required:!/\?}$/.test(t)})))?t:[]}matchesUrl(t){if(!this.definition.methods.includes("GET"))return!1;const e=this.template.replace(/\/{[^}?]*\?}/g,"(/[^/?]+)?").replace(/{[^}]+}/g,"[^/?]+").replace(/^\w+:\/\//,"");return new RegExp("^"+e+"$").test(t.replace(/\/+$/,"").split("?").shift())}compile(t){return this.parameterSegments.length?this.template.replace(/{([^}?]+)\??}/g,(e,r)=>{var n;if([null,void 0].includes(t[r])&&this.parameterSegments.find(({name:t})=>t===r).required)throw new Error("Ziggy error: '"+r+"' parameter is required for route '"+this.name+"'.");return encodeURIComponent(null!=(n=t[r])?n:"")}).replace(/\/+$/,""):this.template}}class R extends String{constructor(t,e,r=!0,n){var o;if(super(),this.t=null!=(o=null!=n?n:Ziggy)?o:null===globalThis||void 0===globalThis?void 0:globalThis.Ziggy,this.t={...this.t,absolute:r},t){if(!this.t.routes[t])throw new Error("Ziggy error: route '"+t+"' is not in the route list.");this.i=new N(t,this.t.routes[t],this.t),this.u=this.s(e)}}toString(){const t=Object.keys(this.u).filter(t=>!this.i.parameterSegments.some(({name:e})=>e===t)).filter(t=>"_query"!==t).reduce((t,e)=>({...t,[e]:this.u[e]}),{});return this.i.compile(this.u)+function(t,e){var r,n=t,o=function(t){if(!t)return b;if(null!=t.encoder&&"function"!=typeof t.encoder)throw new TypeError("Encoder has to be a function.");var e=t.charset||b.charset;if(void 0!==t.charset&&"utf-8"!==t.charset&&"iso-8859-1"!==t.charset)throw new TypeError("The charset option must be either utf-8, iso-8859-1, or undefined");var r=a.default;if(void 0!==t.format){if(!s.call(a.formatters,t.format))throw new TypeError("Unknown format option provided.");r=t.format}var n=a.formatters[r],o=b.filter;return("function"==typeof t.filter||l(t.filter))&&(o=t.filter),{addQueryPrefix:"boolean"==typeof t.addQueryPrefix?t.addQueryPrefix:b.addQueryPrefix,allowDots:void 0===t.allowDots?b.allowDots:!!t.allowDots,charset:e,charsetSentinel:"boolean"==typeof t.charsetSentinel?t.charsetSentinel:b.charsetSentinel,delimiter:void 0===t.delimiter?b.delimiter:t.delimiter,encode:"boolean"==typeof t.encode?t.encode:b.encode,encoder:"function"==typeof t.encoder?t.encoder:b.encoder,encodeValuesOnly:"boolean"==typeof t.encodeValuesOnly?t.encodeValuesOnly:b.encodeValuesOnly,filter:o,formatter:n,serializeDate:"function"==typeof t.serializeDate?t.serializeDate:b.serializeDate,skipNulls:"boolean"==typeof t.skipNulls?t.skipNulls:b.skipNulls,sort:"function"==typeof t.sort?t.sort:null,strictNullHandling:"boolean"==typeof t.strictNullHandling?t.strictNullHandling:b.strictNullHandling}}(e);"function"==typeof o.filter?n=(0,o.filter)("",n):l(o.filter)&&(r=o.filter);var i=[];if("object"!=typeof n||null===n)return"";var u=c[e&&e.arrayFormat in c?e.arrayFormat:e&&"indices"in e?e.indices?"indices":"repeat":"indices"];r||(r=Object.keys(n)),o.sort&&r.sort(o.sort);for(var f=0;f<r.length;++f){var p=r[f];o.skipNulls&&null===n[p]||d(i,v(n[p],p,u,o.strictNullHandling,o.skipNulls,o.encode?o.encoder:null,o.filter,o.sort,o.allowDots,o.serializeDate,o.formatter,o.encodeValuesOnly,o.charset))}var y=i.join(o.delimiter),h=!0===o.addQueryPrefix?"?":"";return o.charsetSentinel&&(h+="iso-8859-1"===o.charset?"utf8=%26%2310003%3B&":"utf8=%E2%9C%93&"),y.length>0?h+y:""}({...t,...this.u._query},{addQueryPrefix:!0,arrayFormat:"indices",encodeValuesOnly:!0,skipNulls:!0,encoder:(t,e)=>"boolean"==typeof t?Number(t):e(t)})}current(t,e){const r=this.t.absolute?window.location.host+window.location.pathname:window.location.pathname.replace(this.t.url.replace(/^\w*:\/\/[^/]+/,""),"").replace(/^\/+/,"/"),[n,o]=Object.entries(this.t.routes).find(([e,n])=>new N(t,n,this.t).matchesUrl(r))||[void 0,void 0];if(!t)return n;const i=new RegExp("^"+t.replace(".","\\.").replace("*",".*")+"$").test(n);if([null,void 0].includes(e)||!i)return i;const u=new N(n,o,this.t);e=this.s(e,u);const f=this.l(o);return!(!Object.values(e).every(t=>!t)||Object.values(f).length)||Object.entries(e).every(([t,e])=>f[t]==e)}get params(){return this.l(this.t.routes[this.current()])}has(t){return Object.keys(this.t.routes).includes(t)}s(t={},e=this.i){t=["string","number"].includes(typeof t)?[t]:t;const r=e.parameterSegments.filter(({name:t})=>!this.t.defaults[t]);return Array.isArray(t)?t=t.reduce((t,e,n)=>{var o;return{...t,[null===(o=r[n])||void 0===o?void 0:o.name]:e}},{}):1!==r.length||t[r[0].name]||!t.hasOwnProperty(Object.values(e.bindings)[0])&&!t.hasOwnProperty("id")||(t={[r[0].name]:t}),{...this.p(e),...this.h(t,e.bindings)}}p(t){return t.parameterSegments.filter(({name:t})=>this.t.defaults[t]).reduce((t,{name:e},r)=>({...t,[e]:this.t.defaults[e]}),{})}h(t,e={}){return Object.entries(t).reduce((t,[r,n])=>{if(!n||"object"!=typeof n||Array.isArray(n)||"_query"===r)return{...t,[r]:n};if(!n.hasOwnProperty(e[r])){if(!n.hasOwnProperty("id"))throw new Error("Ziggy error: object passed as '"+r+"' parameter is missing route model binding key '"+e[r]+"'.");e[r]="id"}return{...t,[r]:n[e[r]]}},{})}l(t){var e;let r=window.location.pathname.replace(this.t.url.replace(/^\w*:\/\/[^/]+/,""),"").replace(/^\/+/,"");const n=(t,e="",r)=>{const[n,o]=[t,e].map(t=>t.split(r));return o.reduce((t,e,r)=>/^{[^}?]+\??}$/.test(e)&&n[r]?{...t,[e.replace(/^{|\??}$/g,"")]:n[r]}:t,{})};return{...n(window.location.host,t.domain,"."),...n(r,t.uri,"/"),...S(null===(e=window.location.search)||void 0===e?void 0:e.replace(/^\?/,""))}}valueOf(){return this.toString()}check(t){return this.has(t)}}return function(t,e,r,n){const o=new R(t,e,r,n);return t?o.toString():o}});
+//# sourceMappingURL=index.js.map
+
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js?ver=1.1"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.css?ver=1.1">
+
+<script type='text/javascript'>
+
+
+    var contactform = $('.contactForm');
+    contactform.submit(function(e) {
+        e.preventDefault();
+        $.ajax({
+            type: $( this ).attr('method'),
+            url: $( this ).attr('action'),
+            data: new FormData( this ),
+            processData: false,
+            contentType: false,
+            success: function (data) {
+                if(data.status == 400){
+                    toastr.error(data.responseJSON.massage, '', {
+                    timeOut: 3000,
+                    extendedTimeOut : 3000
+
+                    });
+                   
+                }else{
+
+                    $( ".contact__form" ).css( "display", 'none' );
+                    $( ".contactSent" ).css( "display", 'block' );
+                }
+            },
+            error: function (data) {
+                if(data.status == 400){
+                    toastr.error(data.responseJSON.massage, '', {
+                    timeOut: 3000,
+                    extendedTimeOut : 3000
+
+                    });
+                 
+                }else{
+                    toastr.error('Something went wrong, try again', '', {
+                    timeOut: 3000,
+                    extendedTimeOut : 3000
+
+                    });
+                }
+            }
+        });
+
+    });
+
+    function validateContactUsPhone() {
+        phone = $("#phone").val();
+        var regex = new RegExp(/^(009665|9665|\+9665|05|5)(5|0|3|6|4|9|1|8|7)([0-9]{7})$/);
+        if (regex.test(phone)) {
+            $("#contact_phone_validation_message").css('display', 'none');
+            document.getElementById("contactSubmit").disabled = false;
+        } else {
+            $("#contact_phone_validation_message").css('display', 'block');
+            document.getElementById("contactSubmit").disabled = true;
+        }
+    }
+</script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js?ver=1.1"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.css?ver=1.1">
+
+    
+</body>
+
+</html>

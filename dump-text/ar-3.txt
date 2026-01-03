@@ -1,0 +1,1017 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Conjugaison:arabe/نَظَرَ — Wiktionnaire, le dictionnaire libre</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )frwiktionarymwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgRequestId":"42af5d70-3134-49a8-81a6-24b3a63f77dc","wgCanonicalNamespace":"Conjugaison","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":116,"wgPageName":"Conjugaison:arabe/نَظَرَ","wgTitle":"arabe/نَظَرَ","wgCurRevisionId":29803268,"wgRevisionId":29803268,"wgArticleId":4655414,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Conjugaison arabe traduite avec auxiliaire avoir","Conjugaison en arabe"],"wgPageViewLanguage":"fr","wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Conjugaison:arabe/نَظَرَ","wgRelevantArticleId":4655414,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wiktionary","wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":200,"wgWMEPageLengthBucket":1,"wgWikifunctionsBaseUrl":"//www.wikifunctions.org","wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.gadget.StyleWiktionnaire":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.skinning.content.parsoid":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.SommaireDeveloppable","ext.gadget.wikt.page-preview","ext.gadget.anagrimes","ext.gadget.ChercheDansSousCategories","ext.gadget.clearer-edit-summary","ext.gadget.Wiktionnaire","ext.gadget.LiensAncresDansCategories","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cmediawiki.skinning.content.parsoid%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.gadget.StyleWiktionnaire&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.7">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:site_name" content="Wiktionnaire">
+<meta property="og:title" content="Conjugaison:arabe/نَظَرَ — Wiktionnaire, le dictionnaire libre">
+<meta property="og:type" content="website">
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png">
+<link rel="icon" href="/static/favicon/piece.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wiktionnaire (fr)">
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wiktionary.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://fr.wiktionary.org/wiki/Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wiktionnaire" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-116 ns-subject mw-editable page-Conjugaison_arabe_نَظَرَ rootpage-Conjugaison_arabe skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Aller au contenu</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Menu principal" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Menu principal"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Menu principal</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Menu principal</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">déplacer vers la barre latérale</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">masquer</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-name" class="mw-list-item"><a href="/wiki/Wiktionnaire:Page_d%E2%80%99accueil"><span>Page d’accueil</span></a></li><li id="n-Recherche-avancée,-anagrammes-et-rimes" class="mw-list-item"><a href="/wiki/Wiktionnaire:Recherche_avanc%C3%A9e"><span>Recherche avancée, anagrammes et rimes</span></a></li><li id="n-thema" class="mw-list-item"><a href="/wiki/Wiktionnaire:Portails"><span>Portails</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Afficher une page au hasard [x]" accesskey="x"><span>Page au hasard</span></a></li><li id="n-randompagebylang" class="mw-list-item"><a href="/wiki/Wiktionnaire:Page_au_hasard"><span>Page au hasard par langue</span></a></li><li id="n-Questions-sur-les-mots" class="mw-list-item"><a href="/wiki/Wiktionnaire:Questions_sur_les_mots"><span>Poser une question</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales"><span>Pages spéciales</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-Contribuer" class="vector-menu mw-portlet mw-portlet-Contribuer"  >
+	<div class="vector-menu-heading">
+		Contribuer
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-portal" class="mw-list-item"><a href="/wiki/Wiktionnaire:Accueil_communautaire" title="À propos du projet, ce que vous pouvez faire, où trouver les informations"><span>Portail communautaire</span></a></li><li id="n-La-Wikidémie" class="mw-list-item"><a href="/wiki/Wiktionnaire:Wikid%C3%A9mie"><span>La Wikidémie</span></a></li><li id="n-Discuter-sur-Discord" class="mw-list-item"><a href="/wiki/Wiktionnaire:Discord"><span>Discuter sur Discord</span></a></li><li id="n-journal" class="mw-list-item"><a href="/wiki/Wiktionnaire:Journal_des_contributeurs"><span>Journal des contributeurs</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r"><span>Modifications récentes</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-Aide" class="vector-menu mw-portlet mw-portlet-Aide"  >
+	<div class="vector-menu-heading">
+		Aide
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-Conventions" class="mw-list-item"><a href="/wiki/Convention:Sommaire"><span>Conventions</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Aide:Sommaire" title="Accès à l’aide"><span>Aide</span></a></li><li id="n-Modèles" class="mw-list-item"><a href="/wiki/Wiktionnaire:Mod%C3%A8les" title="Modèles"><span>Modèles</span></a></li><li id="n-Création-rapide" class="mw-list-item"><a href="/wiki/Aide:Comment_d%C3%A9marrer_une_page"><span>Créer un article</span></a></li><li id="n-Télécharger" class="mw-list-item"><a href="/wiki/Wiktionnaire:Sites_miroirs#Avec_logiciel_à_télécharger"><span>Télécharger</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wiktionnaire:Page_d%E2%80%99accueil" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wiktionary.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wiktionnaire : dictionnaire libre et universel" src="/static/images/mobile/copyright/wiktionary-wordmark-fr.svg" style="width: 7.125em; height: 0.9375em;">
+		<img class="mw-logo-tagline" alt="le dictionnaire libre" src="/static/images/mobile/copyright/wiktionary-tagline-fr.svg" width="107" height="10" style="width: 6.6875em; height: 0.625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Sp%C3%A9cial:Recherche" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Rechercher dans le Wiktionnaire [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Rechercher</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Rechercher dans le Wiktionnaire" aria-label="Rechercher dans le Wiktionnaire" autocapitalize="none" spellcheck="false" title="Rechercher dans le Wiktionnaire [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Spécial:Recherche">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Rechercher</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Outils personnels">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Apparence">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Modifier l&#039;apparence de la taille, de la largeur et de la couleur de la police de la page" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Apparence"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Apparence</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=fr.wiktionary.org&amp;uselang=fr" class=""><span>Faire un don</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Conjugaison%3Aarabe%2F%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire." class=""><span>Créer un compte</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Conjugaison%3Aarabe%2F%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o" class=""><span>Se connecter</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Plus d’options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Outils personnels"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Outils personnels</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Menu utilisateur" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=fr.wiktionary.org&amp;uselang=fr"><span>Faire un don</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Conjugaison%3Aarabe%2F%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Créer un compte</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Conjugaison%3Aarabe%2F%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Se connecter</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span lang="fr" dir="ltr"><span class="mw-page-title-namespace">Conjugaison</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">arabe/نَظَرَ</span></span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Cet article est disponible uniquement dans cette langue. Ajouter l&#039;article pour d&#039;autres langues"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Pas dans d’autres langues</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=frwiktionary&amp;page=Conjugaison%3Aarabe%2F%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E" title="Ajouter des liens interlangues" class="wbc-editpage">Ajouter des liens</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Espaces de noms">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-conjugaison" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E" title="Afficher la page du sujet [c]" accesskey="c"><span>Conjugaison</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Discussion_Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Discussion au sujet de cette page de contenu (page inexistante) [t]" accesskey="t"><span>Discussion</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Modifier la variante de langue"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">français</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Affichages">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E"><span>Lire</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E&amp;action=edit" title="Modifier le wikicode de cette page [e]" accesskey="e"><span>Modifier le wikicode</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h"><span>Voir l’historique</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Outils de la page">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Outils"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Outils</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Outils</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">déplacer vers la barre latérale</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">masquer</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Plus d’options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E"><span>Lire</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E&amp;action=edit" title="Modifier le wikicode de cette page [e]" accesskey="e"><span>Modifier le wikicode</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E&amp;action=history"><span>Voir l’historique</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Général
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j"><span>Pages liées</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k"><span>Suivi des pages liées</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=fr" title="Téléverser une image ou fichier média sur le serveur [u]" accesskey="u"><span>Téléverser un fichier</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E&amp;oldid=29803268" title="Adresse permanente de cette version de cette page"><span>Lien permanent</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E&amp;action=info" title="Davantage d’informations sur cette page"><span>Informations sur la page</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Conjugaison%3Aarabe%2F%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E&amp;id=29803268&amp;wpFormIdentifier=titleform" title="Informations sur la manière de citer cette page"><span>Citer cette page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:UrlShortener&amp;url=https%3A%2F%2Ffr.wiktionary.org%2Fwiki%2FConjugaison%3Aarabe%2F%25D9%2586%25D9%258E%25D8%25B8%25D9%258E%25D8%25B1%25D9%258E"><span>Obtenir l’URL raccourcie</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:QrCode&amp;url=https%3A%2F%2Ffr.wiktionary.org%2Fwiki%2FConjugaison%3Aarabe%2F%25D9%2586%25D9%258E%25D8%25B8%25D9%258E%25D8%25B1%25D9%258E"><span>Télécharger le code QR</span></a></li><li class="mw-list-item"><a href="/w/index.php?title=Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E&amp;useparsoid=0"><span>Utiliser l’ancien analyseur</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Imprimer / exporter
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&amp;page=Conjugaison%3Aarabe%2F%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E&amp;action=show-download-screen"><span>Télécharger en PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Version imprimable de cette page [p]" accesskey="p"><span>Version imprimable</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		Dans d’autres projets
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Outils de la page">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Apparence">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Apparence</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">déplacer vers la barre latérale</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">masquer</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">Définition, traduction, prononciation, anagramme et synonyme sur le dictionnaire libre Wiktionnaire.</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><div class="subpages">&lt; <bdi dir="ltr"><a href="/wiki/Conjugaison:arabe" title="Conjugaison:arabe">Conjugaison:arabe</a></bdi></div></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="fr" dir="ltr" data-mw-parsoid-version="0.23.0.0-alpha9" data-mw-html-version="2.8.0"><section data-mw-section-id="0" id="mwAQ"><span about="#mwt1" typeof="mw:Transclusion" id="mwAg" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;ar-conjugaison\n&quot;,&quot;href&quot;:&quot;./Modèle:ar-conjugaison&quot;},&quot;params&quot;:{&quot;schème&quot;:{&quot;wt&quot;:&quot;ar-*a*a*a-u&quot;},&quot;racine&quot;:{&quot;wt&quot;:&quot;ar-nZr&quot;},&quot;inf&quot;:{&quot;wt&quot;:&quot;regarder&quot;},&quot;aux&quot;:{&quot;wt&quot;:&quot;avoir&quot;},&quot;ppé&quot;:{&quot;wt&quot;:&quot;regardé&quot;},&quot;nv1&quot;:{&quot;wt&quot;:&quot;naZarânũ&quot;},&quot;nv2&quot;:{&quot;wt&quot;:&quot;tanZârũ&quot;},&quot;nv3&quot;:{&quot;wt&quot;:&quot;manZarũ&quot;},&quot;nv4&quot;:{&quot;wt&quot;:&quot;manZar@ũ&quot;},&quot;complément&quot;:{&quot;wt&quot;:&quot;&quot;}},&quot;i&quot;:0}}]}">
+</span><dl about="#mwt1"><dt><span style="font-size:1.25em">Voir aussi</span></dt></dl><ul about="#mwt1"><li><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Conjugaison:arabe" title="Conjugaison:arabe">Conjugaison:arabe</a>.</li></ul><span about="#mwt1">
+</span><dl about="#mwt1"><dt><span style="font-size:1.25em">Conjugaisons principales de <span style="font-size:.8em"><span lang="ar" class="lang-ar"><bdi>نَظَرَ</bdi></span></span></span></dt></dl><table class="flextable" about="#mwt1">
+<tbody><tr><th><div class="transliterator" lang="ar"></div></th></tr>
+</tbody></table><span about="#mwt1">
+</span><p about="#mwt1"><bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرَ#ar" title="نَظَرَ">نَظَرَ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">naZara</a></i>)</span> <a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe"><span class="API" title="Prononciation API">/na.ðˁa.ra/</span></a><span typeof="mw:DisplaySpace">&nbsp;</span>: regarder — inaccompli<span typeof="mw:DisplaySpace">&nbsp;</span>: <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/يَنْظُرُ?action=edit&amp;redlink=1#ar" title="يَنْظُرُ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;يَنْظُرُ&quot;]}}">يَنْظُرُ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">yanZuru</a></i>)</span><span typeof="mw:DisplaySpace">&nbsp;</span>; nom d'agent (participe actif)<span typeof="mw:DisplaySpace">&nbsp;</span>: <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَاظِرٌ#ar" title="نَاظِرٌ">نَاظِرٌ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">nâZirũ</a></i>)</span>.</p><span about="#mwt1">
+</span><dl about="#mwt1"><dd>Passif<span typeof="mw:DisplaySpace">&nbsp;</span>: <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نُظِرَ?action=edit&amp;redlink=1#ar" title="نُظِرَ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نُظِرَ&quot;]}}">نُظِرَ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">nuZira</a></i>)</span>, inaccompli<span typeof="mw:DisplaySpace">&nbsp;</span>: <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/يُنْظَرُ?action=edit&amp;redlink=1#ar" title="يُنْظَرُ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;يُنْظَرُ&quot;]}}">يُنْظَرُ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">yunZaru</a></i>)</span><span typeof="mw:DisplaySpace">&nbsp;</span>; qualificatif de l'objet (participe passif)<span typeof="mw:DisplaySpace">&nbsp;</span>: <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/مَنْظُورٌ#ar" title="مَنْظُورٌ">مَنْظُورٌ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">manZûrũ</a></i>)</span>.</dd>
+<dd>Nom d'action<span typeof="mw:DisplaySpace">&nbsp;</span>: <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرَانٌ#ar" title="نَظَرَانٌ">نَظَرَانٌ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">naZarânũ</a></i>)</span>, <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/تَنْظَارٌ#ar" title="تَنْظَارٌ">تَنْظَارٌ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">tanZârũ</a></i>)</span>, <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/مَنْظَرٌ#ar" title="مَنْظَرٌ">مَنْظَرٌ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">manZarũ</a></i>)</span>, <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/مَنْظَرَةٌ#ar" title="مَنْظَرَةٌ">مَنْظَرَةٌ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">manZar@ũ</a></i>)</span>.</dd></dl><span about="#mwt1">
+
+</span><dl about="#mwt1"><dt>Accompli</dt></dl><span about="#mwt1">
+
+</span><table style="margin-bottom:1em; margin-right:1em; border:1px solid #AAAAAA; border-collapse:collapse;" cellpadding="4" rules="all" about="#mwt1">
+<tbody><tr><th>accompli</th>
+<th style="background-color:#EFEFFF; text-align:center; font-size:90%;"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/singulier" title="singulier">singulier</a></th>
+<th style="background-color:#EFEFFF; text-align:center; font-size:90%;"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/duel" title="duel">duel</a></th>
+<th style="background-color:#EFEFFF; text-align:center; font-size:90%;"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/pluriel" title="pluriel">pluriel</a></th></tr>
+<tr>
+<th style="background-color:#EFEFFF; text-align:left; font-size:90%;">1<sup style="font-size:83.33%;line-height:1">re</sup> personne</th>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرْتُ?action=edit&amp;redlink=1" title="نَظَرْتُ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَظَرْتُ&quot;]}}">نَظَرْتُ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁar.tu</a>)<br>j’ai regardé</td>
+<td colspan="2" style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرْنَا?action=edit&amp;redlink=1" title="نَظَرْنَا (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَظَرْنَا&quot;]}}">نَظَرْنَا</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁar.naː</a>)<br>nous avons regardé</td></tr>
+<tr>
+<th style="background-color:#EFEFFF; text-align:left; font-size:90%;">2<sup style="font-size:83.33%;line-height:1">e</sup> personne du masculin</th>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرْتَ?action=edit&amp;redlink=1" title="نَظَرْتَ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَظَرْتَ&quot;]}}">نَظَرْتَ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁar.ta</a>)<br>tu (<span class="ligne-de-forme"><i>masculin</i></span>) as regardé</td>
+<td rowspan="2" style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرْتُمَا?action=edit&amp;redlink=1" title="نَظَرْتُمَا (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَظَرْتُمَا&quot;]}}">نَظَرْتُمَا</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁar.tu.maː</a>)<br>vous deux avez regardé</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرْتُمْ?action=edit&amp;redlink=1" title="نَظَرْتُمْ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَظَرْتُمْ&quot;]}}">نَظَرْتُمْ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁar.tum</a>)<br>vous tous avez regardé</td></tr>
+<tr>
+<th style="background-color:#EFEFFF; text-align:left; font-size:90%;">2<sup style="font-size:83.33%;line-height:1">e</sup> personne du féminin</th>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرْتِ?action=edit&amp;redlink=1" title="نَظَرْتِ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَظَرْتِ&quot;]}}">نَظَرْتِ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁar.ti</a>)<br>tu (<span class="ligne-de-forme"><i>féminin</i></span>) as regardé</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرْتُنَّ?action=edit&amp;redlink=1" title="نَظَرْتُنَّ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَظَرْتُنَّ&quot;]}}">نَظَرْتُنَّ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁar.tun.na</a>)<br>vous toutes avez regardé</td></tr>
+<tr>
+<th style="background-color:#EFEFFF; text-align:left; font-size:90%;">3<sup style="font-size:83.33%;line-height:1">e</sup> personne du masculin</th>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرَ" title="نَظَرَ">نَظَرَ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁa.ra</a>)<br>il a regardé</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرَا?action=edit&amp;redlink=1" title="نَظَرَا (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَظَرَا&quot;]}}">نَظَرَا</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁa.raː</a>)<br>eux deux ont regardé</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرُو?action=edit&amp;redlink=1" title="نَظَرُو (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَظَرُو&quot;]}}">نَظَرُو</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁa.ruː</a>)<br>eux tous ont regardé</td></tr>
+<tr>
+<th style="background-color:#EFEFFF; text-align:left; font-size:90%;">3<sup style="font-size:83.33%;line-height:1">e</sup> personne du féminin</th>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرَتْ?action=edit&amp;redlink=1" title="نَظَرَتْ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَظَرَتْ&quot;]}}">نَظَرَتْ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁa.rat</a>)<br>elle a regardé</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرَتَا?action=edit&amp;redlink=1" title="نَظَرَتَا (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَظَرَتَا&quot;]}}">نَظَرَتَا</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁa.ra.taː</a>)<br>elles deux ont regardé</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَظَرْنَ?action=edit&amp;redlink=1" title="نَظَرْنَ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَظَرْنَ&quot;]}}">نَظَرْنَ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">na.ðˁar.na</a>)<br>elles toutes ont regardé</td></tr>
+</tbody></table><span about="#mwt1">
+
+</span><dl about="#mwt1"><dt>Inaccompli</dt></dl><span about="#mwt1">
+
+</span><table style="margin-bottom:1em; margin-right:1em; border:1px solid #AAAAAA; border-collapse:collapse;" cellpadding="4" rules="all" about="#mwt1">
+<tbody><tr><th>inaccompli</th>
+<th style="background-color:#EFEFFF; text-align:center; font-size:90%;"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/singulier" title="singulier">singulier</a></th>
+<th style="background-color:#EFEFFF; text-align:center; font-size:90%;"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/duel" title="duel">duel</a></th>
+<th style="background-color:#EFEFFF; text-align:center; font-size:90%;"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/pluriel" title="pluriel">pluriel</a></th></tr>
+<tr>
+<th style="background-color:#EFEFFF; text-align:left; font-size:90%;">1<sup style="font-size:83.33%;line-height:1">re</sup> personne</th>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أَنْظُرُ?action=edit&amp;redlink=1" title="أَنْظُرُ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;أَنْظُرُ&quot;]}}">أَنْظُرُ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">ʔan.ðˁu.ru</a>)<br>je vais (continuer à) regarder</td>
+<td colspan="2" style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَنْظُرُ?action=edit&amp;redlink=1" title="نَنْظُرُ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;نَنْظُرُ&quot;]}}">نَنْظُرُ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">nan.ðˁu.ru</a>)<br>nous allons (continuer à) regarder</td></tr>
+<tr>
+<th style="background-color:#EFEFFF; text-align:left; font-size:90%;">2<sup style="font-size:83.33%;line-height:1">e</sup> personne du masculin</th>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/تَنْظُرُ?action=edit&amp;redlink=1" title="تَنْظُرُ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;تَنْظُرُ&quot;]}}">تَنْظُرُ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">tan.ðˁu.ru</a>)<br>tu (<span class="ligne-de-forme"><i>masculin</i></span>) vas (continuer à) regarder</td>
+<td rowspan="2" style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/تَنْظُرَانِ?action=edit&amp;redlink=1" title="تَنْظُرَانِ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;تَنْظُرَانِ&quot;]}}">تَنْظُرَانِ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">tan.ðˁu.raː.ni</a>)<br>vous deux allez (continuer à) regarder</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/تَنْظُرُونَ?action=edit&amp;redlink=1" title="تَنْظُرُونَ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;تَنْظُرُونَ&quot;]}}">تَنْظُرُونَ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">tan.ðˁu.ruː.na</a>)<br>vous allez tous (continuer à) regarder</td></tr>
+<tr>
+<th style="background-color:#EFEFFF; text-align:left; font-size:90%;">2<sup style="font-size:83.33%;line-height:1">e</sup> personne du féminin</th>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/تَنْظُرِينَ?action=edit&amp;redlink=1" title="تَنْظُرِينَ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;تَنْظُرِينَ&quot;]}}">تَنْظُرِينَ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">tan.ðˁu.riː.na</a>)<br>tu (<span class="ligne-de-forme"><i>féminin</i></span>) vas (continuer à) regarder</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/تَنْظُرْنَ?action=edit&amp;redlink=1" title="تَنْظُرْنَ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;تَنْظُرْنَ&quot;]}}">تَنْظُرْنَ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">tan.ðˁur.na</a>)<br>vous allez toutes (continuer à) regarder</td></tr>
+<tr>
+<th style="background-color:#EFEFFF; text-align:left; font-size:90%;">3<sup style="font-size:83.33%;line-height:1">e</sup> personne du masculin</th>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/يَنْظُرُ?action=edit&amp;redlink=1" title="يَنْظُرُ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;يَنْظُرُ&quot;]}}">يَنْظُرُ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">jan.ðˁu.ru</a>)<br>il va (continuer à) regarder</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/يَنْظُرَانِ?action=edit&amp;redlink=1" title="يَنْظُرَانِ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;يَنْظُرَانِ&quot;]}}">يَنْظُرَانِ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">jan.ðˁu.raː.ni</a>)<br>eux deux vont (continuer à) regarder</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/يَنْظُرُونَ?action=edit&amp;redlink=1" title="يَنْظُرُونَ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;يَنْظُرُونَ&quot;]}}">يَنْظُرُونَ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">jan.ðˁu.ruː.na</a>)<br>ils vont tous (continuer à) regarder</td></tr>
+<tr>
+<th style="background-color:#EFEFFF; text-align:left; font-size:90%;">3<sup style="font-size:83.33%;line-height:1">e</sup> personne du féminin</th>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/تَنْظُرُ?action=edit&amp;redlink=1" title="تَنْظُرُ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;تَنْظُرُ&quot;]}}">تَنْظُرُ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">tan.ðˁu.ru</a>)<br>elle va (continuer à) regarder</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/تَنْظُرَانِ?action=edit&amp;redlink=1" title="تَنْظُرَانِ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;تَنْظُرَانِ&quot;]}}">تَنْظُرَانِ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">tan.ðˁu.raː.ni</a>)<br>elles deux vont (continuer à) regarder</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/يَنْظُرْنَ?action=edit&amp;redlink=1" title="يَنْظُرْنَ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;يَنْظُرْنَ&quot;]}}">يَنْظُرْنَ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">jan.ðˁur.na</a>)<br>elles vont toutes (continuer à) regarder</td></tr>
+</tbody></table><span about="#mwt1">
+
+</span><dl about="#mwt1"><dt>Impératif</dt></dl><span about="#mwt1">
+
+</span><table style="margin-bottom:1em; margin-right:1em; border:1px solid #AAAAAA; border-collapse:collapse;" cellpadding="4" rules="all" about="#mwt1">
+<tbody><tr><th>impératif</th>
+<th style="background-color:#EFEFFF; text-align:center; font-size:90%;"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/singulier" title="singulier">singulier</a></th>
+<th style="background-color:#EFEFFF; text-align:center; font-size:90%;"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/duel" title="duel">duel</a></th>
+<th style="background-color:#EFEFFF; text-align:center; font-size:90%;"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/pluriel" title="pluriel">pluriel</a></th></tr>
+
+<tr>
+<th style="background-color:#EFEFFF; text-align:left; font-size:90%;">2<sup style="font-size:83.33%;line-height:1">e</sup> personne du masculin</th>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أُنْظُرْ" title="أُنْظُرْ">أُنْظُرْ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">ʔun.ðˁur</a>)<br>tu (<span class="ligne-de-forme"><i>masculin</i></span>) dois regarder</td>
+<td rowspan="2" style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أُنْظُرَا?action=edit&amp;redlink=1" title="أُنْظُرَا (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;أُنْظُرَا&quot;]}}">أُنْظُرَا</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">ʔun.ðˁu.raː</a>)<br>vous deux devez regarder</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أُنْظُرُو?action=edit&amp;redlink=1" title="أُنْظُرُو (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;أُنْظُرُو&quot;]}}">أُنْظُرُو</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">ʔun.ðˁu.ruː</a>)<br>vous tous devez regarder</td></tr>
+<tr>
+<th style="background-color:#EFEFFF; text-align:left; font-size:90%;">2<sup style="font-size:83.33%;line-height:1">e</sup> personne du féminin</th>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أُنْظُرِي?action=edit&amp;redlink=1" title="أُنْظُرِي (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;أُنْظُرِي&quot;]}}">أُنْظُرِي</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">ʔun.ðˁu.riː</a>)<br>tu (<span class="ligne-de-forme"><i>féminin</i></span>) dois regarder</td>
+<td style="text-align:center"><span lang="ar" class="lang-ar"><bdi><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أُنْظُرْنَ?action=edit&amp;redlink=1" title="أُنْظُرْنَ (page inexistante)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;أُنْظُرْنَ&quot;]}}">أُنْظُرْنَ</a></bdi></span><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Annexe:Prononciation/arabe" title="Annexe:Prononciation/arabe">ʔun.ðˁur.na</a>)<br>vous toutes devez regarder</td></tr>
+
+</tbody></table><span about="#mwt1">
+
+</span><dl about="#mwt1"><dt><span style="font-size:1.25em">Conjugaisons secondaires</span></dt></dl><span about="#mwt1">
+
+</span><table class="wikitable alternance center" about="#mwt1">
+<tbody><tr><th colspan="3">Impératif</th><th></th>
+<th colspan="2">Accompli</th><th></th>
+<th colspan="5">Inaccompli</th>
+<th></th>
+<th rowspan="2"><span lang="ar" class="lang-ar"><bdi>نَظَرَ</bdi></span></th></tr>
+<tr>
+<th width="8%">énergique ii</th>
+<th width="8%">énergique i</th>
+<th width="8%">Impératif</th>
+<th width="1px"></th>
+<th width="8%">passif</th>
+<th width="8%">actif</th>
+<th width="1px"></th>
+<th width="8%">Emphatique</th>
+<th width="8%">Apocopé</th>
+<th width="8%">Subjonctif</th>
+<th width="8%">Passif</th>
+<th width="8%">Actif</th>
+<th width="1px"></th></tr>
+
+<tr>
+<td colspan="18" style="background: #BBBB00"></td></tr>
+
+<tr style="line-height: 200%;">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرْتُ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرْتُ</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أَنْظُرَنَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أَنْظُرْ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أَنْظُرَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظَرُ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أَنْظُرُ</bdi></span></td>
+<td></td>
+<th scope="row">1S <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أَنَا#ar" title="أَنَا">أَنَا</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">anâ</a></i>)</span></th></tr>
+<tr style="line-height: 200%;">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرْنَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرْنَا</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَنْظُرَنَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَنْظُرْ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَنْظُرَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُنْظَرُ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَنْظُرُ</bdi></span></td>
+<td></td>
+<th scope="row">1P <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/نَحْنُ#ar" title="نَحْنُ">نَحْنُ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">naHnu</a></i>)</span></th></tr>
+
+<tr>
+<td colspan="18" style="background: #BBBB00"></td></tr>
+
+<tr style="line-height: 200%;">
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرَنْ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرَنَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرْ</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرْتَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرْتَ</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَنَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرْ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تُنْظَرُ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرُ</bdi></span></td>
+<td></td>
+<th scope="row">2MS <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أَنْتَ#ar" title="أَنْتَ">أَنْتَ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">anta</a></i>)</span></th></tr>
+
+<tr style="line-height: 200%;">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرَانَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرَا</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرْتُمَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرْتُمَا</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَانِّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تُنْظَرَانِ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَانِ</bdi></span></td>
+<td></td>
+<th scope="row">2D <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أَنْتُمَا#ar" title="أَنْتُمَا">أَنْتُمَا</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">antumâ</a></i>)</span></th></tr>
+
+<tr style="line-height: 200%;">
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرُنْ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرُنَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرُو</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرْتُمْ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرْتُمْ</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرُنَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرُو</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرُو</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تُنْظَرُونَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرُونَ</bdi></span></td>
+<td></td>
+<th scope="row">2MP <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أَنْتُمْ#ar" title="أَنْتُمْ">أَنْتُمْ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">antum</a></i>)</span></th></tr>
+
+<tr>
+<td colspan="3"></td><td></td><td colspan="2"></td><td></td><td colspan="5"></td><td></td><td></td></tr>
+
+<tr style="line-height: 200%;">
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرِنْ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرِنَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرِي</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرْتِ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرْتِ</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرِنَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرِي</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرِي</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تُنْظَرِينَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرِينَ</bdi></span></td>
+<td></td>
+<th scope="row">2FS <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أَنْتِ#ar" title="أَنْتِ">أَنْتِ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">anti</a></i>)</span></th></tr>
+
+<tr style="line-height: 200%;">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرَانِّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرَا</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرْتُمَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرْتُمَا</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَانَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تُنْظَرَانِ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَانِ</bdi></span></td>
+<td></td>
+<th scope="row">2D <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أَنْتُمَا#ar" title="أَنْتُمَا">أَنْتُمَا</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">antumâ</a></i>)</span></th></tr>
+
+<tr style="line-height: 200%;">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرْنَانِّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>أُنْظُرْنَ</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرْتُنَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرْتُنَّ</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرْنَانَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرْنَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرْنَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تُنْظَرْنَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرْنَ</bdi></span></td>
+<td></td>
+<th scope="row">2FP <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/أَنْتُنَّ#ar" title="أَنْتُنَّ">أَنْتُنَّ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">antunna</a></i>)</span></th></tr>
+
+<tr>
+<td colspan="18" style="background: #BBBB00"></td></tr>
+
+<tr style="line-height: 200%;">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرَ</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرَنَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرْ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يُنْظَرُ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرُ</bdi></span></td>
+<td></td>
+<th scope="row">3MS <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/هُوَ#ar" title="هُوَ">هُوَ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">huwa</a></i>)</span></th></tr>
+
+<tr style="line-height: 200%;">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرَا</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرَانِّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يُنْظَرَانِ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرَانِ</bdi></span></td>
+<td></td>
+<th scope="row">3MD <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/هُمَا#ar" title="هُمَا">هُمَا</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">humâ</a></i>)</span></th></tr>
+
+<tr style="line-height: 200%;">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرُو</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرُو</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرُنَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرُو</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرُو</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يُنْظَرُونَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرُونَ</bdi></span></td>
+<td></td>
+<th scope="row">3MP <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/هُمْ#ar" title="هُمْ">هُمْ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">hum</a></i>)</span></th></tr>
+
+<tr>
+<td colspan="3"></td><td></td><td colspan="2"></td><td></td><td colspan="5"></td><td></td><td></td></tr>
+
+<tr style="line-height: 200%;">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرَتْ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرَتْ</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَنَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرْ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تُنْظَرُ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرُ</bdi></span></td>
+<td></td>
+<th scope="row">3FS <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/هِيَ#ar" title="هِيَ">هِيَ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">hiya</a></i>)</span></th></tr>
+
+<tr style="line-height: 200%;">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرَتَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرَتَا</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَانَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَا</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تُنْظَرَانِ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>تَنْظُرَانِ</bdi></span></td>
+<td></td>
+<th scope="row">3FD <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/هُمَا#ar" title="هُمَا">هُمَا</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">humâ</a></i>)</span></th></tr>
+
+<tr style="line-height: 200%;">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نُظِرْنَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>نَظَرْنَ</bdi></span></td>
+<td></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرْنَانَّ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرْنَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرْنَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يُنْظَرْنَ</bdi></span></td>
+<td style="text-align: center;"><span lang="ar" class="lang-ar"><bdi>يَنْظُرْنَ</bdi></span></td>
+<td></td>
+<th scope="row">3FP <bdi lang="ar" class="lang-ar"><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/هُنَّ#ar" title="هُنَّ">هُنَّ</a></bdi> <span style="font-size:.8em;">(<i><a rel="mw:WikiLink" href="//fr.wiktionary.org/wiki/Convention:arabe/Translittération" title="Convention:arabe/Translittération">hunna</a></i>)</span></th></tr>
+
+<tr>
+<td colspan="18" style="background: #BBBB00"></td></tr>
+</tbody></table><span about="#mwt1">
+
+
+</span><link rel="mw:PageProp/Category" href="./Catégorie:Conjugaison_en_arabe#ن%20ظ%20ر" about="#mwt1" typeof="mw:ExpandedAttrs" data-mw="{&quot;attribs&quot;:[[{&quot;txt&quot;:&quot;mw:sortKey&quot;},{&quot;html&quot;:&quot;ن ظ<span typeof=\&quot;mw:Entity\&quot; id=\&quot;mwAw\&quot;> </span>ر&quot;}]]}"><link rel="mw:PageProp/Category" href="./Catégorie:Conjugaison_arabe_traduite_avec_auxiliaire_avoir" about="#mwt1" id="mwBA"></section>
+<!-- 
+NewPP limit report
+Parsed by mw‐jobrunner.codfw.main‐5486c7bff9‐f69rs
+Cached time: 20251222050505
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [use‐parsoid]
+CPU time usage: 1.915 seconds
+Real time usage: 1.962 seconds
+Preprocessor visited node count: 21229/1000000
+Revision size: 179/2097152 bytes
+Post‐expand include size: 193152/2097152 bytes
+Template argument size: 28238/2097152 bytes
+Highest expansion depth: 33/100
+Expensive parser function count: 8/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 1.175/10.000 seconds
+Lua memory usage: 9532369/104857600 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1688.230      1 Modèle:ar-conjugaison
+100.00% 1688.230      1 -total
+ 73.31% 1237.658    146 Modèle:Lang
+ 60.81% 1026.626      1 Modèle:ar-conjugaison2
+ 60.62% 1023.429      1 Modèle:ar-conjugaison2/tableau
+ 58.05%  980.037    115 Modèle:ar-ab
+ 50.65%  855.041    296 Modèle:str_sub
+ 49.49%  835.550    146 Modèle:sens_écriture
+ 45.44%  767.066    209 Modèle:ar-abiser
+ 27.54%  464.954      3 Modèle:ar-schème/conjugaison
+-->
+
+<!-- Saved in parser cache with key frwiktionary:parsoid-pcache:4655414:|#|:idhash:useParsoid=1 and timestamp 20251222050505 and revision id 29803268. Rendering was triggered because: view
+ -->
+
+<!--Parsoid 0.23.0.0-alpha9-->
+</div><!--
+Post‐processing cache key frwiktionary:postproc‐parsoid‐pcache:4655414:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1, generated at 20251223205753
+--><noscript><img src="https://fr.wiktionary.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Récupérée de "<a dir="ltr" href="https://fr.wiktionary.org/w/index.php?title=Conjugaison:arabe/نَظَرَ&amp;oldid=29803268">https://fr.wiktionary.org/w/index.php?title=Conjugaison:arabe/نَظَرَ&amp;oldid=29803268</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégorie</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Conjugaison_en_arabe" title="Catégorie:Conjugaison en arabe">Conjugaison en arabe</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégorie cachée : <ul><li><a href="/wiki/Cat%C3%A9gorie:Conjugaison_arabe_traduite_avec_auxiliaire_avoir" title="Catégorie:Conjugaison arabe traduite avec auxiliaire avoir">Conjugaison arabe traduite avec auxiliaire avoir</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 23 septembre 2021 à 09:41.</li>
+	<li id="footer-info-renderedwith">La page a été rendue avec <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid" class="extiw" title="mw:Special:MyLanguage/Parsoid">Parsoid</a>.</li>
+	<li id="footer-info-copyright">Les définitions et autres textes sont disponibles sous <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.fr">licence Creative Commons attribution partage à l’identique</a>&#160;; d’autres termes peuvent s’appliquer. Voyez les <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/fr">termes d’utilisation</a> pour plus de détails.<br />Pour les illustrations, cliquez sur chaque image ou consultez les <a href="/wiki/Wiktionnaire:Cr%C3%A9dits_graphiques" title="Wiktionnaire:Crédits graphiques">crédits graphiques</a>.<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/fr">Politique de confidentialité</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wiktionnaire:%C3%80_propos">À propos du Wiktionnaire</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wiktionnaire:Licence">Licence</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code de conduite</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Développeurs</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wiktionary.org">Statistiques</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+	<li id="footer-places-mobileview"><a href="//fr.wiktionary.org/w/index.php?title=Conjugaison:arabe/%D9%86%D9%8E%D8%B8%D9%8E%D8%B1%D9%8E&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left vector-button-flush-right" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Rechercher</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Rechercher dans le Wiktionnaire">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Spécial:Recherche">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Rechercher</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span lang="fr" dir="ltr"><span class="mw-page-title-namespace">Conjugaison</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">arabe/نَظَرَ</span></span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Pas dans d’autres langues</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Ajouter un sujet</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8f8dcf6c-smj2t","wgBackendResponseTime":130,"wgPageParseReport":{"limitreport":{"cputime":"1.915","walltime":"1.962","ppvisitednodes":{"value":21229,"limit":1000000},"revisionsize":{"value":179,"limit":2097152},"postexpandincludesize":{"value":193152,"limit":2097152},"templateargumentsize":{"value":28238,"limit":2097152},"expansiondepth":{"value":33,"limit":100},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00% 1688.230      1 Modèle:ar-conjugaison","100.00% 1688.230      1 -total"," 73.31% 1237.658    146 Modèle:Lang"," 60.81% 1026.626      1 Modèle:ar-conjugaison2"," 60.62% 1023.429      1 Modèle:ar-conjugaison2/tableau"," 58.05%  980.037    115 Modèle:ar-ab"," 50.65%  855.041    296 Modèle:str_sub"," 49.49%  835.550    146 Modèle:sens_écriture"," 45.44%  767.066    209 Modèle:ar-abiser"," 27.54%  464.954      3 Modèle:ar-schème/conjugaison"]},"scribunto":{"limitreport-timeusage":{"value":"1.175","limit":"10.000"},"limitreport-memusage":{"value":9532369,"limit":104857600}},"cachereport":{"origin":"mw-jobrunner.codfw.main-5486c7bff9-f69rs","timestamp":"20251222050505","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>
