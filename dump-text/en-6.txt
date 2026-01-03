@@ -181,6 +181,8 @@ External links
      * Ambigram
      * Ambiguous image
      * Ames room
+     * Ames window
+     * Asahi illusion
      * Autostereogram
      * Barberpole
      * Bezold

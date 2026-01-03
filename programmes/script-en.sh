@@ -13,7 +13,7 @@ echo -e "<html>
 	<head>
 		<meta charset=\"UTF-8\">
 		<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css\" />
-        <title>Tableau</title>
+        <title>Tableau anglais</title>
 	</head>
 
 	<body>
@@ -29,8 +29,15 @@ echo -e "<html>
                                 <a href=\"../tableaux/ar.html\" class=\"navbar-item\">Arabe</a>
                             </div>
                         </div>
-                    <a href=\"../script.html\" class=\"navbar-item\">Scripts</a>
-                    <a class=\"navbar-item\">Résultats</a>
+                    <a href=\"../HTML/script.html\" class=\"navbar-item\">Scripts</a>
+                    <div class=\"navbar-item has-dropdown is-hoverable\">
+                    <a href=\"../HTML/resultats.html\" class=\"navbar-link\">Résultats</a>
+                    <div class=\"navbar-dropdown\">
+                        <a href=\"../HTML/resultats-fr.html\" class=\"navbar-item\">Français</a>
+                        <a href=\"../HTML/resultats-en.html\" class=\"navbar-item\">Anglais</a>
+                        <a href=\"\" class=\"navbar-item\">Arabe</a>
+                    </div>
+                </div>
                 </div>
             </div>
                     <table class=\"table is-bordered is-hoverable m-6\">
@@ -84,19 +91,26 @@ do
 	
     <body>
 		<div class=\"content has-text-inherit\">
-            <div class=\"has-background-primary navbar\">
+            <div class=\"navbar is-primary\">
                 <a href=\"../index.html\" class=\"title is-2 mt-4 ml-4\">\"Regard\" sur Internet</a>
                     <div class=\"navbar-end mr-4\">
                         <div class=\"navbar-item has-dropdown is-hoverable\">
                             <a class=\"navbar-link\">Tableaux</a>
                             <div class=\"navbar-dropdown\">
-                                <a href=\"\" class=\"navbar-item\">Français</a>
+                                <a href=\"../tableaux/fr.html\" class=\"navbar-item\">Français</a>
                                 <a href=\"../tableaux/en.html\" class=\"navbar-item\">Anglais</a>
-                                <a href=\"\" class=\"navbar-item\">Arabe</a>
+                                <a href=\"../tableaux/ar.html\" class=\"navbar-item\">Arabe</a>
                             </div>
                         </div>
-                    <a class=\"navbar-item\">Scripts</a>
-                    <a class=\"navbar-item\">Résultats</a>
+                    <a href=\"../HTML/script.html\" class=\"navbar-item\">Scripts</a>
+                    <div class=\"navbar-item has-dropdown is-hoverable\">
+                    <a href=\"../HTML/resultats.html\" class=\"navbar-link\">Résultats</a>
+                    <div class=\"navbar-dropdown\">
+                        <a href=\"../HTML/resultats-fr.html\" class=\"navbar-item\">Français</a>
+                        <a href=\"../HTML/resultats-en.html\" class=\"navbar-item\">Anglais</a>
+                        <a href=\"\" class=\"navbar-item\">Arabe</a>
+                    </div>
+                </div>
                 </div>
             </div>
                 <table class=\"table is-bordered is-hoverable m-6\">
