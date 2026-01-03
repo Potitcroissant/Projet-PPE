@@ -6,6 +6,7 @@
     </head>
 
     <body>
+        <!-- Header -->
         <div class="navbar is-primary">
             <a href="index.html" class="title is-2 mt-4 ml-4">"Regard" sur Internet</a>
             <div class="navbar-end mr-4">
@@ -21,37 +22,98 @@
                 <a class="navbar-item">Résultats</a>
             </div>
         </div>
+
         <div class="content p-5">
             <!-- Objectif -->
-            <h3 class="title is-3">Objectif du scipt</h3>
-            <p>Ces scripts Bash ont été créé pour automatiser la lecture, l'analyse et le traitement de fichiers contenant une liste d'environ 50 URLS chacun. Il a pour objectif la création d'un tableau HTML analysant un mot précis dans diverses langues. Dans le cas de nos 3 langues, on parlera de :</p>
-            <h5 class="has-text-centered title is-5">نظر | GAZE | REGARD</h5>
+            <div class="block">
+                <h3 class="title is-3">Objectif du scipt</h3>
+                <p>Ces scripts Bash ont été créé pour automatiser la lecture, l'analyse et le traitement de fichiers contenant une liste d'environ 50 URLS chacun. Il a pour objectif la création d'un tableau HTML analysant un mot précis dans diverses langues. Dans le cas de nos 3 langues, on parlera de :</p>
+                <h5 class="box has-background-primary-soft has-text-centered title is-5">نظر | GAZE | REGARD</h5>
+            </div>
 
             <!-- Présentation -->
-            <h3 class="title is-3">Présentation</h3>
-            <p>Le script de ce projet est le même pour les 3 langues et varie seulement pour les chemins qui auront souvent ce type de début :</p>
-            <ul>
-                <li>Arabe</li>
-                <li>Anglais</li>
-                <li>Français</li>
-            </ul>
-            <p>Celui-ci nous a permis de créer la base de notre projet, il a été agencé de sorte à ce qu'un changement affecte tout ce à quoi il est relié. Il a 3 variantes qui souvent sont écrite ainsi : <strong>"script-langue.sh"</strong></p>
+            <div class="block">
+                <h3 class="title is-3">Présentation</h3>
+                <p>Le script de ce projet est le même pour les 3 langues et varie seulement pour les chemins qui auront souvent ce type de début :</p>
+                <ul>
+                    <li>*ar</li>
+                    <li>*en</li>
+                    <li>*fr</li>
+                </ul>
+                <p>Ils nous ont permis de créer la base de notre projet. Ils ont été agencés de sorte à ce qu'un changement affecte tout ce à quoi ils sont reliés. Nos scripts ont pour nom : <strong>"script-langue.sh"</strong></p>
+                <p class="has-text-centered is-italic">Pour la suite, nous parlerons du fonctionnement d'un seul script pour éviter de confusionner les lecteur·ice·s.</p>
+            </div>
 
             <!-- Fonctions principales -->
-            <h3 class="title is-3">Fonctions principales</h3>
-            <h4 class="title-is 4">Récupération et analyse des données d'internet</h4>
-            <p>En parcourant le.s fichier.s texte.s contenant les URLS, le script effectue d'abord pour chaque adresse :</p>
-            <ul>
-                <li><strong>Une vérification technique</strong> : il récupère le code de réponse HTTP de la page et identifie l'encodage des caractères qui seront pour la majorité en UTF-8 grâce aux formules suivantes :
-                    <img src="Images/HTTP.png" alt="Image affichant le code utilisé" title="Code HTTP et encodage" width=700 class="m-3">
-                </li>
-                <li><strong>Un nettoyage du contenu</strong> : il utilise ensuite l'outil lynx pour extraire uniquement du texte et retire donc les balises
-                    <img src="Images/lynx.png" alt="Commande de lynx" title="Dump" width=500 class="m-3">
-                </li>
-                <li><strong>Des statistiques textuelles</strong> : il compte automatiquement le nombre total de mots dans la page et le nombre d'occurences de notre mot-clé.
-                    <img src="Images/mots.png" alt="Commande pour calculer le nombre de mots" title="Nombre de mots et d'occurrences" width=700 class="m-3">
-                </li>
-            </ul>
+            <div class="block pt-6">
+                <h3 class="title is-3">Fonctions principales</h3>
+                <div class="block">
+                    <h5 class="title is-5">Récupération et analyse des données d'internet</h5>
+                    <p>En parcourant le fichier texte contenant les URLS, le script effectue d'abord pour chaque adresse :</p>
+                    <ul>
+                        <li><strong>Une vérification technique</strong> : il récupère le code de réponse HTTP de la page et identifie l'encodage des caractères qui seront pour la majorité en UTF-8 grâce aux formules suivantes :</li>
+                        <li><strong>Un nettoyage du contenu</strong> : il utilise ensuite l'outil lynx pour extraire uniquement du texte et retire donc les balises</li>
+                        <li><strong>Des statistiques textuelles</strong> : il compte automatiquement le nombre total de mots dans la page et le nombre d'occurences de notre mot-clé.</li>
+                    </ul>
+                </div>
+
+                <div class="block">
+                    <h5 class="title is-5">Génération de ressources linguistiques</h5>
+                    <p>Pour chaque URL, le script crée plusieurs fichiers de sortie qu'il stocke dans des dossiers dédiés:</p>
+                    <ul>
+                        <li><strong>Les aspirations</strong> : Une copie du code source HTML original de la page en entête ainsi que la page originale. C'est en quelque sorte un téléchargement avec quelques ajouts, ce qui nous permet d'avoir la page localement.</li>
+                        <li><strong>Les dump-texte</strong> : C'est la version texte brut de la page (sans balise html ou code source)</li>
+                        <li><strong>Les contextes</strong> : Dans le cadre de notre script, c'est un extrait qui démontre le mot-clé avec les 4 lignes qui l'entourent (avant et après) afin d'analyser son environnement sémantique notamment.</li>
+                        <li><strong>Les concordanciers</strong> : Ce sont des fichiers (HTML dans notre contexte) qui présentent le mot-clé dans un tableau qui a pour entête "Contexte gauche | Cible | Contexte droit" et qui donc permet d'étudier comment le mot est utilisé grâce à aux contextes qui l'entoure.</li>
+                    </ul>
+                </div>
+
+                <div class="bock">
+                    <h5 class="tilte is-5">Affichage des résultats</h5>
+                    <p>Le script ne traite pas seulement les données, il les agence de manière à avoir un bon visuel :</p>
+                    <p>
+                        Il génère automatiquement une page internet complète en utilisant le framework CSS Bulma pour le design</br>
+                        La page contient un tableau récapitulatif où chaque ligne correspond à une URL avec des liens directs vers les fichiers générés (HTML, texte brut, contextes, concordanciers)</br>
+                        Il intègre aussi un menu de navigation pour basculer entre différentes langues (Arabe, Anglais, Français) mais aussi différentes thématiques (Tableaux, Scripts, Résultats)
+                    </p>
+                </div>
+            </div>
+
+            <!-- Explication -->
+            <div class="block pt-6">
+                <h3 class="title is-3">Explication des commandes</h3>
+                <div class="block">
+                    <h5 class="title is-5">La boucle de lecture (while read -r line)</h5>
+                    <p>
+                        while est une boucle qui permet de lire le fichier d'URLS ligne par ligne. La commande (read -r line) quant à elle, récupère l'adresse et la stocke dans la variable que l'on a nommée $line (le dollar est nécessaire en bash, il permet de reprendre la variable concernée) pour être traitée.<br>
+                        $ligne ou $lineno, selon le script, est une variable de comptage qui est incrémentée à chaque tour (ligne=$(expr $ligne + 1)) afin de numéroter les fichiers de sortie (ex: en-1.html, fr-34.html, ar-12.html)
+                    </p>
+                    
+                    <h5 class="title is-5">Extraction de l'encodage et du code HTTP</h5>
+                    <p>Le script utilise (curl) pour obtenir des métadonnées sans télécharger tout le contenu lourd :</p>
+                    <ul>
+                        <li>curl -I récupère les en-tête du serveur</li>
+                        <li>La commande (grep -Po "charset=\S+" | cut -d"=" -f2) isole le type d'encodage (comme UTF-8) en cherchant le mot "charset" et en délimitant la chaîne après le signe "=" grâce à la commande cut.</li>
+                    </ul>
+
+                    <h5 class="title is-5">Transformation du HTML en texte brut</h5>
+                    <p>Pour analyser les mots, le script doit ignorer les balises HTML, on utilise donc cette commande avec les options suivantes : lynx -dump -nolist. Elle convertit le lien en texte brut sans balises et sans liens ce qui nous permet en plus de cela de compter les mots de manière fiable avec wc -w (wordcount).</p>
+                    
+                    <h5 class="title is-5">Analyse textuelle et concordancier (egrep, sed)</h5>
+                    <p>
+                        Ici, on s'intéresse à la partie linguistique du script. (egrep -i -C 4 "mot_cible") permet d'extraire le mot cible avec les 4 lignes qui sont avant et après lui.<br>
+                        (sed), quant à lui, permet au script d'utiliser une expression régulière complexe : (s/(.*)($mot)(.*)/.../) où :
+                    </p>
+                    <ul>
+                        <li>\1 représente tout ce qui est à gauche du mot</li>
+                        <li>\2 est le mot cible lui-même</li>
+                        <li>\3 représente tout ce qui est à droite</li>
+                    </ul>
+
+                    <h5 class="title is-5">Structures des redirections</h5>
+                    <p>Le contenu du script est encadré d'accolades qui sont suivies de > "tableaux.langue.html". Ce qui permet aux echo du script d'être écrits directement dans le fichier HTML et non dans le terminal.</p>
+                </div>
+            </div>
         </div>
     </body>
 </html>
