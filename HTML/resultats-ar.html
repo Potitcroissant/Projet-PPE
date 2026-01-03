@@ -40,7 +40,7 @@
 
     <p>
       Pour analyser les contextes d’utilisation du mot arabe <strong>نظر</strong>
-      (« regard / point de vue »), nous avons tokenisé le corpus (un token par ligne)
+      (« regard / point de vue »), nous avons tokenisé le corpus (un token par ligne),
       puis utilisé l’outil <strong>PALS</strong> afin d’identifier les cooccurrences lexicales
       les plus significatives.
     </p>
@@ -80,35 +80,6 @@
       </p>
     </div>
 
-    <hr>
-
-    <div class="block mt-6">
-      <h4 class="title is-4">Nuages de mots (optionnel)</h4>
-      <p>
-        Nous avons également généré deux nuages de mots : un basé sur le corpus dump complet,
-        et un basé sur le corpus des contextes. (Les images ci-dessous s’affichent uniquement
-        si elles existent dans le dossier <code>Images/</code>.)
-      </p>
-
-      <p class="box has-background-primary-soft">
-        cat dump-text/ar-*.txt &gt; nuages/dump-ar.txt<br>
-        cat contextes/ar-*.txt &gt; nuages/contextes-ar.txt<br><br>
-        wordcloud_cli --text nuages/dump-ar.txt --imagefile Images/dump-ar.png<br>
-        wordcloud_cli --text nuages/contextes-ar.txt --imagefile Images/contexte-ar.png
-      </p>
-
-      <div class="columns">
-        <div class="column">
-          <img src="../Images/contexte-ar.png" alt="Nuage de mots (contextes arabe)" title="Nuage contextes arabe">
-          <p>Nuage basé sur le corpus contextes</p>
-        </div>
-        <div class="column">
-          <img src="../Images/dump-ar.png" alt="Nuage de mots (dump arabe)" title="Nuage dump arabe">
-          <p>Nuage basé sur le corpus dump</p>
-        </div>
-      </div>
-    </div>
-
     <div class="block mt-6">
       <p>Liens :</p>
       <ul>
@@ -118,4 +89,3 @@
   </div>
 </body>
 </html>
-
