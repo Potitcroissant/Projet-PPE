@@ -1,0 +1,1483 @@
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml"  dir="rtl" xml:lang="ar" lang="ar">
+<head id="ctl00_Head"><title>
+	مفهوم النظر في القرآن الكريم
+</title><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link rel="icon" href="/favicon.ico" type="image/x-icon" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="p3pv1" href="/w3c/p3p.xml" /><link rel="Stylesheet" type="text/css" media="screen" href="/css/alukah30/normalize.css" /><link rel="Stylesheet" type="text/css" media="screen" href="/css/alukah30/alukah-3.0.0.6.min.css" />    
+	
+    <!--<link rel="Stylesheet" type="text/css" href="/css/alukah30/jquery.jcarousel.css" />-->
+	 
+	<link rel="Stylesheet" type="text/css" media="screen" href="/css/alukah30/rotatingbanners.1.2.3.min.css" /><link rel="Stylesheet" type="text/css" media="screen" href="/css/alukah30/alukah-new.css" /><link title="ابحث في شبكة الألوكة" rel="search" type="application/opensearchdescription+xml" href="../../../../OpenSearch.ashx" /><link rel="SHORTCUT ICON" href="/favicon2.ico" /><meta name="msvalidate.01" content="80785609922329B4652D524AF31943A9" /><link rel="author" href="https://plus.google.com/+AlukahNetwork/posts" />
+
+    <!--<link href="/images/alukah30/jcarousel_skins/ie7/skin.css" rel="stylesheet" type="text/css" />-->
+    <!--<link href="/greybox2/greybox.css" rel="stylesheet" type="text/css" media="all" />-->
+    
+<link rel="Alternate" type="application/rss+xml" title="شبكة الألوكة - آخر الإضافات" href="/RSS/Rss-Feeds.aspx"  />
+<link rel="Alternate" type="application/rss+xml" title="شبكة الألوكة - آفاق الشريعة" href="/RSS/Rss-Feeds.aspx?t=Sharia"  />
+<link rel="Alternate" type="application/rss+xml" title="شبكة الألوكة - ثقافة ومعرقة" href="/RSS/Rss-Feeds.aspx?t=Culture"  />
+<link rel="Alternate" type="application/rss+xml" title="شبكة الألوكة - مجتمع وإصلاح" href="/RSS/Rss-Feeds.aspx?t=Social"  />
+<link rel="Alternate" type="application/rss+xml" title="شبكة الألوكة - الفتاوى والاستشارات" href="/RSS/Rss-Feeds.aspx?t=Fatawa_Counsels"  />
+<link rel="Alternate" type="application/rss+xml" title="شبكة الألوكة - حضارة الكلمة" href="/RSS/Rss-Feeds.aspx?t=Literature_Language"  />
+<link rel="Alternate" type="application/rss+xml" title="شبكة الألوكة - المسلمون في العالم" href="/RSS/Rss-Feeds.aspx?t=World_Muslims"  />
+<link rel="Alternate" type="application/rss+xml" title="شبكة الألوكة - مكتبة الألوكة" href="/RSS/Rss-Feeds.aspx?t=Library"  />
+<link rel="Alternate" type="application/rss+xml" title="شبكة الألوكة - المواقع الشخصية" href="/RSS/Rss-Feeds.aspx?t=Personal_Pages"  />
+<link rel="Alternate" type="application/rss+xml" title="شبكة الألوكة - الإصدارات والمسابقات" href="/RSS/Rss-Feeds.aspx?t=Publications_Competitions"  />
+<link rel="Alternate" type="application/rss+xml" title="شبكة الألوكة - المترجمات" href="/RSS/Rss-Feeds.aspx?t=Translations"  />
+<link rel="Alternate" type="application/rss+xml" title="شبكة الألوكة - المكتبة الناطقة" href="/RSS/Rss-Feeds.aspx?t=Audio_Books"  />
+    <!--[if lte IE 7]><link rel="Stylesheet" type="text/css" href="/css/alukah30/alukah-3.0.0.0-ie7hacks.css" /> <![endif]-->
+    <!--[if lte IE 6]><link rel="Stylesheet" type="text/css" href="/css/alukah30/alukah-3.0.0.0-ie6hacks.css" /> <![endif]-->
+    
+	<script type="af0c21caa86c8ee6e4a4401b-text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	
+    
+    
+	<script type="af0c21caa86c8ee6e4a4401b-text/javascript" src="/js/jquery.tools.1.2.5.combined2.min.js"></script>
+	
+<!--<script type="text/javascript" src="/js/jquery.jcarousel.pack.js"></script>-->
+
+    <!--<script type="text/javascript" src="/js/jquery.curvycorners.packed.js"></script>-->
+   <!-- <script type="text/javascript" src="/greybox2/greybox.js"></script>-->
+
+    <!--[if  IE 6]>
+<script src="/js/IEFix/DD_belatedPNG_0.0.8a-min.js" type="text/javascript"></script>
+<![endif]-->
+
+<meta name="robots" content="max-image-preview:large" />
+
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-1391140-2', 'alukah.net');
+    ga('send', 'pageview');
+
+
+
+    // Script For facebook panle add by Dev in 22/9/2013
+    /* Commented by Dayem at 16-05-2021 */
+	(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+	
+    /*
+    $(function(){
+          if (window.location.pathname == "/") {
+                $('#Adv_Widget').hide();
+          } else {
+                $('#Adv_Widget').show();
+          }
+     });
+    */
+
+</script>
+
+<!-- Alukah Google AdSense Code -->
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9075455342484886",
+    enable_page_level_ads: true
+  });
+</script>
+-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!--
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1391140-2"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-1391140-2');
+</script>
+ -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<!--
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-655X0GNXTY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-655X0GNXTY');
+</script>
+-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!--
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L8B1MF04YK"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-L8B1MF04YK');
+</script>
+-->
+
+<!-- Google tag (gtag.js) -->
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-X96GT55B9V" async="async"></script>
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+//<![CDATA[
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-X96GT55B9V');
+//]]>
+</script>
+
+<link href="../../../../css/alukah30/alukah-sharia-3.0.0.0.css" rel="Stylesheet" type="text/css" /><link rel="canonical" href="https://www.alukah.net/sharia/0/6849/مفهوم-النظر-في-القرآن-الكريم/" /><link rel="publisher" href="https://plus.google.com/100162967713638254284" /><meta property="og:title" content="مفهوم النظر في القرآن الكريم" /><meta property="og:type" content="article" /><meta property="og:url" content="http://www.alukah.net/sharia/0/6849/مفهوم-النظر-في-القرآن-الكريم/" /><meta property="article:author" content="http://www.alukah.net/authors/view/sharia/1769/" /><meta property="og:description" content="&lt;p>لا جرم أن الوحي - قرآناً وسنة - مجموعة من المفاهيم، إذا حُصِّلت حُصِّلت كليات الدين، وإذا لم تفقه لم يفقه الدين. ولا سبيل إلى التفقه في النص القرآني&lt;/p>" /><meta property="og:site_name" content="www.alukah.net - شبكة الألوكة" /><meta property="article:published_time" content="2009-07-28T10:10:00Z" /><meta property="article:modified_time" content="2026-01-03T14:49:06Z" /><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@AlukahNetwork" /><meta name="twitter:title" content="مفهوم النظر في القرآن الكريم" /><meta name="twitter:description" content="&lt;p>لا جرم أن الوحي - قرآناً وسنة - مجموعة من المفاهيم، إذا حُصِّلت حُصِّلت كليات الدين، وإذا لم تفقه لم يفقه الدين. ولا سبيل إلى التفقه في النص القرآني&lt;/p>" /><meta name="twitter:creator" content="@AlukahNetwork" /><meta name="description" content=" لا جرم أن الوحي - قرآناً وسنة - مجموعة من المفاهيم، إذا حُصِّلت حُصِّلت كليات الدين، وإذا لم تفقه لم يفقه الدين. ولا سبيل إلى التفقه في النص القرآني" /><meta name="keywords" content="مفهوم النظر في القرآن الكريم,مفهوم,النظر,القرآن,الكريم,علوم,قرآن" /></head>
+
+
+<body itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKH8FHH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="bodyWrapper">        
+<form name="aspnetForm" method="post" action="/sharia/0/6849/مفهوم-النظر-في-القرآن-الكريم/" onsubmit="if (!window.__cfRLUnblockHandlers) return false; javascript:return WebForm_OnSubmit();" id="aspnetForm" style="margin-top: 0px;" lang="ar" data-cf-modified-af0c21caa86c8ee6e4a4401b-="">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+
+</div>
+
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=t0OKDfOvLzOYELHBsG5kqGNv3GoA7bYyMKQjFLxFQ6yHKFgdwWfJEebEL6uBuaEmTdIj44lg76L0dxUVm-9ox5QCairgOlbpLXk-ZUzeWqs1&amp;t=638901644248157332" type="af0c21caa86c8ee6e4a4401b-text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=XETXRKkVuvjByjrodqx3dD9837iBcMJfoYmmlx6gl4qj-PGvStkKU1bilXhoHhR872SRo-ZBOfKeTyzDsGapddLfbOd4Y_zYFs_CxOn88q5kTradrfgn3ygDDwk_G1830&amp;t=638901644248157332" type="af0c21caa86c8ee6e4a4401b-text/javascript"></script>
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+        <div id="bg-footer">
+            <div id="bfl">
+                <div id="bfr">
+                    <div id="top-links-bg">
+                    </div>
+                    <div id="center-shadow">
+                        <div id="center-wrapper">
+                            <div id="top-logo">
+                                <ul id="top-links" class="link-list " dir="rtl">
+                                    <li><span id="top-triangle"></span>
+                                        <a href="/" title="الصفحة الرئيسة" ><img src="/images/alukah30/icons/home.gif" title="الصفحة الرئيسية" alt="الصفحة الرئيسية" width="15" height="15" /></a><a
+                                            id="sitemap" href="/sitemap.aspx" title="خريطة الموقع"><img src="/images/alukah30/icons/sitemap.png" width="15" height="15"
+                                                title="خريطة الموقع" alt="خريطة الموقع" /></a><a id="RSS" href="/pages/RSS.aspx"
+                                                    title="الاشتراك في خدمة RSS"><img src="/images/alukah30/icons/rss.png" width="15" height="15" title="RSS"
+                                                        alt="RSS" /></a></li>
+                                    <li><a href="/" title="شبكة الألوكة - الصفحة الرئيسية">
+                                        <img src="/images/alukah30/ui-links/homepage.png" width="48" height="16" title="شبكة الألوكة - الصفحة الرئيسية"
+                                            alt="الصفحة الرئيسية" /></a></li>
+                                    <li><a href="/Guestbook.aspx" title="شبكة الألوكة - سجل الزوار">
+                                        <img src="/images/alukah30/ui-links/guestbook.png" width="67" height="15" title="شبكة الألوكة - سجل الزوار"
+                                            alt="سجل الزوار" /></a></li>
+                                    <li><a href="/pages/terms_paper.aspx" title="وثيقة الموقع واتفاقية الخدمة">
+                                        <img src="/images/alukah30/ui-links/terms.png" width="141" height="16" title="وثيقة الموقع" alt="وثيقة الموقع" /></a></li>
+                                    
+                                    <li><a id="contactus" href="/contactus.aspx" title="اتصل بنا">
+                                        <img src="/images/alukah30/ui-links/contactus.png" width="51" height="15" title="اتصل بنا" alt="اتصل بنا" /></a></li>
+                                </ul>
+
+
+                                <ul id="top-links-Social" dir="rtl">
+                                
+                                <li><a href="https://www.facebook.com/alukahnetwork" target="_blank" title="شبكة الألوكة على Facebook" style="display:block;float:left;margin:0 6px 0 13px;width:32px;height:32px;background:url(/images/alukah30/combined1.png) -10px -1097px no-repeat"><span style="display:none"></span></a></li>
+                                <li>            <a href="https://www.twitter.com/alukahnetwork" target="_blank" title="شبكة الألوكة على Twitter" style="display:block;width:32px;height:32px;float:left;margin:0 6px 0 0;background:url(/images/alukah30/combined1.png) -42px -1097px no-repeat"><span style="display:none"></span></a></li>
+                                <li>            <a href="https://www.youtube.com/channel/UCh6H-0auieN5ItUuOXkMUpA" target="_blank" title="شبكة الألوكة على YouTube" style="display:block;width:32px;height:32px;float:left;margin:0 6px 0 0;background:url(/images/alukah30/combined1.png) -74px -1097px no-repeat"><span style="display:none"></span></a></li>
+                                <li>            <a href="https://instagram.com/alukahNetwork" target="_blank" title="شبكة الألوكة على Instagram" style="display:block;width:32px;height:32px;float:left;margin:0 6px 0 0;background:url(/images/alukah30/instagram.png)"><span style="display:none"></span></a></li>
+                                <li>            <a href="https://t.me/AlukahNet" target="_blank" title="شبكة الألوكة على Telegram" style="display:block;width:32px;height:32px;float:left;margin:0 6px 0 0;background:url(/images/alukah30/telegram.png)"><span style="display:none"></span></a></li>
+                                </ul><div style="clear:both"></div>
+
+
+                                <a href="https://en.alukah.net/" title="Alukah in English" target="_blank"><img id="lnkEnglishAlukah" width="134" height="37" src="/images/alukah30/ui-links/english-alukah.png" title="English Alukah"
+                                    alt="English Alukah" /></a>
+									
+									
+										
+                                <a href="/" target="_blank" id="logo">
+                                    <span>شبكة الألوكة شبكة إسلامية وفكرية وثقافية شاملة تحت إشراف الدكتور سعد بن عبد الله الحميد</span>
+								</a>
+                               
+
+ <script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+     function doSearch() {var txtSearch = $('.txtSearch');if (txtSearch.val() == $(txtSearch).attr('title')) $(txtSearch).val('advsrch');return true;}
+</script> 
+<div id="ctl00_SearchWidget1_pnlSearch" onkeypress="if (!window.__cfRLUnblockHandlers) return false; javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_SearchWidget1_btnSearch&#39;)" data-cf-modified-af0c21caa86c8ee6e4a4401b-="">
+	
+ <div id="search-box"><input name="ctl00$SearchWidget1$txtSearch" type="text" value="ابحث في الألوكة" id="ctl00_SearchWidget1_txtSearch" title="ابحث في الألوكة" class="txtSearch watermark" />
+                                    <input type="image" name="ctl00$SearchWidget1$btnSearch" id="ctl00_SearchWidget1_btnSearch" title="ابحث" class="btnSearch aligne-center" src="/Images/alukah30/icons/icon_btnSearch.png" alt="ابحث" onclick="if (!window.__cfRLUnblockHandlers) return false; return doSearch();" style="border-width:0px;" data-cf-modified-af0c21caa86c8ee6e4a4401b-="" /></div>
+
+</div>
+                               
+                               <div id="supervisors" style="top: 25px; left: 125px;" dir="rtl">
+                                    <a href="/Web/homayed/" title="موقع الشيخ الدكتور سعد بن عبد الله الحميد">
+                                        <img id="imgDrSaad" width="200" height="50" alt="الدكتور سعد بن عبد الله الحميد" src="/images/alukah30/drsaad2.png"
+                                            title="الدكتور سعد بن عبد الله الحميد" loading="lazy" /></a>&nbsp;
+                                    <img id="icon_SupervisedBy" alt="إشراف" style="top: -35px; left: 171px;" width="64" height="40" src="/images/alukah30/icons/icon_supervisedby2.png"
+                                        title="شبكة الالوكة تحت إشراف الدكتور سعد بن عبد الله الحميد" loading="lazy"/>&nbsp;
+                                    <a class="jeraisi_link" style="display: none" href="/Web/jeraisi/" title="موقع الدكتور خالد الجريسي">
+                                        <img id="img1" width="200" height="50" alt="الدكتور خالد بن عبد الرحمن الجريسي" src="/images/alukah30/dr_khaled_al_jeraissy2.png"
+                                            title="الدكتور خالد بن عبد الرحمن الجريسي" loading="lazy" /></a>
+                                </div>
+                                <div id="scrollingBanners">
+                                   
+
+<div id="RotatingBannersDiv" style="direction:ltr">
+<a class="prev browse left"></a> 
+    <div class="scrollable">
+    <div class="items">
+     <!-- The content will be dynamically loaded in here -->
+    </div>
+    </div>
+    <a class="next browse right"></a>
+    <div style="clear:both"></div>
+  </div>
+  <script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+      function loadNextItems(api, start) { var br; if ($.browser.msie && $.browser.version == "6.0") { br = "ie6" } else { br = "all" }; $.ajax({ type: "POST", url: "/rotatingbanners.aspx?uri=" + document.location + "&br=" + br, contentType: "application/json; charset=utf-8", success: function (msg) { if (start) { appendulItems(msg) } else { appendItems(api, msg) } } }) } function appendItems(api, items) { var str = "<ul>"; $(items.item).each(function (i) { if (i < 4 || i > 4) { str += "<li class='lih'>" + String(this) + "</li>" } else { str += "</ul>"; api.addItem(str); str = "<ul><li class='lih'>" + String(this) + "</li>" } }); str += "</ul>"; api.addItem(str) } function appendulItems(items) { var str = "<ul>"; $(items.item).each(function (i) { if (i < 4 || i > 4) { str += "<li class='lih'>" + String(this) + "</li>" } else { str += "</ul><ul><li class='lih'>" + String(this) + "</li>" } }); str += "</ul>"; $(".items").append(str); $(".scrollable").scrollable({ easing: "custom", circular: true, keyboard: false, speed: 1500, onSeek: function () { if (this.getSize() < 10 && this.getIndex() > 0) { loadNextItems(this, false) } } }).autoscroll({ autoplay: true, interval: 15000 }) } $.easing.custom = function (x, t, b, c, d) { var s = 1.70158; if ((t /= d / 2) < 1) { return c / 2 * (t * t * (((s *= (1.525)) + 1) * t - s)) + b } return c / 2 * ((t -= 2) * t * (((s *= (1.525)) + 1) * t + s) + 2) + b }; $(function () { loadNextItems(null, true) });
+</script>
+                                </div> 
+                                <div id="lnkRadio">
+                                                <div>
+                                                    <a href="https://www.alukah.net/radio.aspx" title="الدخول إلى راديو الألوكة" target="_blank"></a>
+                                                </div>
+                                </div>
+								<div id="lnkMajles">
+                                                <div>
+                                                    <a href="https://majles.alukah.net" title="الدخول إلى المجلس العلمي" target="_blank"></a>
+                                                </div>
+                                </div>
+                            </div>
+
+                            <div id="google-search-box">
+                            <script async src="https://cse.google.com/cse.js?cx=82d41d3a7fbd612a5" type="af0c21caa86c8ee6e4a4401b-text/javascript"></script>
+                            <div class="gcse-search"></div>
+                            </div>
+							
+                            <ul id="nav_tabs" class="clearFix"><li class="c_home"><a class="navButton " href="/" title="الصفحة الرئيسة"><span><img alt="الصفحة الرئيسية" width="94" height="44" src="/Images/alukah30/nav-tabs/home.png" /></span></a></li><li class="c_sharia"><a class="navButton navSelected" href="/sharia/" title="موقع آفاق الشريعة"><span><img alt="موقع آفاق الشريعة" width="66" height="44" src="/Images/alukah30/nav-tabs/sharia-selected.png" /></span></a></li><li class="c_culture"><a class="navButton " href="/culture/" title="موقع ثقافة ومعرفة"><span><img alt="موقع ثقافة ومعرفة" width="65" height="44" src="/Images/alukah30/nav-tabs/culture.png" /></span></a></li><li class="c_social"><a class="navButton " href="/social/" title="موقع مجتمع وإصلاح"><span><img alt="موقع مجتمع وإصلاح" width="82" height="44" src="/Images/alukah30/nav-tabs/social.png" /></span></a></li><li class="c_literature"><a class="navButton " href="/literature_language/" title="موقع حضارة الكلمة"><span><img alt="موقع حضارة الكلمة" width="64" height="44" src="/Images/alukah30/nav-tabs/literature_language.png" /></span></a></li><li class="c_fatawa"><a class="navButton " href="/fatawa_counsels/" title="موقع الاستشارات"><span><img alt="موقع الاستشارات" width="88" height="44" src="/Images/alukah30/nav-tabs/fatawa_counsels.png" /></span></a></li><li class="c_muslims"><a class="navButton " href="/world_muslims/" title="موقع المسلمون في العالم"><span><img alt="موقع المسلمون في العالم" width="76" height="44" src="/Images/alukah30/nav-tabs/world_muslims.png" /></span></a></li><li class="c_pp"><a class="navButton " href="/personal_pages/" title="موقع المواقع الشخصية"><span><img alt="موقع المواقع الشخصية" width="72" height="44" src="/Images/alukah30/nav-tabs/personal_pages.png" /></span></a></li><li class="c_library"><a class="navButton " href="/library/" title="موقع مكتبة الألوكة"><span><img alt="موقع مكتبة الألوكة" width="56" height="44" src="/Images/alukah30/nav-tabs/library.png" /></span></a></li><li class="c_abooks"><a class="navButton " href="/audio_books/" title="موقع المكتبة الناطقة"><span><img alt="موقع المكتبة الناطقة" width="62" height="44" src="/Images/alukah30/nav-tabs/audio_books.png" /></span></a></li><li class="c_pub"><a class="navButton " href="/publications_competitions/" title="موقع الإصدارات والمسابقات"><span><img alt="موقع الإصدارات والمسابقات" width="84" height="44" src="/Images/alukah30/nav-tabs/publications_competitions.png" /></span></a></li><li class="c_trans"><a class="navButton " href="/translations/" title="موقع المترجمات"><span><img alt="موقع المترجمات" width="67" height="44" src="/Images/alukah30/nav-tabs/translations.png" /></span></a></li></ul>
+
+                             
+                            
+                            
+                           
+                            <div id="content-wrapper" class="normalFont">
+							
+								<!-- The popup ad -->
+								<!--div id="popup1" class="overlay">
+								   <div class="popup" >
+									 <a class="close" href="#popup1">×</a>
+									 <div class="k-content">
+									   <a class="k-image" href="/publications_competitions/0/103521/" target="_blank">
+										 <img src="/images/k-aljeraisy.jpg" />
+										 </a>
+									   </div>
+									 </div>
+								</div-->
+								
+                                <div class="bg175">
+                                    <div class="bg170 clearFix">
+                                        <div id="content-middle-column" class="normalFont">
+										
+                                            
+
+<div id="latest_additions_wrapper">
+
+<div id="latest-additions-top-bar" class="c_sharia" style="position:relative">
+    <div id="latest-additions-image-label" style="cursor:pointer" title="اضغط هنا لفتح أو إغلاق نافذة آخر الإضافات">
+    </div>
+    <div id="latest-additions-nav-links" class="clearFix c_sharia">
+        <img src="/images/alukah30/icons/catall.gif" width="16px" height="16px" style="position:relative;top:4px"/>&nbsp;<a href='/sharia/0/' title="كل الأقسام" style="font-weight:bold">كل الأقسام</a> | <a href="/sharia/1001/" title="مقالات شرعية" > مقالات شرعية </a>&nbsp;<a href="/sharia/1002/" title="دراسات شرعية" > دراسات شرعية </a>&nbsp;<a href="/sharia/10331/" title="نوازل وشبهات" > نوازل وشبهات </a>&nbsp;<a href="/sharia/1067/" title="منبر الجمعة" > منبر الجمعة </a>&nbsp;<a href="/sharia/1051/" title="روافد" > روافد </a>&nbsp;<a href="/sharia/10334/" title="من ثمرات المواقع" > من ثمرات المواقع </a>&nbsp;</div>
+        <div id="latest-additions-tooltip" style="display:none;position:absolute;left:0px;top:2px;width:200px">
+        <img src="/images/alukah30/icons/greenarrow.gif" alt="اضغط على زر آخر الإضافات لغلق أو فتح النافذة" width="36" height="18" />&nbsp;<img src="/images/alukah30/icons/clickhere3.gif" alt="اضغط على زر آخر الإضافات لغلق أو فتح النافذة" width="154" height="18" />
+        </div>
+</div>
+
+
+ <div id="latest-additions-content" class="smallerFont" >
+        <ul class="clearFix">
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180204/هل-ما-زلت-على-قيد-الحياة؟-خطبة/' title='هل ما زلت على قيد الحياة؟ (خطبة)'>هل ما زلت على قيد الحياة؟ (خطبة)</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/7229/حسان-أحمد-العماري/' title='حسان أحمد العماري'>حسان أحمد العماري</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180203/تخريج-حديث-قدح-من-عيدان-يبول-فيه،-ويضعه-تحت-السرير/' title='تخريج حديث: قدح من عيدان يبول فيه، ويضعه تحت السرير'>تخريج حديث: قدح من عيدان يبول فيه، ويضعه تحت ...</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/5272/الشيخ-محمد-طه-شعبان/' title='الشيخ محمد طه شعبان'>الشيخ محمد طه شعبان</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180202/أهم-الحالات-التي-يندرج-تحتها-التفسير-الاجتهادي-للقرآن/' title='أهم الحالات التي يندرج تحتها التفسير الاجتهادي للقرآن'>أهم الحالات التي يندرج تحتها التفسير الاجتهادي ...</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover  href='/Web/dr.arafa/' title='الشيخ أ. د. عرفة بن طنطاوي'>الشيخ أ. د. عرفة بن طنطاوي</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180200/نصرة-السنة-ورد-شبهات-المغرضين-حول-حديث-«لن-يفلح-قوم-ولّوا-أمرهم-امرأة»/' title='نصرة السنة ورد شبهات المغرضين حول حديث: «لن يفلح قوم ولّوا أمرهم امرأة»'>نصرة السنة ورد شبهات المغرضين حول حديث: «لن يفلح ...</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/16869/د.-هيثم-بن-عبدالمنعم-بن-الغريب-صقر/' title='د. هيثم بن عبدالمنعم بن الغريب صقر'>د. هيثم بن عبدالمنعم بن الغريب صقر</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180199/العجلة/' title='العجلة'>العجلة</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/14950/د.-أمير-بن-محمد-المدري/' title='د. أمير بن محمد المدري'>د. أمير بن محمد المدري</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180198/الحديث-الخامس-والعشرون-فضل-بر-الوالدين/' title='الحديث الخامس والعشرون: فضل بر الوالدين'>الحديث الخامس والعشرون: فضل بر الوالدين</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/16415/الدكتور-أبو-الحسن-علي-بن-محمد-المطري/' title='الدكتور أبو الحسن علي بن محمد المطري'>الدكتور أبو الحسن علي بن محمد المطري</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180196/البركة/' title='البركة'>البركة</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/901/الشيخ-عبدالعزيز-السلمان/' title='الشيخ عبدالعزيز السلمان'>الشيخ عبدالعزيز السلمان</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180193/الرجاء-خطبة/' title='الرجاء (خطبة)'>الرجاء (خطبة)</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/16566/جمال-علي-يوسف-فياض/' title='جمال علي يوسف فياض'>جمال علي يوسف فياض</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180192/من-مائدة-السيرة-عام-الحزن/' title='من مائدة السيرة: عام الحزن'>من مائدة السيرة: عام الحزن</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/17787/عبدالرحمن-عبدالله-الشريف/' title='عبدالرحمن عبدالله الشريف'>عبدالرحمن عبدالله الشريف</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180191/تفسير-سورة-البلد/' title='تفسير سورة البلد'>تفسير سورة البلد</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/15395/أ.-د.-كامل-صبحي-صلاح/' title='أ. د. كامل صبحي صلاح'>أ. د. كامل صبحي صلاح</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180190/الأرواح-جنود-مجندة/' title='الأرواح جنود مجندة'>الأرواح جنود مجندة</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/17278/نورة-سليمان-عبدالله/' title='نورة سليمان عبدالله'>نورة سليمان عبدالله</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180189/الفرع-الثاني-ما-يصح-وما-لا-يصح-فيه-الصلاة-من-الأماكن/' title='الفرع الثاني: ما يصح وما لا يصح فيه الصلاة من الأماكن'>الفرع الثاني: ما يصح وما لا يصح فيه الصلاة من ...</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/16888/يوسف-بن-عبدالعزيز-بن-عبدالرحمن-السيف/' title='يوسف بن عبدالعزيز بن عبدالرحمن السيف'>يوسف بن عبدالعزيز بن عبدالرحمن السيف</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180187/خطبة-الخوف-من-الله/' title='خطبة: الخوف من الله'>خطبة: الخوف من الله</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/16566/جمال-علي-يوسف-فياض/' title='جمال علي يوسف فياض'>جمال علي يوسف فياض</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180186/الحسنات-والسيئات-خطبة/' title='الحسنات والسيئات (خطبة)'>الحسنات والسيئات (خطبة)</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/15650/د.-أيمن-منصور-أيوب-علي-بيفاري/' title='د. أيمن منصور أيوب علي بيفاري'>د. أيمن منصور أيوب علي بيفاري</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180185/هل-يجوز-شرعا-الاعتماد-على-تطبيقات-الذكاء-الاصطناعي-Artificial-intelligence-في-الحصول-على-الفتوى-الشرعية؟/' title='هل يجوز شرعا الاعتماد على تطبيقات الذكاء الاصطناعي (Artificial intelligence) في الحصول على الفتوى الشرعية؟'>هل يجوز شرعا الاعتماد على تطبيقات الذكاء ...</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/16396/عماد-حمدي-أحمد-الإبياري/' title='عماد حمدي أحمد الإبياري'>عماد حمدي أحمد الإبياري</a></span></div></li>
+<li class="count16"><span class="c_sharia colorIcon" style="padding:6px 2px 6px 2px;">&nbsp;</span><div> <a class="c_sharia_Hover" href='/sharia/0/180184/صور-التسامح-عند-الفاتحين-المسلمين/' title='صور التسامح عند الفاتحين المسلمين'>صور التسامح عند الفاتحين المسلمين</a> <br> <span class='latest-authorName smallFont'><a class=c_sharia_Hover href='/authors/view/sharia/4962/الشيخ-ندا-أبو-أحمد/' title='الشيخ ندا أبو أحمد'>الشيخ ندا أبو أحمد</a></span></div></li>
+</ul>
+
+        </div>
+        <script type="af0c21caa86c8ee6e4a4401b-text/javascript">$('#latest-additions-content').hide();</script>
+
+
+</div>
+											
+											
+    <div id="hdnld" style="display:none"><iframe src="//api.alukah.net/api/incvis/6849/?format=xml"></iframe></div>
+    <div id="ctl00_BreadCrumbPlaceHolder_pnlTynt">
+	
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+
+    if (document.location.protocol == 'http:' || document.location.protocol == 'https:') {
+        var Tynt = Tynt || []; Tynt.push('cCRCQAE8Or4iybadbi-bpO'); Tynt.i = { "ap": " رابط الموضوع:" };
+        (function () { var s = document.createElement('script'); s.async = "async"; s.type = "text/javascript"; s.src = '//tcr.tynt.com/ti.js'; var h = document.getElementsByTagName('script')[0]; h.parentNode.insertBefore(s, h); })();
+    }
+</script>
+        
+</div>
+ <div id="customLogoPlaceHolder"></div>
+   <div id="breadcrumb" align="left" class="smallerFont">
+    <span itemprop='publisher' itemscope='' itemtype='http://schema.org/Organization'> <a href='/' itemprop='name'>شبكة الألوكة</a> /</span><span itemscope='' itemtype='http://schema.org/Breadcrumb'><a href='/sharia/1/' itemprop='url'> <span itemprop='title'>آفاق الشريعة</span></a> /</span><span itemscope='' itemtype='http://schema.org/Breadcrumb'><a href='/sharia/1002/' itemprop='url'> <span itemprop='title'>دراسات شرعية</span></a> /</span><span itemscope='' itemtype='http://schema.org/Breadcrumb'><a href='/sharia/1045/' itemprop='url'> <span itemprop='title'>علوم قرآن</span></a></span>
+    </div>
+
+                                            
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+        function IncreaseStreamCount(BookFileID) {
+            var mylectureID = BookFileID;
+            $.ajax({
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                //url: "ContentDispatcher.aspx/IncreaseLecturesStreamCount",
+                url: "/Content/ContentDispatcher.aspx/IncreaseLecturesStreamCount",
+                //data: '{lectureID: ' + mylectureID + ' }',
+                //data: { "lectureID": mylectureID },
+                data: "{'lectureID': " + mylectureID + "}",
+                dataType: "json",
+                async: true,
+                success: function OnSuccess(response) {
+                    alert("OK");
+                },
+                failure: function (response) {
+                    alert(response.d);
+                }
+            });
+        }
+
+        //function IncreaseStreamCount(BookFileID) {
+        //    PageMethods.IncreaseLecturesStreamCount(BookFileID, onSucess, onError);
+        //    function onSucess(result) {
+        //        alert("Success");
+        //    }
+
+        //    function onError(error) {
+        //        alert("Error: " + error.get_message());
+        //    }
+        //}
+
+</script>
+
+    <script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+        function p(n1, n2) {
+            var n3 = n1;
+            n3 = n2 + "@" + n1;
+            document.write('البريد الاكتروني : <a class="smallerFont" href="mailto: ' + n3 + '" title="راسل الكاتب">' + n3 + '</a>');
+        }
+
+        $(document).ready(function() {
+            // Remove & Restore Tashkeel
+jQuery(".tashkeel-btn").click(function () {
+    if (jQuery(this).hasClass("actv")) {
+        jQuery(this).removeClass("actv");
+        jQuery("#ArticleContent").data('orginal_text', jQuery("#ArticleContent").html());
+        jQuery("#ArticleContent").html(jQuery("#ArticleContent").html().replace(/[\u0617-\u061A\u064B-\u0652]/g, ""));
+
+    } else {
+        jQuery(this).addClass("actv");
+        jQuery("#ArticleContent").html(jQuery("#ArticleContent").data('orginal_text'));
+    }
+    $(this).html($(this).text() === "تشكيل" ? "بدون تشكيل" : "تشكيل");
+    //$(this).toggleClass("btn-default").toggleClass("btn-outline-default");
+
+    //jQuery('[data-toggle="popover"]').popover();
+    //fixtips();
+});
+			// Reset Font Size
+            var originalFontSize = $('.enlarge').css('font-size');
+            $(".resetFont").click(function() {
+                $('.enlarge').css('font-size', originalFontSize);
+            });
+            // Increase Font Size
+            $(".increaseFont").click(function() {
+                var currentFontSize = $('.enlarge').css('font-size');
+                var currentFontSizeNum = parseFloat(currentFontSize, 10);
+                var originalFontSizeNum = parseFloat(originalFontSize, 10);
+                var newFontSize;
+                (currentFontSizeNum < originalFontSizeNum * 2) ? newFontSize = currentFontSizeNum * 1.2 : newFontSize = currentFontSizeNum;
+                $('.enlarge').css('font-size', newFontSize);
+                return false;
+            });
+            // Decrease Font Size
+            $(".decreaseFont").click(function() {
+                var currentFontSize = $('.enlarge').css('font-size');
+                var currentFontSizeNum = parseFloat(currentFontSize, 10);
+                var originalFontSizeNum = parseFloat(originalFontSize, 10);
+                var newFontSize;
+                (currentFontSizeNum > originalFontSizeNum / 2) ? newFontSize = currentFontSizeNum * 0.8 : newFontSize = currentFontSizeNum;
+                $('.enlarge').css('font-size', newFontSize);
+                return false;
+            });
+        });
+    </script>
+    
+    <style type="text/css">
+        
+        .InfoTable {
+    
+            border-collapse: collapse;
+            direction: rtl;
+            margin: 45px;
+            text-align: right;
+            width: 480px;
+        }
+
+        .InfoTable td {
+            font-family: tahoma;
+            font-size: 14px;
+            padding: 6px 8px;
+            text-height: 20px;
+        }
+
+        .InfoTable td a[href$=".pdf"] {            
+			background: url(/images/icons/pdfIcon16.png) no-repeat right top;
+            padding-right: 20px;
+        }
+
+
+    </style>
+
+<div id="print_area">
+    <div class="content-area" dir="rtl">
+	
+	<!-- <link rel="Stylesheet" type="text/css" media="print" href="http://www.alukah.net/css/alukah30/print-alukah.css" /> -->	
+	<link rel="Stylesheet" type="text/css" media="print" href="/css/alukah30/print-alukah.css" />
+	
+        <img src='/Images/Alukah30/QRcodes/6849.png' width='80px' height='80px' alt='علامة باركود' title = 'رابط الصفحة بصيغة باركود' style='float:left;top:0px;left:0px' /> 
+        <div class="content-info-wrapper" >
+            
+            <h1 dir="rtl" class="larger2Font">
+                <span id="ctl00_MainContentPlaceHolder_ctl00_lblTitle"><span itemscope='' itemtype='http://schema.org/Article'><span itemprop='name'>مفهوم النظر في القرآن الكريم</span></span></span></h1>
+            <div class="introduction smallFont" dir="rtl"> 
+                                      
+                <span id="ctl00_MainContentPlaceHolder_ctl00_lblAuthor"><div itemscope='' itemtype='http://schema.org/Person'><a itemprop='url' href='/authors/view/home/1769/د.-عبدالحكيم-درقاوي/' ><span itemprop='name' class='introductionlabel'>د. عبدالحكيم درقاوي</span></a></div></span>
+                
+
+                <br>
+                
+                
+                 <span id="ctl00_MainContentPlaceHolder_ctl00_lblSource" Class="introductionlabel"></span>
+                <!--<span id="ctl00_MainContentPlaceHolder_ctl00_lblAuthorArticles"></span><br>-->
+                <span id="ctl00_MainContentPlaceHolder_ctl00_lblRelatedArticles" Class="RelatedArticleslabel"><a href='#relatedContent'>مقالات متعلقة</a><br></span><br>
+                <span id="ctl00_MainContentPlaceHolder_ctl00_Label1" Class="introductionlabel BoldFont">تاريخ الإضافة:&nbsp;</span><span id="ctl00_MainContentPlaceHolder_ctl00_lblPublishDate"><span itemscope='' itemtype='http://schema.org/Article'><meta itemprop='datePublished' content='28/7/2009'>28/7/2009 ميلادي - 6/8/1430 هجري</span></span><br><br>
+                <span id="ctl00_MainContentPlaceHolder_ctl00_Label2" Class="introductionlabel BoldFont">الزيارات:&nbsp;</span><span id="ctl00_MainContentPlaceHolder_ctl00_lblVisitCount">161919</span>
+                
+                <br>
+                
+            </div>
+            <br>
+              
+			
+			<div class="LeftUserToolsBox">
+				
+
+<style type='text/css'>
+    /* الحاوية الرئيسية */
+    /*
+	.UserToolsBox {
+        display: flex;
+        align-items: center;
+        gap: 3px;
+        flex-wrap: wrap;
+        direction: rtl;
+    }
+	*/
+
+    /* توحيد خصائص جميع العناصر (أزرار، صور، إطارات) */
+    .UserToolsBox .user-tool-btn, 
+    .UserToolsBox img, 
+    .UserToolsBox a, 
+    .UserToolsBox iframe {
+        height: 26px !important; /* توحيد الارتفاع بناءً على زر فيسبوك  */
+        max-height: 26px !important;
+        display: inline-flex !important;
+        align-items: center;
+        margin: 0 !important;
+        padding: 0 !important;
+        vertical-align: middle !important; 
+        text-decoration: none;
+        border: none !important;
+    }
+
+    /* تخصيص إطار فيسبوك */
+    .UserToolsBox iframe {
+        width: 80px !important;
+        overflow: hidden !important;
+		position:relative;
+		top:3px;
+    }
+
+    /* إخفاء الزر البرمجي القديم إذا لم تكن هناك حاجة إليه */
+    .pdfGenerator { display: none; }
+</style>
+
+<div class="UserToolsBox">
+    
+    <iframe src="https://www.facebook.com/plugins/like.php?href=https%3a%2f%2fwww.alukah.net%2f%2fsharia%2f0%2f6849%2f%d9%85%d9%81%d9%87%d9%88%d9%85-%d8%a7%d9%84%d9%86%d8%b8%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%2f&send=false&layout=button_count&width=80&height=26&show_faces=false&action=like&colorscheme=light&font" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+    
+    
+    <input type="image" name="ctl00$MainContentPlaceHolder$ctl00$userTools1$genPDF" id="ctl00_MainContentPlaceHolder_ctl00_userTools1_genPDF" class="pdfGenerator align-center" src="/images/alukah30/icons/pdficon.png" style="border-width:0px;" /> 
+    
+    
+    <a class='user-tool-btn' href="javascript:printArticle('print_area');"><img src='/images/alukah30/icons/pdfPrint.png' style='width:80px;height:26px; border:0;' alt='حفظ بصيغة PDF' title='حفظ بصيغة PDF' /></a><a class='user-tool-btn' href='javascript:PrintPreview();'><img alt='نسخة ملائمة للطباعة' title='نسخة ملائمة للطباعة' src='/images/alukah30/icons/print.gif' style='width:24px;height:26px; border:0;' /></a><a class='user-tool-btn' href='javascript:SendToFriend();'><img alt='أرسل إلى صديق' title='أرسل إلى صديق' src='/images/alukah30/icons/sendmail.gif' style='width:24px;height:26px; border:0;' /></a><a class='user-tool-btn' href='#Comments'><img src='/images/alukah30/icons/comments.gif' style='width:22px;height:26px; border:0;' alt='تعليقات الزوار' title='تعليقات الزوار' /></a><a class='user-tool-btn' href='#PostComment'><img src='/images/alukah30/icons/comments_new.gif' style='width:20px;height:26px;border:0;' alt='أضف تعليقك' title='أضف تعليقك' /></a><a class='user-tool-btn' href='javascript:WatchComment(6849);'><img src='/images/alukah30/icons/user2.gif' style='width:21px;height:26px;border:0;' alt='متابعة التعليقات' title='متابعة التعليقات' /></a>
+    
+    <div class="clearer"></div>
+</div>
+
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript" src="/js/alukah-js.js"></script>
+			</div>			
+            
+        </div>
+        <div class="content-top">
+            
+                <div class='content-top-header' align='center' >
+                    <div align="right">
+                        
+                        <img src="/images/alukah30/icons/fulltext.png" alt="النص الكامل" title="النص الكامل"
+                             style="margin-left: 30px" width="111" height="26" />&nbsp;
+
+                        <img src="/images/alukah30/icons/enlarge_text.png"
+                             class="increaseFont" alt="تكبير الخط" title="تكبير الخط" 
+                            style="cursor: pointer; position: relative; top: -4px;" width="32" height="26" />
+
+                        <img src="/images/alukah30/icons/reset_text.png"
+                             class="resetFont" alt="الحجم الأصلي" title="الحجم الأصلي" 
+                            style="cursor: pointer; position: relative; top: -4px;" width="32" height="26" />
+
+                        <img src="/images/alukah30/icons/shrink_text.png" class="decreaseFont"
+                             alt="تصغير الخط" title="تصغير الخط" 
+                            style="cursor: pointer; position: relative; top: -4px" width="32" height="26"/>
+                    
+					<button type="button" class="tashkeel-btn change_tahshkeel_text_btn toggle_btn btn btn-outline-default btn-sm btn-rounded d-none d-lg-inline-flex d-xl-inline-flex d-xl-none mx-1 actv waves-effect waves-light">بدون تشكيل</button>
+					
+					
+
+<!-- <div style="overflow: hidden; position: relative; top: -30px;"> -->
+<div style="overflow: hidden; position: relative; top: -20px;">
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+
+
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_x"></a>
+
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_facebook_messenger"></a>
+
+    
+    <img src="/images/alukah30/icons/share.png" alt="شارك وانشر" title="شارك وانشر" style="left: -290px; padding-left: 4px; position: relative; top: 5px;" width="80" height="26" />
+</div>
+<div class="clearer"></div>
+
+</div>
+
+<script async src="https://static.addtoany.com/menu/page.js" type="af0c21caa86c8ee6e4a4401b-text/javascript"></script>
+<!-- AddToAny END -->
+					</div>
+                    
+                </div>
+             
+        </div>
+        <div class="content-windowBack largeFont">               
+            <div class="content-data enlarge largeFont" id="ArticleContent">
+                
+                
+                
+               
+                
+                <div itemscope='' itemtype='http://schema.org/Article'><span itemprop='articleBody'><h2 style="text-align: center;"><span style="color: #0000ff;">مفهوم النظر في القرآن الكريم</span></h2>
+<h2 style="text-align: center;"><span style="color: #800000;">الدراسة المصطلحية لألفاظ القرآن الكريم</span></h2>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">لا جرم أن الوحي - قرآناً وسنة - مجموعة من المفاهيم، إذا حُصِّلت حُصِّلت كليات الدين، وإذا لم تفقه لم يفقه الدين. ولا سبيل إلى التفقه في النص القرآني بغير دراسة مصطلحاته وألفاظه الكريمة المكونة له، فهي مفتاح وصول العقول إلى مراد الله عز وجل. فالمصطلح القرآني تتباين دلالاته بتباين امتداداته داخل النسيج المفهومي للنص القرآني، وتختلف معان مبانيه باختلاف القضايا التي طرح فيها هذا المصطلح.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">ويراد بالدراسة المصطلحية لألفاظ القرآن "تلك الدراسة المنهجية الجامعة التي تبين مفاهيم المصطلحات من نصوصها، وتبين المقومات الدلالية الذاتية للمصطلح عبر ضمائمه واشتقاقاته والقضايا الموصولة به"<a href="#_ftn1"  name="_ftnref1">[1]</a>.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: center;"><span style="color: #0000ff;">منهجية دراسة المصطلح القرآني</span></p>
+<p style="text-align: justify;"><span style="color: #008080;">ينحصر عمل الدارس للمصطلح القرآني في المراحل التالية:</span></p>
+<p style="text-align: justify;"><span style="color: #3366ff;">أ- مرحلة الإحصاء: وهي تشمل:</span></p>
+<p style="text-align: justify;"><span style="color: #008000;">•</span> إحصاء المصطلح كيفما ورد شكلاً وحجماً واشتقاقاً.</p>
+<p style="text-align: justify;"><span style="color: #008000;">•</span> إحصاء القضايا العامة المندرجة تحت مفهومه.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><span style="color: #3366ff;">ب- مرحلة الدراسة المعجمية: والغاية منها ما يلي:</span></p>
+<p style="text-align: justify;"><span style="color: #008000;">•</span> الوقوف على المعنى العام للجذور اللغوية للمصطلح.</p>
+<p style="text-align: justify;"><span style="color: #008000;">•</span> الوقوف على المعاني الخاصة لمشتقات هذا الجذر وذلك بالاعتماد على أمهات المعاجم.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><span style="color: #3366ff;">ج- مرحلة الدراسة النصية:</span></p>
+<p style="text-align: justify;">وهي المرحلة الحاسمة في البحث، تقوم على ضبط مفهوم المصطلح وذلك بعد تتبع دلالاته الجزئية في كل نص.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><span style="color: #008080;">ولدراسة المصطلح القرآني مقاصد تتجلى في:</span></p>
+<p style="text-align: justify;"><span style="color: #008000;">•</span> الاستجابة لأمر الله عز وجل في تدبر القرآن الكريم، قال تعالى: ﴿ <span style="color: green;">كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ مُبَارَكٌ لِّيَدَّبَّرُوا آيَاتِهِ وَلِيَتَذَكَّرَ أُوْلُوا الْأَلْبَابِ</span> ﴾ [ص: 29].</p>
+<p style="text-align: justify;"><span style="color: #008000;">• </span>ترسيخ المفهوم الصحيح ونفض الغبار عنه وكشف الغطاء عن معانيه لتحصيل المقاصد التابعة.</p>
+<p style="text-align: justify;"><span style="color: #008000;">•</span> تصحيح الأفهام الخاطئة.</p>
+<p style="text-align: justify;"><span style="color: #008000;">•</span> جريان هذه المصطلحات وتداولها على الأذان استماعاً والأفواه قولاً.</p>
+<p style="text-align: justify;"><span style="color: #008000;">•</span> العمل بمقتضياتها باللسان والقلب والجوارح.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: center;"><span style="color: #0000ff;">مفهوم النظر في القرآن الكريم</span></p>
+<p style="text-align: justify;">تدور مادة (نظر) في اللغة - كما جاء في تهذيب اللغة للأزهري- على نظر العين لقول الله جل وعز: ﴿ <span style="color: green;">وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ <span style="color: #ff0000;">* </span>إِلَى رَبِّهَا نَاظِرَةٌ</span> ﴾، الأولى بالضاد والأخيرة بالظاء. وقال أبو إسحاق: نَضِرتْ بنعيم الجنة والنَّظر إلى ربها.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">ونظر التفضل، يقول القائل للمؤمَّل يرجوه: إنما أنظر إلى الله ثم إليك، أي إنما أتوقع فضل الله ثم فضلك.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><span style="color: #008080;">ونظر الانتظار ومنه قول عمرو بن كلثوم:</span></p>
+<p style="text-align: center;">أبا هنْد فَلا تَعْجَلْ علينا <span style="font-size: medium; color: #800000;">♦♦♦</span> وأَنْظرنا نُخَبِّرْكَ اليقينا</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">ونظر الهيبة.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">(للتوسع أكثر أنظر تهذيب اللغة مادة نظر الجزء5 الصفحات 39-40-41).</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">وردت مادة (نظر) في القرآن الكريم في أربع ومائة -104- موضع، موزعة على خمس وأربعين -45- سورة باِشتقاقات مختلفة كما سأبين.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><span style="color: #3366ff;">1- نظر الرؤية:</span> قال الله عز وجل: ﴿ <span style="color: green;">وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ <span style="color: green;"><span style="color: #ff0000;">* </span></span>إِلَى رَبِّهَا نَاظِرَةٌ</span> ﴾ [القيامة: 22-23]. قال ابن عطية المحاربي: (حمل هذه الآية أهل السنة على أنها متضمنة رؤية المؤمنين لله تعالى، وهي رؤية دون محاذاة ولا تكييف ولا تحديد كما هو معلوم، موجود لا يشبه الموجودات كذلك هو لا يشبه المرئيات في شيء، فإنه ليس كمثله شيء لا إله إلا هو)<a href="#_ftn2"  name="_ftnref2">[2]</a>، وقد ثبتت رؤية المؤمنين لله عز وجل في الدار الآخرة في الأحاديث الصحاح، من طرق متواترة عند علماء الحديث، لحديث أبي سعيد وأبي هريرة: (أن أناساً قالوا: يا رسول الله، هل نرى ربنا يوم القيامة؟ فقال: هل تُضَارُّون في رؤية الشمس والقمر ليس دونهما سَحَاب؟ قالوا: لا. قال: فإنكم تَرَون ربكم كذلك)<a href="#_ftn3"  name="_ftnref3">[3]</a>.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><span style="color: #3366ff;">2- نظر الانتظار:</span> قال تعالى: ﴿ <span style="color: green;">مَا يَنْظُرُونَ إِلَّا صَيْحَةً وَاحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ</span> ﴾ [يس: 49]. يخبر تعالى عن تكذيب الكفار لقيام الساعة في قولهم للمؤمنين: ﴿ <span style="color: green;">مَتَى هَذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِين</span> ﴾ قال ابن كثير: (قال الله تعالى: ما ينتظرون إلا صيحة واحدة، وهذه - والله أعلم - نفخة الفزع)<a href="#_ftn4"  name="_ftnref4">[4]</a>.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><span style="color: #3366ff;">3- نظر الاعتبار والتأمل:</span> قال عز وجل: ﴿ <span style="color: green;">قَدْ خَلَتْ مِنْ قَبْلِكُمْ سُنَنٌ فَسِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ</span> ﴾ [آل عمران: 137].</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">يقول تعالى مخاطباً عباده المؤمنين الذين أصيبوا <a class="blueLink" href="/sharia/0/1555" target="_blank">يوم أحد</a>: ﴿ <span style="color: green;">قَدْ خَلَتْ مِنْ قَبْلِكُمْ سُنَنٌ</span> ﴾ أي قد مر هذا مع من سبقكم من أتباع الأنبياء، ثم كانت العاقبة لهم ودارت الدوائر على الكافرين، ولهذا قال: ﴿ <span style="color: green;">فَسِيرُوا فِي الأرْضِ فَانْظُروا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ</span> ﴾ قال ابن عاشور: (وأريد النظر في آثارهم ليحصل منه تحقّق ما بلغ من أخبارهم، أو السؤال عن أسباب هلاكهم، وكيف كانوا أولي قوة، وكيف طغوا على المستضعفين، فاستأصلهم الله أو لتطمئنّ نفوس المؤمنين بمشاهدة المخبر عنهم مشاهدةَ عيان، فإنّ للعيان بديع معنى لأن بَلَغتهم أخبار المكذّبين، ومن المكذّبين عاد وثمود وأصحاب الأيكة وأصحاب الرسّ، وكلّهم في بلاد العرب يستطيعون مشاهدة آثارهم، وقد شهدها كثير منهم في أسفارهم)<a href="#_ftn5"  name="_ftnref5">[5]</a>.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">ومنه قوله تعالى: ﴿ <span style="color: green;">فَانْظُرْ إِلَى آَثَارِ رَحْمَةِ اللَّهِ كَيْفَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ ذَلِكَ لَمُحْيِي الْمَوْتَى وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ</span> ﴾ [الروم: 50].</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">وقوله تعالى أيضاً: ﴿ <span style="color: green;">أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ <span style="color: #ff0000;">*</span> وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ <span style="color: green;"><span style="color: #ff0000;">* </span></span>وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ <span style="color: green;"><span style="color: #ff0000;">* </span></span>وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ</span> ﴾ [الغاشية: 17-20].</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">هذه المشاهد معروضة لنظر الإنسان حيثما كان - السماء والأرض والجبال والحيوان - ليتأمل فيها ويمعن فيها النظر، ليصل إلى معرفة الله جل جلاله وقدرته.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><span style="color: #3366ff;">4- نظر التعطف:</span> ويراد بالنظر في القرآن الكريم أيضاً، العطف والرحمة والشفقة، لقوله عز وجل: ﴿ <span style="color: green;">إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلًا أُولَئِكَ لَا خَلَاقَ لَهُمْ فِي الْآَخِرَةِ وَلَا يُكَلِّمُهُمُ اللَّهُ وَلَا يَنْظُرُ إِلَيْهِمْ يَوْمَ الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</span> ﴾ [آل عمران: 77].</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">أي أن الذين يفعلون ذلك - من أهل الكتاب بتركهم عهد الله الذي عهد إليهم - لا حظ لهم في خيرات الآخرة، ولا نصيب لهم من نعيم الجنة ولا يعطف عليهم بخير، مقتًا من الله عليهم. قال <a class="blueLink" href="/culture/0/93306" target="_blank">ابن كثير</a>: (لا يكلمهم كلام لطف بهم، ولا ينظر إليهم بعين الرحمة)<a href="#_ftn6"  name="_ftnref6">[6]</a>.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">ومنه ما أخرجه الامام مسلم من طريق أبي هريرة رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: (ثلاثة لا يكلمهم الله يوم القيامة ولا يزكيهم ولا ينظر إليهم ولهم عذاب أليم شيخ زان وملك كذاب وعائل مستكبر)<a href="#_ftn7"  name="_ftnref7">[7]</a>. قال الإمام النووي في شرحه على مسلم: (لَا يَنْظُر إِلَيْهِمْ أي: يعرض عنهم. ونظره - سبحانه وتعالى - لعباده - رحمته ولطفه بهم)<a href="#_ftn8"  name="_ftnref8">[8]</a>.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><span style="color: #3366ff;">5- نظر المهلة والتأجيل: </span>قال تعالى: ﴿ <span style="color: green;">إِنَّ الَّذِينَ كَفَرُوا وَمَاتُوا وَهُمْ كُفَّارٌ أُولَئِكَ عَلَيْهِمْ لَعْنَةُ اللَّهِ وَالْمَلَائِكَةِ وَالنَّاسِ أَجْمَعِينَ <span style="color: #ff0000;">*</span> خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْظَرُونَ</span> ﴾ [البقرة: 162-163].</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">وقد فسر الإمام البغوي هذه الآية بقوله: (لا يمهلون ولا يؤجلون وقال أبو العالية: لا ينظرون فيعتذروا كقوله تعالى ﴿ <span style="color: green;">وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ</span> ﴾ [المرسلات:36])<a href="#_ftn9"  name="_ftnref9">[9]</a>.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">وروي عن <a class="blueLink" href="/sharia/0/102231" target="_blank">الألوسي</a> قوله: (الإنظار بمعنى التأخير أي لا يمهلون عن العذاب ولا يؤخرون عنه ساعة)<a href="#_ftn10"  name="_ftnref10">[10]</a>.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">ومثله قوله تعالى في سورة البقرة: ﴿ <span style="color: green;">وَإِنْ كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَى مَيْسَرَةٍ وَأَنْ تَصَدَّقُوا خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ</span> ﴾ [الآية:280].</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">وشاهد إنه إذا تعذر على غريم سداد ما عليه من الدين فالأصل تأجيل الدين عليه إلى ميسرة، قال الإمام الشوكاني: (لما حَكَم سبحانه لأهل الربا برءوس أموالهم عند الواجدين للمال حكم في ذوي العسرة بالنظرة إلى يسار، والعسرة: ضيق الحال من جهة عدم المال، ومنه جيش العسرة. والنظرة: التأخير)<a href="#_ftn11"  name="_ftnref11">[11]</a>.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">ومنه قوله تعالى في سورة الشعراء: ﴿ <span style="color: green;">فَيَقُولُوا هَلْ نَحْنُ مُنْظَرُونَ</span> ﴾ [الآية: 203].</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><span style="color: #3366ff;">6- نظر الخوف والرعب والمذلة: </span>قال جل وعز: ﴿ <span style="color: green;">أَشِحَّةً عَلَيْكُمْ فَإِذَا جَاءَ الْخَوْفُ رَأَيْتَهُمْ يَنْظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشَى عَلَيْهِ مِنَ الْمَوْتِ فَإِذَا ذَهَبَ الْخَوْفُ سَلَقُوكُمْ بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى الْخَيْرِ أُولَئِكَ لَمْ يُؤْمِنُوا فَأَحْبَطَ اللَّهُ أَعْمَالَهُمْ وَكَانَ ذَلِكَ عَلَى اللَّهِ يَسِيرًا</span> ﴾ [الأحزاب: 79].</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">هذه الآية نزلت في شأن المنافقين، روى الإمام السيوطي عن ابن أبي حاتم عن قتادة رضي الله عنه في قوله: (﴿ <span style="color: green;">فَإِذَا جَاءَ الْخَوْفُ رَأَيْتَهُمْ يَنْظُرُونَ إِلَيْكَ</span> ﴾ قال: إذا حضروا القتال والعدو ﴿ <span style="color: green;">رَأَيْتَهُمْ يَنْظُرُونَ إِلَيْكَ</span> ﴾ أجبن قوم، وأخذله للحق ﴿ <span style="color: green;">تَدُورُ أَعْيُنُهُمْ</span> ﴾ قال: من الخوف)<a href="#_ftn12"  name="_ftnref12">[12]</a>.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">ومنه قوله تعالى: ﴿ <span style="color: green;">وَتَرَاهُمْ يُعْرَضُونَ عَلَيْهَا خَاشِعِينَ مِنَ الذُّلِّ يَنْظُرُونَ مِنْ طَرْفٍ خَفِيٍّ وَقَالَ الَّذِينَ آَمَنُوا إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا إِنَّ الظَّالِمِينَ فِي عَذَابٍ مُقِيمٍ </span> ﴾ [الشورى: 45].</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">والشاهد أن الظالمين أذلهم الخوف الذي نزل بهم وخشعوا له. فطفق ينظر هؤلاء الظالمون إلى النار حين يعرضون عليها من طرف خفي ذليل. وهذا ما خلص إليه الإمام الطبري - بعد سرده لجملة من الروايات - بقوله: (والصواب من القول في ذلك، القول الذي ذكرناه عن ابن عباس ومجاهد، وهو أن معناه: أنهم ينظرون إلى النار من طرف ذليل، وصفه الله جلّ ثناؤه بالخفاء للذلة التي قد ركبتهم، حتى كادت أعينهم أن تغور، فتذهب)<a href="#_ftn13"  name="_ftnref13">[13]</a>.</p>
+<div><br /> 
+<hr size="1" />
+<div>
+<p><a href="#_ftnref1"  name="_ftn1">[1]</a> مفهوم التأويل في القرآن الكريم الحديث الشريف،فريدة زمرد، معهد الدراسات المصطلحية ،كلية الآداب و العلوم الإنسانية ظهر المهراز، فاس.</p>
+</div>
+<div>
+<p><a href="#_ftnref2"  name="_ftn2">[2]</a> المحرر الوجيز 6/458.</p>
+</div>
+<div>
+<p><a href="#_ftnref3"  name="_ftn3">[3]</a> صحيح البخاري، كتاب تفسير القرآن، باب قوله إن الله لا يظلم مثقال ذرة.</p>
+</div>
+<div>
+<p><a href="#_ftnref4"  name="_ftn4">[4]</a> تفسير ابن كثير 6/581.</p>
+</div>
+<div>
+<p><a href="#_ftnref5"  name="_ftn5">[5]</a> التحرير و التنوير 3/221.</p>
+</div>
+<div>
+<p><a href="#_ftnref6"  name="_ftn6">[6]</a> تفسير ابن كثير 2/62.</p>
+</div>
+<div>
+<p><a href="#_ftnref7"  name="_ftn7">[7]</a> صحيح مسلم، كتاب الإيمان، باب بيان الثلاثة الذين لا يكلمهم الله يوم القيامة.</p>
+</div>
+<div>
+<p><a href="#_ftnref8"  name="_ftn8">[8]</a> شرح النووي على مسلم 1/217.</p>
+</div>
+<div>
+<p><a href="#_ftnref9"  name="_ftn9">[9]</a> معالم التنزيل 2/176.</p>
+</div>
+<div>
+<p><a href="#_ftnref10"  name="_ftn10">[10]</a> روح المعاني في تفسير القرآن العظيم و السبع المثاني 2/80.</p>
+</div>
+<div>
+<p><a href="#_ftnref11"  name="_ftn11">[11]</a> فتح القدير 1/404.</p>
+</div>
+<div>
+<p><a href="#_ftnref12"  name="_ftn12">[12]</a> الدر المنثور في التأويل بالمنثور 8/138.</p>
+</div>
+<div>
+<p><a href="#_ftnref13"  name="_ftn13">[13]</a> جامع البيان في تأويل القرآن 21/554.</p>
+</div>
+</div></span></div>
+               
+                
+                
+                
+                <br>
+				
+				
+            </div>
+        </div><br><div class="content-keywords"></div>
+    </div>
+</div>  
+<hr>		
+<div id="contentComponentsWrapper">
+    <br>
+	
+
+<style type='text/css'>
+    /* الحاوية الرئيسية */
+    /*
+	.UserToolsBox {
+        display: flex;
+        align-items: center;
+        gap: 3px;
+        flex-wrap: wrap;
+        direction: rtl;
+    }
+	*/
+
+    /* توحيد خصائص جميع العناصر (أزرار، صور، إطارات) */
+    .UserToolsBox .user-tool-btn, 
+    .UserToolsBox img, 
+    .UserToolsBox a, 
+    .UserToolsBox iframe {
+        height: 26px !important; /* توحيد الارتفاع بناءً على زر فيسبوك  */
+        max-height: 26px !important;
+        display: inline-flex !important;
+        align-items: center;
+        margin: 0 !important;
+        padding: 0 !important;
+        vertical-align: middle !important; 
+        text-decoration: none;
+        border: none !important;
+    }
+
+    /* تخصيص إطار فيسبوك */
+    .UserToolsBox iframe {
+        width: 80px !important;
+        overflow: hidden !important;
+		position:relative;
+		top:3px;
+    }
+
+    /* إخفاء الزر البرمجي القديم إذا لم تكن هناك حاجة إليه */
+    .pdfGenerator { display: none; }
+</style>
+
+<div class="UserToolsBox">
+    
+    <iframe src="https://www.facebook.com/plugins/like.php?href=https%3a%2f%2fwww.alukah.net%2f%2fsharia%2f0%2f6849%2f%d9%85%d9%81%d9%87%d9%88%d9%85-%d8%a7%d9%84%d9%86%d8%b8%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%2f&send=false&layout=button_count&width=80&height=26&show_faces=false&action=like&colorscheme=light&font" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+    
+    
+    <input type="image" name="ctl00$MainContentPlaceHolder$ctl00$userTools2$genPDF" id="ctl00_MainContentPlaceHolder_ctl00_userTools2_genPDF" class="pdfGenerator align-center" src="/images/alukah30/icons/pdficon.png" style="border-width:0px;" /> 
+    
+    
+    <a class='user-tool-btn' href="javascript:printArticle('print_area');"><img src='/images/alukah30/icons/pdfPrint.png' style='width:80px;height:26px; border:0;' alt='حفظ بصيغة PDF' title='حفظ بصيغة PDF' /></a><a class='user-tool-btn' href='javascript:PrintPreview();'><img alt='نسخة ملائمة للطباعة' title='نسخة ملائمة للطباعة' src='/images/alukah30/icons/print.gif' style='width:24px;height:26px; border:0;' /></a><a class='user-tool-btn' href='javascript:SendToFriend();'><img alt='أرسل إلى صديق' title='أرسل إلى صديق' src='/images/alukah30/icons/sendmail.gif' style='width:24px;height:26px; border:0;' /></a><a class='user-tool-btn' href='#Comments'><img src='/images/alukah30/icons/comments.gif' style='width:22px;height:26px; border:0;' alt='تعليقات الزوار' title='تعليقات الزوار' /></a><a class='user-tool-btn' href='#PostComment'><img src='/images/alukah30/icons/comments_new.gif' style='width:20px;height:26px;border:0;' alt='أضف تعليقك' title='أضف تعليقك' /></a><a class='user-tool-btn' href='javascript:WatchComment(6849);'><img src='/images/alukah30/icons/user2.gif' style='width:21px;height:26px;border:0;' alt='متابعة التعليقات' title='متابعة التعليقات' /></a>
+    
+    <div class="clearer"></div>
+</div>
+
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript" src="/js/alukah-js.js"></script>
+	
+	<br />
+	
+
+<!-- <div style="overflow: hidden; position: relative; top: -30px;"> -->
+<div style="overflow: hidden; position: relative; top: -20px;">
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+
+
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_x"></a>
+
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_linkedin"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_facebook_messenger"></a>
+
+    
+    <img src="/images/alukah30/icons/share.png" alt="شارك وانشر" title="شارك وانشر" style="left: -290px; padding-left: 4px; position: relative; top: 5px;" width="80" height="26" />
+</div>
+<div class="clearer"></div>
+
+</div>
+
+<script async src="https://static.addtoany.com/menu/page.js" type="af0c21caa86c8ee6e4a4401b-text/javascript"></script>
+<!-- AddToAny END -->
+	
+	<br>
+
+    
+<div class="related-content">
+    
+            <h2 style="color: Black;" dir="rtl" class="normalFont">
+                <a name="relatedContent">
+                    <img src="/images/alukah30/icons/relatedarticles.png" width="112" height="17" alt="مقالات ذات صلة" title="مقالات ذات صلة" /></a></h2>
+            <ul class="related-list smallFont" dir="rtl">
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_relatedContent_rptRelatedArticles_ctl01_lnkContent" href="/sharia/0/178/%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%a8%d8%b7-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%88%d9%81%d8%a7%d8%a6%d8%af%d8%aa%d9%87-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9/">الترابط في القرآن الكريم وفائدته في الحياة</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_relatedContent_rptRelatedArticles_ctl02_lnkContent" href="/sharia/0/2911/%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b3%d9%85%d8%b9-%d9%88%d8%a7%d9%84%d8%a8%d8%b5%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85/">بين السمع والبصر في القرآن الكريم  </a>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_relatedContent_rptRelatedArticles_ctl03_lnkContent" href="/sharia/0/4218/%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d9%8a%d9%85%d8%a7%d9%86-%d8%a8%d8%a7%d9%84%d9%86%d8%b8%d8%b1-%d9%81%d9%8a-%d8%a2%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%84%d9%87-%d8%aa%d8%b9%d8%a7%d9%84%d9%89/">تنمية الإيمان بالنظر في آيات الله تعالى</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_relatedContent_rptRelatedArticles_ctl04_lnkContent" href="/sharia/0/7445/%d8%a3%d9%88%d8%b5%d8%a7%d9%81-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-1/">أوصاف القرآن الكريم (1)</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_relatedContent_rptRelatedArticles_ctl05_lnkContent" href="/sharia/0/9223/%d9%85%d9%81%d9%87%d9%88%d9%85-%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85/">مفهوم التغيير في القرآن الكريم</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_relatedContent_rptRelatedArticles_ctl06_lnkContent" href="/sharia/0/47427/%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%83%d8%aa%d8%a7%d8%a8%d9%86%d8%a7-%d9%88%d9%85%d9%86%d9%87%d8%ac-%d8%ad%d9%8a%d8%a7%d8%aa%d9%86%d8%a7-%d8%af%d9%8a%d9%86%d9%8b%d8%a7-%d9%88%d8%af%d9%86%d9%8a%d8%a7/">القرآن الكريم كتابنا ومنهج حياتنا دينًا ودنيا</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_relatedContent_rptRelatedArticles_ctl07_lnkContent" href="/culture/0/54825/%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d9%88%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b5%d8%b1%d8%a9/">القرآن والهوية المعاصرة</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_relatedContent_rptRelatedArticles_ctl08_lnkContent" href="/sharia/0/67185/%d8%a7%d9%84%d9%81%d8%aa%d9%86%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86/">الفتنة في القرآن</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_relatedContent_rptRelatedArticles_ctl09_lnkContent" href="/sharia/0/95586/%d9%85%d8%b1%d8%a7%d8%af%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d9%84-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85/">مرادفات العقل في القرآن الكريم</a>
+            </li>
+        
+            </ul>
+        
+</div>
+<br>
+    
+<div class="related-content">
+
+            <h2 style="color: Black;" dir="rtl" class="normalFont">
+                <a name="suggestedContent">
+                    <img src="/images/alukah30/icons/suggestedcontent.png" width="83" height="20" alt="مختارات من الشبكة" title="مختارات من الشبكة" /></a></h2>
+            <ul class="related-list smallFont" dir="rtl">
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl01_lnkContent" href="/sharia/0/177654/%d9%85%d9%81%d9%87%d9%88%d9%85-%d8%a7%d9%84%d8%b4%d8%b1%d9%83-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85-%d9%82%d8%b1%d8%a7%d8%a1%d8%a9-%d8%aa%d9%81%d8%b3%d9%8a%d8%b1%d9%8a%d8%a9-%d9%85%d9%88%d8%b6%d9%88%d8%b9%d9%8a%d8%a9/">مفهوم الشرك في القرآن الكريم: قراءة تفسيرية موضوعية</a><span id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl01_lblCategoryWithType" class="blueInfo smallerFont">(مقالة - آفاق الشريعة)</span>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl02_lnkContent" href="/sharia/0/167257/%d8%ba%d9%86%d9%89-%d8%a7%d9%84%d9%86%d9%81%d8%b3-%d8%ae%d8%b7%d8%a8%d8%a9/">غنى النفس (خطبة)</a><span id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl02_lblCategoryWithType" class="blueInfo smallerFont">(مقالة - آفاق الشريعة)</span>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl03_lnkContent" href="/sharia/0/180150/-%d9%85%d9%81%d9%87%d9%88%d9%85-%d8%a7%d9%84%d8%ad%d9%83%d9%85%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%af%d8%b9%d9%88%d8%a9-%d8%b9%d9%86%d8%af-%d8%a7%d9%84%d8%b4%d9%8a%d8%ae-%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1-%d8%b5%d8%a7%d9%84%d8%ad-%d8%a8%d9%86-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d8%a8%d9%86-%d8%ad%d9%85%d9%8a%d8%af/">(مفهوم الحكمة في الدعوة) عند الشيخ الدكتور صالح بن عبد الله بن حميد</a><span id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl03_lblCategoryWithType" class="blueInfo smallerFont">(مقالة - آفاق الشريعة)</span>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl04_lnkContent" href="/spotlight/0/180064/%d9%85%d9%81%d9%87%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d8%af%d9%85%d8%a7%d9%86/">مفهوم الإدمان</a><span id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl04_lblCategoryWithType" class="blueInfo smallerFont">(مقالة - ملفات خاصة)</span>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl05_lnkContent" href="/literature_language/0/179317/%d9%85%d9%81%d9%87%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d8%a8%d8%af%d8%a7%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/">مفهوم "الإبداع" في الترجمة</a><span id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl05_lblCategoryWithType" class="blueInfo smallerFont">(مقالة - حضارة الكلمة)</span>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl06_lnkContent" href="/library/0/179236/%d9%85%d9%81%d9%87%d9%88%d9%85-%d9%85%d9%82%d8%a7%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa%d9%87-%d8%b9%d9%84%d9%89-%d8%b1%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%b3%d8%aa%d8%a9-PDF/">مفهوم مقارب الحديث وتطبيقاته على رجال الكتب الستة (PDF)</a><span id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl06_lblCategoryWithType" class="blueInfo smallerFont">(كتاب - مكتبة الألوكة)</span>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl07_lnkContent" href="/library/0/178805/%d9%85%d9%81%d9%87%d9%88%d9%85-%d8%a7%d9%84%d9%84%d9%82%d8%a8-%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a3%d8%b5%d9%88%d9%84%d9%8a%d8%a9-PDF/">مفهوم اللقب: دراسة أصولية (PDF)</a><span id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl07_lblCategoryWithType" class="blueInfo smallerFont">(كتاب - مكتبة الألوكة)</span>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl08_lnkContent" href="/sharia/0/178207/%d9%85%d9%81%d9%87%d9%88%d9%85-%d8%a7%d9%84%d9%8a%d8%b3%d8%b1/">مفهوم اليسر</a><span id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl08_lblCategoryWithType" class="blueInfo smallerFont">(مقالة - آفاق الشريعة)</span>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl09_lnkContent" href="/culture/0/177915/%d9%85%d9%81%d9%87%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%82%d8%a9%d8%8c-%d9%81%d9%8a-%d9%85%d9%8a%d8%b2%d8%a7%d9%86-%d8%a7%d9%84%d9%84%d9%87-%d9%88%d8%a7%d9%84%d8%ae%d9%84%d9%82/">مفهوم الإنسانية الحقة، في ميزان الله والخلق</a><span id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl09_lblCategoryWithType" class="blueInfo smallerFont">(مقالة - ثقافة ومعرفة)</span>
+            </li>
+        
+            <li>
+                <a id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl10_lnkContent" href="/web/dr.foad/0/177792/%d9%85%d9%81%d9%87%d9%88%d9%85-%d8%a7%d9%84%d9%85%d9%86%d9%87%d8%ac-%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a-%d9%85%d9%86-%d9%85%d9%86%d8%b8%d9%88%d8%b1-%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a/">مفهوم المنهج الدراسي من منظور إسلامي</a><span id="ctl00_MainContentPlaceHolder_ctl00_suggestedContent_rptSuggestedContent_ctl10_lblCategoryWithType" class="blueInfo smallerFont">(كتاب - موقع أ. د. فؤاد محمد موسى)</span>
+            </li>
+        
+            </ul>
+        
+    </div>
+    <p dir="rtl">
+        &nbsp;</p>
+    <br>
+    
+<style type="text/css">
+@import '/css/alukah30/comments.css';
+</style>
+
+
+<input type="hidden" name="ctl00$MainContentPlaceHolder$ctl00$Comments$hdnSortDir" id="ctl00_MainContentPlaceHolder_ctl00_Comments_hdnSortDir" value="-1" />
+
+<div class="content-windowBack largeFont" style="margin-right:4px;"><div class='content-top-header'><a name="Comments"><img src="/images/alukah30/icons/visitorscomments.png" alt="تعليقات الزوار" /></a></div><div id="btnSortPlaceHolder"></div><script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+                                                                                                                                                                                                                                                      $(document).ready(function () { $("#btnSortPlaceHolder").append($(".btnSortHolder")); $(".btnSortHolder").show(); });
+</script>
+<div class='comment commentBox smallFont blueCmnt' dir="rtl">
+<div class="corner TL"></div><div class="corner TR"></div><div class="corner BL"></div><div class="corner BR"></div>
+<span class='comment-title'>3- معرفة</span><br><span class="commentName">سعيد</span>
+<span class="commentInfo">
+ - العراق
+<span class="smallerFont commentDate">10/01/2015 08:54 PM</span></span><br>
+<p>تحية طيبة وفق الله الباحث الدكتور الفاضل عبد الحكيم البرقاوي أرجو إفادتي إن كان البحث جزء من دراسة أوسع من الملخص المنشور لأهمية مثل هذه البحو ث شكرا مرة أخرى لمثل هذه المشاركة القيمة للدكتور البرقاوي والسلام</p>
+</div>
+
+
+<div class='comment commentBox smallFont blueCmnt' dir="rtl">
+<div class="corner TL"></div><div class="corner TR"></div><div class="corner BL"></div><div class="corner BR"></div>
+<span class='comment-title'>2- شكر</span><br><span class="commentName">حامد الحامد</span>
+<span class="commentInfo">
+ - السعودية
+<span class="smallerFont commentDate">16/01/2010 02:54 PM</span></span><br>
+حفظكم الله<br />
+شكراً لكم
+</div>
+
+
+<div class='comment commentBox smallFont blueCmnt' dir="rtl">
+<div class="corner TL"></div><div class="corner TR"></div><div class="corner BL"></div><div class="corner BR"></div>
+<span class='comment-title'>1- القرآن الكرم</span><br><span class="commentName">محمد</span>
+<span class="commentInfo">
+ - السعودية
+<span class="smallerFont commentDate">16/01/2010 02:51 PM</span></span><br>
+شكراً لكم
+</div>
+
+<div class="commentsPager">
+<span id="ctl00_MainContentPlaceHolder_ctl00_Comments_lsComments_dpComments"><span class="commentsCurrentPage">1</span>&nbsp;</span></div></div>
+
+
+<br>
+ 
+
+
+    <a name="PostComment"></a>
+    <div class="comment smallFont">
+    
+    <div id="ctl00_MainContentPlaceHolder_ctl00_Comments_pnlComments" onkeypress="if (!window.__cfRLUnblockHandlers) return false; javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_MainContentPlaceHolder_ctl00_Comments_btnAddComment&#39;)" data-cf-modified-af0c21caa86c8ee6e4a4401b-="">
+	
+	<script src='https://www.google.com/recaptcha/api.js?hl=ar' type="af0c21caa86c8ee6e4a4401b-text/javascript"></script>
+	<script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+		var isRecaptchaDone = false;
+		function recaptchaCallback() {
+			isRecaptchaDone = true;
+		};
+
+	</script>
+    <script type="af0c21caa86c8ee6e4a4401b-text/javascript" language="javascript">
+        function ValidateInput() {
+            var txtName = document.getElementById('ctl00_MainContentPlaceHolder_ctl00_Comments_txtName');
+            if (txtName.value == '') {
+                txtName.focus();
+                alert('فضلاً أدخل الاسم');
+                return false;
+            }
+            var txtEmail = document.getElementById('ctl00_MainContentPlaceHolder_ctl00_Comments_txtEmail');
+            if (txtEmail.value != '') {
+                if (!ValidateEmail(txtEmail.value, false)) {
+                    txtEmail.focus();
+                    alert('البريد المدخل غير صالح');
+                    return false;
+                }
+
+            }
+            else {
+                alert('عذراً ولكن عليك إدخال بريدك الالكتروني');
+                return false;
+            }
+            var txtTitle = document.getElementById('ctl00_MainContentPlaceHolder_ctl00_Comments_txtTitle');
+            if (txtTitle.value == '') {
+                txtTitle.focus();
+                alert('فضلاً أدخل عنوان التعليق');
+                return false;
+            }
+			
+			if (!isRecaptchaDone) {
+                txtTitle.focus();
+                alert('الرجاء الضغط على أنا لست برنامج روبوت');
+                return false;
+            }
+			
+            return true;
+        }
+    </script>
+     <table border="0" cellpadding="3" cellspacing="3">
+            <tr>
+                <td style="width: 100px;">
+                    <span style="text-decoration: underline;">أضف تعليقك:</span>
+                </td>
+                <td>
+                    <span class="message-success smaller2Font"><input id="ctl00_MainContentPlaceHolder_ctl00_Comments_chkSubscribe" type="checkbox" name="ctl00$MainContentPlaceHolder$ctl00$Comments$chkSubscribe" checked="checked" /><label for="ctl00_MainContentPlaceHolder_ctl00_Comments_chkSubscribe"> إعلام عبر البريد الإلكتروني عند نشر تعليق جديد </label></span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    الاسم
+                </td>
+                <td>
+                    <input name="ctl00$MainContentPlaceHolder$ctl00$Comments$txtName" type="text" id="ctl00_MainContentPlaceHolder_ctl00_Comments_txtName" class="textbox" style="width:200px;" />&nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    البريد الإلكتروني
+                </td>
+                <td>
+                    <input name="ctl00$MainContentPlaceHolder$ctl00$Comments$txtEmail" type="text" id="ctl00_MainContentPlaceHolder_ctl00_Comments_txtEmail" class="textbox" style="width:200px;" />
+                    (لن يتم عرضه للزوار)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    الدولة
+                </td>
+                <td>
+                    <input name="ctl00$MainContentPlaceHolder$ctl00$Comments$txtCountry" type="text" id="ctl00_MainContentPlaceHolder_ctl00_Comments_txtCountry" class="textbox" style="width:200px;" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    عنوان التعليق
+                </td>
+                <td>
+                    <input name="ctl00$MainContentPlaceHolder$ctl00$Comments$txtTitle" type="text" id="ctl00_MainContentPlaceHolder_ctl00_Comments_txtTitle" class="textbox" style="width:200px;" />
+                </td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    نص التعليق
+                </td>
+                <td>
+                    <textarea name="ctl00$MainContentPlaceHolder$ctl00$Comments$txtBody" rows="2" cols="20" id="ctl00_MainContentPlaceHolder_ctl00_Comments_txtBody" class="textbox" style="height:250px;width:400px;">
+</textarea>
+                    
+                       <div class="Captcha smallFont" >
+                       <p>رجاء، اكتب كلمة : تعليق في المربع التالي</p>
+                       <input name="ctl00$MainContentPlaceHolder$ctl00$Comments$txtCaptcha" type="text" id="ctl00_MainContentPlaceHolder_ctl00_Comments_txtCaptcha" />
+                       </div>
+                      <script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+                          $(".Captcha").hide();
+                      </script>
+                    <input type="text" name="info" style="visibility: hidden;" />
+                </td>
+            </tr>
+			<tr>
+				<td colspan="2" dir="rtl">
+					<div class="g-recaptcha" data-callback="recaptchaCallback" data-sitekey="6LeuOBAUAAAAAMoN1664t1n2LceI7GtiK_4talma"></div>
+					
+				</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                </td>
+                <td>
+                   
+                    <span class="StyledButton Black"><input type="submit" name="ctl00$MainContentPlaceHolder$ctl00$Comments$btnAddComment" value="أرسل" onclick="if (!window.__cfRLUnblockHandlers) return false; return ValidateInput();" id="ctl00_MainContentPlaceHolder_ctl00_Comments_btnAddComment" class="button" style="width:60px;" data-cf-modified-af0c21caa86c8ee6e4a4401b-="" /></span>
+                </td>
+            </tr>
+        </table>
+        
+</div>
+    
+       
+    </div>
+
+    <script type="af0c21caa86c8ee6e4a4401b-text/javascript" language="javascript">
+        function WatchComment(contentID) {
+            var url = '/Comment_Subscribe.aspx?ContentID=' + contentID;
+            PopupCenter(url, 500, 200);
+        }
+    </script>
+    
+    
+</div>
+
+
+ 
+
+                                        </div>
+                                        <div id="content-left-column" class="smallerFont align-center">
+                                            
+   <div class="left-window">
+  <div class="left-window-header"><span>مرحباً بالضيف</span></div>
+  <div class="left-window-body">
+  <div id="ctl00_Login1_pnlNotLoggedIn" onkeypress="if (!window.__cfRLUnblockHandlers) return false; javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_Login1_Login1_LoginButton&#39;)" data-cf-modified-af0c21caa86c8ee6e4a4401b-="">
+	
+   <table id="ctl00_Login1_Login1" cellspacing="0" cellpadding="0" border="0" style="width:100%;border-collapse:collapse;">
+		<tr>
+			<td>
+								<table class="login-table" style="width:100%; border-collapse: collapse; border: 0; padding: 0; border-spacing: 0;">
+                                   <tr><td colspan="2">الألوكة تقترب منك أكثر!<br> سجل الآن في شبكة الألوكة للتمتع بخدمات مميزة.</td></tr>
+                                   <tr>
+                                        <td colspan="2" >
+                                            <input name="ctl00$Login1$Login1$UserName" type="text" id="ctl00_Login1_Login1_UserName" title="اسم المستخدم" class="watermark" style="border-color:#B0C151;border-width:1px;border-style:solid;height:15px;width:130px;" />
+                                            <span id="ctl00_Login1_Login1_UserNameRequired" title="يجب إدخال اسم المستخدم" style="color:Red;visibility:hidden;">*</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="2">
+                                            <input name="ctl00$Login1$Login1$Password" type="password" id="ctl00_Login1_Login1_Password" title="كلمة المرور" class="watermark" style="border-color:#DD949A;border-width:1px;border-style:solid;height:15px;width:130px;" />
+                                            <br>
+                                            <span id="ctl00_Login1_Login1_PasswordRequired" title="يجب إدخال كلمة السر" style="color:Red;visibility:hidden;">*</span>
+                                        </td>
+                                       
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2">
+                                            <input id="ctl00_Login1_Login1_RememberMe" type="checkbox" name="ctl00$Login1$Login1$RememberMe" /><label for="ctl00_Login1_Login1_RememberMe"> حفظ كلمة المرور </label><br><a href="/ForgetPassword.aspx"> نسيت كلمة المرور؟ </a><br>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    <td colspan="2">
+									<span  class="StyledButton Black Small"><input type="submit" name="ctl00$Login1$Login1$LoginButton" value="الدخول" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$Login1$Login1$LoginButton&quot;, &quot;&quot;, true, &quot;Login1&quot;, &quot;&quot;, false, false))" id="ctl00_Login1_Login1_LoginButton" title="الدخول" style="width:52px;" data-cf-modified-af0c21caa86c8ee6e4a4401b-="" /></span> &nbsp;
+												<span  class="StyledButton Blue Small" style="display: none">
+												<input type="submit" name="ctl00$Login1$Login1$btnNewUser" value="مستخدم جديد" id="ctl00_Login1_Login1_btnNewUser" title="إنشاء مستخدم جديد" style="width:85px;" /></span>
+												<br> <span id="ctl00_Login1_Login1_FailureText" style="color:Red;"></span></td>
+                                    </tr>
+                                    <tr>
+                                    <td colspan="2">تعرّف أكثر على <a href="/Register.aspx" title="مزايا العضوية">مزايا العضوية</a> وتذكر أن جميع خدماتنا المميزة مجانية! <a href="/Register.aspx" title="سجل الآن">سجل الآن</a>.</td>
+                                    </tr>
+                                   
+                                </table>
+                </td>
+		</tr>
+	</table>
+            
+</div>
+  </div>
+  </div>
+ 
+  
+
+                                           
+                                            
+ <div class="left-window">
+  <div class="left-window-header"><span>شارك معنا</span></div>
+  <div class="left-window-body " ><div class="align-center" style="line-height:4px">
+<span class="StyledButton Black Large" ><a   href="/Contribute.aspx" title="ساهم في نشر مشاركتك">في نشر مشاركتك</a></span><br>
+<span class="StyledButton Blue Large" ><a    href="/Spread.aspx" title="ساهم في نشر الألوكة">في نشر الألوكة</a></span><br>
+<!--span class="StyledButton Green Large" ><a  href="javascript:SendToFriend();" title="ساهم في إخبار صديق">في إخبار صديق</a></span><br /-->
+
+</div>
+  </div>
+  </div>
+                                            
+                                            
+
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+    function emailCheck() {
+        var txtEmail = document.getElementById('ctl00_Newsletter1_txtEmail');
+        if (txtEmail.value == 'سجل بريدك') return false;
+        if (!ValidateEmail(txtEmail.value, true)) return false;
+        return true;
+    }
+</script>
+<div id="ctl00_Newsletter1_pnlSubscribe" onkeypress="if (!window.__cfRLUnblockHandlers) return false; javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_Newsletter1_btnSubscribe&#39;)" data-cf-modified-af0c21caa86c8ee6e4a4401b-="">
+	
+<div class="left-window">
+    <div class="left-window-header">
+        <span>سجل بريدك</span>
+    </div>
+    <div class="left-window-body ">
+        <input name="ctl00$Newsletter1$txtEmail" type="text" id="ctl00_Newsletter1_txtEmail" title="سجل بريدك" class="watermark" size="15" style="float: right" />
+        <div style="float: right" class="clearFix">
+            <span class="StyledButton Black Small">
+                <input type="submit" name="ctl00$Newsletter1$btnSubscribe" value="سجل" onclick="if (!window.__cfRLUnblockHandlers) return false; return emailCheck();" id="ctl00_Newsletter1_btnSubscribe" data-cf-modified-af0c21caa86c8ee6e4a4401b-="" /></span></div>
+    </div>
+</div>
+
+</div>
+											
+<!-- Alukah Vertical ad 120*600 main 02 -->
+<!--
+<div id="AlukahBannerAd_Left">
+<script  type="text/javascript" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9075455342484886"
+     data-ad-slot="7450481976"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+-->
+											<!--
+											<div id="Prayer-Blcok1" style="height:415px; display:block; position:relative;">
+                                                <iframe id="iframe21" style="background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 0px solid rgb(238, 238, 238); width: 100%; overflow: hidden; height: 100%;" 
+                                                src="https://timesprayer.today/widget_frame.php?frame=2&amp;id=95&amp;sound=true&amp;theme=w3-green&amp;tformat=0">
+                                                 </iframe>
+                                            </div>
+											-->
+											
+											<ul class='clean-list ban-list' id='banner-left'>
+<li><a href='/LinkClick.aspx?id=3515'  target='_blank' ><img src='https://ban.alukah.net/Banners/Ban_3515/135.gif' alt='بنر' loading='lazy' width='120' height='270'></a></li>
+<li><a href='/LinkClick.aspx?id=3447'  target='_blank' ><img src='https://ban.alukah.net/Banners/Ban_3447/nashr.gif' alt='بنر' loading='lazy' width='120' height='180'></a></li>
+</ul>
+
+											
+                                            
+                                            
+                                        </div>
+                                        <div id="content-right-column" class="smaller2Font align-center" style="text-align: center">
+                                        <div id="authors_link"><a href="/Authors/List.aspx" title="كتاب الألوكة">كُتَّاب الألوكة</a></div>
+                                            
+
+ <div class="right-window">
+  <div class="right-window-wm-header"></div>
+  <div class="right-window-body wm-body">
+<div id="wmNewsDiv" style="direction:ltr">
+    <div class="verticalScroll">
+    <div class="verticalItems">
+    <ul><li class='liv'><a href='/world_muslims/0/180163/تكريم-الفائزين-في-مسابقة-حفظ-القرآن-بزينيتسا/' title='تكريم الفائزين في مسابقة حفظ القرآن بزينيتسا'>تكريم الفائزين في مسابقة حفظ القرآن بزينيتسا</a></li> 
+<li class='liv'><a href='/world_muslims/0/180136/قازان-تستضيف-المؤتمر-الخامس-لدراسة-العقيدة-الإسلامية/' title='قازان تستضيف المؤتمر الخامس لدراسة العقيدة الإسلامية'>قازان تستضيف المؤتمر الخامس لدراسة العقيدة الإسلامية</a></li> 
+</ul><ul><li class='liv'><a href='/world_muslims/0/180124/تعليم-القرآن-والتجويد-في-دورة-قرآنية-للأطفال-في-ساو-باولو/' title='تعليم القرآن والتجويد في دورة قرآنية للأطفال في ساو باولو'>تعليم القرآن والتجويد في دورة قرآنية للأطفال في ساو باولو</a></li> 
+<li class='liv'><a href='/world_muslims/0/180097/ورشة-توعوية-في-فاريش-تناقش-مخاطر-الكحول-والمخدرات/' title='ورشة توعوية في فاريش تناقش مخاطر الكحول والمخدرات'>ورشة توعوية في فاريش تناقش مخاطر الكحول والمخدرات</a></li> 
+</ul><ul><li class='liv'><a href='/world_muslims/0/180072/المحاضرات-الإسلامية-الشتوية-تجمع-المسلمين-في-فيليكو-تارنوفو-وغابروفو/' title='المحاضرات الإسلامية الشتوية تجمع المسلمين في فيليكو تارنوفو وغابروفو'>المحاضرات الإسلامية الشتوية تجمع المسلمين في فيليكو تارنوفو وغابروفو</a></li> 
+<li class='liv'><a href='/world_muslims/0/180040/ندوة-قرآنية-في-سراييفو-تجمع-حفاظ-البوسنة-حول-جمال-العيش-بالقرآن/' title='ندوة قرآنية في سراييفو تجمع حفاظ البوسنة حول جمال العيش بالقرآن'>ندوة قرآنية في سراييفو تجمع حفاظ البوسنة حول جمال العيش بالقرآن</a></li> 
+</ul><ul><li class='liv'><a href='/world_muslims/0/180009/سلسلة-ورش-قرآنية-جديدة-لتعزيز-فهم-القرآن-في-حياة-الشباب/' title='سلسلة ورش قرآنية جديدة لتعزيز فهم القرآن في حياة الشباب'>سلسلة ورش قرآنية جديدة لتعزيز فهم القرآن في حياة الشباب</a></li> 
+<li class='liv'><a href='/world_muslims/0/179985/أمسية-إسلامية-تعزز-قيم-الإيمان-والأخوة-في-مدينة-كورتشا/' title='أمسية إسلامية تعزز قيم الإيمان والأخوة في مدينة كورتشا'>أمسية إسلامية تعزز قيم الإيمان والأخوة في مدينة كورتشا</a></li> 
+</ul>
+    </div>
+    </div>
+  <div class="navi"></div>
+     </div>
+  <script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+      $(function () {
+          var api = $("div.verticalScroll").scrollable({circular: true,keyboard:false, speed: 1500,vertical:true }).navigator().autoscroll({ autoplay: true, interval: 5500 });
+      }); 
+</script>
+</div>
+</div>
+                                            <br>
+											
+											
+<!-- Alukah Vertical ad 120*600 main 02 -->
+<!-- 
+<div id="AlukahBannerAd_Right">
+<script  type="text/javascript" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9075455342484886"
+     data-ad-slot="7450481976"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+-->
+											<ul class='clean-list ban-list' id='banner-right'>
+<li><a href='/LinkClick.aspx?id=2560'  target='_blank' ><img src='https://ban.alukah.net/Banners/Ban_2560/iphone_new.jpg' alt='بنر' loading='lazy' width='155' height='55'></a></li>
+<li><a href='/LinkClick.aspx?id=2561'  target='_blank' ><img src='https://ban.alukah.net/Banners/Ban_2561/andorid_new.jpg' alt='بنر' loading='lazy' width='155' height='55'></a></li>
+</ul>
+
+																						
+											<br>                                            
+											 <img src="/images/alukah30/icons/followus.png" alt="تابعونا على" width="95" height="63"><br>
+                                            
+                                            <!-- Facebook panle -->
+                                             <div style="margin: 0 -7px 0 0;">
+                                                <div class="fb-like-box " 
+
+                                                    data-href="https://www.facebook.com/alukahnetwork" 
+                                                    data-width="80" data-height="100" 
+                                                    data-show-faces="false" 
+                                                    data-header="false" 
+                                                    data-stream="false" 
+                                                    data-show-border="false"></div>
+        
+                                                 </div>
+                                           <!--Google+ 
+										   
+                                            <div style="margin-bottom:15px; display:block; ">
+                                           <div class="g-follow"  data-annotation="bubble" data-height="20" data-href="//plus.google.com/u/0/100162967713638254284" data-rel="author"></div>
+                                           </div>
+                                            <script type="text/javascript">
+                                                window.___gcfg = { lang: 'ar' };
+
+                                                (function () {
+                                                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                                                    po.src = 'https://apis.google.com/js/platform.js';
+                                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                                                })();
+                                            </script>
+                                            -->
+											
+                                            <a href="https://www.facebook.com/alukahnetwork" target="_blank" title="شبكة الألوكة على Facebook" style="display:block;float:left;margin:0 6px 0 13px;width:32px;height:32px;background:url(/images/alukah30/combined1.png) -10px -1097px no-repeat"><span style="display:none"></span></a>
+                                            <a href="https://www.twitter.com/alukahnetwork" target="_blank" title="شبكة الألوكة على Twitter" style="display:block;width:32px;height:32px;float:left;margin:0 6px 0 0;background:url(/images/alukah30/combined1.png) -42px -1097px no-repeat"><span style="display:none"></span></a>
+                                            <a href="https://www.youtube.com/channel/UCh6H-0auieN5ItUuOXkMUpA" target="_blank" title="شبكة الألوكة على YouTube" style="display:block;width:32px;height:32px;float:left;margin:0 6px 0 0;background:url(/images/alukah30/combined1.png) -74px -1097px no-repeat"><span style="display:none"></span></a>
+                                            <a href="https://instagram.com/alukahNetwork" target="_blank" title="شبكة الألوكة على Instagram" style="display:block;width:32px;height:32px;float:left;margin:0 6px 0 0;background:url(/images/alukah30/instagram.png)"><span style="display:none"></span></a>
+                                            <span style="display:block;clear:left">&nbsp;</span>
+										
+										
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+											
+
+                    </div>
+
+					
+					<div id="footer">
+                        <div id="copyright" style="text-align:center" class="smallerFont">
+                            حقوق النشر محفوظة &copy;
+                            1447هـ /
+                            2026م لموقع <a href="/">
+                                الألوكة</a><br><span class="smaller2Font"> آخر تحديث للشبكة بتاريخ : 14/7/1447هـ  - الساعة: 9:57</span>
+                                <br> <span id="addProvider" class="smaller2Font">
+                                <a href="#" title="ابحث في شبكة الألوكة" onclick="if (!window.__cfRLUnblockHandlers) return false; window.external.AddSearchProvider('/OpenSearch.ashx')" data-cf-modified-af0c21caa86c8ee6e4a4401b-="">أضف محرك بحث الألوكة إلى متصفح الويب</a></span>
+                        </div>
+                    </div>
+                    <div class="padding">
+                    </div>
+                   
+
+                   
+                </div>
+            </div>
+        </div>
+   
+
+        
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_Login1_Login1_UserNameRequired"), document.getElementById("ctl00_Login1_Login1_PasswordRequired"));
+//]]>
+</script>
+
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+//<![CDATA[
+var ctl00_Login1_Login1_UserNameRequired = document.all ? document.all["ctl00_Login1_Login1_UserNameRequired"] : document.getElementById("ctl00_Login1_Login1_UserNameRequired");
+ctl00_Login1_Login1_UserNameRequired.controltovalidate = "ctl00_Login1_Login1_UserName";
+ctl00_Login1_Login1_UserNameRequired.errormessage = "User Name is required.";
+ctl00_Login1_Login1_UserNameRequired.validationGroup = "Login1";
+ctl00_Login1_Login1_UserNameRequired.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_Login1_Login1_UserNameRequired.initialvalue = "";
+var ctl00_Login1_Login1_PasswordRequired = document.all ? document.all["ctl00_Login1_Login1_PasswordRequired"] : document.getElementById("ctl00_Login1_Login1_PasswordRequired");
+ctl00_Login1_Login1_PasswordRequired.controltovalidate = "ctl00_Login1_Login1_Password";
+ctl00_Login1_Login1_PasswordRequired.errormessage = "Password is required.";
+ctl00_Login1_Login1_PasswordRequired.validationGroup = "Login1";
+ctl00_Login1_Login1_PasswordRequired.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_Login1_Login1_PasswordRequired.initialvalue = "";
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="769CC4AF" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABX0zgkd4puIv1eHP71TbREp/+i7rEHT1nuLuJeDk98xbyGrLRpBgwDTRvRQ7gFb3XsEjsMaYfbHbMoY5keKlcMYbJChEjb5ehJzFrbsF8IIsXTGZodB4ad2PJuom6We1hFn93fSxMpmENrVMfHxYpByrV6J5i8lRePfne9ZkzIykYCsG/x2azzqGItQqzc2WK4+eZM9zoubKSGLcjbSXBKrpseZWHYmFIsUAc7LeF4aZw7JTOJjtDiZfHxtcA/A3xfidn9t/YJakSCqdnj9ZxV3fVHCVwvXJhSSEdu0v87WEN9HvTCJorqjY86XfUcGykgKJ32pfJpg0W+4CkODBimYdEKONehskcbDvZNl8+D4IgsJp0fxcw/73jIU5X8Jo02O/T62ptcN4nwBsiKe/rwXK6/20B/6s4jHkRrQ1xll0rPPUdt/c8R1WMprJ9UaPgm08n2pdJlqdHPVDqKL8UYuqu3ayfx91htryKfQvntaWg==" />
+</div>
+
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMwMzAyNTA2NGQYBQU5Y3RsMDAkTWFpbkNvbnRlbnRQbGFjZUhvbGRlciRjdGwwMCRDb21tZW50cyRtdlBvc3RDb21tZW50Dw9kZmQFQWN0bDAwJE1haW5Db250ZW50UGxhY2VIb2xkZXIkY3RsMDAkQ29tbWVudHMkbHNDb21tZW50cyRkcENvbW1lbnRzDzwrAAQBAwIDZAU2Y3RsMDAkTWFpbkNvbnRlbnRQbGFjZUhvbGRlciRjdGwwMCRDb21tZW50cyRsc0NvbW1lbnRzDxQrAA5kZGRkZGRkFCsAA2RkZAIDZGRkZgIKZAUUY3RsMDAkTG9naW4xJG12TG9naW4PD2RmZAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgUFHWN0bDAwJFNlYXJjaFdpZGdldDEkYnRuU2VhcmNoBTRjdGwwMCRNYWluQ29udGVudFBsYWNlSG9sZGVyJGN0bDAwJHVzZXJUb29sczEkZ2VuUERGBTRjdGwwMCRNYWluQ29udGVudFBsYWNlSG9sZGVyJGN0bDAwJHVzZXJUb29sczIkZ2VuUERGBThjdGwwMCRNYWluQ29udGVudFBsYWNlSG9sZGVyJGN0bDAwJENvbW1lbnRzJGNoa1N1YnNjcmliZQUeY3RsMDAkTG9naW4xJExvZ2luMSRSZW1lbWJlck1l6KcRtVC8z98VOrpeA3WdoMMeO/AuR6YNDstSGuZvLGU=" /></form>
+    </div>
+     
+ 
+
+  
+<!-- Start Alexa Certify Javascript -->
+<script type="af0c21caa86c8ee6e4a4401b-text/javascript">
+    _atrk_opts = { atrk_acct: "QZPPk1a4SBe05T", domain: "alukah.net", dynamic: true };
+    (function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=QZPPk1a4SBe05T" style="display:none" height="1" width="1" alt=""></noscript>
+<!-- End Alexa Certify Javascript -->  
+
+    
+   
+
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="af0c21caa86c8ee6e4a4401b-|49" defer></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9b82455aab3a2c0b',t:'MTc2NzQ0MDk0Ng=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

@@ -1,0 +1,1576 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="aliImg/logo.png" type="image/x-icon">
+    <!-- ملفات CSS -->
+    <link rel="stylesheet" href="aliCss/navBar1.css">
+    <link rel="stylesheet" href="aliCss/css24.1.7.css">
+    <link rel="stylesheet" href="aliCss/css25.0.0.4.css">
+	<link rel="stylesheet" href="aliCss/nightMode.0.0.0.css">
+    <link rel="stylesheet" href="aliCss/screen-resize.0.0.2.css">
+    <link rel="stylesheet" href="aliCss/font/font.css">
+    <link rel="stylesheet" href="aliCss/marquee.css">
+
+    <!-- ملفات JavaScript -->
+    <script src="aliJs/jquery-3.3.1.min.js"></script>
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0C5CWLLYW6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0C5CWLLYW6');
+</script>
+<!-- End Google Analytics -->
+
+
+<title> تعريف النظر ووجوبه </title>
+
+      <meta charset="utf-8"> 
+      <meta property="og:url"                content="http://almerja.com/more.php?idm=17304" />
+      <meta property="og:type"               content="الأخبار" />
+      <meta property="og:title"              content="تعريف النظر ووجوبه" />
+      <meta property="og:description"        content="تعريف النظر ووجوبه" />
+      <meta property="og:image"              content="https://almerja.com/aliImg/logo.png" />
+
+</head>
+<body dir="rtl" data-mode="light">
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDR2RZQH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->    
+    
+<div id="setting" style="top: 160px;">
+	<img id="setting-icon" src="aliImg/setting.png" />
+	<div id="list">
+		<div style="display: flex;align-items: center;justify-content: space-around;">
+			الوضع الليلي
+			<div class="web_mode">
+				<img src="aliImg/moon.svg" />
+			</div>
+		</div>
+		<div>
+			انماط الصفحة الرئيسية 
+			<img src="aliImg/left_ddd.png" />
+				<p onClick="indexMode(1)"><a href="index1.php">النمط الأول</a></p>
+				<p onClick="indexMode(2)"><a href="index2.php">النمط الثاني</a></p>			
+		</div>
+	</div>
+</div>
+	<div id="intNightMode">0</div>	
+	
+	
+	
+<div id="loader">
+  <div class="spinner"></div>
+</div>
+<div id="content" style="display: none;">
+			
+<style>
+#header{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+	background-color: rgba(0,96,151,1);
+	border-bottom: 3px solid #008ec5;
+	padding: 0px 20px;
+	display: flex;
+	align-items: center;
+	justify-content:space-around;
+	color: #fff;
+	user-select: none;
+}
+#header #h_r{
+	display: flex;
+	align-items: center;
+	padding: 5px;
+}
+#header #h_r p:nth-child(1){
+	width: 35px;
+	height: 35px;
+	background-color: #fff;
+	border-radius: 50%;
+	margin-left: 10px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+#header #h_r p a{
+	display: flex;
+	align-items: center;
+	text-align: center;		
+}
+#header #h_r p:nth-child(1) img{
+	width: 35px;
+	height: auto;
+}
+#header #h_r p:nth-child(2){
+	display: flex;
+	align-items: center;
+}
+#header #h_r p:nth-child(2) img{
+	width: 200px;
+	height: auto;
+}
+.h_c{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.h_c a{text-decoration: none;}
+.h_c p{
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	text-align: center;
+	min-width: 60px;
+	min-height: 28px;
+	max-height: 35px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	font-family: aliMath;
+}
+.h_c p span{
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);	
+	transition: all 0.2s ease;
+	bottom: -40px;
+	color: #eee;
+	font-weight: bold;
+}
+.h_c img{
+	position: relative;
+	transition: all 0.2s ease;
+	width: 30px;
+}
+.h_c p{
+	transition: all 0.1s ease;
+	border-radius: 10px;
+}
+	#header .h_c p:hover{
+		color: rgba(0,96,151,1);
+		background-color: #fff;
+	}
+#header .h_c p:hover img{
+	transform: translateY(-130%) scale(0);
+}
+#header .h_c p:hover span{
+	color: rgba(0,96,151,1);
+	bottom: -50%;
+	transform: translate(-50%,-65%);
+}
+.h_l{
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.h_l span{
+	position: relative;
+	background: -webkit-linear-gradient(290deg, rgb(233, 222, 250) 0%, rgb(251, 252, 219) 100%);
+	background: -o-linear-gradient(290deg, rgb(233, 222, 250) 0%, rgb(251, 252, 219) 100%);
+	background: linear-gradient(20deg, rgb(233, 222, 250) 0%, rgb(251, 252, 219) 100%);
+	color: rgba(0,96,151,0.9);
+	padding: 2.5px 6px;
+	border-radius: 10px;
+	margin-top: 2px;
+	font-family: tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	transition: all 0.3s ease;
+}
+.h_l span:hover{
+	transform: scale(1.2);
+}
+.h_l a{
+	text-decoration: none;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.h_l a:hover{
+	color: #FFDE4D;
+}
+.h_l img{
+	width: 23px;
+	height: auto;
+	margin: 0 5px;
+	position: relative;
+	transition: all 0.3s ease;
+}
+.h_l img:hover{
+	transform: scale(1.2);
+}
+.hiddenList{
+	transform: scale(0.1) rotate(45deg);
+	opacity: 0;
+	min-width: 180px;
+	padding: 20px 10px;
+	position: fixed;
+	z-index: 3;
+	transition: all 0.3s ease;
+	top: 60px;
+	left: -210px;
+	background: linear-gradient(109.6deg, rgb(69, 179, 224) 11.2%, rgb(102, 51, 153) 100.2%);
+	background-size: cover;
+	border-radius: 10px;
+	border: 1px solid #ddd;
+}
+	.hiddenList_action{
+		transform: translateX(220px) scale(1);
+		opacity: 0.8;
+	}
+	.hiddenList .h_l{		
+		justify-content: center;
+		padding: 5px;
+		border-radius: 20px;
+		border: 2px solid rgba(255,255,255,0.2);
+	}
+	.hiddenList .h_c{
+		margin-top: 20px;
+		display: block;
+	}
+	.hiddenList .h_c p{
+		width: auto;
+		justify-content: flex-start;
+		position: relative;
+		transition: all 0.3s ease;
+		margin-top: 2px;
+	}
+	.hiddenList .h_c p:hover{
+		padding-right: 10px;
+	}
+	.hiddenList .h_c span{
+		position:static;
+	}
+	.hiddenList .h_c p a{
+		display: flex;	
+		align-items: center;
+	}	
+	/*Nav Icon */
+.nav-icon-5{
+  width: 35px;
+  height: 30px;
+  margin: 0px 10px;
+  position: fixed;
+  z-index: 999;
+  left: 10px;
+  top: 9px;
+  cursor: pointer;
+  display: none;
+}
+.nav-icon-5 span{
+  background-color: #fff;
+  position: absolute;
+  border-radius: 2px;
+  transition: .3s cubic-bezier(.8, .5, .2, 1.4);
+  width:100%;
+  height: 4px;
+  transition-duration: 500ms
+}
+.nav-icon-5:hover span{
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+.nav-icon-5 span:nth-child(1){
+  top:0px;
+  left: 0px;
+}
+.nav-icon-5 span:nth-child(2){
+  top:10px;
+  left: 0px;
+  opacity:1;
+}
+.nav-icon-5 span:nth-child(3){
+  bottom:6px;
+  left: 0px;
+}
+.web_mode{
+	width: 40px;height: 40px;border-radius:50%;background-color:#006097;display: flex;align-items: center;justify-content:center;
+}
+.web_mode img{
+	max-width:25px;height: auto;
+}
+@media only screen and (max-width: 1150px) {
+	#header{
+		justify-content: flex-start;
+	}
+	#header .h_l{
+		display: none;
+	}
+	.nav-icon-5{
+		display: block;
+	}
+}
+@media only screen and (max-width: 1000px) {
+	#header .h_c{
+		display: none;
+	}
+}		
+</style>	
+	
+  <div class="icon nav-icon-5">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+
+	
+	
+	
+<div id="header">
+	<div id="h_r">
+		<p>
+			<a href="https://almerja.com/">
+				<img style="margin-left: 10px;" src="https://almerja.com/aliImg/img24/logo.png" />
+			</a>
+		</p>
+		<p>
+			<a href="https://almerja.com/">
+				<img src="https://almerja.com/aliImg/img24/webName.png" />
+			</a>
+		</p>
+	</div>
+	<div class="h_c">
+		<p>
+			<a href="index.php">
+				<img src="https://almerja.com/aliImg/img24/home.svg" />
+				<span> الرئيسية </span>
+			</a>
+		</p>		
+		<p>
+			<a href="https://www.almerja.com/almerjaNews.php">
+				<img src="https://almerja.com/aliImg/img24/news.svg" />
+				<span> الأخبار </span>
+			</a>
+		</p>		
+		<p>
+			<a href="https://almerja.com/ph">
+				<img src="https://almerja.com/aliImg/img24/ph.svg" />
+				<span> صور </span>
+			</a>
+		</p>
+		<p>
+			<a href="https://almerja.com/video/">
+				<img src="https://almerja.com/aliImg/img24/video.svg" />
+				<span> فيديو </span>
+			</a>
+		</p>
+		<p>
+			<a href="https://almerja.com/sound/">
+				<img src="https://almerja.com/aliImg/img24/sound.svg" />
+				<span> صوت </span>
+			</a>
+		</p>	
+		<p>
+			<a href="https://www.almerja.com/aklam/index.php">
+				<img src="https://almerja.com/aliImg/img24/aklam.png" />
+				<span> أقلام </span>
+			</a>
+		</p>
+		<p>
+			<a href="https://www.almerja.com/key/index.php">
+				<img src="https://www.almerja.com/aliImg/img24/key.svg" />
+				<span> مفتاح </span>
+			</a>
+		</p>		
+		<p>
+			<a href="https://almerja.com/reshafat/">
+				<img src="https://almerja.com/aliImg/img24/rashafat.svg" />
+				<span> رشفات </span>
+			</a>
+		</p>		
+		<p>
+			<a href="https://www.almerja.com/mshkat/">
+				<img src="https://almerja.com/aliImg/img24/mshkat.svg" />
+				<span> المشكاة </span>
+			</a>
+		</p>
+		<p>
+			<a href="https://almerja.com/leaflet/index.php">
+				<img src="https://almerja.com/aliImg/img24/mnshoor_w.png" />
+				<span> منشور </span>
+			</a>
+		</p>
+		<p>
+			<a href="https://www.almerja.com/azaat/index.php">
+				<img src="https://almerja.com/aliImg/img24/idea.svg" />
+				<span> اضاءات </span>
+			</a>
+		</p>		
+		<p>
+			<a href="https://www.almerja.com/thaqef/index.php">
+				<img src="https://almerja.com/aliImg/img24/thaqef.png" />
+				<span> ثقف </span>
+			</a>
+		</p>
+		<p>
+			<a href="https://www.almerja.com/story.php">
+				<img src="https://almerja.com/aliImg/story.png" />
+				<span> قصص </span>
+			</a>
+		</p>		
+	</div>
+	<div class="h_l">
+		<a href="https://www.youtube.com/@almerja"><img src="https://almerja.com/aliImg/img24/youtube.svg" /></a>
+		<a href="https://www.facebook.com/almerjawebsite"><img src="https://almerja.com/aliImg/img24/facebook.svg" /></a>
+		<a href="https://t.me/almerjaweb"><img src="https://almerja.com/aliImg/img24/telegram.svg" /></a>
+		<a href="https://www.tiktok.com/@almerja"><img src="https://almerja.com/aliImg/img24/tiktok.svg" /></a>
+		<a href="https://almerja.com/en/">
+			<span>EN</span>
+		</a>
+	</div>
+</div>
+<!--	<div id="en" style="display: flex;">
+		<div class="enGo" alt="en">
+			<span><a href="en/">EN</a></span>
+		</div>	
+	</div> -->
+
+
+
+
+<div class="hiddenList">
+	<div class="h_l">1</div>
+	<div class="h_c"></div>	
+</div>	
+
+
+
+<script>
+
+	var SoHiddenList = $('#header .h_l').html();
+	var webSec = $('#header .h_c').html();
+	$('.hiddenList .h_l').html(SoHiddenList);
+	$('.hiddenList .h_c').html(webSec);
+	
+	
+
+
+	$('.nav-icon-5').click(function(){
+		$('.hiddenList').fadeIn().toggleClass('hiddenList_action');
+	})
+
+$(window).resize(function() {
+    //do something
+
+    var width = $(document).width();
+    if(width>930){
+		$('.hiddenList').removeClass('hiddenList_action');
+	}
+});	
+	
+	
+	
+</script>		
+
+			<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>المرجع الالكتروني للمعلوماتية</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="images/ico.png" type="image/x-icon">
+<script src="images/icon_serch/jquery-3.6.0.min.js"></script>
+<link rel="stylesheet" href="images/icon_serch/style_serch2024.css">
+</head>
+<body dir="rtl"  style="font-family: 'rasol01';">
+ <center> 
+ <form id="search-form"  method="POST"  dir="rtl" style="font-family: rasol02" > 
+ <input id="textarea-from" name="search" autocomplete="off" type="text"  style="height:50px;  margin-top: 5px;border: 1px solid #025f94 ;background: #e5f4fd; color: #025f94; width: 95%; border-radius: 20px; padding: 5px; font-size: 20px"  autocomplet="false" />  
+<div id="typ" style="display:none; margin-top:10px ; background: #006097; color: #FFFFFF ; min-width:200px ;max-width: 520px; padding: 10px; border-radius: 10px;margin-top: 10px;font-size: 14px; ">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" dir="rtl">
+      <tbody>
+        <tr>
+          <td> بحث بواسطة :</td>
+          <td>نوع البحث :</td>
+        </tr>
+        <tr>
+          <td>
+			  <input type="radio"  id="field-tt" name="ch" value="1" checked="checked"><span class="rad_chis"> بحث في الفهارس  </span>
+		  </td>
+          <td><input type="radio" checked="checked"  id="type-flexible" name="chc" value="1"><span class="rad_chis">  جميع الكلمات  </span></td>
+        </tr>
+        <tr>
+          <td><input type="radio" id="field-ff" name="ch" value="2"><span class="rad_chis">   بحث في اسماء الكتب  </span></td>
+          <td><input type="radio" id="chc" name="chc" value="2"><span class="rad_chis">  بحث مطابق  </span></td>
+        </tr>
+        <tr>
+          <td><input type="radio" id="field-kk" name="ch" value="3"><span class="rad_chis">  بحث في اسماء المؤلفين  </span></td>
+          <td></td>
+        </tr>
+		  <tr>
+          <td id="mhtowa"> </td>
+          <td></td>
+        </tr>
+		  
+		   
+      </tbody>
+    </table>
+ </div>
+ 
+<div style="font-weight: bold" >
+	<div class="row"> 
+	 <input class="node2" type="submit" id="ulmenlispan" style="width:150px ; display:none ; margin-top:10px" value="بحث في قسم"  /> 
+     <nav id="cbp-hrmenu" class="cbp-hrmenu row"  style="font-weight: bold" >
+	 <div id="stop_btn-convert-voice" onClick="Stop_serch_mic()"  style="display: none ; margin-top:10px ">
+		<img src="images/mic.gif" width="30"  height="30" style="cursor:pointer; margin:0px 10px -5px 0px; " />
+		تحدث الان 
+	 </div> 
+	 <img class="srch_set_icon" src="images/index4_15.png" width="25" height="25" style="cursor:pointer; margin:0px 10px -5px 0px;" onclick="typ()"/>
+	 <!-- sound 
+	 <img src="images/mic.png" width="25" height="25" style="cursor:pointer; margin:0px 10px -5px 0px;" id="btn-convert-voice"/>
+     <select class="search-button" id="convert-from" style="display: inline-block; margin-top:5px ;  border-style: none;  font-family: 'rasol01'; font-weight:bold">
+        <option>en (English)</option>
+        <option>ar (العربية)</option>
+     </select>
+       -->
+	 <bottom class="node search-button"  onclick="performSearch(1)" style="display: inline-block; margin-top:10px ;  border-style: none;  font-weight: bold" />بحث</bottom> 
+     <input   onClick="onclv()" type="button"  class="node1 search-button" id="bottbloy" style="display: inline-block; margin-top:10px ;  border-style: none;  font-family: 'rasol01'; font-weight:bold"    value="بحث في الاقسام" />
+	</nav>
+	</div>	 
+	<div class="row"> 
+     <div id="aos-demo" class=" row aos-all " style="display:none ; width: 100%;    border:1px solid #08467f; border-radius: 10px ;border-style: none; color: #fff;font-weight: bold; " align="center" >
+      <div class="cat_slect" onclick="stsm(99999999)" id="tix99999999" >كل الأقسام</div>
+             <div class="cat_slect" onclick="stsm(1)" id="tix1" >القرآن الكريم وعلومه</div>
+		     <div class="cat_slect" onclick="stsm(240)" id="tix240" >العقائد الاسلامية </div>
+		     <div class="cat_slect" onclick="stsm(703)" id="tix703" >الفقه الاسلامي واصوله</div>
+		     <div class="cat_slect" onclick="stsm(242)" id="tix242" >الحديث والرجال والتراجم</div>
+		     <div class="cat_slect" onclick="stsm(241)" id="tix241" >سيرة الرسول وآله</div>
+		     <div class="cat_slect" onclick="stsm(2089)" id="tix2089" >الاخلاق و الادعية </div>
+		     <div class="cat_slect" onclick="stsm(109)" id="tix109" > الاسرة و المجتمع</div>
+		     <div class="cat_slect" onclick="stsm(244)" id="tix244" >علوم اللغة العربية </div>
+		     <div class="cat_slect" onclick="stsm(556)" id="tix556" > الأدب الــعربــي</div>
+		     <div class="cat_slect" onclick="stsm(899)" id="tix899" >التاريخ</div>
+		     <div class="cat_slect" onclick="stsm(1845)" id="tix1845" >الجغرافية</div>
+		     <div class="cat_slect" onclick="stsm(900)" id="tix900" >الإدارة و الاقتصاد</div>
+		     <div class="cat_slect" onclick="stsm(973)" id="tix973" > القانون</div>
+		     <div class="cat_slect" onclick="stsm(10000239)" id="tix10000239" >الإعلام</div>
+		     <div class="cat_slect" onclick="stsm(706)" id="tix706" >الزراعة</div>
+		     <div class="cat_slect" onclick="stsm(705)" id="tix705" >علم الفيزياء</div>
+		     <div class="cat_slect" onclick="stsm(704)" id="tix704" >علم الكيمياء</div>
+		     <div class="cat_slect" onclick="stsm(708)" id="tix708" >علم الاحياء</div>
+		     <div class="cat_slect" onclick="stsm(707)" id="tix707" >الرياضيات</div>
+		     <div class="cat_slect" onclick="stsm(21)" id="tix21" >الهندسة المدنية</div>
+		     <div class="cat_slect" onclick="stsm(809)" id="tix809" >الاخبار</div>
+		     <div class="cat_slect" onclick="stsm(7633)" id="tix7633" >English Language</div>
+      </div>
+	</div>
+       
+	
+     <select name="ida"  style="display:none "><option class="no" value="99999999"></option></select> 
+	 <input type="hidden" value="2" name="ip">
+</div>	
+	 
+	 
+ </form>  
+     <div id="results_sr" class="result-container"></div>
+
+    <script>
+ 
+         $(document).ready(function() {
+            $('#search-form').on('keypress', function(event) {
+                if (event.which === 13) {  
+                    event.preventDefault();  
+                    performSearch(1);  
+                }
+            });
+        });
+ function performSearch(page) {
+        const formData = $("#search-form").serializeArray();
+        const form = document.createElement("form");
+        form.method = "POST";
+        form.action = "search_app.php";
+
+        formData.forEach(item => {
+            const input = document.createElement("input");
+            input.type = "hidden";
+            input.name = item.name;
+            input.value = item.value;
+            form.appendChild(input);
+        });
+
+        const pageInput = document.createElement("input");
+        pageInput.type = "hidden";
+        pageInput.name = "page";
+        pageInput.value = page;
+        form.appendChild(pageInput);
+
+        document.body.appendChild(form);
+        form.submit();
+      }
+    function goToPage(page) {
+        performSearch(page);
+    } 
+		
+	
+
+ 
+    </script>
+
+	 
+	</center>
+    <script src="css/Translator.js"></script>
+    <script type="text/javascript">
+      function stsm(x) {
+		 $('.no').val(x);
+		 $('.aos-all').fadeOut();
+		 $('.bgraundcat').hide();
+		 $('#field-tt').prop('checked', true);
+		 $('#mhtowa').load('images/icon_serch/m_load_mhtowselect.php?id='+x) ;
+		 $('.node1').val($('#tix'+x).text());
+		 $('.node').val('بحث في قسم')
+	 }
+	   function showdiv(){
+		   $('.aos-all').show();
+		   $('.bgraundcat').show();
+		  }
+         function typ(){
+	      $('#typ').toggle(1500);
+         }
+ 
+		     
+			 function Stop_serch_mic(){
+				mySpeechRecognition.stop();
+				var imjf=document.getElementById('stop_btn-convert-voice');
+			 this.style.display = "block";
+			 imjf.style.display = "none";
+			}
+
+		
+	 var translator = new Translator();
+
+        function getOption(language) {
+            var option = document.createElement('option');
+            option.value = language.language;
+            if(language.name) {
+                option.innerHTML = language.name + ' (' + language.language + ')'
+            }
+            else {
+                option.innerHTML = language.language;
+            }
+
+            if(language.language == 'en') {
+                option.selected = true;
+            }
+
+            return option;
+        }
+
+        var convertFrom = document.getElementById('convert-from');
+        
+
+        translator.getListOfLanguages(function(languages) {
+            if(!(languages instanceof Array)) return;
+
+            convertFrom.innerHTML = '';
+             
+
+            languages.forEach(function(language) {
+                var option = getOption(language);
+                convertFrom.appendChild(option);
+
+                var option2 = getOption(language);
+                convertInto.appendChild(option2);
+            });
+
+            //localStorageGetItem();
+
+            var blockquote = document.getElementById('blockquote');
+            blockquote.style.display = 'block';
+            blockquote.innerHTML = 'يمكنك ترجمة صوتك ونصوصك بين ملفات <strong class="highlight">' + languages.length + '</strong> ';
+        });
+        
+        var textareaFrom = document.getElementById('textarea-from');
+        
+        
+        function getLanguages() {
+            var from = document.getElementById('convert-from').value.split(' (')[0];
+            
+            
+            return {
+                from: from,
+                 
+            };
+        }
+        
+        document.getElementById('btn-convert-voice').onclick = function() {
+             var imjf=document.getElementById('stop_btn-convert-voice');
+			 this.style.display = "none";
+			 imjf.style.display = "block";
+            var languages = getLanguages();
+            
+            translator.voiceToText(function(text) {
+                textareaFrom.value = text; 
+				performSearch(1)
+                mySpeechRecognition.stop();
+                document.getElementById('btn-convert-text').onclick(true);
+            }, languages.from);
+        };
+        
+        document.getElementById('convert-from').onchange = function() {
+            localStorage.setItem('convert-from', this.value);
+        };
+        textareaFrom.onchange = function() {
+            localStorage.setItem('textarea-from', this.value);
+        };
+        
+        function localStorageGetItem() {
+            if(localStorage.getItem('convert-from')) {
+                document.getElementById('convert-from').value = localStorage.getItem('convert-from');
+            }
+             if(localStorage.getItem('textarea-from')) {
+                textareaFrom.value = localStorage.getItem('textarea-from');
+            }
+            
+           
+        }
+ 
+		
+			$(function() {
+				cbpHorizontalMenu.init();
+			});
+		    function onclv(){
+	          $("#aos-demo").show();
+            } ;
+	    
+            $(".hover").mouseleave(
+              function () {
+                $(this).removeClass("hover");
+              }
+            );
+        </script>	
+
+</body>
+</html> 
+
+ 
+
+<style>
+	.web_mode_night_blackBg  p:hover{
+		color: red
+	}
+	.archive-p .web_mode_night_color1 a:hover{
+		color: #f9cc83 !important;
+	}
+</style>
+<div class="Mcontainer">
+	<div class="rNews-content">
+		
+		<div>	
+            <div>
+				<div class="fTitle"><img src="aliImg/z.png"><p><a href="archive.php?fid=240">العقائد الاسلامية </a></p></div><div class="archive-list">
+				<div class="list" onclick="drop(320)" ><p><img class="plus320 list_p" src="aliImg/plus.png" /><img class="minus320 list_m" src="aliImg/minus.png" /></p><p>التوحيد</p></div><div class="drop320 mainDiv"><div class="list" onclick="pagination(1,328,'النظر و المعرفة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>النظر و المعرفة </p></div><div class="list" onclick="pagination(1,329,'اثبات وجود الله تعالى و وحدانيته')"><p><img class="list_l" src="aliImg/left.png" /></p><p>اثبات وجود الله تعالى و وحدانيته</p></div><div class="list" onclick="drop(331)" ><p><img class="plus331 list_p" src="aliImg/plus.png" /><img class="minus331 list_m" src="aliImg/minus.png" /></p><p>صفات الله تعالى</p></div><div class="drop331 mainDiv"><div class="list" onclick="drop(334)" ><p><img class="plus334 list_p" src="aliImg/plus.png" /><img class="minus334 list_m" src="aliImg/minus.png" /></p><p>الصفات الثبوتية </p></div><div class="drop334 mainDiv"><div class="list" onclick="pagination(1,337,'القدرة و الاختيار')"><p><img class="list_l" src="aliImg/left.png" /></p><p>القدرة و الاختيار</p></div><div class="list" onclick="pagination(1,338,'العلم و الحكمة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>العلم و الحكمة </p></div><div class="list" onclick="pagination(1,339,'الحياة و الادراك')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الحياة و الادراك</p></div><div class="list" onclick="pagination(1,340,'الارادة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الارادة </p></div><div class="list" onclick="pagination(1,341,'السمع و البصر ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>السمع و البصر </p></div><div class="list" onclick="pagination(1,342,'التكلم و الصدق ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التكلم و الصدق </p></div><div class="list" onclick="pagination(1,343,'الأزلية و الأبدية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الأزلية و الأبدية </p></div></div><div class="list" onclick="pagination(1,335,'الصفات الجلالية ( السلبية )')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الصفات الجلالية ( السلبية )</p></div><div class="list" onclick="pagination(1,336,'الصفات - مواضيع عامة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الصفات - مواضيع عامة </p></div></div><div class="list" onclick="pagination(1,332,'معنى التوحيد و مراتبه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>معنى التوحيد و مراتبه</p></div></div><div class="list" onclick="drop(321)" ><p><img class="plus321 list_p" src="aliImg/plus.png" /><img class="minus321 list_m" src="aliImg/minus.png" /></p><p>العدل</p></div><div class="drop321 mainDiv"><div class="list" onclick="pagination(1,348,'البداء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>البداء</p></div><div class="list" onclick="pagination(1,349,'التكليف')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التكليف</p></div><div class="list" onclick="pagination(1,350,'الجبر و التفويض')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الجبر و التفويض</p></div><div class="list" onclick="pagination(1,351,'الحسن و القبح')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الحسن و القبح</p></div><div class="list" onclick="pagination(1,352,'القضاء و القدر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>القضاء و القدر</p></div><div class="list" onclick="pagination(1,353,'اللطف الالهي')"><p><img class="list_l" src="aliImg/left.png" /></p><p>اللطف الالهي</p></div><div class="list" onclick="pagination(1,354,'مواضيع عامة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مواضيع عامة </p></div></div><div class="list" onclick="drop(322)" ><p><img class="plus322 list_p" src="aliImg/plus.png" /><img class="minus322 list_m" src="aliImg/minus.png" /></p><p>النبوة</p></div><div class="drop322 mainDiv"><div class="list" onclick="pagination(1,749,'اثبات النبوة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>اثبات النبوة</p></div><div class="list" onclick="pagination(1,750,'الانبياء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الانبياء</p></div><div class="list" onclick="pagination(1,751,'العصمة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>العصمة</p></div><div class="list" onclick="pagination(1,752,'الغرض من بعثة الانبياء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الغرض من بعثة الانبياء</p></div><div class="list" onclick="pagination(1,753,'المعجزة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المعجزة</p></div><div class="list" onclick="pagination(1,754,'صفات النبي')"><p><img class="list_l" src="aliImg/left.png" /></p><p>صفات النبي</p></div><div class="list" onclick="pagination(1,755,'النبي محمد (صلى الله عليه وآله)')"><p><img class="list_l" src="aliImg/left.png" /></p><p>النبي محمد (صلى الله عليه وآله)</p></div><div class="list" onclick="pagination(1,7887,'مواضيع متفرقة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مواضيع متفرقة</p></div><div class="list" onclick="pagination(1,8041,'القرآن الكريم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>القرآن الكريم</p></div></div><div class="list" onclick="drop(323)" ><p><img class="plus323 list_p" src="aliImg/plus.png" /><img class="minus323 list_m" src="aliImg/minus.png" /></p><p>الامامة</p></div><div class="drop323 mainDiv"><div class="list" onclick="pagination(1,696,'الامامة تعريفها ووجوبها وشرائطها')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الامامة تعريفها ووجوبها وشرائطها</p></div><div class="list" onclick="pagination(1,697,' صفات الأئمة وفضائلهم ومودتهم')"><p><img class="list_l" src="aliImg/left.png" /></p><p> صفات الأئمة وفضائلهم ومودتهم</p></div><div class="list" onclick="pagination(1,698,' العصمة')"><p><img class="list_l" src="aliImg/left.png" /></p><p> العصمة</p></div><div class="list" onclick="pagination(1,699,' امامة الامام علي عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p> امامة الامام علي عليه السلام</p></div><div class="list" onclick="pagination(1,700,' إمامة الأئمة الأثني عشر')"><p><img class="list_l" src="aliImg/left.png" /></p><p> إمامة الأئمة الأثني عشر</p></div><div class="list" onclick="pagination(1,701,' الأمام المهدي عجل الله فرجه الشريف')"><p><img class="list_l" src="aliImg/left.png" /></p><p> الأمام المهدي عجل الله فرجه الشريف</p></div><div class="list" onclick="pagination(1,702,' الرجعة')"><p><img class="list_l" src="aliImg/left.png" /></p><p> الرجعة</p></div></div><div class="list" onclick="drop(324)" ><p><img class="plus324 list_p" src="aliImg/plus.png" /><img class="minus324 list_m" src="aliImg/minus.png" /></p><p>المعاد</p></div><div class="drop324 mainDiv"><div class="list" onclick="pagination(1,577,'تعريف المعاد و الدليل عليه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>تعريف المعاد و الدليل عليه</p></div><div class="list" onclick="pagination(1,578,'المعاد الجسماني')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المعاد الجسماني</p></div><div class="list" onclick="pagination(1,579,'الموت و القبر و البرزخ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الموت و القبر و البرزخ</p></div><div class="list" onclick="pagination(1,580,'القيامة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>القيامة</p></div><div class="list" onclick="pagination(1,581,'الثواب و العقاب')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الثواب و العقاب</p></div><div class="list" onclick="pagination(1,582,'الجنة و النار')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الجنة و النار</p></div><div class="list" onclick="pagination(1,583,'الشفاعة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الشفاعة</p></div><div class="list" onclick="pagination(1,584,'التوبة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التوبة </p></div></div><div class="list" onclick="drop(325)" ><p><img class="plus325 list_p" src="aliImg/plus.png" /><img class="minus325 list_m" src="aliImg/minus.png" /></p><p>فرق و أديان</p></div><div class="drop325 mainDiv"><div class="list" onclick="pagination(1,662,'علم الملل و النحل ومصنفاته')"><p><img class="list_l" src="aliImg/left.png" /></p><p>علم الملل و النحل ومصنفاته</p></div><div class="list" onclick="pagination(1,663,'علل تكون الفرق و المذاهب')"><p><img class="list_l" src="aliImg/left.png" /></p><p>علل تكون الفرق و المذاهب</p></div><div class="list" onclick="pagination(1,664,'الفرق  بين الفرق')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الفرق  بين الفرق</p></div><div class="list" onclick="pagination(1,665,'الشيعة الاثنا عشرية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الشيعة الاثنا عشرية </p></div><div class="list" onclick="pagination(1,666,'أهل السنة و الجماعة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>أهل السنة و الجماعة </p></div><div class="list" onclick="pagination(1,667,'أهل الحديث و الحشوية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>أهل الحديث و الحشوية </p></div><div class="list" onclick="pagination(1,668,'الخوارج')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الخوارج</p></div><div class="list" onclick="pagination(1,669,'المعتزلة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المعتزلة </p></div><div class="list" onclick="pagination(1,670,'الزيدية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الزيدية</p></div><div class="list" onclick="pagination(1,671,'الاشاعرة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الاشاعرة</p></div><div class="list" onclick="pagination(1,672,'الاسماعيلية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الاسماعيلية </p></div><div class="list" onclick="pagination(1,673,'الاباضية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الاباضية </p></div><div class="list" onclick="pagination(1,674,'القدرية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>القدرية </p></div><div class="list" onclick="pagination(1,675,'المرجئة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المرجئة </p></div><div class="list" onclick="pagination(1,676,'الماتريدية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الماتريدية </p></div><div class="list" onclick="pagination(1,677,'الظاهرية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الظاهرية </p></div><div class="list" onclick="pagination(1,678,'الجبرية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الجبرية </p></div><div class="list" onclick="pagination(1,679,'المفوضة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المفوضة </p></div><div class="list" onclick="pagination(1,680,'المجسمة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المجسمة </p></div><div class="list" onclick="pagination(1,681,'الجهمية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الجهمية </p></div><div class="list" onclick="pagination(1,682,'الصوفية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الصوفية </p></div><div class="list" onclick="pagination(1,683,'الكرامية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الكرامية </p></div><div class="list" onclick="pagination(1,684,'الغلو')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الغلو</p></div><div class="list" onclick="pagination(1,685,'الدروز')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الدروز</p></div><div class="list" onclick="pagination(1,686,' القاديانيّة')"><p><img class="list_l" src="aliImg/left.png" /></p><p> القاديانيّة</p></div><div class="list" onclick="pagination(1,687,'الشيخية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الشيخية </p></div><div class="list" onclick="pagination(1,688,'النصيرية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>النصيرية </p></div><div class="list" onclick="pagination(1,689,'الحنابلة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الحنابلة </p></div><div class="list" onclick="pagination(1,690,'السلفية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>السلفية </p></div><div class="list" onclick="pagination(1,691,'الوهابية ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الوهابية </p></div></div><div class="list" onclick="drop(326)" ><p><img class="plus326 list_p" src="aliImg/plus.png" /><img class="minus326 list_m" src="aliImg/minus.png" /></p><p>شبهات و ردود</p></div><div class="drop326 mainDiv"><div class="list" onclick="pagination(1,7278,'التوحيـــــــد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التوحيـــــــد</p></div><div class="list" onclick="pagination(1,7279,'العـــــــدل')"><p><img class="list_l" src="aliImg/left.png" /></p><p>العـــــــدل</p></div><div class="list" onclick="pagination(1,7280,'النبـــــــوة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>النبـــــــوة </p></div><div class="list" onclick="pagination(1,7281,'الامامـــــــة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الامامـــــــة</p></div><div class="list" onclick="pagination(1,7282,'المعـــاد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المعـــاد</p></div><div class="list" onclick="pagination(1,7283,'القرآن الكريم ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>القرآن الكريم </p></div><div class="list" onclick="pagination(1,7284,'الامام علي بن ابي طالب (عليه السلام)')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الامام علي بن ابي طالب (عليه السلام)</p></div><div class="list" onclick="pagination(1,7285,'الزهراء (عليها السلام)')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الزهراء (عليها السلام)</p></div><div class="list" onclick="pagination(1,7286,'الامام الحسين (عليه السلام) و كربلاء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الامام الحسين (عليه السلام) و كربلاء</p></div><div class="list" onclick="pagination(1,7288,'الامام المهدي (عليه السلام)')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الامام المهدي (عليه السلام)</p></div><div class="list" onclick="pagination(1,7289,'إمامة الائمـــــــة الاثني عشر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>إمامة الائمـــــــة الاثني عشر</p></div><div class="list" onclick="pagination(1,7291,'العصمـــــــة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>العصمـــــــة </p></div><div class="list" onclick="pagination(1,7292,'الغلـــــــو')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الغلـــــــو</p></div><div class="list" onclick="pagination(1,7293,'التقية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التقية</p></div><div class="list" onclick="pagination(1,7294,'الشفاعة والدعاء والتوسل والاستغاثة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الشفاعة والدعاء والتوسل والاستغاثة </p></div><div class="list" onclick="pagination(1,7295,'الاسلام والمسلمين ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الاسلام والمسلمين </p></div><div class="list" onclick="pagination(1,7296,'الشيعة والتشيع')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الشيعة والتشيع</p></div><div class="list" onclick="pagination(1,7297,'اديان و مذاهب و فرق')"><p><img class="list_l" src="aliImg/left.png" /></p><p>اديان و مذاهب و فرق</p></div><div class="list" onclick="pagination(1,7298,'الصحابة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الصحابة</p></div><div class="list" onclick="pagination(1,7299,'ابو بكر و عمر و عثمان و مشروعية خلافتهم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>ابو بكر و عمر و عثمان و مشروعية خلافتهم</p></div><div class="list" onclick="pagination(1,7300,'نساء النبي (صلى الله عليه واله و سلم)')"><p><img class="list_l" src="aliImg/left.png" /></p><p>نساء النبي (صلى الله عليه واله و سلم)</p></div><div class="list" onclick="pagination(1,7301,'البكاء على الميت و احياء ذكرى الصاحين')"><p><img class="list_l" src="aliImg/left.png" /></p><p>البكاء على الميت و احياء ذكرى الصاحين</p></div><div class="list" onclick="pagination(1,7302,'التبرك و الزيارة و البناء على القبور')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التبرك و الزيارة و البناء على القبور</p></div><div class="list" onclick="pagination(1,7303,'الفقه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الفقه</p></div><div class="list" onclick="pagination(1,7304,'سيرة و تاريخ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سيرة و تاريخ</p></div><div class="list" onclick="pagination(1,7305,'مواضيع عامة ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مواضيع عامة </p></div></div><div class="list" onclick="pagination(1,327,'مقالات عقائدية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مقالات عقائدية</p></div><div class="list" onclick="pagination(1,814,'مصطلحات عقائدية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مصطلحات عقائدية</p></div><div class="list" onclick="drop(7513)" ><p><img class="plus7513 list_p" src="aliImg/plus.png" /><img class="minus7513 list_m" src="aliImg/minus.png" /></p><p>أسئلة وأجوبة عقائدية</p></div><div class="drop7513 mainDiv"><div class="list" onclick="drop(7514)" ><p><img class="plus7514 list_p" src="aliImg/plus.png" /><img class="minus7514 list_m" src="aliImg/minus.png" /></p><p>التوحيد</p></div><div class="drop7514 mainDiv"><div class="list" onclick="pagination(1,7515,'اثبات الصانع ونفي الشريك عنه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>اثبات الصانع ونفي الشريك عنه</p></div><div class="list" onclick="pagination(1,7516,'اسماء وصفات الباري تعالى')"><p><img class="list_l" src="aliImg/left.png" /></p><p>اسماء وصفات الباري تعالى</p></div><div class="list" onclick="pagination(1,7517,'التجسيم والتشبيه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التجسيم والتشبيه</p></div><div class="list" onclick="pagination(1,7518,'النظر والمعرفة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>النظر والمعرفة</p></div><div class="list" onclick="pagination(1,7519,'رؤية الله تعالى')"><p><img class="list_l" src="aliImg/left.png" /></p><p>رؤية الله تعالى</p></div><div class="list" onclick="pagination(1,7520,'مواضيع عامة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مواضيع عامة</p></div></div><div class="list" onclick="pagination(1,7521,'النبوة والأنبياء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>النبوة والأنبياء</p></div><div class="list" onclick="pagination(1,7522,'الإمامة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمامة</p></div><div class="list" onclick="pagination(1,7523,'العدل الإلهي')"><p><img class="list_l" src="aliImg/left.png" /></p><p>العدل الإلهي</p></div><div class="list" onclick="pagination(1,7524,'المعاد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المعاد</p></div><div class="list" onclick="drop(7525)" ><p><img class="plus7525 list_p" src="aliImg/plus.png" /><img class="minus7525 list_m" src="aliImg/minus.png" /></p><p>القرآن الكريم</p></div><div class="drop7525 mainDiv"><div class="list" onclick="pagination(1,7526,'القرآن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>القرآن</p></div><div class="list" onclick="pagination(1,7527,'آيات القرآن العقائدية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>آيات القرآن العقائدية</p></div><div class="list" onclick="pagination(1,7528,'تحريف القرآن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>تحريف القرآن</p></div></div><div class="list" onclick="pagination(1,7529,'النبي محمد صلى الله عليه وآله')"><p><img class="list_l" src="aliImg/left.png" /></p><p>النبي محمد صلى الله عليه وآله</p></div><div class="list" onclick="pagination(1,7530,'فاطمة الزهراء عليها السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>فاطمة الزهراء عليها السلام</p></div><div class="list" onclick="pagination(1,7531,'الاسلام والمسلمين')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الاسلام والمسلمين</p></div><div class="list" onclick="pagination(1,7532,'الصحابة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الصحابة</p></div><div class="list" onclick="drop(7533)" ><p><img class="plus7533 list_p" src="aliImg/plus.png" /><img class="minus7533 list_m" src="aliImg/minus.png" /></p><p>الأئمة الإثنا عشر</p></div><div class="drop7533 mainDiv"><div class="list" onclick="pagination(1,7534,'الإمام علي بن أبي طالب عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمام علي بن أبي طالب عليه السلام</p></div><div class="list" onclick="pagination(1,7535,'أدلة إمامة إمير المؤمنين ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>أدلة إمامة إمير المؤمنين </p></div><div class="list" onclick="pagination(1,7536,'الإمام الحسن عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمام الحسن عليه السلام</p></div><div class="list" onclick="pagination(1,7537,'الإمام الحسين عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمام الحسين عليه السلام</p></div><div class="list" onclick="pagination(1,7538,'الإمام السجاد عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمام السجاد عليه السلام</p></div><div class="list" onclick="pagination(1,7539,'الإمام الباقر عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمام الباقر عليه السلام</p></div><div class="list" onclick="pagination(1,7540,'الإمام الصادق عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمام الصادق عليه السلام</p></div><div class="list" onclick="pagination(1,7541,'الإمام الكاظم عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمام الكاظم عليه السلام</p></div><div class="list" onclick="pagination(1,7542,'الإمام الرضا عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمام الرضا عليه السلام</p></div><div class="list" onclick="pagination(1,7543,'الإمام الجواد عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمام الجواد عليه السلام</p></div><div class="list" onclick="pagination(1,7544,'الإمام الهادي عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمام الهادي عليه السلام</p></div><div class="list" onclick="pagination(1,7545,'الإمام العسكري عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمام العسكري عليه السلام</p></div><div class="list" onclick="pagination(1,7546,'الإمام المهدي عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإمام المهدي عليه السلام</p></div><div class="list" onclick="pagination(1,7547,'إمامة الأئمة الإثنا عشر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>إمامة الأئمة الإثنا عشر</p></div></div><div class="list" onclick="pagination(1,7548,'الشيعة والتشيع')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الشيعة والتشيع</p></div><div class="list" onclick="pagination(1,7549,'العصمة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>العصمة</p></div><div class="list" onclick="pagination(1,7550,'الموالات والتبري واللعن')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الموالات والتبري واللعن</p></div><div class="list" onclick="pagination(1,7551,'أهل البيت عليهم السلام ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>أهل البيت عليهم السلام </p></div><div class="list" onclick="pagination(1,7552,'علم المعصوم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>علم المعصوم</p></div><div class="list" onclick="drop(7553)" ><p><img class="plus7553 list_p" src="aliImg/plus.png" /><img class="minus7553 list_m" src="aliImg/minus.png" /></p><p>أديان وفرق ومذاهب</p></div><div class="drop7553 mainDiv"><div class="list" onclick="pagination(1,7554,'الإسماعيلية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الإسماعيلية</p></div><div class="list" onclick="pagination(1,7555,'الأصولية والاخبارية والشيخية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الأصولية والاخبارية والشيخية</p></div><div class="list" onclick="pagination(1,7556,'الخوارج والأباضية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الخوارج والأباضية</p></div><div class="list" onclick="pagination(1,7557,'السبئية وعبد الله بن سبأ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>السبئية وعبد الله بن سبأ</p></div><div class="list" onclick="pagination(1,7558,'الصوفية والتصوف')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الصوفية والتصوف</p></div><div class="list" onclick="pagination(1,7559,'العلويين')"><p><img class="list_l" src="aliImg/left.png" /></p><p>العلويين</p></div><div class="list" onclick="pagination(1,7560,'الغلاة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الغلاة</p></div><div class="list" onclick="pagination(1,7561,'النواصب')"><p><img class="list_l" src="aliImg/left.png" /></p><p>النواصب</p></div><div class="list" onclick="pagination(1,7562,'الفرقة الناجية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الفرقة الناجية</p></div><div class="list" onclick="pagination(1,7563,'المعتزلة والاشاعرة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المعتزلة والاشاعرة</p></div><div class="list" onclick="pagination(1,7564,'الوهابية ومحمد بن عبد الوهاب')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الوهابية ومحمد بن عبد الوهاب</p></div><div class="list" onclick="pagination(1,7565,'أهل السنة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>أهل السنة</p></div><div class="list" onclick="pagination(1,7566,'أهل الكتاب')"><p><img class="list_l" src="aliImg/left.png" /></p><p>أهل الكتاب</p></div><div class="list" onclick="pagination(1,7567,'زيد بن علي والزيدية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>زيد بن علي والزيدية</p></div><div class="list" onclick="pagination(1,7568,'مواضيع عامة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مواضيع عامة</p></div></div><div class="list" onclick="pagination(1,7569,'البكاء والعزاء وإحياء المناسبات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>البكاء والعزاء وإحياء المناسبات</p></div><div class="list" onclick="drop(7570)" ><p><img class="plus7570 list_p" src="aliImg/plus.png" /><img class="minus7570 list_m" src="aliImg/minus.png" /></p><p>احاديث وروايات</p></div><div class="drop7570 mainDiv"><div class="list" onclick="pagination(1,7571,'حديث اثنا عشر خليفة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>حديث اثنا عشر خليفة</p></div><div class="list" onclick="pagination(1,7572,'حديث الغدير')"><p><img class="list_l" src="aliImg/left.png" /></p><p>حديث الغدير</p></div><div class="list" onclick="pagination(1,7573,'حديث الثقلين')"><p><img class="list_l" src="aliImg/left.png" /></p><p>حديث الثقلين</p></div><div class="list" onclick="pagination(1,7574,'حديث الدار')"><p><img class="list_l" src="aliImg/left.png" /></p><p>حديث الدار</p></div><div class="list" onclick="pagination(1,7575,'حديث السفينة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>حديث السفينة</p></div><div class="list" onclick="pagination(1,7576,'حديث المنزلة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>حديث المنزلة</p></div><div class="list" onclick="pagination(1,7577,'حديث المؤاخاة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>حديث المؤاخاة</p></div><div class="list" onclick="pagination(1,7578,'حديث رد الشمس')"><p><img class="list_l" src="aliImg/left.png" /></p><p>حديث رد الشمس</p></div><div class="list" onclick="pagination(1,7579,'حديث مدينة العلم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>حديث مدينة العلم</p></div><div class="list" onclick="pagination(1,7580,'حديث من مات ولم يعرف إمام زمانه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>حديث من مات ولم يعرف إمام زمانه</p></div><div class="list" onclick="pagination(1,7581,'احاديث متنوعة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>احاديث متنوعة</p></div></div><div class="list" onclick="pagination(1,7582,'التوسل والاستغاثة بالاولياء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التوسل والاستغاثة بالاولياء</p></div><div class="list" onclick="pagination(1,7583,'الجبر والاختيار والقضاء والقدر ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الجبر والاختيار والقضاء والقدر </p></div><div class="list" onclick="pagination(1,7584,'الجنة والنار')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الجنة والنار</p></div><div class="list" onclick="pagination(1,7585,'الخلق والخليقة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الخلق والخليقة</p></div><div class="list" onclick="pagination(1,7586,'الدعاء والذكر والاستخارة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الدعاء والذكر والاستخارة</p></div><div class="list" onclick="pagination(1,7587,'الذنب والابتلاء والتوبة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الذنب والابتلاء والتوبة</p></div><div class="list" onclick="pagination(1,7588,'الشفاعة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الشفاعة</p></div><div class="list" onclick="pagination(1,7589,'الفقه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الفقه</p></div><div class="list" onclick="pagination(1,7590,'القبور')"><p><img class="list_l" src="aliImg/left.png" /></p><p>القبور</p></div><div class="list" onclick="pagination(1,7591,'المرأة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المرأة</p></div><div class="list" onclick="pagination(1,7592,'الملائكة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الملائكة</p></div><div class="list" onclick="drop(7593)" ><p><img class="plus7593 list_p" src="aliImg/plus.png" /><img class="minus7593 list_m" src="aliImg/minus.png" /></p><p>أولياء وخلفاء وشخصيات</p></div><div class="drop7593 mainDiv"><div class="list" onclick="pagination(1,7594,'أبو الفضل العباس عليه السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>أبو الفضل العباس عليه السلام</p></div><div class="list" onclick="pagination(1,7595,'زينب الكبرى عليها السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>زينب الكبرى عليها السلام</p></div><div class="list" onclick="pagination(1,7596,'مريم عليها السلام')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مريم عليها السلام</p></div><div class="list" onclick="pagination(1,7597,'ابو طالب ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>ابو طالب </p></div><div class="list" onclick="pagination(1,7598,'ابن عباس')"><p><img class="list_l" src="aliImg/left.png" /></p><p>ابن عباس</p></div><div class="list" onclick="pagination(1,7599,'المختار الثقفي')"><p><img class="list_l" src="aliImg/left.png" /></p><p>المختار الثقفي</p></div><div class="list" onclick="pagination(1,7600,'ابن تيمية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>ابن تيمية</p></div><div class="list" onclick="pagination(1,7601,'أبو هريرة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>أبو هريرة</p></div><div class="list" onclick="pagination(1,7602,'أبو بكر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>أبو بكر</p></div><div class="list" onclick="pagination(1,7603,'عثمان بن عفان')"><p><img class="list_l" src="aliImg/left.png" /></p><p>عثمان بن عفان</p></div><div class="list" onclick="pagination(1,7604,'عمر بن الخطاب')"><p><img class="list_l" src="aliImg/left.png" /></p><p>عمر بن الخطاب</p></div><div class="list" onclick="pagination(1,7605,'محمد بن الحنفية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>محمد بن الحنفية</p></div><div class="list" onclick="pagination(1,7606,'خالد بن الوليد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>خالد بن الوليد</p></div><div class="list" onclick="pagination(1,7607,'معاوية بن ابي سفيان')"><p><img class="list_l" src="aliImg/left.png" /></p><p>معاوية بن ابي سفيان</p></div><div class="list" onclick="pagination(1,7608,'يزيد بن معاوية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>يزيد بن معاوية</p></div><div class="list" onclick="pagination(1,7609,'عمر بن عبد العزيز')"><p><img class="list_l" src="aliImg/left.png" /></p><p>عمر بن عبد العزيز</p></div><div class="list" onclick="pagination(1,7610,'شخصيات متفرقة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>شخصيات متفرقة</p></div></div><div class="list" onclick="pagination(1,7611,'زوجات النبي صلى الله عليه وآله')"><p><img class="list_l" src="aliImg/left.png" /></p><p>زوجات النبي صلى الله عليه وآله</p></div><div class="list" onclick="pagination(1,7612,'زيارة المعصوم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>زيارة المعصوم</p></div><div class="list" onclick="pagination(1,7613,'سيرة وتاريخ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>سيرة وتاريخ</p></div><div class="list" onclick="pagination(1,7614,'علم الحديث والرجال')"><p><img class="list_l" src="aliImg/left.png" /></p><p>علم الحديث والرجال</p></div><div class="list" onclick="pagination(1,7615,'كتب ومؤلفات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>كتب ومؤلفات</p></div><div class="list" onclick="pagination(1,7616,'مفاهيم ومصطلحات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مفاهيم ومصطلحات</p></div><div class="list" onclick="drop(7617)" ><p><img class="plus7617 list_p" src="aliImg/plus.png" /><img class="minus7617 list_m" src="aliImg/minus.png" /></p><p>اسئلة عامة</p></div><div class="drop7617 mainDiv"><div class="list" onclick="pagination(1,7618,'أصول الدين وفروعه')"><p><img class="list_l" src="aliImg/left.png" /></p><p>أصول الدين وفروعه</p></div><div class="list" onclick="pagination(1,7619,'الاسراء والمعراج')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الاسراء والمعراج</p></div><div class="list" onclick="pagination(1,7620,'الرجعة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الرجعة</p></div><div class="list" onclick="pagination(1,7621,'الحوزة العلمية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الحوزة العلمية</p></div><div class="list" onclick="pagination(1,7622,'الولاية التكوينية والتشريعية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الولاية التكوينية والتشريعية</p></div><div class="list" onclick="pagination(1,7623,'تزويج عمر من ام كلثوم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>تزويج عمر من ام كلثوم</p></div><div class="list" onclick="pagination(1,7624,'الشيطان')"><p><img class="list_l" src="aliImg/left.png" /></p><p>الشيطان</p></div><div class="list" onclick="pagination(1,7625,'فتوحات وثورات وغزوات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>فتوحات وثورات وغزوات</p></div><div class="list" onclick="pagination(1,7626,'عالم الذر')"><p><img class="list_l" src="aliImg/left.png" /></p><p>عالم الذر</p></div><div class="list" onclick="pagination(1,7627,'البدعة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>البدعة</p></div><div class="list" onclick="pagination(1,7628,'التقية')"><p><img class="list_l" src="aliImg/left.png" /></p><p>التقية</p></div><div class="list" onclick="pagination(1,7629,'البيعة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>البيعة</p></div><div class="list" onclick="pagination(1,7630,'رزية يوم الخميس')"><p><img class="list_l" src="aliImg/left.png" /></p><p>رزية يوم الخميس</p></div><div class="list" onclick="pagination(1,7631,'نهج البلاغة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>نهج البلاغة</p></div><div class="list" onclick="pagination(1,7632,'مواضيع مختلفة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>مواضيع مختلفة</p></div></div></div><div class="list" onclick="drop(10000340)" ><p><img class="plus10000340 list_p" src="aliImg/plus.png" /><img class="minus10000340 list_m" src="aliImg/minus.png" /></p><p>الحوار العقائدي</p></div><div class="drop10000340 mainDiv"><div class="list" onclick="pagination(1,10000341,'* التوحيد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* التوحيد</p></div><div class="list" onclick="pagination(1,10000342,'* العدل')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* العدل</p></div><div class="list" onclick="pagination(1,10000343,'* النبوة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* النبوة</p></div><div class="list" onclick="pagination(1,10000344,'* الإمامة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* الإمامة</p></div><div class="list" onclick="pagination(1,10000345,'* المعاد')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* المعاد</p></div><div class="list" onclick="pagination(1,10000346,'* الرجعة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* الرجعة</p></div><div class="list" onclick="pagination(1,10000347,'* القرآن الكريم ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* القرآن الكريم </p></div><div class="list" onclick="pagination(1,10000348,'* النبي محمد (صلى الله عليه وآله)')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* النبي محمد (صلى الله عليه وآله)</p></div><div class="list" onclick="pagination(1,10000349,'* أصحاب النبي (صلى الله عليه وآله)')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* أصحاب النبي (صلى الله عليه وآله)</p></div><div class="list" onclick="pagination(1,10000350,'* فضائل النبي وآله')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* فضائل النبي وآله</p></div><div class="list" onclick="pagination(1,10000351,'* الإمام علي (عليه السلام)')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* الإمام علي (عليه السلام)</p></div><div class="list" onclick="pagination(1,10000352,'* فاطمة الزهراء (عليها السلام)')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* فاطمة الزهراء (عليها السلام)</p></div><div class="list" onclick="pagination(1,10000353,'* الإمام الحسين (عليه السلام) وكربلاء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* الإمام الحسين (عليه السلام) وكربلاء</p></div><div class="list" onclick="pagination(1,10000354,'* الإمام المهدي (عجل الله فرجه)')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* الإمام المهدي (عجل الله فرجه)</p></div><div class="list" onclick="pagination(1,10000355,'* زوجات النبي (صلى الله عليه وآله)')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* زوجات النبي (صلى الله عليه وآله)</p></div><div class="list" onclick="pagination(1,10000356,'* الخلفاء والملوك بعد الرسول ومشروعية سلطتهم')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* الخلفاء والملوك بعد الرسول ومشروعية سلطتهم</p></div><div class="list" onclick="pagination(1,10000357,'* العـصمة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* العـصمة</p></div><div class="list" onclick="pagination(1,10000358,'* التقيــة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* التقيــة</p></div><div class="list" onclick="pagination(1,10000359,'* الملائكة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* الملائكة</p></div><div class="list" onclick="pagination(1,10000360,'* الأولياء والصالحين ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* الأولياء والصالحين </p></div><div class="list" onclick="pagination(1,10000361,'* فرق وأديان')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* فرق وأديان</p></div><div class="list" onclick="pagination(1,10000362,'* الشيعة والتشيع')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* الشيعة والتشيع</p></div><div class="list" onclick="pagination(1,10000363,'* التوسل وبناء القبور وزيارتها')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* التوسل وبناء القبور وزيارتها</p></div><div class="list" onclick="pagination(1,10000364,'* العلم والعلماء')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* العلم والعلماء</p></div><div class="list" onclick="pagination(1,10000365,'* سيرة وتاريخ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* سيرة وتاريخ</p></div><div class="list" onclick="pagination(1,10000366,'* أحاديث وروايات ')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* أحاديث وروايات </p></div><div class="list" onclick="pagination(1,10000367,'* طُرف الحوارات')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* طُرف الحوارات</p></div><div class="list" onclick="pagination(1,10000368,'* آداب وأخلاق')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* آداب وأخلاق</p></div><div class="list" onclick="pagination(1,10000369,'* الفقه والأصول والشرائع')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* الفقه والأصول والشرائع</p></div><div class="list" onclick="pagination(1,10000370,'* مواضيع عامة')"><p><img class="list_l" src="aliImg/left.png" /></p><p>* مواضيع عامة</p></div></div>				
+
+				
+			</div>
+
+
+
+
+
+
+
+
+
+
+
+
+			</div>									
+		</div>				
+				
+		<div id="nArchive">		
+<div id="archiveTitle">   <a>العقائد الاسلامية  : </a> <a>التوحيد : </a> <a target='_blank' href='archive.php?fid=328'>النظر و المعرفة  : </a></div>			
+			
+			
+
+			<div id="postTitle">
+				<div id="title">
+					<p>
+						<img style="transform: rotate(30deg);" src="aliImg/title.svg">
+					</p>
+					<p class="col2">
+						تعريف النظر ووجوبه					</p>
+				</div>
+				<div id="details"  style="padding:5px 25px;padding-top:10px;">
+					<p style="align-items: center;">
+						<img id="user" style="width: 20px;position:relative;top:-2px;" src="aliImg/user.svg" />
+						<span> المؤلف:&nbsp; </span>
+						الشيخ جمال الدين احمد بن علي الكفعمي					</p>
+					<p style="align-items: center;">
+						<img id="book" style="width: 20px;position:relative;top:-2px;" src="aliImg/book.svg" />
+						<span> المصدر:&nbsp; </span>
+						 معارج الافهام الى علم الكلام					</p>
+					<p style="align-items: center;">
+						<img id="page" style="width: 20px;position:relative;top:-2px;" src="aliImg/page.svg" />
+						<span> الجزء والصفحة:&nbsp; </span>
+						ص 50					</p>					
+
+					<p>
+						<img class="calender_b" style="width: 20px;position:relative;" src="aliImg/calenderr.svg" />
+						<span>4-08-2015</span>
+					</p>
+					<p>
+						<img class="eye_b" style="width: 30px;position:relative;top: -2px;" src="aliImg/eyee.svg" />
+						14299					</p>
+				</div>
+				
+				
+				
+				
+				<div id="share">
+					<img title="طباعة المحتوى" src="aliImg/print.png" value='Print' onclick='printDiv();' />
+					 <a style="text-decoration: none;" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://almerja.com/more.php?idm=17304">
+						<img class="social-media" src="aliImg/fc.png" />
+					</a>
+					<a href="https://telegram.me/share/url?url=http://almerja.com/more.php?idm=17304" target="_blank">
+						<img class="social-media" src="aliImg/telegram.png" />
+					</a>
+					<a target="_blank" class="twitter-share-button"  href="https://twitter.com/intent/tweet?text=http://almerja.com/more.php?idm=17304"
+  						data-size="large">
+						<img class="social-media" src="aliImg/twitter.png" />
+					</a>
+					
+					<style>
+						#fontSizer{							
+							display: flex;
+						}
+						#fontSizer p{
+							width: 40px;
+							height: 40px;
+							border-radius:50%;
+							background-color: #eee;
+							color: #006097;
+							margin: 0 3px;
+							font-size: 40px;
+							position: relative;
+							transition: all 0.2s ease-out;
+							user-select: none;
+						}
+						#fontSizer p:hover{
+							cursor: pointer;
+							background-color: #dfdfdf;
+						}
+						#fontSizer p span{
+							position: absolute;
+							top: 50%;
+							left: 50%;
+							transform: translate(-50%,-50%);
+						}
+						#fontSizer p:nth-child(3){
+							display: none;
+						}
+						#postContent ul li::marker,#postContent ol li::marker{
+							color: #c19e65 !important;
+						}
+					</style>
+					<div id="fontSizer">
+						<p onClick="changeFontSize(2)" class="bg9 col2" id="plus"><span>+</span></p>
+						<p onClick="changeFontSize(-2)" class="bg9 col2" id="min"><span style="margin-top: 3px;">-</span></p>
+						<p id="sizer">20</p>
+					</div>
+					
+					
+				</div>
+				
+<script>	
+function changeFontSize(delta) {
+    let sizer = parseInt($('#sizer').text()) + delta;
+    if (sizer >= 10 && sizer <= 38) {
+        $('#sizer').text(sizer);
+        $('#postContent')
+            .find('h1,h2,h3,h4,h5,div,p,span,li')
+            .css('font-size', sizer);
+    }
+}
+
+$('#plus').click(() => changeFontSize(2));
+$('#min').click(() => changeFontSize(-2));
+function printDiv() 
+{
+
+  var divToPrint=document.getElementById('postContent');
+
+  var newWin=window.open('','Print-Window');
+
+  newWin.document.open();
+
+  newWin.document.write('<html><body onload="window.print()">'+divToPrint.innerHTML+'</body></html>');
+
+  newWin.document.close();
+
+  setTimeout(function(){newWin.close();},10);
+
+}			
+</script>				
+				
+				
+			</div>
+			
+			<div id="postContent" style="padding:0 25px;color: #000;">
+
+				
+				<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;"><strong><a name="_Toc369249466">[النظر]</a>:</strong></span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">النظر واجب لوجوب المعرفة, ولا تتم إلا بالنظر؛ أما وجوب المعرفة فإنها دافعة للخوف الحاصل من اختلاف العقلاء, ودفعه واجب لأنه ألم نفساني يمكن دفعه فيجب دفعه, ولأنه تعالى منعم, وكل منعم يجب شكره, ومن وجب شكره وجبت معرفته, وذلك ظاهر.</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">وأما توقفها على النظر فوجود الاختلاف ينفي ضروريتها, وما لا يتم الواجب المطلق إلا به يكون واجباً, وإلا لزم خروج الواجب المطلق عن كونه واجباً مطلقاً, أو تكليف ما لا يطاق, وهما باطلان.</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">[ في تعريف النظر]:</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">النظر ترتيب أمور ذهنية يتوصل بها إلى أمر آخر, وإفادة صحيحه العلم ضروري, ودفعه مكابرة, فخلاف السمنية (1) في الإلهيّات والمهندسين في الرياضيات (2) باطل قطعاً.</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;"><a name="_Toc369249470">[ في أن العلم عقيب النظر]</a>:</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">حصول العلم عقيب النظر على سبيل اللزوم لا العادة, ويشترط في الإفادة مطابقة المقدمات لما في نفس الأمر, وأن يكون الترتيب على هيئة شكل منتج, وأن لا يكون المطلوب معلوماً من كل وجه, ولا مجهولا من كل وجه, والحق أن إفادة فاسده الجهل ليس كلياً.</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">[وجوب النظر عقلي]:</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">وجوب النظر عقلي وإلا لزم إفحام الأنبياء, وهو باطل, وأول الواجبات بالذات المعرفة والنظر بالقصد الثاني.</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">[الديلي قطعي وظني]:</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">الدليل ما يلزم من العلم به العلم بشيء آخر, فإن كانت المقدمتان علميتين فالنتيجة علمية وإلا فظنية, وهو قد يكون عقلياً محضاً كقولنا: ((العالم متغير, وكلّ متغير حادث)), ونقلياً محضاً كقولنا: ((شارب الخمر فاعل كبيرة, وكل فاعل كبيرة يستحق العقاب)), أو مركباً منهما كقولنا: ((الجمع بين الأختين حرمه النبي, وكل ما حرمه النبي فهو حرام في نفس الأمر)).</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">وكلّما تتوقف عليه صحة النقل كالقدرة والعلم لا يستدل عليه به وإلا دار, وما ليس كذلك يجوز كالتوحيد وسلب الرؤية.</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">___________________________</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">(1) السمنية: بضم السين وفتح الميم مخففة, فرقة تعبد الأصنام وتقول بالتناسخ, وتنكر حصول العلم بالأخبار, وقيل: مسبة إلى سومنات بلدة من الهند على غير قياس [القاموس المحيط 4: 238, قوانين الأصول: 421] وفي فهرست ابن النديم: 408 نبي السمنية بوداسف, وعلى هذا المذهب كان أكثر أهل ماوراء النهر قبل الإسلام.</span></p>
+
+<p dir="RTL" style="text-align: justify;"><span style="font-size: 20px;font-weight: 100;">(2) انظر: الذريعة للسيد المرتضى 2: 481, معارج الأصول للمحقق الحلي: 138, معارج الفهم في شرح النظم للعلامة الحلي: 79.</span></p>
+
+<p dir="RTL">&nbsp;</p>
+				<style>
+					.more{
+						margin-top: 15px;
+					}
+					.more .web_mode_night_color3:hover{
+						color: #f9cc83 !important ;
+					}
+					.more h3{
+						display: inline-block;
+						padding: 2px 10px;
+						border-radius: 0 10px;
+						color: #006097ba;
+						display: inline-flex;
+						flex-direction: row;
+						align-items: center
+					}
+					.more h3 img{
+						width: 30px;
+						padding-left: 3px;
+						margin-left: 8px;
+						border-left: 3px dashed #006097ba;
+					}
+					.more #moreSeenContent{
+						display: flex;
+						flex-direction: row;
+						flex-wrap: wrap;
+						justify-content: center;
+					}
+					.more #moreSeenContent div{
+						min-width: 180px;
+						display: flex;
+						flex-direction: row;
+						margin:0 5px;
+						margin-bottom: 10px;
+						/*background-color: #fafafa;*/
+						
+					}
+					.more #moreSeenContent div p{
+						line-height: normal;
+					}
+					.more #moreSeenContent div p:nth-child(1){
+						position: relative;
+						width: 10px;				
+					}
+					.more #moreSeenContent div p:nth-child(1) span{
+						position: absolute;
+						bottom:-7.5px;
+						right: 0px;
+						transform: translate(-50%,-50%) rotate(-45deg);
+						width: 8px;
+						height: 8px;
+						border-radius: 0 4px;
+					}
+					.more #moreSeenContent div p:nth-child(2){
+						width: 100%;
+						text-align: center;
+						padding:1px 5px;
+						padding-right: 13px;
+						color: #006097;
+						font-size: 15px;
+					}
+					
+					/*0000000000000000000*/
+					
+
+					.more #moreSeenContent div:nth-child(odd) p:nth-child(1) span{
+						background-color:#006097; 
+					}
+					.more #moreSeenContent div:nth-child(odd) p:nth-child(2){
+						color: #006097;
+						border-bottom: 1px dashed #006097;
+					}					
+
+					.more #moreSeenContent div:nth-child(even) p:nth-child(1) span{
+						background-color:#006097ba; 
+					}
+					.more #moreSeenContent div:nth-child(even) p:nth-child(2){
+						color: #006097;
+						border-bottom: 1px dashed #006097ba;
+					}
+					.more #newss{
+						margin-top: 25px;
+						display: flex;
+						flex-direction: row;
+						flex-wrap: wrap;
+						align-items: flex-start;
+						justify-content: space-around;
+					}
+					.more #newss .n-container{
+						margin-bottom: 20px;
+						width: 32%;
+						background-color: #fff;
+						box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+						min-width: 250px;
+						padding: 20px;
+						position: relative;
+						border-radius: 15px;
+						align-self: stretch;
+						display: flex;
+						flex-direction: column;
+						justify-content: space-around;
+					}
+					.more-button a{
+						position: relative;
+						display: flex;
+						align-items: center;
+					}
+					.more-button a img{
+						width: 22px;
+					}
+					.more #newss div h5{
+						color: #006097;
+					}
+					.more #newss div .new{
+						background-color:#fff;
+						box-shadow: 0 4px 10px rgba(0,0,0,0.09);
+						border-radius: 5px;
+						padding: 5px 10px;
+						margin-bottom: 3px;
+						display: flex;
+						flex-direction: row;
+						flex-wrap: wrap;	
+						position: relative;
+					}
+					.more #newss div .new:hover{
+						background: #006097;
+						color: #fafafa;
+					}
+					.more #newss div .new p{
+						font-size: 14px;
+					}
+					.more #newss div .new p{
+						line-height: 1.2;
+					}
+					@media only screen and (max-width: 590px) {
+						.more #newss .n-container{
+							width: 95%;
+							min-width: 95%;
+						}
+					}
+				</style>
+				<div class="more">
+					<h3 class="col2">
+					<img src="aliImg/filter.png" />
+					 الاكثر قراءة في <span style="color:red;padding-right:5px;"> النظر و المعرفة </span>					</h3>
+					<div id="moreSeenContent">
+						
+						<div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=17304">تعريف النظر ووجوبه</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=5525">وجوب النظر في معرفة الله هل هو عقلي أم سمعي ؟</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=5517">لا سبيل للمخلوق في معرفة كنه الذات الالهية  </a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=5515">طرق المعرفة وادواتها في الاسلام </a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=75370">تعريف النظر</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=5522">معرفة الواجب لذاته </a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=5524"> وجوب النظر(1)   </a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=5526">وجوب النظر والمعرفة </a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=131977">خطبتان موجزتان للإمام علي عليه السلام حول معرفة الله </a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=113226">وجوب معرفة الله تعالى على المكلفين</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=98543">الزوجية في الكون تدل على خالق عالم‏</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=98620">معرفة المبدأ والانسانية وقصور الفكر ونصيب العقل</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=98617"> لا سبيل للمخلوق الى معرفة كنه الخالق</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=113225">الطريق الى معرفة الله تعالى</a></p></div><div><p><span class="bg9"></span></p><p class="border7 col3"><a href="more.php?idm=98616">التأمل في الكون الواسع يدل على وجود الخالق‏</a></p></div>					</div>
+				</div>
+				
+				<div class="more">
+					<h3 class="col2">
+					<img src="aliImg/newss.png" />
+						اخر الاخبار
+					</h3>
+					<div id="newss">
+						<div class="n-container bg9">
+							<h5>  اخبار العتبة العباسية المقدسة  </h5>
+							<div>
+								<img src="https://almerja.com/ph/img/small/1729170148-3098.jpg" />
+							</div>
+							<div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288298">جامعة النهرين: حفل تخرج طالبات الجامعات العراقية يعزز الجمع بين العلم والأخلاق في المجتمع العراقي</a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288297">جامعة الكوفة: حفل التخرج المركزي يعكس صورة مشرقة للاحتفالات الجامعية الهادفة</a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288296">جامعة كربلاء: حفل التخرج المركزي مشروع وطني يسهم في تعزيز روح الانتماء للعراق</a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288295">العتبة العباسية المقدسة تختتم فعاليات حفل التخرج المركزي لطالبات الجامعات العراقية العاشر</a></p></div>							<div class="more-button">
+								<a class="col2" style="float: left" href="almerjaNews.php?fid=1188&page=1">
+									<img src="aliImg/left.png" />
+									<span>المزيد</span> 
+								</a>
+							</div>
+						</div>
+						
+						<div class="n-container bg9">
+							<h5>  الآخبار الصحية  </h5>
+							<div>
+								<img src="aliImg/health1.png" />
+							</div>
+							<div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288222">طبيب يكشف أفضل مكمل غذائي لتحسين المزاج ودعم الصحة النفسية</a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288221">دراسة جديدة تكشف أضرار الأطعمة الجاهزة على القلب ؟</a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288220">6 أطعمة طبيعية تهدئ الزكام دون أدوية.. تعرف عليهم </a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288219">ماذا يحدث لأعراض الزكام عند تناول الثوم بانتظام؟</a></p></div>	
+							<div class="more-button">
+								<a class="col2" style="float: left" href="almerjaNews.php?fid=813&page=1">
+									<img src="aliImg/left.png" />
+									<span>المزيد</span> 
+								</a>
+							</div>							
+							
+						</div>
+						
+						<div class="n-container bg9">
+							<h5>  الآخبار التكنلوجية  </h5>
+							<div>
+								<img src="aliImg/technology.png" />
+							</div>
+							<div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288226">ابتكار ثوري في بطاريات السيارات الكهربائية.. سعة أعلى 4 مرات </a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288225">ماذا يحدث لجسمك عند شرب الماء الساخن يوميا؟ </a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288224">7 فوائد "خفية" لشرب شاي الكركديه كل يوم </a></p></div><div class="new bg1"><p class="col3"><a href="newsReading.php?idm=288092">دراسة تكشف قدرة الحيتان على سماع الأصوات منخفضة وعالية التردد من مسافة بعيدة </a></p></div>	
+							<div class="more-button">
+								<a class="col2" style="float: left" href="almerjaNews.php?fid=812&page=1">
+									<img src="aliImg/left.png" />
+									<span>المزيد</span> 
+								</a>
+							</div>									
+						</div>			
+						
+						
+						
+						
+						
+					</div>
+				</div>
+				 
+				
+			</div>
+			
+	
+		</div>
+		<div>
+									<div id="f-div" style="position: sticky;top: 80px;z-index:2;">
+							<h1 style="color: rgba(0, 96, 151,1);"> مواضيع ذات صلة  </h1>
+							<hr style="height: 6px;background-color: #FFF;width: 60px;position: relative;margin: auto;border: 0;;top: -5px;">
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=246428">وجوه وجوب طلب المعرفة والتصديق والتدين</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=246427">مراتب التحقيق والنظر</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=246307">عقيدتنا في النظر والمعرفة</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=246306">خطورة الضرر الأخروي</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=246059">تقليد الغير في تحصيل المعرفة</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=246058"> تحصيل المعرفة من الأدلة الشرعية </a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=246057">المعرفة تقتضيها الفطرة</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=245521">المعرفة تقتضي وجوب شكر المنعم</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=245520">المعرفة الحسية والتجربية والتعبدية والكشفية</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=245519">المخاطب بوجوب تحصيل المعرفة</a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=131977">خطبتان موجزتان للإمام علي عليه السلام حول معرفة الله </a></div>
+
+
+							<div><img style="width:15px;margin-left:5px;" src="aliImg/z.png" /><a href="more.php?idm=113226">وجوب معرفة الله تعالى على المكلفين</a></div>
+
+
+							
+
+						</div>	
+			
+						
+
+		</div>
+				
+		
+		
+		
+	</div>
+</div>
+
+<script>
+	$('#postContent img').css({'max-width':'100%'});
+	
+	function pagination(page,fid,fName){
+		const intNightMode = $('#intNightMode').text();
+		$('title').text(fName);
+      $.ajax({
+       type: 'GET',
+        url: 'archiveMore.php',
+       data: {page:page , fid : fid , intNigh:intNightMode},
+       beforeSend: function(){
+		   var imgLoading = '<img style="position:relative;margin:auto;width:100%;max-width:30px;" src="aliImg/img24/loading.gif" />';
+          $('#nArchive').html(imgLoading); 
+       },
+       success: function(data){	
+		  $('html, body').stop().animate({scrollTop: $('#nArchive').offset().top-120}, 1000);
+          $('#nArchive').html(data);                              
+       }
+       });
+	}
+	function drop(ida){
+		var drop='.drop'+ida;
+		var plus='.plus'+ida;
+		var min='.minus'+ida;
+		$(drop).slideToggle();
+		$(plus).toggle();
+		$(min).toggle();
+	}
+</script>
+
+
+
+
+<style>
+#vMode{
+	display: grid;
+	grid-template-columns: 1fr 240px 1fr;
+	align-items: center;
+	margin: 20px 0;
+}
+#vMode p:nth-child(odd){
+	height: 3px;
+	background-color: #eee;
+}
+#vMode p:nth-child(1){
+	position: relative;
+	left: -5px;
+	z-index: 0;
+}
+#vMode p:nth-child(3){
+	position: relative;
+	right:-5px;
+	z-index: 0;
+}	
+#vMode p:nth-child(2){
+	border-radius: 20px;
+	display: inline-block;background-color: #eee;padding: 2px 20px;position: relative;margin: auto;
+}
+#vMode:hover p{
+background-color: #fff;
+}
+#go-to-top{
+	position: fixed;
+	bottom: 60px;
+	left: 10px;
+	width: 35px;
+	height: 35px;
+	border-radius: 30%;
+	border: 1px solid #006097;
+	background-color: #fff;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	z-index: 100;
+	cursor: pointer;
+	display: none;
+	transition: all 0.5s ease;
+}
+#go-to-top:hover{
+	background-color: #006097;
+}
+#go-to-top img{
+	width: 30px;
+	position: relative;
+	margin: auto;
+}
+.m-c {
+    position: relative;
+    margin: auto;
+    max-width: 1920px;
+}
+.m-c .footer24{
+	padding: 30px 10px;
+	max-width: 1320px;
+	position: relative;
+	margin: auto;
+	display: grid;
+	grid-template-columns: 1fr 70px;
+	align-items: center;		
+}	
+.m-c .footer24 #footer24R #h3{
+	font-size: 30px;
+	margin-bottom: 20px;
+	width: 100%;
+	text-align: center;
+	font-weight: solid;
+	color: #f9cc83;
+}
+	.m-c .footer24 #footer24R .f-fourm{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.m-c .footer24 #footer24R .f-fourm div{	
+		padding: 2px 5px;
+		padding-right: 5px;
+		margin: 5px;
+		margin-bottom: 8px;
+		min-width: 200px;
+		width: 24%;
+		border-right: 3px solid #fff;
+		display: flex;
+		align-items: center;
+	}
+	.m-c .footer24 #footer24R .f-fourm div:hover{
+		background-color: #F9CC83;
+	}
+	.m-c .footer24 #footer24R .f-fourm div p{
+		padding-top: 3px;
+		color: #FFF;
+	}
+	.m-c .footer24 #footer24R .f-fourm div img , .m-c .footer24 #footer24R .f-fourm div svg{
+		width: 25px;
+		margin-left: 5px;
+		
+	}
+	.m-footer24{
+		background-color:#006097;padding: 10px 5px;margin-top:10px;
+	}
+	.m-c .footer24 #footer24L{
+		color: #fff;
+		font-size: 22px;
+	}
+	.m-c .footer24 #footer24L div{
+		display: flex;
+		align-items: center;
+	}
+	.m-c .footer24 #footer24L div img{
+		width: 30px;
+		height: auto;
+		margin-right: 8px;
+		position: relative;
+		top: -3px;
+	}
+	.choose{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.choose div{
+		width: 33%;
+		max-width: 400px;
+		min-width: 250px;
+		margin: 5px 10px;
+	}
+</style>
+                            <div class="m-c choose" style="margin:5px;margin-top: 50px;display: none;">
+								<h3>  </h3>
+	                            								<div>
+									<a href="https://almerja.com/aklam/indexv2.php?id=343" style="text-decoration:none; color:#272525 ;font-family: a1;  text-align: center" >
+								   <img src="https://almerja.com/medea/aklam/R2/u17591347076291438687.jpg" width="100%"  alt="صورة موضوع : قسم الشؤون الفكرية يصدر كتاباً يوثق تاريخ السدانة في العتبة العباسية المقدسة" align="center" style=" margin: 10px 0px 10px 0px; -webkit-box-shadow: 0 0 5px 0 #d7d7d7;box-shadow: 0 0 5px 0 #d7d7d7; height: 70% ; border-radius: 5px ; "  />  
+									قسم الشؤون الفكرية يصدر كتاباً يوثق تاريخ السدانة في العتبة العباسية المقدسة</a>
+                                </div>
+                               								<div>
+									<a href="https://almerja.com/aklam/indexv2.php?id=339" style="text-decoration:none; color:#272525 ;font-family: a1;  text-align: center" >
+								   <img src="https://almerja.com/medea/aklam/R2/g17537770271381795447.jpg" width="100%"  alt="صورة موضوع : "المهمة".. إصدار قصصي يوثّق القصص الفائزة في مسابقة فتوى الدفاع المقدسة للقصة القصيرة" align="center" style=" margin: 10px 0px 10px 0px; -webkit-box-shadow: 0 0 5px 0 #d7d7d7;box-shadow: 0 0 5px 0 #d7d7d7; height: 70% ; border-radius: 5px ; "  />  
+									"المهمة".. إصدار قصصي يوثّق القصص الفائزة في مسابقة فتوى الدفاع المقدسة للقصة القصيرة</a>
+                                </div>
+                               								<div>
+									<a href="https://almerja.com/aklam/indexv2.php?id=333" style="text-decoration:none; color:#272525 ;font-family: a1;  text-align: center" >
+								   <img src="https://almerja.com/medea/aklam/R2/j17506640579654456423.jpg" width="100%"  alt="صورة موضوع : (نوافذ).. إصدار أدبي يوثق القصص الفائزة في مسابقة الإمام العسكري (عليه السلام)" align="center" style=" margin: 10px 0px 10px 0px; -webkit-box-shadow: 0 0 5px 0 #d7d7d7;box-shadow: 0 0 5px 0 #d7d7d7; height: 70% ; border-radius: 5px ; "  />  
+									(نوافذ).. إصدار أدبي يوثق القصص الفائزة في مسابقة الإمام العسكري (عليه السلام)</a>
+                                </div>
+                                
+						    </div>
+
+
+<div class="m-c">
+				<a href="https://t.me/almerjaweb">
+					<div style="padding: 20px;margin-top:20px;background-color: aqua;width: 100%;background-image: url('aliImg/telBgBlue.jpg');background-size: cover;background-position: bottom;display: flex;flex-wrap: wrap;flex-direction: row;align-items: center;justify-content: space-around;font-size:35px;color: #fff;">
+						<p style="min-width:150px;" class="col1"> اشترك بقناتنا على التلجرام ليصلك كل ما هو جديد  </p>
+						<img style="min-width:150px;" src="aliImg/tel.png" />
+					</div>
+				</a>	
+</div>
+<div class="m-c m-footer24"  style="position: relative;margin: auto;">
+	<div class="footer24">
+		<div id="footer24R">
+			 <div id="h3">تصفح أقسام الموقع</div>
+			 <div class="f-fourm">
+				 <div>
+					 <img src="aliImg/quraan_w.png" />
+					 <p><a href="archive.php?fid=1">القرآن الكريم و علومه</a></p>
+				 </div>                 
+				 <div>
+					 <img src="aliImg/allah.png" />
+					 <p><a href="archive.php?fid=240">العقائد الاسلامية</a></p>
+				 </div>				                  
+				 <div>
+<svg class="svg-inline--fa fa-kaaba fa-w-18" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="kaaba" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="#fff" d="M554.12 83.51L318.36 4.93a95.962 95.962 0 0 0-60.71 0L21.88 83.51A32.006 32.006 0 0 0 0 113.87v49.01l265.02-79.51c15.03-4.5 30.92-4.5 45.98 0l265 79.51v-49.01c0-13.77-8.81-26-21.88-30.36zm-279.9 30.52L0 196.3v228.38c0 15 10.42 27.98 25.06 31.24l242.12 53.8a95.937 95.937 0 0 0 41.65 0l242.12-53.8c14.64-3.25 25.06-16.24 25.06-31.24V196.29l-274.2-82.26c-9.04-2.72-18.59-2.72-27.59 0zM128 230.11c0 3.61-2.41 6.77-5.89 7.72l-80 21.82C37.02 261.03 32 257.2 32 251.93v-16.58c0-3.61 2.41-6.77 5.89-7.72l80-21.82c5.09-1.39 10.11 2.44 10.11 7.72v16.58zm144-39.28c0 3.61-2.41 6.77-5.89 7.72l-96 26.18c-5.09 1.39-10.11-2.44-10.11-7.72v-16.58c0-3.61 2.41-6.77 5.89-7.72l96-26.18c5.09-1.39 10.11 2.44 10.11 7.72v16.58zm176 22.7c0-5.28 5.02-9.11 10.11-7.72l80 21.82c3.48.95 5.89 4.11 5.89 7.72v16.58c0 5.28-5.02 9.11-10.11 7.72l-80-21.82a7.997 7.997 0 0 1-5.89-7.72v-16.58zm-144-39.27c0-5.28 5.02-9.11 10.11-7.72l96 26.18c3.48.95 5.89 4.11 5.89 7.72v16.58c0 5.28-5.02 9.11-10.11 7.72l-96-26.18a7.997 7.997 0 0 1-5.89-7.72v-16.58z"></path></svg>
+					 <p><a href="archive.php?fid=703">الفقه الاسلامي واصوله</a></p>
+				 </div>				                  
+				 <div>
+					 <img src="aliImg/mohammed.png" />
+					 <p><a href="archive.php?fid=241">سيرة الرسول وآله</a></p>
+				 </div>				                  
+				 <div>
+					 <img src="aliImg/men.png" />
+					 <p><a href="archive.php?fid=242">الحديث والرجال والتراجم</a></p>
+				 </div>                
+				 <div>
+					 <img src="aliImg/hand.png" />
+					 <p><a href="archive.php?fid=2089">الأخلاق والادعية</a></p>
+				 </div>				                  
+				 <div>
+<svg class="svg-inline--fa fa-users fa-w-20" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="users" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="#fff" d="M96 224c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm448 0c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm32 32h-64c-17.6 0-33.5 7.1-45.1 18.6 40.3 22.1 68.9 62 75.1 109.4h66c17.7 0 32-14.3 32-32v-32c0-35.3-28.7-64-64-64zm-256 0c61.9 0 112-50.1 112-112S381.9 32 320 32 208 82.1 208 144s50.1 112 112 112zm76.8 32h-8.3c-20.8 10-43.9 16-68.5 16s-47.6-6-68.5-16h-8.3C179.6 288 128 339.6 128 403.2V432c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48v-28.8c0-63.6-51.6-115.2-115.2-115.2zm-223.7-13.4C161.5 263.1 145.6 256 128 256H64c-35.3 0-64 28.7-64 64v32c0 17.7 14.3 32 32 32h65.9c6.3-47.4 34.9-87.3 75.2-109.4z"></path></svg>
+					 <p><a href="archive.php?fid=109">الاسرة والمجتمع</a></p>
+				 </div>
+				 <div>
+					 <img src="aliImg/arabic.png" />
+					 <p><a href="archive.php?fid=244">علوم اللغة العربية</a></p>
+				 </div>				                  
+				 <div>
+					 <img src="aliImg/adaab.png" />
+					 <p><a href="archive.php?fid=556">الادب العربي</a></p>
+				 </div>
+				 <div>
+					 <img src="aliImg/history.png" />
+					 <p><a href="archive.php?fid=899">التأريخ</a></p>
+				 </div>				 
+				 <div>
+					 <img src="aliImg/geo.png" />
+					 <p><a href="archive.php?fid=1845">الجغرافية</a></p>
+				 </div>				 	 
+				 <div>
+					 <img src="aliImg/eco.png" />
+					 <p><a href="archive.php?fid=900">الادارة والاقتصاد</a></p>
+				 </div>				 				 
+				 <div>
+					 <img src="aliImg/law.png" />
+					 <p><a href="archive.php?fid=973">القانون</a></p>
+				 </div>				 
+				 <div>
+					 <img src="aliImg/aalam.png" />
+					 <p><a href="archive.php?fid=10000239">الاعلام</a></p>
+				 </div>				 				 
+				 <div>
+					 <p style="text-align: center;margin-left: 5px;">EN</p>
+					 <p><a href="archive.php?fid=7633">English Language</a></p>
+				 </div>				 				 
+				 <div>
+					 <img src="aliImg/zraa.png" />
+					 <p><a href="archive.php?fid=706">الزراعة</a></p>
+				 </div>				 				 				 
+				 <div>
+					 <img src="aliImg/phisic.png" />
+					 <p><a href="archive.php?fid=705"></a>علم الفيزياء</p>
+				 </div>
+				 <div>
+					 <img src="aliImg/chime.png" />
+					 <p><a href="archive.php?fid=704">علم الكيمياء</a></p>
+				 </div>				 
+				 <div>
+					 <img src="aliImg/dna.png" />
+					 <p><a href="archive.php?fid=708">علم الأحياء</a></p>
+				 </div>				 
+				 <div>
+					 <img src="aliImg/math.png" />
+					 <p><a href="archive.php?fid=707">الرياضيات</a></p>
+				 </div>				 
+				 <div>
+					 <img src="aliImg/eng.png" />
+					 <p><a href="archive.php?fid=21">الهندسة</a></p>
+				 </div>				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+			 </div>
+		</div>
+		<div id="footer24L">
+			<div>
+				<a href="en/index.php" style="font-family: a1;">EN</a>
+				<img src="https://almerja.com/footer/img_2023/language.png" />				
+			</div>
+		</div>
+	</div>
+
+	
+	
+	
+
+</div>
+
+
+
+
+
+<div id="go-to-top">
+	<img src="aliImg/top.svg" />
+</div>
+
+
+
+ 
+<script>
+	$('#go-to-top').click(function(){
+		$("html, body").animate({scrollTop: 0}, 100);
+	});
+</script>
+
+
+
+
+
+<script src="aliJs/js.0.0.0.js"></script>
+<script src="aliJs/js24/cookie.js"></script>
+<script src="aliJs/js24/nightMode.0.0.4.js"></script>
+
+	<script>		
+		$('#cbp-hrmenu').css({'display':'flex','align-items':'center','justify-content':'center'});
+		$('#textarea-from').css({'background-color':'#fff','border':'2px solid #025f94','max-width':'650px','outline':'none'});
+		$('#bottbloy').css({'padding':'11px 10px'});
+	</script>
+
+
+</div>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById("loader").style.display = "none";
+    document.getElementById("content").style.display = "block";
+	$('html, body').stop().animate({scrollTop: $('#nArchive').offset().top}, 1000);
+  });
+	
+</script>
+
+</body>
+</html>
