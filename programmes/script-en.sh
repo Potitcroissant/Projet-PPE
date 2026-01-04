@@ -35,7 +35,7 @@ echo -e "<html>
                     <div class=\"navbar-dropdown\">
                         <a href=\"../HTML/resultats-fr.html\" class=\"navbar-item\">Français</a>
                         <a href=\"../HTML/resultats-en.html\" class=\"navbar-item\">Anglais</a>
-                        <a href=\"\" class=\"navbar-item\">Arabe</a>
+                        <a href=\"../HTML/resultats-ar.html\" class=\"navbar-item\">Arabe</a>
                     </div>
                 </div>
                 </div>
@@ -108,7 +108,7 @@ do
                     <div class=\"navbar-dropdown\">
                         <a href=\"../HTML/resultats-fr.html\" class=\"navbar-item\">Français</a>
                         <a href=\"../HTML/resultats-en.html\" class=\"navbar-item\">Anglais</a>
-                        <a href=\"\" class=\"navbar-item\">Arabe</a>
+                        <a href=\"../HTML/resultats-ar.html\" class=\"navbar-item\">Arabe</a>
                     </div>
                 </div>
                 </div>
