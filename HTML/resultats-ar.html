@@ -39,6 +39,11 @@
                     le script <strong>PALS</strong> et suivi les mêmes démarches que l’anglais et le français.
                     Pour éviter les répétitions, nous expliquons ici les adaptations nécessaires pour le traitement
                     de l’arabe et les principaux résultats obtenus.</p>
+                <p>Lors des premières générations de nuages, l’affichage de l’arabe a posé des difficultés en raison des spécificités de l’écriture 
+                    (direction droite-gauche et ligatures). Ces contraintes ont nécessité l’utilisation d’un traitement spécifique afin de garantir
+                    une visualisation correcte des formes lexicales, 
+                    avant d’obtenir les résultats présentés.</p>
+                
             </div>
             <div class="block">
                 <p>Le code pour la tokénisation est donc le suivant :</p>
@@ -70,9 +75,9 @@
                 <div class="block">
                     <p>Pour les nuages de mots, la concaténation des corpus issus des dumps et des corpus de contextes a permis d’obtenir deux nuages distincts pour l’arabe.La concaténation s’est faite à l’aide des commandes suivantes :</p>
                     <p>Pour les contextes :</p>
-                    <p class="box has-background-primary-soft">cat *ar*.txt &gt; corpus_ar_un_contextes.txt</p>
+                    <p class="box has-background-primary-soft">cat contextes/ar-*.txt > nuages/contextes-ar.txt</p>
                     <p>Pour les dumps :</p>
-                    <p class="box has-background-primary-soft">cat *ar*.txt &gt; corpus_ar_un_dump.txt</p>
+                    <p class="box has-background-primary-soft">cat dump-text/ar-*.txt > nuages/dump-ar.txt</p>
                 </div>
                 <div class="block">
                     <p>Après cela, nous avons utilisé des commandes similaires à celles employées pour les autres langues du projet,tout en tenant compte des spécificités de l’arabe.L’esthétique des nuages de mots a été améliorée grâce aux arguments suivants :</p>
