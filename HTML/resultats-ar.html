@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8"/>
@@ -35,29 +34,54 @@
         <div class="content p-5">
             <div class="block">
                 <h3 class="title is-3">Arabe</h3>
-                <p>
-                    Dans le cas de l’arabe, afin d’analyser les contextes dans lesquels le mot
+                <p>Dans le cas de l’arabe, afin d’analyser les contextes dans lesquels le mot
                     <strong>نظر</strong> (“regard / point de vue”) est utilisé, nous avons aussi utilisé
                     le script <strong>PALS</strong> et suivi les mêmes démarches que l’anglais et le français.
                     Pour éviter les répétitions, nous expliquons ici les adaptations nécessaires pour le traitement
-                    de l’arabe et les principaux résultats obtenus.
-                </p>
+                    de l’arabe et les principaux résultats obtenus.</p>
             </div>
-
             <div class="block">
                 <p>Le code pour la tokénisation est donc le suivant :</p>
-
                 <p class="box has-background-primary-soft">
-                    rm -rf corpus-texte/ar<br>
-                    mkdir -p corpus-texte/ar<br><br>
-
-                    lineno=1<br>
-                    for f in dump-text/ar-*.txt<br>
+                    mot=<strong>"نظر"</strong>
+                    while read -r line<br>
                     do<br>
-                    &nbsp;&nbsp;sed '1,/^$/d' "$f" | sed -E 's/([^[:space:][:punct:]]+|[[:punct:]])/\\1\\n/g' | grep -v '^[[:space:]]*$' &gt; corpus-texte/ar/ar-$lineno.txt<br>
-                    &nbsp;&nbsp;lineno=$((lineno+1))<br>
-                    done
+                    cat "dump-text/<strong>ar</strong>${lineno}.txt" | sed -E 's/([^[:space:][:punct:]]+|[[:punct:]])/\1\n/g' | grep -v '^[[:space:]]*$' > "corpus-texte<strong>/ar/ar</strong>-$lineno.txt"<br>
+                    ligne=$(expr $ligne + 1)
+                    done < $fichier_urls
                 </p>
+                <p>L’utilisations du scripts PALS varie seulement au niveau des chemins utilisés :</p>
+                <p class="box has-background-primary-soft">  
+                    python3 PALS/cooccurrents.py --target نظر --match-mode regex corpus-texte/ar/* > resultat.csv
+                </p>
+                <p>Le terminal indique que le mot cible <strong>نظر</strong> apparaît <strong>82 fois</strong> dans le corpus.Contrairement au français ou à l’anglais, l’arabe ne distingue pas les majuscules et les minuscules,ce qui explique l’utilisation d’une recherche exacte.</p>
+            </div>
+            <div class="block">
+                <p>L’analyse des cooccurrences montre que le mot <strong>نظر</strong> apparaît dans plusieurs contextes distincts :</p>
+               <ul>
+                   <li>e champ du <strong>point de vue</strong>, avec les mots<strong>وجهة</strong> et <strong>وجهات</strong>,souvent dans l’expression « وجهة نظر »</li>
+                   <li>le champ de la <strong>vision</strong> et de la perception,avec des mots comme <strong>بصر</strong> et <strong>عين</strong></li>
+                   <li>le champ <strong>social</strong>,avec la présence de mots tels que <strong>النساء</strong></li>
+                   <li>le champ du <strong>discours et du langage</strong>,avec des termes comme <strong>لسان</strong> ou <strong>نظرية</strong></li>
+                </ul>
+                <p class="has-text-centered has-text-weight-bold">Concrètement, le cadre contextuel dominant est celui du point de vue et de la vision.</p>
+            </div>
+            <div class="block mt-6">      
+                <div class="block">
+                    <p>Pour les nuages de mots, la concaténation des corpus issus des dumps et des corpus de contextes a permis d’obtenir deux nuages distincts pour l’arabe.La concaténation s’est faite à l’aide des commandes suivantes :</p>
+                    <p>Pour les contextes :</p>
+                    <p class="box has-background-primary-soft">cat *ar*.txt &gt; corpus_ar_un_contextes.txt</p>
+                    <p>Pour les dumps :</p>
+                    <p class="box has-background-primary-soft">cat *ar*.txt &gt; corpus_ar_un_dump.txt</p>
+                </div>
+                <div class="block">
+                    <p>Après cela, nous avons utilisé des commandes similaires à celles employées pour les autres langues du projet,tout en tenant compte des spécificités de l’arabe.L’esthétique des nuages de mots a été améliorée grâce aux arguments suivants :</p>
+                    <ul>
+                        <li><code>background_color="white"</code> — fond clair pour une meilleure lisibilité</li>
+                        <li><code>font_path</code> — utilisation d’une police compatible avec l’arabe (Noto Naskh Arabic)</li>
+                        <li><code>collocations=False</code> — afin d’éviter la création de bigrammes non pertinents</li>
+                    </ul>
+
 
                 <p>
                     Pour l’arabe, nous retirons d’abord l’entête HTTP des fichiers dump (avec <code>sed '1,/^$/d'</code>)
