@@ -9,18 +9,18 @@
    (BUTTON)
 
    Recherches récentes
-     * non nam
-     * quod pariatur
-     * nisi delectus
-     * ut quae
-     * voluptatibus sit
+     * inventore assumenda
+     * rerum sint
+     * fugiat molestiae
+     * voluptatem enim
+     * quia sapiente
 
    (BUTTON) Effacer
 
    Des idées pour vous
-   sunt sed aut hic debitis quam
+   itaque est unde nihil quia id
    (BUTTON)
-   sunt sed aut hic debitis quam
+   itaque est unde nihil quia id
 
    Aucune suggestion trouvée
 
@@ -64,18 +64,18 @@ Accès institutions
    (BUTTON)
 
    Recherches récentes
-     * eos ipsam
-     * sit aut
-     * voluptatem rem
-     * sint possimus
-     * est reiciendis
+     * est omnis
+     * odio nihil
+     * consequatur nihil
+     * voluptatem ut
+     * eum qui
 
    (BUTTON) Effacer
 
    Des idées pour vous
-   qui omnis molestiae corrupti a eligendi
+   quod quia blanditiis velit labore suscipit
    (BUTTON)
-   qui omnis molestiae corrupti a eligendi
+   quod quia blanditiis velit labore suscipit
 
    Aucune suggestion trouvée
    (BUTTON)

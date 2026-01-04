@@ -130,9 +130,6 @@
    (BUTTON)
    Accueil Franceinfo
      *
-          + En direct
-          + Incendie à Crans-Montana
-     *
           + En ce moment
           + Incendie mortel dans un bar de Crans-Montana en Suisse
           + Nouvel An 2026
@@ -185,9 +182,6 @@
        radio france
 
    Accueil Franceinfo
-     *
-          + En direct
-          + Incendie à Crans-Montana
      *
           + En ce moment
           + Incendie mortel dans un bar de Crans-Montana en Suisse
@@ -335,59 +329,57 @@ internationaux
 
    Derniers articles
      * Direct
-       Les Abymes : un homme de 23 ans grièvement blessé à la main par
-       l’explosion d’un pétard
-       C’est après avoir voulu attraper un feu d’artifice à la main que le
-       jeune homme a eu l’index partiellement sectionné, ce jeudi 1er
-       janvier, route de Bouliqui, aux Abymes.
-       Il y a 8 h
-       Guadeloupe
-       Il y a 8 h
-       Guadeloupe
+       185 kg de lambis saisis en mer, une prise record au large de la
+       Martinique
+       Une yole venue de Sainte-Lucie, chargée de 185 kg de lambis et 10
+       kg de langoustes, a été interceptée le 5 décembre par les
+       garde-côtes. Une saisie biensupérieure à l’ensemble des prises
+       douanières de 2024, impliquant une espèce strictement protégée.
+       Il y a 3 j
+       Martinique
+       Il y a 3 j
+       Martinique
      * Direct
-       "Cet album c’est une façon de penser, autrement dans la société
-       dans laquelle on vit" La Guyanaise Gizeh, sort son 1er album solo.
-       Multi-instrumentiste, auteure, compositrice et interprète, Lilia
-       Rey revient fort avec un album inspiré. A l’écoute de son 1er opus
-       de douze titres les puristes ne seront pas déçus. La Guyanaise
-       prouve avec " Here, I am " que le reggae doit compter avec elle.
-       Il y a 8 h
-       Outre-mer
-       Il y a 8 h
-       Outre-mer
+       Un jeune homme tué à Macouria
+       Nouvel homicide à Macouria. Dans la soirée du mardi 30 décembre, un
+       jeune homme d'une vingtaine d'années a perdu la vie. La victime a
+       été touchée par une arme à feu au thorax et à la tête.
+       Il y a 3 j
+       Guyane
+       Il y a 3 j
+       Guyane
      * Direct
-       La députée Anchya Bamana présente ses vœux et son bilan aux
-       habitants de Combani et Bouéni
-       Deux réunions publiques ont été organisées ce jeudi par la députée
-       RN Anchya Bamana. L'élue tenait à présenter ses vœux, son bilan et
-       échanger avec la population.
-       Il y a 9 h
-       Mayotte
-       Il y a 9 h
-       Mayotte
+       À l'Hermitage, les Réunionnais se préparent au réveillon du Nouvel
+       An
+       Qu'ils comptent y passer le réveillon du Nouvel An ou pas, les
+       Réunionnais commençaient à réinvestir la plage de l'Hermitage ce 31
+       décembre, après l'épisode pluvieux des derniers jours.
+       Il y a 3 j
+       Réunion
+       Il y a 3 j
+       Réunion
      * Direct
-       "Pakome les autres", le planner guadeloupéen qui met à l'honneur
-       les femmes inspirantes des Antilles-Guyane
-       Dans un peu moins d’une semaine, débutera l’année 2026… L’occasion
-       de se fixer de nouveaux objectifs. Par le biais notamment d’un
-       planner publié par une jeune entrepreneur guadeloupéenne, Kindy
-       Alexis. Son nom "Pakome", qui met à l’honneur des femmes
-       inspirantes des Antilles-Guyane.
-       Il y a 9 h
-       Guadeloupe
-       Il y a 9 h
-       Guadeloupe
+       Nouvelle observation de requin au spot du Brisant à l’Etang-Salé
+       Les signalements sont relativement fréquents depuis le mois de
+       novembre, particulièrement sur le spot du Brisant à l’Etang-Salé.
+       Ce mercredi 31 décembre, un requin aurait été observé vers 10h30 à
+       près de 280 mètres du rivage.
+       Il y a 3 j
+       Réunion
+       Il y a 3 j
+       Réunion
      * Direct
-       La prison de Mayotte est restée en tête de la surpopulation
-       carcérale en 2025
-       En 2025, la prison de Majicavo a oscillé entre 612 détenus en mars
-       et 678 en décembre pour 278 places. La densité carcérale est restée
-       au-dessus de 220% toute l'année, bien au-delà de la moyenne
-       nationale.
-       Il y a 9 h
-       Mayotte
-       Il y a 9 h
-       Mayotte
+       VIDEO. Natation : objectif médaille au championnat d'Europe pour
+       Jérémie Delbois
+       À seulement 24 ans, le nageur martiniquais Jérémie Delbois s’est
+       illustré en 2025 avec deux titres de champion de France et une
+       première finale mondiale. De retour sur son île natale pour les
+       fêtes, il continue de s’entraîner et d’inspirer la jeune
+       génération.
+       Il y a 3 j
+       Martinique
+       Il y a 3 j
+       Martinique
 
     1. Portail La 1ère /
     2. Mayotte la 1ère /

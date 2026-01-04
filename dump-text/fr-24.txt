@@ -8,18 +8,18 @@
    (BUTTON)
 
    Recherches récentes
-     * ipsum facilis
-     * eos praesentium
-     * rerum nostrum
-     * iure voluptatem
-     * nihil illo
+     * fugiat amet
+     * ab commodi
+     * sunt ex
+     * laborum unde
+     * quidem numquam
 
    (BUTTON) Effacer
 
    Des idées pour vous
-   voluptate velit et et ut debitis
+   et fugit sint quam dolorem fugiat
    (BUTTON)
-   voluptate velit et et ut debitis
+   et fugit sint quam dolorem fugiat
 
    Aucune suggestion trouvée
 
@@ -63,18 +63,18 @@ Accès institutions
    (BUTTON)
 
    Recherches récentes
-     * quia sit
-     * atque tempora
-     * explicabo omnis
-     * eveniet impedit
-     * quidem quidem
+     * architecto ut
+     * veniam a
+     * ea et
+     * natus reprehenderit
+     * est ut
 
    (BUTTON) Effacer
 
    Des idées pour vous
-   qui impedit distinctio consectetur ipsam excepturi
+   velit quis atque et omnis mollitia
    (BUTTON)
-   qui impedit distinctio consectetur ipsam excepturi
+   velit quis atque et omnis mollitia
 
    Aucune suggestion trouvée
    (BUTTON)

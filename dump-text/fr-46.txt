@@ -9,18 +9,18 @@
    (BUTTON)
 
    Recherches récentes
-     * quia enim
-     * quis est
-     * tenetur ex
-     * consectetur ipsam
-     * dolorem laudantium
+     * consequuntur placeat
+     * numquam esse
+     * dolorem hic
+     * adipisci fuga
+     * laudantium sed
 
    (BUTTON) Effacer
 
    Des idées pour vous
-   adipisci ad quo magni id voluptatum
+   qui eos nisi aut aliquam non
    (BUTTON)
-   adipisci ad quo magni id voluptatum
+   qui eos nisi aut aliquam non
 
    Aucune suggestion trouvée
 
@@ -64,18 +64,18 @@ Accès institutions
    (BUTTON)
 
    Recherches récentes
-     * nihil repudiandae
-     * quis voluptate
-     * rerum explicabo
-     * quidem iure
-     * officiis enim
+     * pariatur dolor
+     * incidunt provident
+     * nihil sapiente
+     * modi et
+     * quis blanditiis
 
    (BUTTON) Effacer
 
    Des idées pour vous
-   enim quia eos sequi in architecto
+   incidunt in quaerat nihil accusantium provident
    (BUTTON)
-   enim quia eos sequi in architecto
+   incidunt in quaerat nihil accusantium provident
 
    Aucune suggestion trouvée
    (BUTTON)

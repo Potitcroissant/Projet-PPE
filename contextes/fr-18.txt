@@ -6,7 +6,7 @@
           + 1.2 Regard féminin
           + 1.3 Regard phallocentrique
      * 2 Le regard oppositionnel au service du développement identitaire
-     * 3 Dans les medias
+     * 3 Dans les médias
      * 4 Références
 
    [ ] Basculer la table des matières
@@ -104,7 +104,7 @@ Le regard masculin
    stéréotypés sur lesquels le regard masculin est rarement, voire jamais,
    appliqué. Ce concept amène hooks à se demander : « Devons-nous vraiment
    imaginer que les théoriciennes féministes qui écrivent uniquement sur
-   les images de femmes blanches [...] ne « voient » pas la blancheur de
+   les images de femmes blanches […] ne « voient » pas la blancheur de
    l’image ? »^[8]
 
    Le regard oppositionnel sert de « geste de résistance » non seulement
@@ -247,7 +247,7 @@ Références
 
    Ce document provient de
    « https://fr.wikipedia.org/w/index.php?title=Regard_oppositionnel&oldid
-   =231559792 ».
+   =232094231 ».
    Catégories :
      * Libertés publiques
      * Féminisme

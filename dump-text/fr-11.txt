@@ -6,8 +6,8 @@ SecuPress
 
 Détails enregistrés :
 
-   Votre IP : 2a02:8429:5425:c701:574a:11e1:3cdb:22c2
-   Heure : 1 January 2026 20:54
+   Votre IP : 2a02:8429:5425:c701:95b:4800:b692:f659
+   Heure : 4 January 2026 1:17
    Raison : User-Agent en liste noire
    Support ID :
    eyJkYXRhIjpbImxpYnd3dyJdLCJVUkwiOiJodHRwczpcL1wvd3d3LnBzeWNo
