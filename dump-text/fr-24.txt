@@ -8,18 +8,18 @@
    (BUTTON)
 
    Recherches récentes
-     * fugiat amet
-     * ab commodi
-     * sunt ex
-     * laborum unde
-     * quidem numquam
+     * ut molestiae
+     * illum perspiciatis
+     * nobis inventore
+     * architecto fugit
+     * nemo recusandae
 
    (BUTTON) Effacer
 
    Des idées pour vous
-   et fugit sint quam dolorem fugiat
+   aliquid sed error autem libero id
    (BUTTON)
-   et fugit sint quam dolorem fugiat
+   aliquid sed error autem libero id
 
    Aucune suggestion trouvée
 
@@ -63,18 +63,18 @@ Accès institutions
    (BUTTON)
 
    Recherches récentes
-     * architecto ut
-     * veniam a
-     * ea et
-     * natus reprehenderit
-     * est ut
+     * maxime exercitationem
+     * cupiditate veniam
+     * ut beatae
+     * distinctio voluptatem
+     * non aut
 
    (BUTTON) Effacer
 
    Des idées pour vous
-   velit quis atque et omnis mollitia
+   veritatis ut animi labore qui nobis
    (BUTTON)
-   velit quis atque et omnis mollitia
+   veritatis ut animi labore qui nobis
 
    Aucune suggestion trouvée
    (BUTTON)

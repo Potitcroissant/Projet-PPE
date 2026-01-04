@@ -1,299 +1,179 @@
-   HTTP/2 200 date: Sat, 03 Jan 2026 13:57:23 GMT server: ATS/9.2.11
-   x-content-type-options: nosniff content-language: en accept-ch:
-   content-security-policy-report-only: script-src 'unsafe-eval' blob:
-   'self' meta.wikimedia.org *.wikimedia.org *.wikipedia.org
-   *.wikinews.org *.wiktionary.org *.wikibooks.org *.wikiversity.org
-   *.wikisource.org wikisource.org *.wikiquote.org *.wikidata.org
-   *.wikifunctions.org *.wikivoyage.org *.mediawiki.org 'unsafe-inline'
-   auth.wikimedia.org; default-src 'self' data: blob: upload.wikimedia.org
-   https://commons.wikimedia.org meta.wikimedia.org *.wikimedia.org
-   *.wikipedia.org *.wikinews.org *.wiktionary.org *.wikibooks.org
-   *.wikiversity.org *.wikisource.org wikisource.org *.wikiquote.org
-   *.wikidata.org *.wikifunctions.org *.wikivoyage.org *.mediawiki.org
-   wikimedia.org en.wikipedia.org en.wikibooks.org en.wikinews.org
-   en.wikiquote.org en.wikisource.org en.wikiversity.org en.wikivoyage.org
-   www.mediawiki.org api.wikimedia.org commons.wikimedia.org
-   foundation.wikimedia.org incubator.wikimedia.org species.wikimedia.org
-   wikimania.wikimedia.org www.wikidata.org www.wikifunctions.org
-   auth.wikimedia.org; style-src 'self' data: blob: upload.wikimedia.org
-   https://commons.wikimedia.org meta.wikimedia.org *.wikimedia.org
-   *.wikipedia.org *.wikinews.org *.wiktionary.org *.wikibooks.org
-   *.wikiversity.org *.wikisource.org wikisource.org *.wikiquote.org
-   *.wikidata.org *.wikifunctions.org *.wikivoyage.org *.mediawiki.org
-   wikimedia.org 'unsafe-inline'; object-src 'none'; report-uri
-   /w/api.php?action=cspreport&format=json&reportonly=1 last-modified:
-   Fri, 02 Jan 2026 04:19:24 GMT content-type: text/html; charset=UTF-8
-   age: 0 accept-ranges: bytes x-cache: cp6015 hit, cp6010 miss
-   x-cache-status: hit-local server-timing: cache;desc="hit-local",
-   host;desc="cp6010" strict-transport-security: max-age=106384710;
-   includeSubDomains; preload report-to: { "group": "wm_nel", "max_age":
-   604800, "endpoints": [{ "url":
-   "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi
-   .network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
-   nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
-   0.05, "success_fraction": 0.0} set-cookie:
-   WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04 Feb
-   2026 12:00:00 GMT set-cookie:
-   WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wiktionary.org;HttpOn
-   ly;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
-   WMF-DP=d06;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
-   x-client-ip: 46.193.69.129 cache-control: private, s-maxage=0,
-   max-age=0, must-revalidate, no-transform vary:
-   Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
-   GeoIP=FR:IDF:V__lizy-Villacoublay:48.79:2.20:v4; Path=/; secure;
-   Domain=.wiktionary.org set-cookie:
-   NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
-   set-cookie:
-   WMF-Uniq=V_s9w45SpSB3PeFUjkNkvgLdAAAAAFvdRIT6FxFEVcI2JHTOY0rf8aaM2IE-4z
-   Qi;Domain=.wiktionary.org;Path=/;HttpOnly;secure;SameSite=None;Expires=
-   Sun, 03 Jan 2027 00:00:00 GMT content-length: 105941 x-request-id:
-   991d480b-7da9-466e-b5da-91a2baf664c6 #Edit Wiktionary (en) Wiktionary
-   Atom feed
+   #alternate
 
-   Jump to content
+     * Svenska
+     * Home
+     * Letters
+     * Words
+     * Phrases
+     * Poems
+     * Lessons
+     * Resources
 
-   [ ] Main menu
-   Main menu
-   (BUTTON) move to sidebar (BUTTON) hide
-   Navigation
-     * Main page
-     * Community portal
-     * Requested entries
-     * Recent changes
-     * Random entry
-     * Help
-     * Glossary
-     * Contact us
-     * Special pages
+   Arabic / Words / opinion, view
 
-   Wiktionary The Free Dictionary
-   Search
-   ____________________
-   (BUTTON) Search
+                            Arabic for opinion, view
 
-   [ ] Appearance
+   naZar
+   ﻧَﻈَﺮ
+   opinion, view – masculine singular
 
-     * Donations
-     * Create account
-     * Log in
+   ﻧَﻈَﺮ is an Arabic word. The meaning is opinion, view. You pronounce it
+   naZar.
 
-   [ ] Personal tools
-     * Donations
-     * Create account
-     * Log in
+   Part of speech: noun. Pattern: verbal noun
 
-Contents
+Using the word opinion, view
 
-   (BUTTON) move to sidebar (BUTTON) hide
-     * Beginning
-     * 1 Arabic
-       (BUTTON) Toggle Arabic subsection
-          + 1.1 Noun
-               o 1.1.1 Declension
-     * 2 Hijazi Arabic
-       (BUTTON) Toggle Hijazi Arabic subsection
-          + 2.1 Etymology
-          + 2.2 Pronunciation
-          + 2.3 Noun
+   stupendous
+   mulfitun linnaZari
+   ﻣُﻠﻔِﺖٌ ﻟِﻠﻨَّﻈَﺮِ
+   He was peeking.
+   kaana yastariqu annaZara
+   ﻛَﺎﻥَ ﻳَﺴﺘَﺮِﻕُ ﺍَﻟﻨَّﻈَﺮَ
 
-   [ ] Toggle the table of contents
+   Do you want to help arabic.fi?
+   We have thousands of words and almost two thousand phrases with
+   detailed information, grammar lessons and many other resources.
+   Everything is free to use. With your help, this website can be even
+   better.
+   Read more here
 
-نظرة
+   Important letters: ﻥ ﻅ ﺭ
+   The root of the word opinion, view consists of three Arabic letters:
+   nun that is written ﻥ and pronounced n, Za that is written ﻅ and
+   pronounced Z and ra that is written ﺭ and pronounced r. Words with the
+   same root letters are often related.
 
-   [ ] 6 languages
-     * Français
-     * Kurdî
-     * Magyar
-     * Malagasy
-     * Polski
-     * Português
+Words related to opinion, view
 
-     * Entry
-     * Discussion
 
-   [ ] English
+   binoculars, magnifying glass
+   minZaar
+   ﻣِﻨﻈَﺎﺭ
 
-     * Read
-     * Edit
-     * View history
+   to compare
+   naZZara
+   ﻧَﻈَّﺮَ
 
-   [ ] Tools
-   Tools
-   (BUTTON) move to sidebar (BUTTON) hide
-   Actions
-     * Read
-     * Edit
-     * View history
+   counterpart
+   naZiir
+   ﻧَﻈِﻴﺮ
 
-   General
-     * What links here
-     * Related changes
-     * Upload file
-     * Permanent link
-     * Page information
-     * Cite this page
-     * Get shortened URL
-     * Download QR code
+   expected
+   muntaZar
+   ﻣُﻨﺘَﻈَﺮ
 
-   Print/export
-     * Create a book
-     * Download as PDF
-     * Printable version
+   eyeglasses
+   naZZaara
+   ﻧَﻈَّﺎﺭَﺓ
 
-   In other projects
+   glance
+   naZra
+   ﻧَﻈﺮَﺓ
 
-   Appearance
-   (BUTTON) move to sidebar (BUTTON) hide
-   From Wiktionary, the free dictionary
+   manager
+   naaZir
+   ﻧَﺎﻇِﺮ
 
-Arabic
+   to observe
+   naZara
+   ﻧَﻈَﺮَ
 
-   [edit]
+   perspective
+   manZuur
+   ﻣَﻨﻈُﻮﺭ
 
-Noun
+   theoretical
+   naZariyy
+   ﻧَﻈَﺮِﻱّ
 
-   [edit]
+   theory
+   naZriyya
+   ﻧَﻈﺮِﻳَّﺔ
 
-   نَظْرَة • (naẓra) f (dual نَظْرَتَان (naẓratān), plural نَظَرَات
-   (naẓarāt))
-    1. instance noun of نَظَرَ (naẓara): a look
+   view
+   manZar
+   ﻣَﻨﻈَﺮ
 
-                أَلْقَى نَظْرَةً ― ʔalqā naẓratan ― he had a look
+   to wait
+   intaZara
+   ﺍِﻧﺘَﻈَﺮَ
 
-    2. perspective
+   waiting
+   intiZaar
+   ﺍِﻧﺘِﻈَﺎﺭ
 
-Declension
+   waiting
+   muntaZir
+   ﻣُﻨﺘَﻈِﺮ
 
-   [edit]
+The letters of opinion, view
 
-   CAPTION: Declension of noun نَظْرَة (naẓra)
+   ﻧَﻈَﺮ
+   ﻧـ
+   ـﻈـ
+   ـﺮ
 
-   singular singular triptote in ـَة (-a)
-   indefinite definite construct
-   informal نَظْرَة
-   naẓra النَّظْرَة
-   an-naẓra نَظْرَة
-   naẓrat
-   nominative نَظْرَةٌ
-   naẓratun النَّظْرَةُ
-   an-naẓratu نَظْرَةُ
-   naẓratu
-   accusative نَظْرَةً
-   naẓratan النَّظْرَةَ
-   an-naẓrata نَظْرَةَ
-   naẓrata
-   genitive نَظْرَةٍ
-   naẓratin النَّظْرَةِ
-   an-naẓrati نَظْرَةِ
-   naẓrati
-   dual indefinite definite construct
-   informal نَظْرَتَيْن
-   naẓratayn النَّظْرَتَيْن
-   an-naẓratayn نَظْرَتَيْ
-   naẓratay
-   nominative نَظْرَتَانِ
-   naẓratāni النَّظْرَتَانِ
-   an-naẓratāni نَظْرَتَا
-   naẓratā
-   accusative نَظْرَتَيْنِ
-   naẓratayni النَّظْرَتَيْنِ
-   an-naẓratayni نَظْرَتَيْ
-   naẓratay
-   genitive نَظْرَتَيْنِ
-   naẓratayni النَّظْرَتَيْنِ
-   an-naẓratayni نَظْرَتَيْ
-   naẓratay
-   plural sound feminine plural
-   indefinite definite construct
-   informal نَظَرَات
-   naẓarāt النَّظَرَات
-   an-naẓarāt نَظَرَات
-   naẓarāt
-   nominative نَظَرَاتٌ
-   naẓarātun النَّظَرَاتُ
-   an-naẓarātu نَظَرَاتُ
-   naẓarātu
-   accusative نَظَرَاتٍ
-   naẓarātin النَّظَرَاتِ
-   an-naẓarāti نَظَرَاتِ
-   naẓarāti
-   genitive نَظَرَاتٍ
-   naẓarātin النَّظَرَاتِ
-   an-naẓarāti نَظَرَاتِ
-   naẓarāti
+   ﻧـ
+   ـﻈـ
+   ـﺮ
 
-Hijazi Arabic
+   ﻥ
+   ﻧـ
+   ـﻨـ
+   ـﻦ
+   ﻅ
+   ﻇـ
+   ـﻈـ
+   ـﻆ
+   ﺭ
+   ـﺮ
 
-   [edit]
-    Root
-   ن ظ ر
-   5 terms
+   nun
+   n
+   Za
+   Z
+   ra
+   r
 
-Etymology
 
-   [edit]
+   The Arabic word for opinion, view consists of: The letter nun that is
+   written ﻥ ( here ﻧـ ) and pronounced n and is a part of the root of the
+   word. The short vowel a that is written as the sign َ above the letter.
+   The letter Za that is written ﻅ ( here ـﻈـ ) and pronounced Z and is a
+   part of the root of the word. The short vowel a that is written as the
+   sign َ above the letter. The letter ra that is written ﺭ ( here ـﺮ )
+   and pronounced r and is a part of the root of the word. Therefore, the
+   word is writen ﻧَﻈَﺮ and pronounced naZar.
+   Arabic is written from right to left. Short vowels are placed above or
+   under the letters, the are usually omitted.
+   Learn how to write with Arabic letters
 
-   Learned borrowing from Arabic نَظْرَة (naẓra).
+The pattern for opinion, view
 
-Pronunciation
+   fa3al becomes naZar
+   We have seen that the Arabic word for opinion, view is written ﻧَﻈَﺮ
+   and pronounced naZar. It follows the pattern verbal noun form 1. All
+   Arabic words with this pattern has the structure fa3al where f, 3 and l
+   is replaced with the root letters of the word.
+   Since the pattern is fa3al and the root letters are n, Z and r, the
+   word becomes naZar.
+   All Arabic words with the same pattern follow the same structure. If
+   you know the pattern and root of a word, you can often guess its
+   meaning. Learn more about Arabic word patterns
 
-   [edit]
-     * IPA^(key): /nazˤ.ra/, /naðˤ.ra/
+Words with the same pattern as opinion, view
 
-Noun
 
-   [edit]
+   ajam, Persians
+   3ajam
+   ﻋَﺠَﻢ
 
-   نظرة • (naẓra) f (plural نَظْرات (naẓrāt) or نَظَرات (naẓarāt))
-    1. a look
+   honor
+   sharaf
+   ﺷَﺮَﻑ
 
-                Synonym: شوفة (šōfa)
-
-   Retrieved from
-   "https://en.wiktionary.org/w/index.php?title=نظرة&oldid=87620395"
-   Categories:
-     * Arabic lemmas
-     * Arabic nouns
-     * Arabic feminine nouns
-     * Arabic instance nouns
-     * Arabic terms with usage examples
-     * Arabic nouns with triptote singular in -a
-     * Arabic nouns with sound feminine plural
-     * Arabic terms belonging to the root ن ظ ر
-     * Hijazi Arabic terms belonging to the root ن ظ ر
-     * Hijazi Arabic terms borrowed from Arabic
-     * Hijazi Arabic learned borrowings from Arabic
-     * Hijazi Arabic terms derived from Arabic
-     * Hijazi Arabic terms with IPA pronunciation
-     * Hijazi Arabic lemmas
-     * Hijazi Arabic nouns
-     * Hijazi Arabic feminine nouns
-
-   Hidden categories:
-     * Pages with entries
-     * Pages with 2 entries
-
-     * This page was last edited on 27 October 2025, at 03:11.
-     * Definitions and other text are available under the Creative Commons
-       Attribution-ShareAlike License; additional terms may apply. By
-       using this site, you agree to the Terms of Use and Privacy Policy.
-
-     * Privacy policy
-     * About Wiktionary
-     * Disclaimers
-     * Code of Conduct
-     * Developers
-     * Statistics
-     * Cookie statement
-     * Mobile view
-
-     * Wikimedia Foundation
-     * Powered by MediaWiki
-
-   (BUTTON) Search
-   ____________________
-   (BUTTON) Search
-
-   [ ] Toggle the table of contents
-   نظرة
-   (BUTTON) 6 languages Add topic
+   pile
+   rakam
+   ﺭَﻛَﻢ
+   Show more words with the pattern verbal noun form 1

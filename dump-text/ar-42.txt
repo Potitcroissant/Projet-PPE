@@ -1,36 +1,6 @@
-   HTTP/2 403 date: Sat, 03 Jan 2026 13:57:56 GMT content-type: text/html;
-   charset=UTF-8 accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
-   Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
-   Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List,
-   Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version,
-   UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA cf-mitigated:
-   challenge critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
-   Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
-   Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List,
-   Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version,
-   UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
-   cross-origin-embedder-policy: require-corp cross-origin-opener-policy:
-   same-origin cross-origin-resource-policy: same-origin
-   origin-agent-cluster: ?1 permissions-policy:
-   accelerometer=(),browsing-topics=(),camera=(),clipboard-read=(),clipboa
-   rd-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magne
-   tometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen
-   -wake-lock=(),serial=(),sync-xhr=(),usb=() referrer-policy: same-origin
-   server-timing: chlray;desc="9b830213281c2a6e" x-content-type-options:
-   nosniff x-frame-options: SAMEORIGIN cache-control: private, max-age=0,
-   no-store, no-cache, must-revalidate, post-check=0, pre-check=0 expires:
-   Thu, 01 Jan 1970 00:00:01 GMT report-to:
-   {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=gjeV
-   H6cosvMtgW2MQegpenMLYAZGwMKvswAJjYen%2Ft%2BtznQ7pvMs57t1%2B%2FuAGuBA%2F
-   vqL1zE92ShA3GjyOICX3m33bba9QaMdE5sgEsAoz72vzsY9BWHOtVoD31h4B4S5NTYGZ9nb
-   65B9T8s%3D"}],"group":"cf-nel","max_age":604800} nel:
-   {"success_fraction":0,"report_to":"cf-nel","max_age":604800} server:
-   cloudflare cf-ray: 9b830213281c2a6e-CDG alt-svc: h3=":443"; ma=86400
-   server-timing:
-   cfL4;desc="?proto=TCP&rtt=2881&min_rtt=2657&rtt_var=914&sent=6&recv=10&
-   lost=0&retrans=0&sent_bytes=3434&recv_bytes=885&delivery_rate=871239&cw
-   nd=253&unsent_bytes=0&cid=2007842e8cd5b868&ts=60&x=0"
    REFRESH(360 sec):
-   file://localhost/tmp/lynxXXXXQ5XkKB/L23419-4958TMP.html
+   https://www.aljadeedmagazine.com/%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%
+   D9%8A%D9%88%D9%86-%D9%81%D9%8A-%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9
+   %82%D9%86%D8%B9%D8%A9
 
    Enable JavaScript and cookies to continue

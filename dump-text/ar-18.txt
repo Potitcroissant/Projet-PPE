@@ -1,188 +1,1113 @@
-   HTTP/2 200 date: Sat, 03 Jan 2026 12:31:25 GMT server: ATS/9.2.11
-   x-content-type-options: nosniff content-language: ar accept-ch:
-   last-modified: Thu, 01 Jan 2026 19:29:48 GMT content-type: text/html;
-   charset=UTF-8 age: 5168 accept-ranges: bytes x-cache: cp6014 hit,
-   cp6010 hit/4 x-cache-status: hit-front server-timing:
-   cache;desc="hit-front", host;desc="cp6010" strict-transport-security:
-   max-age=106384710; includeSubDomains; preload report-to: { "group":
-   "wm_nel", "max_age": 604800, "endpoints": [{ "url":
-   "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi
-   .network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
-   nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
-   0.05, "success_fraction": 0.0} set-cookie:
-   WMF-Last-Access=03-Jan-2026;Path=/;HttpOnly;secure;Expires=Wed, 04 Feb
-   2026 12:00:00 GMT set-cookie:
-   WMF-Last-Access-Global=03-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnl
-   y;secure;Expires=Wed, 04 Feb 2026 12:00:00 GMT set-cookie:
-   WMF-DP=781;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
-   x-client-ip: 46.193.69.129 cache-control: private, s-maxage=0,
-   max-age=0, must-revalidate, no-transform vary:
-   Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
-   GeoIP=FR:IDF:V__lizy-Villacoublay:48.79:2.20:v4; Path=/; secure;
-   Domain=.wikipedia.org set-cookie:
-   NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
-   set-cookie:
-   WMF-Uniq=H064wby6WUoYC4HLxY0SCALdAAAAAFvdJC8fYDcBZgHgufQG5qfJUK16ScrHS_
-   C1;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=S
-   un, 03 Jan 2027 00:00:00 GMT content-length: 64657 x-request-id:
-   3f4a5880-1217-4b7c-bcde-566486bf9a3f #عدل ويكيبيديا (ar) تلقيمة أتوم
-   ويكيبيديا
+   #alternate
 
-   انتقل إلى المحتوى
+   To get full functionality of this site you need to enable JavaScript.
+   Here is how To enable JavaScript on webpage.
 
-   [ ] القائمة الرئيسة
-   القائمة الرئيسة
-   (BUTTON) انقل للشريط الجانبي (BUTTON) أخف
-   الموسوعة
-     * الصفحة الرئيسة
-     * الأحداث الجارية
-     * أحدث التغييرات
-     * أحدث التغييرات الأساسية
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TGFC6FV
 
-   تصفح
-     * المواضيع
-     * أبجدي
-     * بوابات
-     * مقالة عشوائية
-     * تصفح من غير إنترنت
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
+     * خصومات بداية العام تصل إلى 70%
 
-   مشاركة
-     * تواصل مع ويكيبيديا
-     * مساعدة
-     * الميدان
-     * صفحات خاصة
+   المدونة من نحن الاسئلة الشائعة
 
-   ويكيبيديا
-   بحث
-   ____________________
-   (BUTTON) بحث
+   (BUTTON) العربية | (BUTTON) ريال سعودي
 
-   [ ] المظهر
+   القائمة
+   (BUTTON) (BUTTON)
+   زكي للبصريات Logo
 
-     * تبرع
-     * إنشاء حساب
-     * دخول
+زكي للبصريات
 
-   [ ] أدوات شخصية
-     * تبرع
-     * إنشاء حساب
-     * دخول
+   (BUTTON) (BUTTON)
 
-المحتويات
+     * تخفيضات بداية العام
+     * تخفيضات بداية العام
+     * نظارتك ببلاش
+     * نظارتك ببلاش
+     * عدسات النظارات
+     * عدسات النظارات
+     * الماركات العالمية
+     * الماركات العالمية
+     * محاليل العدسات
+     * محاليل العدسات
+     * 99 واقل
+     * 99 واقل
+     * 199 و اقل
+     * 199 و اقل
+     * 299 وأقل
+     * 299 وأقل
+     * 399 وأقل
+     * 399 وأقل
+     * [ct59zhQwO7WobfzWDZBU9CRloxks7Sg4bLKtycxw.jpg] نظارات ستايلش
+     * نظارات ستايلش
+     * [KT4QYwDghL1ERNY69G4VQpSZcj7aTv55N43IUiyD.jpg] جديدنا
+     * جديدنا
+     * [SUVV1OqOb1yoZi9MfusVQCx0iaKFLmdHcNUhONh7.jpg] عروض العدسات
+     * عروض العدسات
+     * [xlq0oP5w8yN1H8SNNP9tYLgHraoSyZLB44T52KWl.jpg] نظارات شمسية
+          + عرض الكل
+          + [pj3AOKmV9aJ2s1uTXSLrSNns3T3pci3vvoP5Vw2v.jpg] الجنس
+               o عرض الكل
+               o [7Lofjp6ASyinLCA1wCRUAd5DOy8dmylqjJNQip9O.jpg] للأطفال
+               o للأطفال
+               o [pluMlWTf1dRI5Hu5wWrnU7euciy1aM1NYXSAdirU.jpg] للرجال
+               o للرجال
+               o [fVW3usF2ZTLVJ4FC1tZrtO9pwFH2NyRxG7p4cR80.jpg] للنساء
+               o للنساء
+          + الجنس
+               o [7Lofjp6ASyinLCA1wCRUAd5DOy8dmylqjJNQip9O.jpg] للأطفال
+               o للأطفال
+               o [pluMlWTf1dRI5Hu5wWrnU7euciy1aM1NYXSAdirU.jpg] للرجال
+               o للرجال
+               o [fVW3usF2ZTLVJ4FC1tZrtO9pwFH2NyRxG7p4cR80.jpg] للنساء
+               o للنساء
+          + [MlYMLdUHExHgt1VlbeLEW0qLkLfmRge015UklsBv.jpg] لون الإيطار
+               o عرض الكل
+               o [1oHLBp8ECMWjrtsDSVQ6XWVzW9MjUoWvwBM60NWo.jpg] أبيض
+               o أبيض
+               o [bcBuxJWwfVJw7CpGd0Kg9Kvfh3FRxoTq8mxiBKAM.jpg] أحمر
+               o أحمر
+               o [2C0XkqON4kQRg3CZCWhn6oUI3T5Qzu6GOVZ9mn8i.jpg] الوان
+                 متعددة
+               o الوان متعددة
+               o [5XtZNbqfyUx1OjQrUrSEViFNNsvmSNWchrDY9wE6.jpg] أزرق
+               o أزرق
+               o [3HSxiDiclF4zm8leurAYPsxSAZ4lFKsdHAqUSouo.jpg] أسود
+               o أسود
+               o [R0rfEFbHeUTg2ikpEBvg6SucorEynUgZaHG7UnzI.jpg] بني
+               o بني
+               o [lWyGu3PaGoZgBp9qnchghu8JZhPM6ZYff3UH1UJD.jpg] تايقر
+               o تايقر
+               o [GweBRR2ZnXJg2UEpOfQM2QuSWv9HHQG5U0Rcf7W2.jpg] ذهبي
+               o ذهبي
+               o [HNfsTjTbVL1L3Dbkf91LATkwzqtGA9cgi2df3dZw.jpg] رمادي
+               o رمادي
+               o [RwGxSD3HsYb1Ot5D2ld07SHz5GjpoSWLSAzvPBT2.jpg] شفاف
+               o شفاف
+               o [DBiWavY7WMFFgGfIgfaaTULkEFpKYbutBF5wFBty.jpg] فضي
+               o فضي
+          + لون الإيطار
+               o [1oHLBp8ECMWjrtsDSVQ6XWVzW9MjUoWvwBM60NWo.jpg] أبيض
+               o أبيض
+               o [bcBuxJWwfVJw7CpGd0Kg9Kvfh3FRxoTq8mxiBKAM.jpg] أحمر
+               o أحمر
+               o [2C0XkqON4kQRg3CZCWhn6oUI3T5Qzu6GOVZ9mn8i.jpg] الوان
+                 متعددة
+               o الوان متعددة
+               o [5XtZNbqfyUx1OjQrUrSEViFNNsvmSNWchrDY9wE6.jpg] أزرق
+               o أزرق
+               o [3HSxiDiclF4zm8leurAYPsxSAZ4lFKsdHAqUSouo.jpg] أسود
+               o أسود
+               o [R0rfEFbHeUTg2ikpEBvg6SucorEynUgZaHG7UnzI.jpg] بني
+               o بني
+               o [lWyGu3PaGoZgBp9qnchghu8JZhPM6ZYff3UH1UJD.jpg] تايقر
+               o تايقر
+               o [GweBRR2ZnXJg2UEpOfQM2QuSWv9HHQG5U0Rcf7W2.jpg] ذهبي
+               o ذهبي
+               o [HNfsTjTbVL1L3Dbkf91LATkwzqtGA9cgi2df3dZw.jpg] رمادي
+               o رمادي
+               o [RwGxSD3HsYb1Ot5D2ld07SHz5GjpoSWLSAzvPBT2.jpg] شفاف
+               o شفاف
+               o [DBiWavY7WMFFgGfIgfaaTULkEFpKYbutBF5wFBty.jpg] فضي
+               o فضي
+          + [ypRtbK93s7ichns4VR08YYQF64sXtKaCDNSG0WOW.jpg] الشكل
+               o عرض الكل
+               o [WB3OF5ogbVZJgzDw9CTAiry9oa45hDod4zvyHFsX.jpg] افياتور
+               o افياتور
+               o [Njbk9PW77cG6u83wayihHL6pRj06taSTCS12VPvQ.jpg] كات أي
+               o كات أي
+               o [gp3BK0dLeAaGKCdM7XSysotLayuirpKJNHLxw32q.jpg] مستطيل
+               o مستطيل
+               o [sZ74Qxb04j9RnxiwijjttZ8CvvZabl4Fu1byKKlq.jpg] مربع
+               o مربع
+               o [fLYWs2fmwt3LOJFcp5balbyYOPZdJLnRgZfdTGO6.jpg] دائري
+               o دائري
+               o [NCJb8A1EnMfjhraLPBfFVCHUoedbPPXE1zh6YIFt.jpg] سداسي
+               o سداسي
+          + الشكل
+               o [WB3OF5ogbVZJgzDw9CTAiry9oa45hDod4zvyHFsX.jpg] افياتور
+               o افياتور
+               o [Njbk9PW77cG6u83wayihHL6pRj06taSTCS12VPvQ.jpg] كات أي
+               o كات أي
+               o [gp3BK0dLeAaGKCdM7XSysotLayuirpKJNHLxw32q.jpg] مستطيل
+               o مستطيل
+               o [sZ74Qxb04j9RnxiwijjttZ8CvvZabl4Fu1byKKlq.jpg] مربع
+               o مربع
+               o [fLYWs2fmwt3LOJFcp5balbyYOPZdJLnRgZfdTGO6.jpg] دائري
+               o دائري
+               o [NCJb8A1EnMfjhraLPBfFVCHUoedbPPXE1zh6YIFt.jpg] سداسي
+               o سداسي
+          + [cfBY4TauBeuJzO7HeRWUPGLZekWxhtBDch5Ok42j.jpg] نوع الإيطار
+               o عرض الكل
+               o [D4NHs8EJZulzq31HQbMPpl8hdlMTZjaGGVZchSaT.jpg] أسيتات
+               o أسيتات
+               o [qPXnR5aSfgMDo0tWu3I92U2pPnJPrpATg6n30XDZ.jpg] معدن
+               o معدن
+          + نوع الإيطار
+               o [D4NHs8EJZulzq31HQbMPpl8hdlMTZjaGGVZchSaT.jpg] أسيتات
+               o أسيتات
+               o [qPXnR5aSfgMDo0tWu3I92U2pPnJPrpATg6n30XDZ.jpg] معدن
+               o معدن
+          + [BDCfZ8AS1ubTelbHs368gNr6ESI3dlFmuIuVnocD.jpg] حجم الإيطار
+               o عرض الكل
+               o [EpHlT4gyVtNJk1da58Sh1KNLXa5Ct2ySTLDaNtgf.jpg] رفيع
+               o رفيع
+               o [SVFfgwdSuQN63KH0XFLbM7nr30MsUKgs6pcG3k9e.jpg] عادي
+               o عادي
+               o [ZUlFgzUhIkClkbFTikhikV9jzTtpZgjEFYuFMaHj.jpg] عريض
+               o عريض
+          + حجم الإيطار
+               o [EpHlT4gyVtNJk1da58Sh1KNLXa5Ct2ySTLDaNtgf.jpg] رفيع
+               o رفيع
+               o [SVFfgwdSuQN63KH0XFLbM7nr30MsUKgs6pcG3k9e.jpg] عادي
+               o عادي
+               o [ZUlFgzUhIkClkbFTikhikV9jzTtpZgjEFYuFMaHj.jpg] عريض
+               o عريض
+          + [qPz1RpbBJPXYqlDU9wnQhxNyAZwI4FRM2VePMKbB.jpg] الإيطار
+               o عرض الكل
+               o [0FsMK24EFkjjALDeRxd7yziaDmKyYxpPOE4ScXZZ.jpg] إيطار كامل
+               o إيطار كامل
+               o [MK2xJX5vWAVFNvJEOgsLgmRUE5OZBLvK91p2OQuo.jpg] نصف إيطار
+               o نصف إيطار
+               o [uhscp61ntzMA783yLGR2osO2dF9yo648qja5Tpa5.jpg] بدون إيطار
+               o بدون إيطار
+          + الإيطار
+               o [0FsMK24EFkjjALDeRxd7yziaDmKyYxpPOE4ScXZZ.jpg] إيطار كامل
+               o إيطار كامل
+               o [MK2xJX5vWAVFNvJEOgsLgmRUE5OZBLvK91p2OQuo.jpg] نصف إيطار
+               o نصف إيطار
+               o [uhscp61ntzMA783yLGR2osO2dF9yo648qja5Tpa5.jpg] بدون إيطار
+               o بدون إيطار
+     * نظارات شمسية
+          + [pj3AOKmV9aJ2s1uTXSLrSNns3T3pci3vvoP5Vw2v.jpg] الجنس
+               o عرض الكل
+               o [7Lofjp6ASyinLCA1wCRUAd5DOy8dmylqjJNQip9O.jpg] للأطفال
+               o للأطفال
+               o [pluMlWTf1dRI5Hu5wWrnU7euciy1aM1NYXSAdirU.jpg] للرجال
+               o للرجال
+               o [fVW3usF2ZTLVJ4FC1tZrtO9pwFH2NyRxG7p4cR80.jpg] للنساء
+               o للنساء
+          + الجنس
+               o [7Lofjp6ASyinLCA1wCRUAd5DOy8dmylqjJNQip9O.jpg] للأطفال
+               o للأطفال
+               o [pluMlWTf1dRI5Hu5wWrnU7euciy1aM1NYXSAdirU.jpg] للرجال
+               o للرجال
+               o [fVW3usF2ZTLVJ4FC1tZrtO9pwFH2NyRxG7p4cR80.jpg] للنساء
+               o للنساء
+          + [MlYMLdUHExHgt1VlbeLEW0qLkLfmRge015UklsBv.jpg] لون الإيطار
+               o عرض الكل
+               o [1oHLBp8ECMWjrtsDSVQ6XWVzW9MjUoWvwBM60NWo.jpg] أبيض
+               o أبيض
+               o [bcBuxJWwfVJw7CpGd0Kg9Kvfh3FRxoTq8mxiBKAM.jpg] أحمر
+               o أحمر
+               o [2C0XkqON4kQRg3CZCWhn6oUI3T5Qzu6GOVZ9mn8i.jpg] الوان
+                 متعددة
+               o الوان متعددة
+               o [5XtZNbqfyUx1OjQrUrSEViFNNsvmSNWchrDY9wE6.jpg] أزرق
+               o أزرق
+               o [3HSxiDiclF4zm8leurAYPsxSAZ4lFKsdHAqUSouo.jpg] أسود
+               o أسود
+               o [R0rfEFbHeUTg2ikpEBvg6SucorEynUgZaHG7UnzI.jpg] بني
+               o بني
+               o [lWyGu3PaGoZgBp9qnchghu8JZhPM6ZYff3UH1UJD.jpg] تايقر
+               o تايقر
+               o [GweBRR2ZnXJg2UEpOfQM2QuSWv9HHQG5U0Rcf7W2.jpg] ذهبي
+               o ذهبي
+               o [HNfsTjTbVL1L3Dbkf91LATkwzqtGA9cgi2df3dZw.jpg] رمادي
+               o رمادي
+               o [RwGxSD3HsYb1Ot5D2ld07SHz5GjpoSWLSAzvPBT2.jpg] شفاف
+               o شفاف
+               o [DBiWavY7WMFFgGfIgfaaTULkEFpKYbutBF5wFBty.jpg] فضي
+               o فضي
+          + لون الإيطار
+               o [1oHLBp8ECMWjrtsDSVQ6XWVzW9MjUoWvwBM60NWo.jpg] أبيض
+               o أبيض
+               o [bcBuxJWwfVJw7CpGd0Kg9Kvfh3FRxoTq8mxiBKAM.jpg] أحمر
+               o أحمر
+               o [2C0XkqON4kQRg3CZCWhn6oUI3T5Qzu6GOVZ9mn8i.jpg] الوان
+                 متعددة
+               o الوان متعددة
+               o [5XtZNbqfyUx1OjQrUrSEViFNNsvmSNWchrDY9wE6.jpg] أزرق
+               o أزرق
+               o [3HSxiDiclF4zm8leurAYPsxSAZ4lFKsdHAqUSouo.jpg] أسود
+               o أسود
+               o [R0rfEFbHeUTg2ikpEBvg6SucorEynUgZaHG7UnzI.jpg] بني
+               o بني
+               o [lWyGu3PaGoZgBp9qnchghu8JZhPM6ZYff3UH1UJD.jpg] تايقر
+               o تايقر
+               o [GweBRR2ZnXJg2UEpOfQM2QuSWv9HHQG5U0Rcf7W2.jpg] ذهبي
+               o ذهبي
+               o [HNfsTjTbVL1L3Dbkf91LATkwzqtGA9cgi2df3dZw.jpg] رمادي
+               o رمادي
+               o [RwGxSD3HsYb1Ot5D2ld07SHz5GjpoSWLSAzvPBT2.jpg] شفاف
+               o شفاف
+               o [DBiWavY7WMFFgGfIgfaaTULkEFpKYbutBF5wFBty.jpg] فضي
+               o فضي
+          + [ypRtbK93s7ichns4VR08YYQF64sXtKaCDNSG0WOW.jpg] الشكل
+               o عرض الكل
+               o [WB3OF5ogbVZJgzDw9CTAiry9oa45hDod4zvyHFsX.jpg] افياتور
+               o افياتور
+               o [Njbk9PW77cG6u83wayihHL6pRj06taSTCS12VPvQ.jpg] كات أي
+               o كات أي
+               o [gp3BK0dLeAaGKCdM7XSysotLayuirpKJNHLxw32q.jpg] مستطيل
+               o مستطيل
+               o [sZ74Qxb04j9RnxiwijjttZ8CvvZabl4Fu1byKKlq.jpg] مربع
+               o مربع
+               o [fLYWs2fmwt3LOJFcp5balbyYOPZdJLnRgZfdTGO6.jpg] دائري
+               o دائري
+               o [NCJb8A1EnMfjhraLPBfFVCHUoedbPPXE1zh6YIFt.jpg] سداسي
+               o سداسي
+          + الشكل
+               o [WB3OF5ogbVZJgzDw9CTAiry9oa45hDod4zvyHFsX.jpg] افياتور
+               o افياتور
+               o [Njbk9PW77cG6u83wayihHL6pRj06taSTCS12VPvQ.jpg] كات أي
+               o كات أي
+               o [gp3BK0dLeAaGKCdM7XSysotLayuirpKJNHLxw32q.jpg] مستطيل
+               o مستطيل
+               o [sZ74Qxb04j9RnxiwijjttZ8CvvZabl4Fu1byKKlq.jpg] مربع
+               o مربع
+               o [fLYWs2fmwt3LOJFcp5balbyYOPZdJLnRgZfdTGO6.jpg] دائري
+               o دائري
+               o [NCJb8A1EnMfjhraLPBfFVCHUoedbPPXE1zh6YIFt.jpg] سداسي
+               o سداسي
+          + [cfBY4TauBeuJzO7HeRWUPGLZekWxhtBDch5Ok42j.jpg] نوع الإيطار
+               o عرض الكل
+               o [D4NHs8EJZulzq31HQbMPpl8hdlMTZjaGGVZchSaT.jpg] أسيتات
+               o أسيتات
+               o [qPXnR5aSfgMDo0tWu3I92U2pPnJPrpATg6n30XDZ.jpg] معدن
+               o معدن
+          + نوع الإيطار
+               o [D4NHs8EJZulzq31HQbMPpl8hdlMTZjaGGVZchSaT.jpg] أسيتات
+               o أسيتات
+               o [qPXnR5aSfgMDo0tWu3I92U2pPnJPrpATg6n30XDZ.jpg] معدن
+               o معدن
+          + [BDCfZ8AS1ubTelbHs368gNr6ESI3dlFmuIuVnocD.jpg] حجم الإيطار
+               o عرض الكل
+               o [EpHlT4gyVtNJk1da58Sh1KNLXa5Ct2ySTLDaNtgf.jpg] رفيع
+               o رفيع
+               o [SVFfgwdSuQN63KH0XFLbM7nr30MsUKgs6pcG3k9e.jpg] عادي
+               o عادي
+               o [ZUlFgzUhIkClkbFTikhikV9jzTtpZgjEFYuFMaHj.jpg] عريض
+               o عريض
+          + حجم الإيطار
+               o [EpHlT4gyVtNJk1da58Sh1KNLXa5Ct2ySTLDaNtgf.jpg] رفيع
+               o رفيع
+               o [SVFfgwdSuQN63KH0XFLbM7nr30MsUKgs6pcG3k9e.jpg] عادي
+               o عادي
+               o [ZUlFgzUhIkClkbFTikhikV9jzTtpZgjEFYuFMaHj.jpg] عريض
+               o عريض
+          + [qPz1RpbBJPXYqlDU9wnQhxNyAZwI4FRM2VePMKbB.jpg] الإيطار
+               o عرض الكل
+               o [0FsMK24EFkjjALDeRxd7yziaDmKyYxpPOE4ScXZZ.jpg] إيطار كامل
+               o إيطار كامل
+               o [MK2xJX5vWAVFNvJEOgsLgmRUE5OZBLvK91p2OQuo.jpg] نصف إيطار
+               o نصف إيطار
+               o [uhscp61ntzMA783yLGR2osO2dF9yo648qja5Tpa5.jpg] بدون إيطار
+               o بدون إيطار
+          + الإيطار
+               o [0FsMK24EFkjjALDeRxd7yziaDmKyYxpPOE4ScXZZ.jpg] إيطار كامل
+               o إيطار كامل
+               o [MK2xJX5vWAVFNvJEOgsLgmRUE5OZBLvK91p2OQuo.jpg] نصف إيطار
+               o نصف إيطار
+               o [uhscp61ntzMA783yLGR2osO2dF9yo648qja5Tpa5.jpg] بدون إيطار
+               o بدون إيطار
+     * [pM0Jv1eJPyXYLJ4A8FqkteKngxui43YdNfn2pXlM.jpg] نظارات طبية
+          + عرض الكل
+          + [pJxi5VR4kHCBo5McspcgubqPr3n3xlgqeMB5ttkQ.jpg] الجنس
+               o عرض الكل
+               o [D6Jd4kjqddGlfi3FPom2DccZk6U68wWbxz69Q0JG.jpg] للأطفال
+               o للأطفال
+               o [gS75umxGUh3jbcUS4KawDzdkKPYvdrw6OtE5fCEJ.jpg] للجنسين
+               o للجنسين
+               o [NaNxIjFzmoHvvvKry8WPMm5Kwqg0cRNxdiAUOcKK.jpg] للرجال
+               o للرجال
+               o [fJ0rJQ469dHMCjOBspl7xJrp75ERCqAUUSAezp5x.jpg] للنساء
+               o للنساء
+          + الجنس
+               o [D6Jd4kjqddGlfi3FPom2DccZk6U68wWbxz69Q0JG.jpg] للأطفال
+               o للأطفال
+               o [gS75umxGUh3jbcUS4KawDzdkKPYvdrw6OtE5fCEJ.jpg] للجنسين
+               o للجنسين
+               o [NaNxIjFzmoHvvvKry8WPMm5Kwqg0cRNxdiAUOcKK.jpg] للرجال
+               o للرجال
+               o [fJ0rJQ469dHMCjOBspl7xJrp75ERCqAUUSAezp5x.jpg] للنساء
+               o للنساء
+          + [Y0inF5mAyvwbJjd5VYkKolxGCDvzGIFML7iDAqa7.jpg] لون الإيطار
+               o عرض الكل
+               o [E4ZBYKuRu0DTzXRGxp7KbjqCUEOrirW1Y1Nb9L1v.jpg] أبيض
+               o أبيض
+               o [u6tQtMg41VjqTDLwGLujxs8vOt1JxkOKz6W1qnqW.jpg] أحمر
+               o أحمر
+               o [AC7nYIbjxYwMajUIUBwkdO0nVHY9xgQCtMegeLrH.jpg] أزرق
+               o أزرق
+               o [eohBM2B2VSZSSO91J7NN3Ndhyx40M9sbW0qwdRny.jpg] أسود
+               o أسود
+               o [5PRNHb3fbJXJbae5HPYskIl2VkJMbfkVZPug1vc6.jpg] بني
+               o بني
+               o [fkDwtsj2jbmDhBVmsGKyQZCiJik8aRKxUutQRz6T.jpg] تايقر
+               o تايقر
+               o [W1fNEEZ9ioESDFh8ofe0Y4ANgr1gLnByrBV6WQYC.jpg] ذهبي
+               o ذهبي
+               o [9rPayXG9jlaZnWKtnXMKH4PZv9nwO1cp3pwRTkCx.jpg] رمادي
+               o رمادي
+               o [NaHvhAzpiT7oMnD1Yct5vCXnNT6Kl3LdSIslIa86.jpg] شفاف
+               o شفاف
+               o [4knv3qiLKxox2iQuaPoR3UKHeUBrJL6MIN7ao8jz.jpg] فضي
+               o فضي
+               o [IZhlcPXVYaFelqF0lJ1eVP5VxFddd2y2VOQR7qKr.jpg] الوان
+                 متعددة
+               o الوان متعددة
+          + لون الإيطار
+               o [E4ZBYKuRu0DTzXRGxp7KbjqCUEOrirW1Y1Nb9L1v.jpg] أبيض
+               o أبيض
+               o [u6tQtMg41VjqTDLwGLujxs8vOt1JxkOKz6W1qnqW.jpg] أحمر
+               o أحمر
+               o [AC7nYIbjxYwMajUIUBwkdO0nVHY9xgQCtMegeLrH.jpg] أزرق
+               o أزرق
+               o [eohBM2B2VSZSSO91J7NN3Ndhyx40M9sbW0qwdRny.jpg] أسود
+               o أسود
+               o [5PRNHb3fbJXJbae5HPYskIl2VkJMbfkVZPug1vc6.jpg] بني
+               o بني
+               o [fkDwtsj2jbmDhBVmsGKyQZCiJik8aRKxUutQRz6T.jpg] تايقر
+               o تايقر
+               o [W1fNEEZ9ioESDFh8ofe0Y4ANgr1gLnByrBV6WQYC.jpg] ذهبي
+               o ذهبي
+               o [9rPayXG9jlaZnWKtnXMKH4PZv9nwO1cp3pwRTkCx.jpg] رمادي
+               o رمادي
+               o [NaHvhAzpiT7oMnD1Yct5vCXnNT6Kl3LdSIslIa86.jpg] شفاف
+               o شفاف
+               o [4knv3qiLKxox2iQuaPoR3UKHeUBrJL6MIN7ao8jz.jpg] فضي
+               o فضي
+               o [IZhlcPXVYaFelqF0lJ1eVP5VxFddd2y2VOQR7qKr.jpg] الوان
+                 متعددة
+               o الوان متعددة
+          + [rRkcf4tGOCg2loNMez3PrVgRAjUevLt8xjkjQCdb.jpg] الشكل
+               o عرض الكل
+               o [MT3ZNDdah305KII8jVY3XUYWIHvRSwztY4Ano2IK.jpg] افياتور
+               o افياتور
+               o [YFHe1mMozW8C3ElDB8jO8FAj4cmPcM4mP82QhZG9.jpg] كات أي
+               o كات أي
+               o [rRMS3i2XjQEBuM7FmAMzPyOFVqIpZLI6QFCZUyGx.jpg] مستطيل
+               o مستطيل
+               o [76abba5d-ac3d-4262-8e53-f58e15a2f60c.webp] مربع
+               o مربع
+               o [AxrFWcmUJeWxVeM9KNLyGy6qwBkhfj9rn2QBBqV3.jpg] دائري
+               o دائري
+               o [NI42Hf46Dck1WM2FzReExBfuyOn24Y9AJ5A9HTVL.jpg] سداسي
+               o سداسي
+          + الشكل
+               o [MT3ZNDdah305KII8jVY3XUYWIHvRSwztY4Ano2IK.jpg] افياتور
+               o افياتور
+               o [YFHe1mMozW8C3ElDB8jO8FAj4cmPcM4mP82QhZG9.jpg] كات أي
+               o كات أي
+               o [rRMS3i2XjQEBuM7FmAMzPyOFVqIpZLI6QFCZUyGx.jpg] مستطيل
+               o مستطيل
+               o [76abba5d-ac3d-4262-8e53-f58e15a2f60c.webp] مربع
+               o مربع
+               o [AxrFWcmUJeWxVeM9KNLyGy6qwBkhfj9rn2QBBqV3.jpg] دائري
+               o دائري
+               o [NI42Hf46Dck1WM2FzReExBfuyOn24Y9AJ5A9HTVL.jpg] سداسي
+               o سداسي
+          + [VhINUKDbXpjbD7qVGYEX9nN1hLeFI9VjP57DYHUH.jpg] نوع الإيطار
+               o عرض الكل
+               o [S9BaPMk7Xeak1wmR4zfP7tWGDHa3uDzhZ5moEN41.jpg] أسيتات
+               o أسيتات
+               o [casO2WdLp0heQo7l0Z5amYZHYsWiF0xlRfYBSVl9.jpg] معدن
+               o معدن
+          + نوع الإيطار
+               o [S9BaPMk7Xeak1wmR4zfP7tWGDHa3uDzhZ5moEN41.jpg] أسيتات
+               o أسيتات
+               o [casO2WdLp0heQo7l0Z5amYZHYsWiF0xlRfYBSVl9.jpg] معدن
+               o معدن
+          + [cfSKP56swdcfp5PEdbWRx3D7F1yo5QAWUnLcQnwe.jpg] حجم الإيطار
+               o عرض الكل
+               o [aCG8qLi5XV3evURlbxGX1sgV5AFSVDrZunKI87OX.jpg] رفيع
+               o رفيع
+               o [iw3iFM1uS8yIrqXUmHD6KHZQDsYI85IZb30VhGYv.jpg] عادي
+               o عادي
+               o [7C7ViHdO4JlA3tKXvAKvBrZG5L3w9EWOWilnwTUu.jpg] عريض
+               o عريض
+          + حجم الإيطار
+               o [aCG8qLi5XV3evURlbxGX1sgV5AFSVDrZunKI87OX.jpg] رفيع
+               o رفيع
+               o [iw3iFM1uS8yIrqXUmHD6KHZQDsYI85IZb30VhGYv.jpg] عادي
+               o عادي
+               o [7C7ViHdO4JlA3tKXvAKvBrZG5L3w9EWOWilnwTUu.jpg] عريض
+               o عريض
+          + [EMI0LLzJKjmH5uugGe4AOO6ig1Ak92yeewJrSUFV.jpg] الإيطار
+               o عرض الكل
+               o [KTgSbWoORvv0dMuzz4nT19GzfUFS63NR5eJWj7zr.jpg] إيطار كامل
+               o إيطار كامل
+               o [LP7VPUSXlojfB8ulCQ3SruwhNxaxczADuFsqJujy.jpg] نصف إيطار
+               o نصف إيطار
+               o [ZheuScDYqPwtuQEQJYiw7rp3PpbWlq5cWdaWF0Wj.jpg] بدون إيطار
+               o بدون إيطار
+          + الإيطار
+               o [KTgSbWoORvv0dMuzz4nT19GzfUFS63NR5eJWj7zr.jpg] إيطار كامل
+               o إيطار كامل
+               o [LP7VPUSXlojfB8ulCQ3SruwhNxaxczADuFsqJujy.jpg] نصف إيطار
+               o نصف إيطار
+               o [ZheuScDYqPwtuQEQJYiw7rp3PpbWlq5cWdaWF0Wj.jpg] بدون إيطار
+               o بدون إيطار
+     * نظارات طبية
+          + [pJxi5VR4kHCBo5McspcgubqPr3n3xlgqeMB5ttkQ.jpg] الجنس
+               o عرض الكل
+               o [D6Jd4kjqddGlfi3FPom2DccZk6U68wWbxz69Q0JG.jpg] للأطفال
+               o للأطفال
+               o [gS75umxGUh3jbcUS4KawDzdkKPYvdrw6OtE5fCEJ.jpg] للجنسين
+               o للجنسين
+               o [NaNxIjFzmoHvvvKry8WPMm5Kwqg0cRNxdiAUOcKK.jpg] للرجال
+               o للرجال
+               o [fJ0rJQ469dHMCjOBspl7xJrp75ERCqAUUSAezp5x.jpg] للنساء
+               o للنساء
+          + الجنس
+               o [D6Jd4kjqddGlfi3FPom2DccZk6U68wWbxz69Q0JG.jpg] للأطفال
+               o للأطفال
+               o [gS75umxGUh3jbcUS4KawDzdkKPYvdrw6OtE5fCEJ.jpg] للجنسين
+               o للجنسين
+               o [NaNxIjFzmoHvvvKry8WPMm5Kwqg0cRNxdiAUOcKK.jpg] للرجال
+               o للرجال
+               o [fJ0rJQ469dHMCjOBspl7xJrp75ERCqAUUSAezp5x.jpg] للنساء
+               o للنساء
+          + [Y0inF5mAyvwbJjd5VYkKolxGCDvzGIFML7iDAqa7.jpg] لون الإيطار
+               o عرض الكل
+               o [E4ZBYKuRu0DTzXRGxp7KbjqCUEOrirW1Y1Nb9L1v.jpg] أبيض
+               o أبيض
+               o [u6tQtMg41VjqTDLwGLujxs8vOt1JxkOKz6W1qnqW.jpg] أحمر
+               o أحمر
+               o [AC7nYIbjxYwMajUIUBwkdO0nVHY9xgQCtMegeLrH.jpg] أزرق
+               o أزرق
+               o [eohBM2B2VSZSSO91J7NN3Ndhyx40M9sbW0qwdRny.jpg] أسود
+               o أسود
+               o [5PRNHb3fbJXJbae5HPYskIl2VkJMbfkVZPug1vc6.jpg] بني
+               o بني
+               o [fkDwtsj2jbmDhBVmsGKyQZCiJik8aRKxUutQRz6T.jpg] تايقر
+               o تايقر
+               o [W1fNEEZ9ioESDFh8ofe0Y4ANgr1gLnByrBV6WQYC.jpg] ذهبي
+               o ذهبي
+               o [9rPayXG9jlaZnWKtnXMKH4PZv9nwO1cp3pwRTkCx.jpg] رمادي
+               o رمادي
+               o [NaHvhAzpiT7oMnD1Yct5vCXnNT6Kl3LdSIslIa86.jpg] شفاف
+               o شفاف
+               o [4knv3qiLKxox2iQuaPoR3UKHeUBrJL6MIN7ao8jz.jpg] فضي
+               o فضي
+               o [IZhlcPXVYaFelqF0lJ1eVP5VxFddd2y2VOQR7qKr.jpg] الوان
+                 متعددة
+               o الوان متعددة
+          + لون الإيطار
+               o [E4ZBYKuRu0DTzXRGxp7KbjqCUEOrirW1Y1Nb9L1v.jpg] أبيض
+               o أبيض
+               o [u6tQtMg41VjqTDLwGLujxs8vOt1JxkOKz6W1qnqW.jpg] أحمر
+               o أحمر
+               o [AC7nYIbjxYwMajUIUBwkdO0nVHY9xgQCtMegeLrH.jpg] أزرق
+               o أزرق
+               o [eohBM2B2VSZSSO91J7NN3Ndhyx40M9sbW0qwdRny.jpg] أسود
+               o أسود
+               o [5PRNHb3fbJXJbae5HPYskIl2VkJMbfkVZPug1vc6.jpg] بني
+               o بني
+               o [fkDwtsj2jbmDhBVmsGKyQZCiJik8aRKxUutQRz6T.jpg] تايقر
+               o تايقر
+               o [W1fNEEZ9ioESDFh8ofe0Y4ANgr1gLnByrBV6WQYC.jpg] ذهبي
+               o ذهبي
+               o [9rPayXG9jlaZnWKtnXMKH4PZv9nwO1cp3pwRTkCx.jpg] رمادي
+               o رمادي
+               o [NaHvhAzpiT7oMnD1Yct5vCXnNT6Kl3LdSIslIa86.jpg] شفاف
+               o شفاف
+               o [4knv3qiLKxox2iQuaPoR3UKHeUBrJL6MIN7ao8jz.jpg] فضي
+               o فضي
+               o [IZhlcPXVYaFelqF0lJ1eVP5VxFddd2y2VOQR7qKr.jpg] الوان
+                 متعددة
+               o الوان متعددة
+          + [rRkcf4tGOCg2loNMez3PrVgRAjUevLt8xjkjQCdb.jpg] الشكل
+               o عرض الكل
+               o [MT3ZNDdah305KII8jVY3XUYWIHvRSwztY4Ano2IK.jpg] افياتور
+               o افياتور
+               o [YFHe1mMozW8C3ElDB8jO8FAj4cmPcM4mP82QhZG9.jpg] كات أي
+               o كات أي
+               o [rRMS3i2XjQEBuM7FmAMzPyOFVqIpZLI6QFCZUyGx.jpg] مستطيل
+               o مستطيل
+               o [76abba5d-ac3d-4262-8e53-f58e15a2f60c.webp] مربع
+               o مربع
+               o [AxrFWcmUJeWxVeM9KNLyGy6qwBkhfj9rn2QBBqV3.jpg] دائري
+               o دائري
+               o [NI42Hf46Dck1WM2FzReExBfuyOn24Y9AJ5A9HTVL.jpg] سداسي
+               o سداسي
+          + الشكل
+               o [MT3ZNDdah305KII8jVY3XUYWIHvRSwztY4Ano2IK.jpg] افياتور
+               o افياتور
+               o [YFHe1mMozW8C3ElDB8jO8FAj4cmPcM4mP82QhZG9.jpg] كات أي
+               o كات أي
+               o [rRMS3i2XjQEBuM7FmAMzPyOFVqIpZLI6QFCZUyGx.jpg] مستطيل
+               o مستطيل
+               o [76abba5d-ac3d-4262-8e53-f58e15a2f60c.webp] مربع
+               o مربع
+               o [AxrFWcmUJeWxVeM9KNLyGy6qwBkhfj9rn2QBBqV3.jpg] دائري
+               o دائري
+               o [NI42Hf46Dck1WM2FzReExBfuyOn24Y9AJ5A9HTVL.jpg] سداسي
+               o سداسي
+          + [VhINUKDbXpjbD7qVGYEX9nN1hLeFI9VjP57DYHUH.jpg] نوع الإيطار
+               o عرض الكل
+               o [S9BaPMk7Xeak1wmR4zfP7tWGDHa3uDzhZ5moEN41.jpg] أسيتات
+               o أسيتات
+               o [casO2WdLp0heQo7l0Z5amYZHYsWiF0xlRfYBSVl9.jpg] معدن
+               o معدن
+          + نوع الإيطار
+               o [S9BaPMk7Xeak1wmR4zfP7tWGDHa3uDzhZ5moEN41.jpg] أسيتات
+               o أسيتات
+               o [casO2WdLp0heQo7l0Z5amYZHYsWiF0xlRfYBSVl9.jpg] معدن
+               o معدن
+          + [cfSKP56swdcfp5PEdbWRx3D7F1yo5QAWUnLcQnwe.jpg] حجم الإيطار
+               o عرض الكل
+               o [aCG8qLi5XV3evURlbxGX1sgV5AFSVDrZunKI87OX.jpg] رفيع
+               o رفيع
+               o [iw3iFM1uS8yIrqXUmHD6KHZQDsYI85IZb30VhGYv.jpg] عادي
+               o عادي
+               o [7C7ViHdO4JlA3tKXvAKvBrZG5L3w9EWOWilnwTUu.jpg] عريض
+               o عريض
+          + حجم الإيطار
+               o [aCG8qLi5XV3evURlbxGX1sgV5AFSVDrZunKI87OX.jpg] رفيع
+               o رفيع
+               o [iw3iFM1uS8yIrqXUmHD6KHZQDsYI85IZb30VhGYv.jpg] عادي
+               o عادي
+               o [7C7ViHdO4JlA3tKXvAKvBrZG5L3w9EWOWilnwTUu.jpg] عريض
+               o عريض
+          + [EMI0LLzJKjmH5uugGe4AOO6ig1Ak92yeewJrSUFV.jpg] الإيطار
+               o عرض الكل
+               o [KTgSbWoORvv0dMuzz4nT19GzfUFS63NR5eJWj7zr.jpg] إيطار كامل
+               o إيطار كامل
+               o [LP7VPUSXlojfB8ulCQ3SruwhNxaxczADuFsqJujy.jpg] نصف إيطار
+               o نصف إيطار
+               o [ZheuScDYqPwtuQEQJYiw7rp3PpbWlq5cWdaWF0Wj.jpg] بدون إيطار
+               o بدون إيطار
+          + الإيطار
+               o [KTgSbWoORvv0dMuzz4nT19GzfUFS63NR5eJWj7zr.jpg] إيطار كامل
+               o إيطار كامل
+               o [LP7VPUSXlojfB8ulCQ3SruwhNxaxczADuFsqJujy.jpg] نصف إيطار
+               o نصف إيطار
+               o [ZheuScDYqPwtuQEQJYiw7rp3PpbWlq5cWdaWF0Wj.jpg] بدون إيطار
+               o بدون إيطار
+     * [wZInHgojnXyf5KOFbzSAcfQGCgfxqfnN5UBfVH09.jpg] نظارات حماية بـ99
+     * نظارات حماية بـ99
+     * [3Nf2Rt66h73kcnjM3cN0n5DDiOBxtl5bTwjSq28H.jpg] عدسات ملونة
+          + عرض الكل
+          + [TGlzQuKn8qrba4zCwaUpMqaGV74CEjoA8SImQ4Bw.jpg] الماركة
+               o عرض الكل
+               o [dlcdjg50AVNg8bTYpuV1fbbXc2z6UnQVWECtCOev.jpg] DIVA |
+                 ديفا
+               o DIVA | ديفا
+               o [ktOT2FYUjH7wZilcIQ9G2fZbPGmSQx4dY9Nq7g8D.jpg] LENS ME |
+                 لنس مي
+               o LENS ME | لنس مي
+               o [fVtMERTUTJ4xfkEuYlpwywUlK0rJEoVVaVsv0Gqi.jpg] ACUVUE
+                 DEFINE | اكيوفيو ديفاين
+               o ACUVUE DEFINE | اكيوفيو ديفاين
+               o [ch4BAJUQHznl5QW3HUxLwJrdpY5pJk6cGStcG272.jpg] FRESH LOOK
+                 | فريش لوك
+               o FRESH LOOK | فريش لوك
+               o [7O3HsRRxKM8OaQXwnhPqu8MRqPVcvWANIyDYZjJX.jpg] DAHAB |
+                 ذهب
+               o DAHAB | ذهب
+               o [hmHvWbCIwR05qG1ey4sultGSeZt876Hn2GmmIMxK.jpg] AMARA |
+                 أمارا
+               o AMARA | أمارا
+          + الماركة
+               o [dlcdjg50AVNg8bTYpuV1fbbXc2z6UnQVWECtCOev.jpg] DIVA |
+                 ديفا
+               o DIVA | ديفا
+               o [ktOT2FYUjH7wZilcIQ9G2fZbPGmSQx4dY9Nq7g8D.jpg] LENS ME |
+                 لنس مي
+               o LENS ME | لنس مي
+               o [fVtMERTUTJ4xfkEuYlpwywUlK0rJEoVVaVsv0Gqi.jpg] ACUVUE
+                 DEFINE | اكيوفيو ديفاين
+               o ACUVUE DEFINE | اكيوفيو ديفاين
+               o [ch4BAJUQHznl5QW3HUxLwJrdpY5pJk6cGStcG272.jpg] FRESH LOOK
+                 | فريش لوك
+               o FRESH LOOK | فريش لوك
+               o [7O3HsRRxKM8OaQXwnhPqu8MRqPVcvWANIyDYZjJX.jpg] DAHAB |
+                 ذهب
+               o DAHAB | ذهب
+               o [hmHvWbCIwR05qG1ey4sultGSeZt876Hn2GmmIMxK.jpg] AMARA |
+                 أمارا
+               o AMARA | أمارا
+          + [KvBfXZRcCY9JTk86JkQ62IXgUMfkDN1FJx4jktme.jpg] المدة
+               o عرض الكل
+               o [hanTBk15SosXOYCLZCvXzEkwRQr2Q8p1lSLSz5V3.jpg] يومية
+               o يومية
+               o [ulIoUwvxyXfffG5sASFjYfwQlBCCmP2r6TNn23Vf.jpg] 3 اشهر
+               o 3 اشهر
+               o [IijNjuoPzSPzyIksnVwCm1R8nTNHvqQbaOa7fPF5.jpg] 6 اشهر
+               o 6 اشهر
+          + المدة
+               o [hanTBk15SosXOYCLZCvXzEkwRQr2Q8p1lSLSz5V3.jpg] يومية
+               o يومية
+               o [ulIoUwvxyXfffG5sASFjYfwQlBCCmP2r6TNn23Vf.jpg] 3 اشهر
+               o 3 اشهر
+               o [IijNjuoPzSPzyIksnVwCm1R8nTNHvqQbaOa7fPF5.jpg] 6 اشهر
+               o 6 اشهر
+     * عدسات ملونة
+          + [TGlzQuKn8qrba4zCwaUpMqaGV74CEjoA8SImQ4Bw.jpg] الماركة
+               o عرض الكل
+               o [dlcdjg50AVNg8bTYpuV1fbbXc2z6UnQVWECtCOev.jpg] DIVA |
+                 ديفا
+               o DIVA | ديفا
+               o [ktOT2FYUjH7wZilcIQ9G2fZbPGmSQx4dY9Nq7g8D.jpg] LENS ME |
+                 لنس مي
+               o LENS ME | لنس مي
+               o [fVtMERTUTJ4xfkEuYlpwywUlK0rJEoVVaVsv0Gqi.jpg] ACUVUE
+                 DEFINE | اكيوفيو ديفاين
+               o ACUVUE DEFINE | اكيوفيو ديفاين
+               o [ch4BAJUQHznl5QW3HUxLwJrdpY5pJk6cGStcG272.jpg] FRESH LOOK
+                 | فريش لوك
+               o FRESH LOOK | فريش لوك
+               o [7O3HsRRxKM8OaQXwnhPqu8MRqPVcvWANIyDYZjJX.jpg] DAHAB |
+                 ذهب
+               o DAHAB | ذهب
+               o [hmHvWbCIwR05qG1ey4sultGSeZt876Hn2GmmIMxK.jpg] AMARA |
+                 أمارا
+               o AMARA | أمارا
+          + الماركة
+               o [dlcdjg50AVNg8bTYpuV1fbbXc2z6UnQVWECtCOev.jpg] DIVA |
+                 ديفا
+               o DIVA | ديفا
+               o [ktOT2FYUjH7wZilcIQ9G2fZbPGmSQx4dY9Nq7g8D.jpg] LENS ME |
+                 لنس مي
+               o LENS ME | لنس مي
+               o [fVtMERTUTJ4xfkEuYlpwywUlK0rJEoVVaVsv0Gqi.jpg] ACUVUE
+                 DEFINE | اكيوفيو ديفاين
+               o ACUVUE DEFINE | اكيوفيو ديفاين
+               o [ch4BAJUQHznl5QW3HUxLwJrdpY5pJk6cGStcG272.jpg] FRESH LOOK
+                 | فريش لوك
+               o FRESH LOOK | فريش لوك
+               o [7O3HsRRxKM8OaQXwnhPqu8MRqPVcvWANIyDYZjJX.jpg] DAHAB |
+                 ذهب
+               o DAHAB | ذهب
+               o [hmHvWbCIwR05qG1ey4sultGSeZt876Hn2GmmIMxK.jpg] AMARA |
+                 أمارا
+               o AMARA | أمارا
+          + [KvBfXZRcCY9JTk86JkQ62IXgUMfkDN1FJx4jktme.jpg] المدة
+               o عرض الكل
+               o [hanTBk15SosXOYCLZCvXzEkwRQr2Q8p1lSLSz5V3.jpg] يومية
+               o يومية
+               o [ulIoUwvxyXfffG5sASFjYfwQlBCCmP2r6TNn23Vf.jpg] 3 اشهر
+               o 3 اشهر
+               o [IijNjuoPzSPzyIksnVwCm1R8nTNHvqQbaOa7fPF5.jpg] 6 اشهر
+               o 6 اشهر
+          + المدة
+               o [hanTBk15SosXOYCLZCvXzEkwRQr2Q8p1lSLSz5V3.jpg] يومية
+               o يومية
+               o [ulIoUwvxyXfffG5sASFjYfwQlBCCmP2r6TNn23Vf.jpg] 3 اشهر
+               o 3 اشهر
+               o [IijNjuoPzSPzyIksnVwCm1R8nTNHvqQbaOa7fPF5.jpg] 6 اشهر
+               o 6 اشهر
+     * [QFmHFmsoMwcIohNpcohBr0bBWOpjIPdAG0l8Lg4B.jpg] عدسات طبية
+          + عرض الكل
+          + [EA0TC9j3HWEQej8mSFlx6qVx8P92ThhMtXDJw4Ld.jpg] الماركة
+               o عرض الكل
+               o [pOq9xoqp77VkXw7RdKx4oPjCfXoDjN9GNr5WmROE.jpg] DAILIES |
+                 دايليز
+               o DAILIES | دايليز
+               o [shymy21za2TKWMUras0ZNi2dPzPKpUEYWXKJOze0.jpg] PRECISION
+                 | بريسيشن
+               o PRECISION | بريسيشن
+               o [xnebuWC54KsOLdv6GMZIy3883xcP1OiU41zYtKWK.jpg] AIR OPTIX
+                 | أير اوبتكس
+               o AIR OPTIX | أير اوبتكس
+               o [C8dIC4SBMc5A4Jju4vGgdiZ1j2QMRuhHXyoyDzHT.jpg] ACUVUE-
+                 CLEAR | اكيوفيو كلير
+               o ACUVUE- CLEAR | اكيوفيو كلير
+               o [aBoabArlPlnMFgKi79JyfVAuLd3bZ3Ly2esgdbsM.jpg] TOTAL |
+                 توتال
+               o TOTAL | توتال
+          + الماركة
+               o [pOq9xoqp77VkXw7RdKx4oPjCfXoDjN9GNr5WmROE.jpg] DAILIES |
+                 دايليز
+               o DAILIES | دايليز
+               o [shymy21za2TKWMUras0ZNi2dPzPKpUEYWXKJOze0.jpg] PRECISION
+                 | بريسيشن
+               o PRECISION | بريسيشن
+               o [xnebuWC54KsOLdv6GMZIy3883xcP1OiU41zYtKWK.jpg] AIR OPTIX
+                 | أير اوبتكس
+               o AIR OPTIX | أير اوبتكس
+               o [C8dIC4SBMc5A4Jju4vGgdiZ1j2QMRuhHXyoyDzHT.jpg] ACUVUE-
+                 CLEAR | اكيوفيو كلير
+               o ACUVUE- CLEAR | اكيوفيو كلير
+               o [aBoabArlPlnMFgKi79JyfVAuLd3bZ3Ly2esgdbsM.jpg] TOTAL |
+                 توتال
+               o TOTAL | توتال
+          + [jPbmZOcocooBXMRYo7EF981mAV7tuC20fTbyEQev.jpg] المدة
+               o عرض الكل
+               o [HpL59kMCTCCg2QwVY6wDCPz9XaPbOnySUxVeQVDS.jpg] يومية
+               o يومية
+               o [tYhHPJBypQUUJwVwFoezxnQsx6YvlYs3Ha3KNWHI.jpg] اسبوعية
+               o اسبوعية
+               o [tmPvjBnBh83DUNA4DbCQbqr9nsEl7aZS9jAEpJso.jpg] شهرية
+               o شهرية
+          + المدة
+               o [HpL59kMCTCCg2QwVY6wDCPz9XaPbOnySUxVeQVDS.jpg] يومية
+               o يومية
+               o [tYhHPJBypQUUJwVwFoezxnQsx6YvlYs3Ha3KNWHI.jpg] اسبوعية
+               o اسبوعية
+               o [tmPvjBnBh83DUNA4DbCQbqr9nsEl7aZS9jAEpJso.jpg] شهرية
+               o شهرية
+          + [b4DvPUnWkA4f5YuAecHyxBtD9HURmwUpc82oA7F3.jpg] عدسات للانحراف
+          + عدسات للانحراف
+     * عدسات طبية
+          + [EA0TC9j3HWEQej8mSFlx6qVx8P92ThhMtXDJw4Ld.jpg] الماركة
+               o عرض الكل
+               o [pOq9xoqp77VkXw7RdKx4oPjCfXoDjN9GNr5WmROE.jpg] DAILIES |
+                 دايليز
+               o DAILIES | دايليز
+               o [shymy21za2TKWMUras0ZNi2dPzPKpUEYWXKJOze0.jpg] PRECISION
+                 | بريسيشن
+               o PRECISION | بريسيشن
+               o [xnebuWC54KsOLdv6GMZIy3883xcP1OiU41zYtKWK.jpg] AIR OPTIX
+                 | أير اوبتكس
+               o AIR OPTIX | أير اوبتكس
+               o [C8dIC4SBMc5A4Jju4vGgdiZ1j2QMRuhHXyoyDzHT.jpg] ACUVUE-
+                 CLEAR | اكيوفيو كلير
+               o ACUVUE- CLEAR | اكيوفيو كلير
+               o [aBoabArlPlnMFgKi79JyfVAuLd3bZ3Ly2esgdbsM.jpg] TOTAL |
+                 توتال
+               o TOTAL | توتال
+          + الماركة
+               o [pOq9xoqp77VkXw7RdKx4oPjCfXoDjN9GNr5WmROE.jpg] DAILIES |
+                 دايليز
+               o DAILIES | دايليز
+               o [shymy21za2TKWMUras0ZNi2dPzPKpUEYWXKJOze0.jpg] PRECISION
+                 | بريسيشن
+               o PRECISION | بريسيشن
+               o [xnebuWC54KsOLdv6GMZIy3883xcP1OiU41zYtKWK.jpg] AIR OPTIX
+                 | أير اوبتكس
+               o AIR OPTIX | أير اوبتكس
+               o [C8dIC4SBMc5A4Jju4vGgdiZ1j2QMRuhHXyoyDzHT.jpg] ACUVUE-
+                 CLEAR | اكيوفيو كلير
+               o ACUVUE- CLEAR | اكيوفيو كلير
+               o [aBoabArlPlnMFgKi79JyfVAuLd3bZ3Ly2esgdbsM.jpg] TOTAL |
+                 توتال
+               o TOTAL | توتال
+          + [jPbmZOcocooBXMRYo7EF981mAV7tuC20fTbyEQev.jpg] المدة
+               o عرض الكل
+               o [HpL59kMCTCCg2QwVY6wDCPz9XaPbOnySUxVeQVDS.jpg] يومية
+               o يومية
+               o [tYhHPJBypQUUJwVwFoezxnQsx6YvlYs3Ha3KNWHI.jpg] اسبوعية
+               o اسبوعية
+               o [tmPvjBnBh83DUNA4DbCQbqr9nsEl7aZS9jAEpJso.jpg] شهرية
+               o شهرية
+          + المدة
+               o [HpL59kMCTCCg2QwVY6wDCPz9XaPbOnySUxVeQVDS.jpg] يومية
+               o يومية
+               o [tYhHPJBypQUUJwVwFoezxnQsx6YvlYs3Ha3KNWHI.jpg] اسبوعية
+               o اسبوعية
+               o [tmPvjBnBh83DUNA4DbCQbqr9nsEl7aZS9jAEpJso.jpg] شهرية
+               o شهرية
+          + [b4DvPUnWkA4f5YuAecHyxBtD9HURmwUpc82oA7F3.jpg] عدسات للانحراف
+          + عدسات للانحراف
+     * [7P28HNZliYmkvadZXY2rG35CpR2v39VDuNVNv0AA.jpg] نظارتين في نظارة
+          + عرض الكل
+          + [df3b293e-9483-4298-8bc2-06de990d05e6.webp] الجنس
+               o عرض الكل
+               o [e489a6e9-79da-4bbd-8ee1-71f3974c8632.webp] للجنسين
+               o للجنسين
+               o [472ecfda-fddb-4a54-8ac1-814132daa7df.webp] للرجال
+               o للرجال
+               o [0a2316e4-e3a4-4f58-8701-ab5ca6f9afdc.webp] للنساء
+               o للنساء
+               o [51608768-989c-458d-bd08-b40a1baa24cb.webp] للأطفال
+               o للأطفال
+          + الجنس
+               o [e489a6e9-79da-4bbd-8ee1-71f3974c8632.webp] للجنسين
+               o للجنسين
+               o [472ecfda-fddb-4a54-8ac1-814132daa7df.webp] للرجال
+               o للرجال
+               o [0a2316e4-e3a4-4f58-8701-ab5ca6f9afdc.webp] للنساء
+               o للنساء
+               o [51608768-989c-458d-bd08-b40a1baa24cb.webp] للأطفال
+               o للأطفال
+          + [9d354489-77af-4c2a-8315-d56124c73c2f.webp] الشكل
+               o عرض الكل
+               o [b209df8a-b363-435d-903b-0c4b2e65a6fc.webp]
+                 [b5e7ab21-ce72-45a8-8e69-33ed580c966c.webp] افياتور
+               o افياتور
+               o [44adc4f6-5d97-4043-b109-0ccc51f0e37c.webp] كات أي
+               o كات أي
+               o [5ccf146d-5810-49aa-a6da-f9c6a8110ee8.webp] مستطيل
+               o مستطيل
+               o [7304992c-bbcd-4e07-a5f4-ef506d7321d8.webp] مربع
+               o مربع
+               o [fea6607e-4579-443c-b308-00d0afb1d4c3.webp] دائري
+               o دائري
+               o [d7471a52-634d-4b66-a365-5b008d03cc09.webp] سداسي
+               o سداسي
+          + الشكل
+               o [b209df8a-b363-435d-903b-0c4b2e65a6fc.webp]
+                 [b5e7ab21-ce72-45a8-8e69-33ed580c966c.webp] افياتور
+               o افياتور
+               o [44adc4f6-5d97-4043-b109-0ccc51f0e37c.webp] كات أي
+               o كات أي
+               o [5ccf146d-5810-49aa-a6da-f9c6a8110ee8.webp] مستطيل
+               o مستطيل
+               o [7304992c-bbcd-4e07-a5f4-ef506d7321d8.webp] مربع
+               o مربع
+               o [fea6607e-4579-443c-b308-00d0afb1d4c3.webp] دائري
+               o دائري
+               o [d7471a52-634d-4b66-a365-5b008d03cc09.webp] سداسي
+               o سداسي
+          + [9f5ffec8-d1ca-492e-8d85-535fa6f43979.webp] نوع الإيطار
+               o عرض الكل
+               o [cfb36824-47b6-4ab4-9409-7346a430436a.webp] أسيتات
+               o أسيتات
+               o [d1426e17-c240-45df-8e26-094480c37bf8.webp] معدن
+               o معدن
+          + نوع الإيطار
+               o [cfb36824-47b6-4ab4-9409-7346a430436a.webp] أسيتات
+               o أسيتات
+               o [d1426e17-c240-45df-8e26-094480c37bf8.webp] معدن
+               o معدن
+          + [b36576b3-5f88-4064-8c61-aed39c9e3c9d.webp] حجم الإيطار
+               o عرض الكل
+               o [281ab7da-b69b-42b8-8a97-87442bce4af8.webp] رفيع
+               o رفيع
+               o [4ae6a35b-e940-440d-a43d-d251248c7ce7.webp] عادي
+               o عادي
+               o [b1c71c7b-feb9-45f8-9035-9331b6a155ae.webp] عريض
+               o عريض
+          + حجم الإيطار
+               o [281ab7da-b69b-42b8-8a97-87442bce4af8.webp] رفيع
+               o رفيع
+               o [4ae6a35b-e940-440d-a43d-d251248c7ce7.webp] عادي
+               o عادي
+               o [b1c71c7b-feb9-45f8-9035-9331b6a155ae.webp] عريض
+               o عريض
+          + [dd764335-b9ee-46c4-9383-0cad810f2c88.webp] الإيطار
+               o عرض الكل
+               o [53cd3dc9-0885-4d83-ad38-c87dfcdbb6b1.webp] إيطار كامل
+               o إيطار كامل
+               o [b55307b3-f50e-4cde-a2ac-fa5e0645ddaa.webp] نصف إيطار
+               o نصف إيطار
+               o [fcb2b39a-9885-4ab5-92bd-7a1c0e1ab7f2.webp] بدون إيطار
+               o بدون إيطار
+          + الإيطار
+               o [53cd3dc9-0885-4d83-ad38-c87dfcdbb6b1.webp] إيطار كامل
+               o إيطار كامل
+               o [b55307b3-f50e-4cde-a2ac-fa5e0645ddaa.webp] نصف إيطار
+               o نصف إيطار
+               o [fcb2b39a-9885-4ab5-92bd-7a1c0e1ab7f2.webp] بدون إيطار
+               o بدون إيطار
+     * نظارتين في نظارة
+          + [df3b293e-9483-4298-8bc2-06de990d05e6.webp] الجنس
+               o عرض الكل
+               o [e489a6e9-79da-4bbd-8ee1-71f3974c8632.webp] للجنسين
+               o للجنسين
+               o [472ecfda-fddb-4a54-8ac1-814132daa7df.webp] للرجال
+               o للرجال
+               o [0a2316e4-e3a4-4f58-8701-ab5ca6f9afdc.webp] للنساء
+               o للنساء
+               o [51608768-989c-458d-bd08-b40a1baa24cb.webp] للأطفال
+               o للأطفال
+          + الجنس
+               o [e489a6e9-79da-4bbd-8ee1-71f3974c8632.webp] للجنسين
+               o للجنسين
+               o [472ecfda-fddb-4a54-8ac1-814132daa7df.webp] للرجال
+               o للرجال
+               o [0a2316e4-e3a4-4f58-8701-ab5ca6f9afdc.webp] للنساء
+               o للنساء
+               o [51608768-989c-458d-bd08-b40a1baa24cb.webp] للأطفال
+               o للأطفال
+          + [9d354489-77af-4c2a-8315-d56124c73c2f.webp] الشكل
+               o عرض الكل
+               o [b209df8a-b363-435d-903b-0c4b2e65a6fc.webp]
+                 [b5e7ab21-ce72-45a8-8e69-33ed580c966c.webp] افياتور
+               o افياتور
+               o [44adc4f6-5d97-4043-b109-0ccc51f0e37c.webp] كات أي
+               o كات أي
+               o [5ccf146d-5810-49aa-a6da-f9c6a8110ee8.webp] مستطيل
+               o مستطيل
+               o [7304992c-bbcd-4e07-a5f4-ef506d7321d8.webp] مربع
+               o مربع
+               o [fea6607e-4579-443c-b308-00d0afb1d4c3.webp] دائري
+               o دائري
+               o [d7471a52-634d-4b66-a365-5b008d03cc09.webp] سداسي
+               o سداسي
+          + الشكل
+               o [b209df8a-b363-435d-903b-0c4b2e65a6fc.webp]
+                 [b5e7ab21-ce72-45a8-8e69-33ed580c966c.webp] افياتور
+               o افياتور
+               o [44adc4f6-5d97-4043-b109-0ccc51f0e37c.webp] كات أي
+               o كات أي
+               o [5ccf146d-5810-49aa-a6da-f9c6a8110ee8.webp] مستطيل
+               o مستطيل
+               o [7304992c-bbcd-4e07-a5f4-ef506d7321d8.webp] مربع
+               o مربع
+               o [fea6607e-4579-443c-b308-00d0afb1d4c3.webp] دائري
+               o دائري
+               o [d7471a52-634d-4b66-a365-5b008d03cc09.webp] سداسي
+               o سداسي
+          + [9f5ffec8-d1ca-492e-8d85-535fa6f43979.webp] نوع الإيطار
+               o عرض الكل
+               o [cfb36824-47b6-4ab4-9409-7346a430436a.webp] أسيتات
+               o أسيتات
+               o [d1426e17-c240-45df-8e26-094480c37bf8.webp] معدن
+               o معدن
+          + نوع الإيطار
+               o [cfb36824-47b6-4ab4-9409-7346a430436a.webp] أسيتات
+               o أسيتات
+               o [d1426e17-c240-45df-8e26-094480c37bf8.webp] معدن
+               o معدن
+          + [b36576b3-5f88-4064-8c61-aed39c9e3c9d.webp] حجم الإيطار
+               o عرض الكل
+               o [281ab7da-b69b-42b8-8a97-87442bce4af8.webp] رفيع
+               o رفيع
+               o [4ae6a35b-e940-440d-a43d-d251248c7ce7.webp] عادي
+               o عادي
+               o [b1c71c7b-feb9-45f8-9035-9331b6a155ae.webp] عريض
+               o عريض
+          + حجم الإيطار
+               o [281ab7da-b69b-42b8-8a97-87442bce4af8.webp] رفيع
+               o رفيع
+               o [4ae6a35b-e940-440d-a43d-d251248c7ce7.webp] عادي
+               o عادي
+               o [b1c71c7b-feb9-45f8-9035-9331b6a155ae.webp] عريض
+               o عريض
+          + [dd764335-b9ee-46c4-9383-0cad810f2c88.webp] الإيطار
+               o عرض الكل
+               o [53cd3dc9-0885-4d83-ad38-c87dfcdbb6b1.webp] إيطار كامل
+               o إيطار كامل
+               o [b55307b3-f50e-4cde-a2ac-fa5e0645ddaa.webp] نصف إيطار
+               o نصف إيطار
+               o [fcb2b39a-9885-4ab5-92bd-7a1c0e1ab7f2.webp] بدون إيطار
+               o بدون إيطار
+          + الإيطار
+               o [53cd3dc9-0885-4d83-ad38-c87dfcdbb6b1.webp] إيطار كامل
+               o إيطار كامل
+               o [b55307b3-f50e-4cde-a2ac-fa5e0645ddaa.webp] نصف إيطار
+               o نصف إيطار
+               o [fcb2b39a-9885-4ab5-92bd-7a1c0e1ab7f2.webp] بدون إيطار
+               o بدون إيطار
+     * غلفها كهدية
+     * غلفها كهدية
 
-   (BUTTON) انقل للشريط الجانبي (BUTTON) أخف
-     * المقدمة
-     * 1 انظر أيضا
-     * 2 مراجع
-     * 3 وصلات خارجية
+   (BUTTON) (BUTTON)
 
-   [ ] تبديل عرض جدول المحتويات
+    1. الرئيسية
+    2.
+    3. المدونة
+    4.
+    5. الفرق بين البصر والنظر
 
-نظر (منطق)
+الفرق بين البصر والنظر
 
-   [ ] أضف لغات
+   19 مايو 2025
+   jood
+   الفرق-بين-البصر-والنظر - زكي للبصريات
 
-   أضف وصلات
+المقدمة
 
-     * مقالة
-     * نقاش
+   كثيرًا ما يُستخدم مصطلحا البصر والنظر على أنهما مترادفان، خاصة في
+   الحديث اليومي، لكن في الحقيقة هناك فرق لغوي ودلالي واضح بين الكلمتين،
+   يتّضح في اللغة العربية، والقرآن الكريم، وكذلك في السياقات الطبية
+   والعلمية. في هذه المقالة، نتناول الفرق بين البصر والنظر من عدة جوانب،
+   مع أمثلة توضيحية لكل حالة.
 
-   [ ] العربية
+أولًا: الفرق اللغوي
 
-     * اقرأ
-     * عدّل
-     * تاريخ
+     * البصر: يُقصد به القدرة الجسدية الفعلية على الإبصار، أي حاسّة الرؤية
+       الفيزيائية التي نراها بالعين.
+     * النظر: يُشير إلى عملية توجيه العين نحو شيء معيّن مع الانتباه أو
+       التركيز عليه، وقد يتضمن أيضًا التفكير والتأمل.
 
-   [ ] أدوات
-   أدوات
-   (BUTTON) انقل للشريط الجانبي (BUTTON) أخف
-   إجراءات
-     * اقرأ
-     * عدّل
-     * تاريخ
+   💡 بمعنى آخر: كل بصر نظر، وليس كل نظر بصر.
 
-   عام
-     * ماذا يصل هنا
-     * تغييرات ذات علاقة
-     * رفع ملف
-     * وصلة دائمة
-     * معلومات الصفحة
-     * استشهد بهذه الصفحة
-     * احصل على مسار مختصر
-     * تنزيل رمز الاستجابة السريعة
+ثانيًا: الفرق في المعنى القرآني
 
-   طباعة/تصدير
-     * إنشاء كتاب
-     * تحميل بصيغة PDF
-     * نسخة للطباعة
+     * البصر في القرآن غالبًا ما يأتي بمعنى الحاسّة الفيزيائية التي نرى
+       بها، مثل قوله تعالى:
 
-   في مشاريع أخرى
-     * عنصر ويكي بيانات
+     "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ وَعَلَىٰ
+     أَبْصَارِهِمْ غِشَاوَةٌ" [البقرة:7]
 
-   المظهر
-   (BUTTON) انقل للشريط الجانبي (BUTTON) أخف
-   من ويكيبيديا، الموسوعة الحرة
+     أي أن القدرة على الرؤية قد حُجبت.
 
-   النظر، كما حده التهانوي بالنقل عن الباقلاني، هو الفكر الذي يطلب به علم
-   أو غلبة ظن. والمراد بالفكر انتقال النفس في المعاني بالقصد، فإن ما لا
-   يكون انتقالا بالقصد كالحدس، وأكثر حديث النفس، لا يسمى فكرا، وذلك
-   الانتقال الفكري قد يكون بطلب العلم أو الظن فيسمى نظرا، وقد لا يكون كذلك
-   فلا يسمى به، فالفكر جنس له وما بعده فصل له.^[1] وإليه تنسب القضايا
-   المعروفة بالنظريات.
+     * أما النظر فيأتي بمعانٍ أوسع، منها التفكير والتدبّر، كما في قوله
+       تعالى:
 
-انظر أيضا
+     "أفلا ينظرون إلى الإبل كيف خُلقت" [الغاشية:17]
 
-   [عدل]
-     * فرض
+     أي يتأملون ويتفكرون، وليس مجرد الرؤية بالعين فقط.
 
-مراجع
+ثالثًا: الفرق في الاستخدام الطبي
 
-   [عدل]
-    1. ^ كشاف اصطلاحات الفنون
+     * البصر: يُقاس من خلال فحوصات مثل "قياس حدة البصر" أو "اختبار النظر"،
+       ويعتمد على سلامة العين والشبكية والعصب البصري.
+     * النظر: لا يُقاس طبياً بنفس الطريقة، لأنه يشير إلى الفعل الإرادي أو
+       السلوك المرتبط بالرؤية، مثل "النظر بعيدًا" أو "النظر في شاشة
+       الهاتف".
 
-وصلات خارجية
+أمثلة حياتية
 
-   [عدل]
-     * المؤتمر الدولي الخامس عشر للوحدة الإسلامية (النظر والنظرية)
+[9cPLbU9953M9hnhWNDzbMfsojZOa9GBNWFTx3D3Y.png]
 
-   أيقونة بذرة
+الخلاصة
 
-   هذه بذرة مقالة عن المنطق بحاجة للتوسيع. فضلًا شارك في تحريرها.
-     * [40px-Logic_portal.svg.png] بوابة منطق
+   الفرق بين البصر والنظر يكمن في أن البصر قدرة جسدية حسيّة ثابتة، أما
+   النظر فهو فعل إرادي يمكن أن يحمل دلالات عقلية وتأملية. والفهم الصحيح
+   لهذا الفرق يساعد في استخدام الكلمتين بدقة سواء في اللغة أو في فهم
+   النصوص الدينية والعلمية.
 
-   مجلوبة من
-   «https://ar.wikipedia.org/w/index.php?title=نظر_(منطق)&oldid=72002368»
-   تصنيف:
-     * منطق
+مقالات ذات صلة
 
-   تصنيفات مخفية:
-     * جميع مقالات البذور
-     * بذرة منطق
-     * بوابة منطق/مقالات متعلقة
+   كيف تعتني بنظارتك الطبية لتدوم أطول؟
+   29 ديسمبر 2025
 
-     * آخر تعديل لهذه الصفحة كان يوم 12 سبتمبر 2025، الساعة 17:16.
-     * النصوص متاحة تحت رخصة المشاع الإبداعي الملزمة بنسبة العمل لمؤلفه
-       وبترخيص الأعمال المشتقة بالمثل 4.0؛ قد تُطبّق شروط إضافية.
-       استخدامُك هذا الموقع هو موافقةٌ على شروط الاستخدام وسياسة الخصوصية.
-       ويكيبيديا ® هي علامة تجارية مسجلة لمؤسسة ويكيميديا، وهي منظمة غير
-       ربحية.
+كيف تعتني بنظارتك الطبية لتدوم أطول؟
 
+   أفضل هدية بمناسبة السنة الجديدة
+   28 ديسمبر 2025
+
+أفضل هدية بمناسبة السنة الجديدة
+
+   كيف تختار أفضل لون عدسات دون التأثير على صحة العين؟
+   17 ديسمبر 2025
+
+كيف تختار أفضل لون عدسات دون التأثير على صحة العين؟
+
+روابط مهمة
+
+     * المدونة
+     * من نحن
+     * الاسئلة الشائعة
+     * سياسة الاستبدال والاسترجاع
+     * نظارات اصلية
+     * الشحن والتوصيل
+     * فروعنا
+     * الشروط والاحكام
      * سياسة الخصوصية
-     * حول ويكيبيديا
-     * إخلاء مسؤولية
-     * القواعد السلوكية
-     * المطورون
-     * إحصائيات
-     * بيان تعريف الارتباطات
-     * نسخة للأجهزة المحمولة
+     * السجل التجاري
 
-     * Wikimedia Foundation
-     * Powered by MediaWiki
+   زكي للبصريات
 
-   (BUTTON) بحث
-   ____________________
-   (BUTTON) بحث
+   محلات زكي للنظارات هي مؤسسة سعودية تعمل في مجال البصريات منذ أكثر من 80
+   عاماً ، توفر منتجات اصلية وتهتم بعملائها وبجميع استفساراتهم ، لديها
+   اكثر من فرع في مكة وجدة والقنفذة، وقريبا باقي أنحاء المملكة.
 
-   [ ] تبديل عرض جدول المحتويات
-   نظر (منطق)
-   (BUTTON) أضف لغات أضف موضوعًا
+   الرقم الضريبي
+   300350161400003
+
+تحميل تطبيق الجوال
+
+   appstore googleplay
+   Saudi Business Center موثق لدى منصة الأعمال
+
+   الحقوق محفوظة | 2026 زكي للبصريات

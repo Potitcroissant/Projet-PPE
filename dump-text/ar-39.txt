@@ -1,222 +1,56 @@
-   HTTP/2 200 date: Sat, 03 Jan 2026 13:57:51 GMT content-type:
-   text/html;charset=UTF-8 vary: Accept-Encoding vary: Origin vary:
-   Access-Control-Request-Method vary: Access-Control-Request-Headers
-   set-cookie:
-   INGRESSCOOKIE=1767448672.921.3329.96228|62f1783f8055dd15d813a8bca3772e7
-   2; Path=/; Secure; HttpOnly set-cookie:
-   ld=%7B%22d%22%3A%5B%22ar%3Afr%22%5D%7D; Max-Age=5184000; Expires=Wed,
-   04 Mar 2026 13:57:51 GMT; Domain=glosbe.com; Path=/ glosbe_seo_tag:
-   v1.4 link: ; rel="preload"; as="style" link: ; rel="preload";
-   as="script"; crossorigin link:
-   /www.googletagmanager.com/gtag/js?id=G-TQDYB8G2F1>; rel="preload";
-   as="script" link: /securepubads.g.doubleclick.net/tag/js/gpt.js>;
-   rel="preload"; as="script" glosbe_ip_country: FR
-   glosbe_ip_country_provider: cf glosbe_trufle: true ua_is_bot: true
-   ua_is_hacker: false ua_is_cloud: false x-content-type-options: nosniff
-   x-xss-protection: 0 strict-transport-security: max-age=31536000;
-   includeSubDomains x-frame-options: DENY content-language: ar report-to:
-   {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=nxfREu1n6LQHgmVmk51Ks70IVxUH47DZv8J2B12jGZjwA
-   mT%2BP19Cbk1h0m2VlJK0BiQX1pCzhOCrdyvIuISMEzAm4WIhVSzvZvU6"}]}
-   cf-cache-status: DYNAMIC nel:
-   {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} server:
-   cloudflare cf-ray: 9b8301f73e8c3d10-CDG #alternate alternate alternate
-   العربية - قاموس الفرنسية
+   #alternate
 
-   (BUTTON) ☰ Glosbe
-   Glosbe logo Glosbe
-   تسجيل الدخول
+   honeypot link
 
-   العربية
-   الفرنسية
-   نظرة________________
-   (BUTTON) (BUTTON)
-   (BUTTON) العربية الفرنسية
-     * فارغة
+   skip to main content
+   ____________________
+   (BUTTON) بحث بحث
+   (BUTTON)
 
-ترجمة "نظرة" إلى الفرنسية
+   MSD MSD أدلة MSDإصدار المُستخدِم
 
-   regard, jeter, comprendre هي أهم ترجمات "نظرة" إلى الفرنسية.
+   (BUTTON)
 
-   نظرة (BUTTON) Noun قواعد
-   + أضف الترجمة أضف نظرة
+   موضوعات صحية الحياة الصحيةالأعراضالحالات الطارئةالمواردالتعليقحول
 
-العربية - قاموس الفرنسية
+   home موضوعات صحية الحياة الصحية
+   Search icon
 
-     * (BUTTON) (BUTTON)
+    1. <مقاطع الفيديو
 
-regard
-       (BUTTON)
-       noun masculine
-       مروا بسرعة و بدون إلقاء نظرة.
-       Ils passèrent en se hâtant, sans un regard.
-   Dbnary: Wiktionary as Linguistic Linked Open Data
-     * (BUTTON) (BUTTON)
+   IFRAME:
+   https://players.brightcove.net/3850378299001/5qrY5f1MK_default/index.ht
+   ml?videoId=6116512845001
 
-jeter
-       (BUTTON)
-       verb
-       أردت أن تُبدع في الإختبار ، لذا فإنّك ألقيت نظرة مُختلسة.
-       Vous vouliez réussir ce test, alors vous avez jeté un coup d'oeil.
-   Open Multilingual Wordnet
-     * (BUTTON) (BUTTON)
+قصر النظر وبعد النظر
 
-comprendre
-       (BUTTON)
-       verb
-       النظرة ، سكولي ، أحتاج للصبح مفهوما الذي حدث لي. لكي أنا يمكن أن
-       أتوقّفه.
-       Je dois comprendre ce qui m'est arrivé pour pouvoir arrêter ça.
-   Open Multilingual Wordnet
+   في أثناء الرؤية الطبيعية، يمر الضوء عبر القرنية، وهي الطبقة الشفافة
+   التي تغطي العين، ثم من خلال الحدقة، التي هي في الحقيقة ثقب في الجزء
+   الملون من العين، أو القزحية.بعد ذلك يمر الضوء من خلال العدسة، التي تركز
+   الصورة على الشبكية في مؤخرة العين.في هذه المرحلة، يجري تحويل الصورة إلى
+   إشارات كهربائية تُرسل إلى الدماغ.يرى الشخص الذي يعاني من قصر النظر
+   (الحسر) الأشياء القريبة بوضوح، ولكن نظرًا لأن العين طويلة جدًا، فإن صور
+   الأجسام البعيدة تتركز أمام شبكية العين، مما يجعل الصور مشوشة.يرى الشخص
+   الذي يعاني من مد النظر الأجسام البعيدة بوضوح، في حين تبدو الأجسام
+   القريبة مشوشة، لأن العدسة تركز الصور في نقطة تقع خلف الشبكية.يمكن
+   للطبيب تشخيص هذه الحالات عن طريق الفحص العيني المعياري.
+   في هذه الموضوعات
+     * لمحَةٌ عامة عن اضطرابات الانكسار >
+     * الاضطراباتُ الانكساريَّة عندَ الأطفال >
 
-     * ترجمات أقل تواترا
-          + rejeter
-          + saisir
-          + capturer
-          + divaguer
-          + mouler
-          + vaguer
-          + attraper
-          + vagabonder
-          + errer
-          + jet
-          + décalage
-          + couler
-          + précipiter
-          + retard
-          + intervalle de temps
-          + temps de réponse
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5MKXR9
 
-     * عرض الترجمات التي تم إنشاؤها خوارزميًا
+   MSD MSD
+     * حول
+     * إخلاء المسؤولية
+     * التصاريح
+     * الخصوصية
+     * شروط الاستخدام
+     * الترخيص
+     * تواصل معنا
+     * دليل الأطباء البيطريين
 
-ترجمة تلقائية لـ " نظرة " إلى الفرنسية
+   MSD MSD
 
-     * Glosbe
-       Glosbe Translate
-     *
-     * Google
-       Google Translate
-
-   الترجمات مع الهجاء البديل
-
-   نَظْرَة
-   + أضف الترجمة أضف نَظْرَة
-
-العربية - قاموس الفرنسية
-
-     * (BUTTON) (BUTTON)
-
-vue
-       (BUTTON)
-       noun feminine
-       نظر سامي عبر النّافذة، فرأى رجلان أسودان يجريان.
-       Sami regarda par la fenêtre et vit deux hommes noirs courir.
-   Open Multilingual Wordnet
-     * (BUTTON) (BUTTON)
-
-perspective
-       (BUTTON)
-       noun feminine
-       ومع ذلك، يتعين النظر إلى عمليات التوغل هذه من منظور سياسي أوسع
-       نطاقاً.
-       Ces opérations doivent toutefois être replacées dans une
-       perspective politique plus large.
-   Open Multilingual Wordnet
-     * (BUTTON) (BUTTON)
-
-position
-       (BUTTON)
-       noun feminine
-       ونأمل أن يعيد ذلك البلد النظر في بياناته في المستقبل.
-       Nous espérons que ce pays reverra sa position dans ses
-       interventions futures.
-   Open Multilingual Wordnet
-     * (BUTTON) (BUTTON)
-
-point de vue
-       (BUTTON)
-       noun masculine
-       وليس لهذه الهجمات ما يبررها، ليس فحسب من وجهة النظر الأخلاقية بل
-       أيضا من وجهة النظر السياسية.
-       Ils sont inexcusables, non seulement du point de vue moral, mais
-       aussi du point de vue politique.
-   Open Multilingual Wordnet
-
-   نظْرة
-   + أضف الترجمة أضف نظْرة
-
-العربية - قاموس الفرنسية
-
-     * (BUTTON) (BUTTON)
-
-regard
-       (BUTTON)
-       noun masculine
-       مروا بسرعة و بدون إلقاء نظرة.
-       Ils passèrent en se hâtant, sans un regard.
-   Open Multilingual Wordnet
-     * (BUTTON) (BUTTON)
-
-être
-       (BUTTON)
-       noun
-       أَحَبُّ نظريّة علمية إليّ هي أن حلقات زحل مكونة بالكامل من الأمتعة
-       المفقودة.
-       La théorie scientifique que j'aime le plus est que les anneaux de
-       Saturne sont entièrement composés de bagages perdus.
-   Open Multilingual Wordnet
-
-الصور ذات "نظرة"
-
-   (BUTTON) نظرة
-
-عبارات مشابهة لـ "نظرة" مع ترجمات إلى الفرنسية
-
-     * نظرية البعد
-       Dimension topologique
-     * نظرِيّة
-     * نظرية الزمر
-     * نظرية الردع
-       dissuasion nucléaire
-     * نظريات إقتصادية
-       doctrine économique · droit économique · multiplicateur · théorie
-       de la croissance · théorie de la localisation · théorie de la rente
-       · théorie de la valeur · théorie de l’équilibre · théorie du
-       développement · théorie économique · école économique · économie
-       keynésienne
-     * نظرية الشخصية الضمنية
-     * فيزياء نظرية
-       physique théorique
-     * النظرية الموحدة العظمى
-       grande unification
-
-   (BUTTON) أكثر (+83)
-
-   أضف مثال أضف
-
-ترجمات "نظرة" إلى الفرنسية في سياق ذاكرة الترجمة
-
-   (BUTTON) حاول مجددا
-
-   Glosbe logo Glosbe
-   صنع بفخر مع ♥ في بولندا
-
-   Tools
-     * منشئ القاموس
-     * مسجل النطق
-     * أضف الترجمات دفعة واحدة
-     * أضف أمثلة دفعة واحدة
-     * حرفي
-     * جميع القواميس
-
-   حول
-     * حول Glosbe
-     * شركاء
-     * سياسة خاصة
-     * شروط الخدمة
-     * مساعدة
-
-   ابق على تواصل
-     * Facebook
-     * Twitter
-     * اتصل
+   محفوظة لشركة© 2026محفوظة لشركة Merck & Co., Inc., Rahway, NJ, USA
+   والشركات التابعة لها. جميع الحقوق محفوظة.

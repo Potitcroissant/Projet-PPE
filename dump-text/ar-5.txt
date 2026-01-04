@@ -1,210 +1,249 @@
-   HTTP/1.1 200 OK Date: Sat, 03 Jan 2026 13:57:23 GMT Server: Apache
-   Vary: Cookie,Accept-Encoding Composed-By: SPIP 4.4.7 @ www.spip.net +
-   https://diwanalarab.com/local/config.txt X-Spip-Cache: 86400
-   Last-Modified: Sat, 03 Jan 2026 13:57:23 GMT Transfer-Encoding: chunked
-   Content-Type: text/html; charset=utf-8
+   #Edit Wiktionary (en) Wiktionary Atom feed
 
-   السبت ٣ كانون الثاني (يناير) ٢٠٢٦
-   __________ >>
-   طريقة عمل محرك البحث
+   Jump to content
 
-     * أقلام الديوان
-     * ديوان السرد
-     * ديوان الشعر
-     * ديوان الثقافة والأدب
-     * مضافة الديوان
-     * استراحة الديوان
-     * المكتبة
-     * ديوان اللغة العربية
-     * توجيه للكتاب
-     * أقسام أخرى:
-          + ديوان الثقافة والأدب
-          + ديوان الشعر
-          + المكتبة
-          + ديوان السرد
-          + استراحة الديوان
-          + توجيه للكتاب
-          + مضافة الديوان
-          + ديوان اللغة العربية
-          + أقلام الديوان
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Community portal
+     * Requested entries
+     * Recent changes
+     * Random entry
+     * Help
+     * Glossary
+     * Contact us
+     * Special pages
 
-   __________ >>
-   طريقة عمل محرك البحث
+   Wiktionary The Free Dictionary
+   Search
+   ____________________
+   (BUTTON) Search
 
-   [img_trans.png] الجمعة ٢٨ كانون الأول (ديسمبر) ٢٠٠٧
-   [img_trans.png] بقلم شادية عواد
+   [ ] Appearance
 
-نظرات العيون أنواع
+     * Donations
+     * Create account
+     * Log in
 
-   كثير ما يحيط بنا من ظروف ومتاعب تجعل كل شئ بداخلنا يتغير حسب مانمر به
-   من مواقف ،يتم بها تغير أجهزة أجسادنا المختلفه نتيجة هذه الظروف منها
-   تكون القاسيه ومنها تكون المفرحه وأكثر ما يطرأ تغير وتأثر هي العيون
-   لانها من المراكز الأكثر حساسيه والبارزه نحو التغير الذي يحدث حسبالموقف
-   الذي يكون به الشخص ،وتتأثر العيون حسب كل موقف وأخر وهذا التغيريؤثر على
-   النظرات وتكون على انواع ومن أنواع النظرات مايلي:-
+   [ ] Personal tools
+     * Donations
+     * Create account
+     * Log in
 
-   – نظره تدل على الحب وهي أجمل النظرات ولكنها قلبله في أيامنا هذه ومنها
-   نوعان:
+Contents
 
-   نظره الحب بين الاصدقاء والأهل والاقارب.
-   نظرة الحب العاطفي بين حبيبين وهي ثلاثة أنواع :-
+   (BUTTON) move to sidebar (BUTTON) hide
+     * Beginning
+     * 1 Arabic
+       (BUTTON) Toggle Arabic subsection
+          + 1.1 Noun
+               o 1.1.1 Declension
+     * 2 Hijazi Arabic
+       (BUTTON) Toggle Hijazi Arabic subsection
+          + 2.1 Etymology
+          + 2.2 Pronunciation
+          + 2.3 Noun
 
-   – نظرة أول لقاء وتكون في تعجب ولهفه في النظر .
-   – نظرة بداية الحب وتكون الاشتياق المستمر بين المحبين .
-   – نظرة عذاب الحب وتكون فيها الخوف المستمر من المفارقه اذا كان هناك
-   مشاكل بين الاحباء .ولكن في كلا النوعين من الحب على وشك ان تختفي ولاتظهر
-   في عصرنا .
+   [ ] Toggle the table of contents
 
-   – نظرة تدل على التفائل في كل شئ والتشبث في أحلام يقظه غير موجودة في
-   عالم الواقع .
-   – نظرة التعرف وهذة تكون لدى الاطفال في مرحلة الطفوله المبكره وتكون
-   بدايتها الام والاب ، وتكون عند الكبار عندما يرون أشخاص لاول مره يرونهم
-   .
-   – نظرة المداعبه مع الاطفال أو الاشخاص الأخرين الكبار أيضا اللذين تكل
-   لهم وديه خاصة .
-   – نظرة تدل على اليأس وهذة منتشرة جدافي عصرنا لما يحيط بنا من مشقات
-   ومتاعب .
-   –  نظرة الخوف الذي أصبح يراودنا في كل مكان لما نمر به من ظروفنا الصعبه.
-   –  نظرة التشائم من كل ما يحيط بنا وزوال اي نوع تفائل من حياتنا عند اناس
-   كثرون في عالمنا من كثرة الهموم.
-   –  نظرة الحزن التي تلاحقنا من مكان الى آخر وتطفي أي لمحة فرح موجوده
-   فينا .
-   –  نظرة تأمليه في كل الاشياء التي حولنا وهي نظرة شاعريه في الغالب .
-   –  نظرة الاستياء من مواقف في الحياة التي يشعربها الشخص بأنها سيئه .
-   –  نظرة الاستبداد على أمور ليس من حق الشخص النظرعليها .
-   –  نظرة تدل على التعجب من مجريات الامور التي نرى فيها نوع من الغريب قد
-   لا نستعقله بأن يكون من مثل هذا.
-   –  نظرة التحدي بين الاشخاص على أشياء مختلفه على من يكون هو المنتصر في
-   النهايه .
-   –  نظرة الحسد من الاخرين على أشياء لا تكون عنده وهذة النظرة سيئه جدًا
-   بين الاشخاص .
-   –  نظرة المكر اتجاة الاخرين ويكون كالثعلب في كل تصرف له اي من صفته
-   الغدر .
-   –  نظرة الحقد والضغينه اتجاة من يحقد عليه نتيجة عدم الحب وبعض سؤ
-   التفاهم الذي نشأ بينهم .
-   –  نظرة الغيرة من اي شئ يراه ويريد التقليد له وهذة أقل سؤ من الحسد .
-   –  نظرة الكره وهي لايقدر الشخص أن ينظر للأنسان الذي يكل له كل البغض في
-   داخله فتظهر عيناه يلون مختلف عن النظرة العاديه .
-   –  نظرة التلميح : هي النظره التي يراد بها ايصال اشاره عن طريق البصر
-   لتاديه وطيفه معينه .
-   –  نظرة القلق من أشياء تراودة نتيجة مشاكل تواجه الفرد في حياته وتبقى
-   راسخه في تفكيره .
-   –  نظرة الشماته حيث أن شخص معين يفرح بحدث سيئ يحدث لشخص يكره فيفرح بهذا
-   الحدث الذي حصل له .
-   –  نظرة الردع حيث أن الشخص يعمل حركات في عيناه يخيف الشخص الآخر بها .
+نظرة
 
-   –  نظرة الاستخفاف وتكون بين الاشخاص حيث يقلل كل منهما بشان الاخر .
-   –  النظره العابره التي تمر من مجرد النظر على شئ ومن ثم تزول من مجرد
-   لمحة بصر .
-   –  النظرة الشهوانيه التي تكون من مجرد رؤية شئ معين وكأنه يريد أن يمزقه
-   من كثرة النظر عليه مثل رؤية الطعام أو رؤية شاب لفتاة جميله .
+   [ ] 6 languages
+     * Français
+     * Kurdî
+     * Magyar
+     * Malagasy
+     * Polski
+     * Português
 
-   –  نظرة تدل على الاشمئزاز من التعامل مع الاخرين نتيجة القيام بأمور لا
-   تناسبه .
-   –  نظرة ساحره من مناظرقد لفتت انتباهه ولا يريد ان يرفع نظره عنه لجمال
-   المنظر .
-     __________________________________________________________________
+     * Entry
+     * Discussion
 
-أي رسالة أو تعليق؟
+   [ ] English
 
-   مراقبة استباقية
+     * Read
+     * Edit
+     * View history
 
-   هذا المنتدى مراقب استباقياً: لن تظهر مشاركتك إلا بعد التصديق عليها من
-   قبل أحد المدراء او المديرات.
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
 
-   من أنت؟
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
 
-   الرجاء الإبقاء على هذا الحقل فارغاً: __________
-   اسمك ________________________________________
-   عنوانك الإلكتروني ________________________________________
+   Print/export
+     * Create a book
+     * Download as PDF
+     * Printable version
 
-   مشاركتك
+   In other projects
 
-   نص المشاركة (إجباري)
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wiktionary, the free dictionary
 
-   لإنشاء فقرات يكفي ترك سطور فارغة.
+Arabic
 
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
+   [edit]
 
-   الرجاء الإبقاء على هذا الحقل فارغاً: __________
+Noun
 
-   معاينة
-   في الواجهة
-   الكتابة بوصفها حريةً مؤجَّلة
-   آخر القلب
-   سردية المطر
-   رفاه الأدب وأنس الاجتماع
-   استقبال المشاركات في جائزة سميحة خريس
-   توثيق التراث العَرَبي«بين الشفويَّة والكتابيَّة»
-   الذاكرة والزمن في شعر فليحة حسن
-   الرقص مع الرياح..
+   [edit]
 
-شادية عواد
+   نَظْرَة • (naẓra) f (dual نَظْرَتَان (naẓratān), plural نَظَرَات
+   (naẓarāt))
+    1. instance noun of نَظَرَ (naẓara): a look
 
-   من فلسطين
+                أَلْقَى نَظْرَةً ― ʔalqā naẓratan ― he had a look
 
-من نفس المؤلف
+    2. perspective
 
-     * رثاء أبي
-     * بلايا من أحببتهم
-     * الحب تائه
-     * باقة حب
-     * إلى أمي
-     * بولا وبوبي
-     * زهرة الربيع
-     * محبة الأيام
-     * الأميرة والخاتم المسحور
+Declension
 
-   استراحة الديوان
-   [f6de4369bd9fd1fa40b7b23e41eb0f.jpg?1767427861]
+   [edit]
 
-زيارة أنجلينا جولي لغزه والعريش
+   CAPTION: Declension of noun نَظْرَة (naẓra)
 
-   [ef3162892495c3bae551c1f8720342.jpg?1767176252]
+   singular singular triptote in ـَة (-a)
+   indefinite definite construct
+   informal نَظْرَة
+   naẓra النَّظْرَة
+   an-naẓra نَظْرَة
+   naẓrat
+   nominative نَظْرَةٌ
+   naẓratun النَّظْرَةُ
+   an-naẓratu نَظْرَةُ
+   naẓratu
+   accusative نَظْرَةً
+   naẓratan النَّظْرَةَ
+   an-naẓrata نَظْرَةَ
+   naẓrata
+   genitive نَظْرَةٍ
+   naẓratin النَّظْرَةِ
+   an-naẓrati نَظْرَةِ
+   naẓrati
+   dual indefinite definite construct
+   informal نَظْرَتَيْن
+   naẓratayn النَّظْرَتَيْن
+   an-naẓratayn نَظْرَتَيْ
+   naẓratay
+   nominative نَظْرَتَانِ
+   naẓratāni النَّظْرَتَانِ
+   an-naẓratāni نَظْرَتَا
+   naẓratā
+   accusative نَظْرَتَيْنِ
+   naẓratayni النَّظْرَتَيْنِ
+   an-naẓratayni نَظْرَتَيْ
+   naẓratay
+   genitive نَظْرَتَيْنِ
+   naẓratayni النَّظْرَتَيْنِ
+   an-naẓratayni نَظْرَتَيْ
+   naẓratay
+   plural sound feminine plural
+   indefinite definite construct
+   informal نَظَرَات
+   naẓarāt النَّظَرَات
+   an-naẓarāt نَظَرَات
+   naẓarāt
+   nominative نَظَرَاتٌ
+   naẓarātun النَّظَرَاتُ
+   an-naẓarātu نَظَرَاتُ
+   naẓarātu
+   accusative نَظَرَاتٍ
+   naẓarātin النَّظَرَاتِ
+   an-naẓarāti نَظَرَاتِ
+   naẓarāti
+   genitive نَظَرَاتٍ
+   naẓarātin النَّظَرَاتِ
+   an-naẓarāti نَظَرَاتِ
+   naẓarāti
 
-الزهايمر: المغرب أمام حالة طوارئ صحية صامتة
+Hijazi Arabic
 
-   [b9554c0b01bad40c4f727998dfb762.jpg?1767176104]
+   [edit]
+    Root
+   ن ظ ر
+   5 terms
 
-أمراض الكلى… الخطر الصامت الذي يهدد الحياة
+Etymology
 
-   [e91d592bfdce014936792bcdf9271a.jpg?1767175762]
+   [edit]
 
-من أدب الرحلات
+   Learned borrowing from Arabic نَظْرَة (naẓra).
 
-   [3ea274e48af2924a193303efab5519.jpg?1766909446]
+Pronunciation
 
-وفاة المخرج المصري داود عبد السيد
+   [edit]
+     * IPA^(key): /nazˤ.ra/, /naðˤ.ra/
 
-   [97fcb0d01fffa6816954dfd36db1e6.jpg?1766913196]
+Noun
 
-دار الكتب والوثائق العراقية تنظّم معرضين
+   [edit]
 
-   الأعلى
+   نظرة • (naẓra) f (plural نَظْرات (naẓrāt) or نَظَرات (naẓarāt))
+    1. a look
 
-     * دراسات
-     * سيرة ومعلومات
-     * ألبوم الديوان
-     * أدب للأطفال
-     * ديوان الشعر القديم
-     * مكرمو ديوان العرب
-     * مسابقات ديوان العرب
+                Synonym: شوفة (šōfa)
 
-   دخول
-   أرشيف الديوان
-   خريطة الموقع
-   لاقونا على:
-   اتصلوا بنا
-   حول ديوان العرب
-   كتّاب الديوان
+   Retrieved from
+   "https://en.wiktionary.org/w/index.php?title=نظرة&oldid=87620395"
+   Categories:
+     * Arabic lemmas
+     * Arabic nouns
+     * Arabic feminine nouns
+     * Arabic instance nouns
+     * Arabic terms with usage examples
+     * Arabic nouns with triptote singular in -a
+     * Arabic nouns with sound feminine plural
+     * Arabic terms belonging to the root ن ظ ر
+     * Hijazi Arabic terms belonging to the root ن ظ ر
+     * Hijazi Arabic terms borrowed from Arabic
+     * Hijazi Arabic learned borrowings from Arabic
+     * Hijazi Arabic terms derived from Arabic
+     * Hijazi Arabic terms with IPA pronunciation
+     * Hijazi Arabic lemmas
+     * Hijazi Arabic nouns
+     * Hijazi Arabic feminine nouns
 
-   ١٩٩٦-٢٠٢٦ — ©ديوان العرب
+   Hidden categories:
+     * Pages with entries
+     * Pages with 2 entries
+
+     * This page was last edited on 27 October 2025, at 03:11.
+     * Definitions and other text are available under the Creative Commons
+       Attribution-ShareAlike License; additional terms may apply. By
+       using this site, you agree to the Terms of Use and Privacy Policy.
+
+     * Privacy policy
+     * About Wiktionary
+     * Disclaimers
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   نظرة
+   (BUTTON) 6 languages Add topic

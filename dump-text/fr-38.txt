@@ -9,18 +9,18 @@
    (BUTTON)
 
    Recherches récentes
-     * inventore assumenda
-     * rerum sint
-     * fugiat molestiae
-     * voluptatem enim
-     * quia sapiente
+     * quia consequatur
+     * sit incidunt
+     * architecto iusto
+     * perspiciatis inventore
+     * modi quam
 
    (BUTTON) Effacer
 
    Des idées pour vous
-   itaque est unde nihil quia id
+   nam qui earum sed ab eveniet
    (BUTTON)
-   itaque est unde nihil quia id
+   nam qui earum sed ab eveniet
 
    Aucune suggestion trouvée
 
@@ -64,18 +64,18 @@ Accès institutions
    (BUTTON)
 
    Recherches récentes
-     * est omnis
-     * odio nihil
-     * consequatur nihil
-     * voluptatem ut
-     * eum qui
+     * dolores aliquam
+     * reprehenderit aliquid
+     * rerum totam
+     * ullam odio
+     * voluptatem odio
 
    (BUTTON) Effacer
 
    Des idées pour vous
-   quod quia blanditiis velit labore suscipit
+   non consequatur eveniet et reprehenderit facere
    (BUTTON)
-   quod quia blanditiis velit labore suscipit
+   non consequatur eveniet et reprehenderit facere
 
    Aucune suggestion trouvée
    (BUTTON)

@@ -123,17 +123,20 @@
      * Grands formats
      * Enquêtes
      * Vrai ou faux
+     * Attaque américaine sur le Venezuela
      * Incendie mortel dans un bar de Crans-Montana en Suisse
      * Nouvel An 2026
-     * Guerre en Ukraine
 
    (BUTTON)
    Accueil Franceinfo
      *
+          + En direct
+          + Capture de Nicolas Maduro au Venezuela
+     *
           + En ce moment
+          + Attaque américaine sur le Venezuela
           + Incendie mortel dans un bar de Crans-Montana en Suisse
           + Nouvel An 2026
-          + Guerre en Ukraine
      *
           +
           + Grands formats
@@ -183,10 +186,13 @@
 
    Accueil Franceinfo
      *
+          + En direct
+          + Capture de Nicolas Maduro au Venezuela
+     *
           + En ce moment
+          + Attaque américaine sur le Venezuela
           + Incendie mortel dans un bar de Crans-Montana en Suisse
           + Nouvel An 2026
-          + Guerre en Ukraine
      *
           +
           + Grands formats
@@ -329,56 +335,63 @@ internationaux
 
    Derniers articles
      * Direct
-       185 kg de lambis saisis en mer, une prise record au large de la
-       Martinique
-       Une yole venue de Sainte-Lucie, chargée de 185 kg de lambis et 10
-       kg de langoustes, a été interceptée le 5 décembre par les
-       garde-côtes. Une saisie biensupérieure à l’ensemble des prises
-       douanières de 2024, impliquant une espèce strictement protégée.
+       Carnaval de Guadeloupe 2026 : "On a mis davantage de policiers et
+       d’agents de sécurité", répond la préfecture aux Groupes a Po
+       Pas de drame cette année durant le carnaval de Guadeloupe 2026 !
+       Pour atteindre cet objectif, les "Groupes a Po" réclamaient
+       davantage de moyens de sécurité des manifestations. L’État et les
+       collectivités joueront leur rôle de sécurisation des participants,
+       durant les festivités. Les moyens humains ont été renforcés. Des
+       policiers et gendarmes nationaux, des policiers municipaux, des
+       agents de sécurité et des secouristes seront présents en nombre sur
+       le terrain.
        Il y a 3 j
-       Martinique
+       Guadeloupe
        Il y a 3 j
-       Martinique
+       Guadeloupe
      * Direct
-       Un jeune homme tué à Macouria
-       Nouvel homicide à Macouria. Dans la soirée du mardi 30 décembre, un
-       jeune homme d'une vingtaine d'années a perdu la vie. La victime a
-       été touchée par une arme à feu au thorax et à la tête.
+       Impôts, SMIC, consultations médicales... ce qui change au 1er
+       janvier 2026
+       À partir du 1er janvier, de nombreux changements vont impacter
+       votre quotidien et votre portefeuille : impôts, salaires,
+       retraites, santé, transports… Tour d’horizon des principales
+       mesures qui entrent en vigueur.
        Il y a 3 j
        Guyane
        Il y a 3 j
        Guyane
      * Direct
-       À l'Hermitage, les Réunionnais se préparent au réveillon du Nouvel
-       An
-       Qu'ils comptent y passer le réveillon du Nouvel An ou pas, les
-       Réunionnais commençaient à réinvestir la plage de l'Hermitage ce 31
-       décembre, après l'épisode pluvieux des derniers jours.
-       Il y a 3 j
-       Réunion
-       Il y a 3 j
-       Réunion
+       Prix des carburants en Guadeloupe : -15cts/l, -21cts/l... des
+       baisses significatives pour janvier 2026 !
+       Voilà une année qui commence bien, côté portefeuille des
+       consommateurs, en particulier des automobilistes et cyclomotoristes
+       : les prix des produits pétroliers baissent significativement, en
+       janvier 2026 !
+       Il y a 4 j
+       Guadeloupe
+       Il y a 4 j
+       Guadeloupe
      * Direct
-       Nouvelle observation de requin au spot du Brisant à l’Etang-Salé
-       Les signalements sont relativement fréquents depuis le mois de
-       novembre, particulièrement sur le spot du Brisant à l’Etang-Salé.
-       Ce mercredi 31 décembre, un requin aurait été observé vers 10h30 à
-       près de 280 mètres du rivage.
-       Il y a 3 j
-       Réunion
-       Il y a 3 j
-       Réunion
+       Baisse des prix des carburants pour le mois de janvier
+       La préfecture de Guyane a publié les prix maxima du mois de janvier
+       2026. Le sans-plomb, le gazole et la bouteille de gaz coûteront
+       moins cher dès jeudi 1er janvier. Les détails des prix dans cet
+       article.
+       Il y a 4 j
+       Guyane
+       Il y a 4 j
+       Guyane
      * Direct
-       VIDEO. Natation : objectif médaille au championnat d'Europe pour
-       Jérémie Delbois
-       À seulement 24 ans, le nageur martiniquais Jérémie Delbois s’est
-       illustré en 2025 avec deux titres de champion de France et une
-       première finale mondiale. De retour sur son île natale pour les
-       fêtes, il continue de s’entraîner et d’inspirer la jeune
-       génération.
-       Il y a 3 j
+       PHOTOS. « Magique », « à couper le souffle » : pour clôturer
+       l'année, les Boucans de la baie font briller Fort-de-France
+       La 26e édition des Boucans a émerveillé les petits comme les
+       grands. Entre 35 000 et 40 000 spectateurs ont assisté hier soir au
+       traditionnel feu d’artifice du 30 décembre de la ville de
+       Fort-de-France. Une soirée féérique agrémentée de musique et d'un
+       concert hommage a Edith Lefel.
+       Il y a 4 j
        Martinique
-       Il y a 3 j
+       Il y a 4 j
        Martinique
 
     1. Portail La 1ère /

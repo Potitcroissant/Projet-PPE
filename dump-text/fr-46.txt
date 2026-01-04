@@ -9,18 +9,18 @@
    (BUTTON)
 
    Recherches récentes
-     * consequuntur placeat
-     * numquam esse
-     * dolorem hic
-     * adipisci fuga
-     * laudantium sed
+     * recusandae ratione
+     * qui debitis
+     * consequuntur iusto
+     * aut quos
+     * iste cum
 
    (BUTTON) Effacer
 
    Des idées pour vous
-   qui eos nisi aut aliquam non
+   libero dolorem corporis eaque molestiae repellendus
    (BUTTON)
-   qui eos nisi aut aliquam non
+   libero dolorem corporis eaque molestiae repellendus
 
    Aucune suggestion trouvée
 
@@ -64,18 +64,18 @@ Accès institutions
    (BUTTON)
 
    Recherches récentes
-     * pariatur dolor
-     * incidunt provident
-     * nihil sapiente
-     * modi et
-     * quis blanditiis
+     * ut provident
+     * nisi qui
+     * sed nesciunt
+     * accusantium ea
+     * cupiditate qui
 
    (BUTTON) Effacer
 
    Des idées pour vous
-   incidunt in quaerat nihil accusantium provident
+   recusandae architecto omnis quo reiciendis excepturi
    (BUTTON)
-   incidunt in quaerat nihil accusantium provident
+   recusandae architecto omnis quo reiciendis excepturi
 
    Aucune suggestion trouvée
    (BUTTON)

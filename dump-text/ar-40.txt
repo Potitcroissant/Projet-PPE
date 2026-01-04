@@ -1,448 +1,200 @@
-   HTTP/2 200 date: Sat, 03 Jan 2026 13:57:54 GMT content-type: text/html;
-   charset=utf-8 cache-control: no-cache,no-store pragma: no-cache
-   report-to:
-   {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=69G02C5YS6fv0I3zmT3K9U5wQDWCQieo14dYqsAf1XP5M
-   YCRxEm4fnsd1wVf3ANAJkuNsD6GwHmVBXr0ZYAuF33Ka5ZlEgJVU68OQkpL"}]}
-   expires: -1 vary: Accept-Encoding strict-transport-security:
-   max-age=2592000 strict-transport-security: max-age=31536000;
-   includeSubDomains; preload set-cookie:
-   DMS_USERID=75277ca7-99bc-47d9-9abb-65faf79759c2; expires=Sun, 03 Jan
-   2027 13:57:54 GMT; path=/; secure; samesite=lax; httponly set-cookie:
-   AnnaharAf=CfDJ8KprhH4XsyNCnYj8Q6si9ve5rVrdYJlxruZ0RZobkNdp2C2owNXlfedYm
-   XPFexZ6rRutvH5uOAhfLFQoq6xBKkwEuUd2WtYlyQpR4WgW9Del2HmDCN0FQJBh5tg5AP6A
-   C1v8XQnw3H2P_Gpt_4uza8g; path=/; secure; samesite=lax; httponly
-   set-cookie: LastViewedPage=8293_; path=/; secure; samesite=strict;
-   httponly set-cookie:
-   UserSessionID=20cecd83-4b9a-ebf3-e6f6-88db1d381189; path=/; secure;
-   samesite=strict; httponly set-cookie: PVC-8293-1=1; path=/; secure;
-   samesite=strict; httponly set-cookie:
-   .AspNetCore.Mvc.CookieTempDataProvider=; expires=Thu, 01 Jan 1970
-   00:00:00 GMT; path=/; samesite=lax; httponly set-cookie:
-   Annahar=CfDJ8KprhH4XsyNCnYj8Q6si9vf3JzYUHEli2S2OXzsQ96ynLNQSPNA42Ze%2Bk
-   2mLfx8n3c%2F4la1VOwu5fU4a2N9n0bg0JnhBDEeMUuUGjU%2B15J6gMKr%2F2T2UyPxMcn
-   Mf8ymSZIeXfYYzmCjBZqRMxRRkVUZ%2Fw4sOPJxqYFhxCNppfRj9; path=/; secure;
-   samesite=lax; httponly x-frame-options: SAMEORIGIN x-content-type:
-   nosniff x-content-type-options: nosniff x-xss-protection: 1; mode=block
-   x-permitted-cross-domain-policies: master-only
-   access-control-allow-origin: * access-control-allow-headers:
-   Content-Type access-control-allow-methods: GET,POST
-   access-control-allow-credentials: true referrer-policy:
-   no-referrer-when-downgrade feature-policy: accelerometer 'none'; camera
-   'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none';
-   microphone 'none'; payment 'none'; usb 'none' cf-cache-status: DYNAMIC
-   nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-   server: cloudflare cf-ray: 9b8301fa5ebf7e80-CDG alt-svc: h3=":443";
-   ma=86400 [tr?id=548052340221337&ev=PageView &noscript=1]
+   #alternate alternate alternate Arabic-French dictionary
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NXLJ55G
+   (BUTTON) ☰ Glosbe
+   Glosbe logo Glosbe
+   Log in
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WD4KQ2G4
+   Arabic
+   French
+   نظرة________________
+   (BUTTON) (BUTTON)
+   (BUTTON) Arabic French
+     * Empty
 
-                             قوّة النظرة
+Translation of "نظرة" into French
 
-   إبحث ____________________
-   الجريدة
-   Logo
-   مواقعنا
-     * لبنان
-     * عربي
-     * English
+   regard, jeter, comprendre are the top translations of "نظرة" into
+   French.
 
-   بودكاست
-   تسجيل الدخول
-   اشترك
-   Menu
-     * الرئيسية
-     * 2026 سنة الحسم
-     * ماغي فرح 2026
-     * مقالات جبران
-     * عيش لبنان
-     * لبنان
-          + سياسة
-          + مجتمع
-          + أسرار الآلهة
-       News
-       سياسة 02-01-2026 | 10:18
-       بالفيديو- إطلاق صاروخ اعتراضي في الجليل الأعلى ودويّ صفارات
-       الإنذار... ماذا يجري على الحدود مع لبنان؟
-       News
-       سياسة 02-01-2026 | 07:00
-       صباح "النهار": احتمالات التصعيد في لبنان و"فزاعة الغرب"... "عام غير
-       سعيد!"
-     * اقتصاد وأعمال
-     * تحقيقات
-     * مقالات
-          + كتاب النهار
-          + آراء
-          + منبر
-          + مقالات جبران
-       News
-       آراء 02-01-2026 | 08:41
-       السودان: مأزق "الدولة المؤجلة" ورهان العقد الجديد
-       News
-       آراء 02-01-2026 | 05:35
-       الصين والريادة التكنولوجية: استثمارات طويلة الأمد ترسم المستقبل
-     * رياضة
-          + كرة قدم
-          + كرة سلة
-          + كرة مضرب
-          + رياضة ميكانيكية
-          + ألعاب قتالية
-          + الغولف
-          + رياضات أخرى
-       News
-       رياضة 03-01-2026 | 15:41
-       "خاوة خاوة"... "العرب" وكأس أمم أفريقيا تصلحان ما أفسدته السياسة في
-       المغرب العربي
-       News
-       رياضة 03-01-2026 | 11:51
-       نظام جديد وجوائز مالية مرتفعة... كل ما تريد معرفته عن كأس السوبر
-       الإسباني 2026 في جدة
+   نظرة (BUTTON) Noun grammar
+   + Add translation Add نظرة
 
-   Logo
-   Close
-   تسجيل الدخول
-   اشترك
-   مواقعنا
-     * لبنان
-     * عربي
-     * English
+Arabic-French dictionary
 
-   إبحث ____________________
-     * الرئيسية
-     * 2026 سنة الحسم
-     * ماغي فرح 2026
-     * مقالات جبران
-     * عيش لبنان
-     * لبنان
-          + سياسة
-          + مجتمع
-          + أسرار الآلهة
-     * اقتصاد وأعمال
-     * تحقيقات
-     * مقالات
-          + كتاب النهار
-          + آراء
-          + منبر
-          + مقالات جبران
-     * رياضة
-          + كرة قدم
-          + كرة سلة
-          + كرة مضرب
-          + رياضة ميكانيكية
-          + ألعاب قتالية
-          + الغولف
-          + رياضات أخرى
-     * تكنولوجيا
-     * لايف ستايل
-          + فن ومشاهير
-          + موضة وجمال
-          + طبخ
-          + سياحة وسفر
-          + حول العالم
-     * #النهار_تتحقق
-     * أسرار الآلهة
-     * ألعاب
-          + سودوكو
-          + كلمات المتقاطعة
-     * وظائف شاغرة
-          + Senior Business Economy Editor – Arab Countries
-          + Bilingual Editor
-          + Social Media Team Leader
-     * العالم العربي
-          + الخليج العربي
-          + شمال إفريقيا
-          + المشرق-العربي
-     * دوليات
-          + الولايات المتحدة
-          + ايران
-          + تركيا
-          + اسرائيليات
-          + آسيا
-          + أوروبا
-          + العالم
-     * خدمات
-          + الوفيات
-          + إعلانات مبوبة
-     * ثقافة
-     * كتّاب النهار
-     * صحة وعلوم
-     * أعداد خاصة
-     * ملفات
-          + 20 جبران تويني
-          + البابا في لبنان
-          + يوم الطفل
-          + انتخابات العراق 2025
-          + We Design Beirut
-          + البندقية - 82
-          + مدرسة 2026
-          + الحرب على إيران
-          + جامعات لبنان
-          + حكايا رمضان
-          + ثورة الـ E-Wallet
-          + برلين 75
-          + ذكرى الحريري
-          + رئاسة لبنان
-          + ربع قرن 2001-2025
-          + 2024-2025
-          + حرب سوريا
-          + تحقيقات
-          + أي لبنان غداً
-          + البندقية 81
-          + قمة جدة - 2023
-          + أميركا تنتخب
-          + كانّ 77
-          + برلين 74
-          + زلزال تركيا وسوريا
-          + العيد الوطني الإماراتي
-          + آسيا-أفريقيا
-          + 2023-2024
-          + مونديال 2022
-          + طوفان الأقصى
-          + البندقية 80
-          + cop27
-          + إليزابيث الثانية
-          + صيف 2023
-          + أزعور-فرنجية
-          + #قصة_لاجئ
-          + التغيّر المناخي
-          + كانّ 76
-          + رمضان
-          + Expo 2020
-          + العراق ينتخب
-          + الرياض-طهران
-          + الذكاء الاصطناعي
-          + الجزائر تنتخب
-          + مسبار الأمل... العرب إلى المريخ
-          + 2020 سنة الوباء
-          + الزلزال
-          + 22-23
-          + COVID 19
-          + كأس العالم 2022
-          + نهاية عهد
-          + قوارب الموت
-          + البندقية 79
-          + كانّ 75
-          + رمضان 2022
-          + بيتنا اللبناني
-          + أوكرانيا
-          + اليوم العالمي للمرأة
-          + قصة امرأة
-          + حرب أوكرانيا
-          + الأمن الغذائي
-          + بيروت الحب والدمع... والحرية
-          + رمضان 2021
-          + 2020
-          + رمضانيات
-          + بايدن في الشرق الأوسط
-          + جبران... 15 عاماً
-          + "طالبان" سنة أولى
-          + Coronavirus
-          + كورونا لبنان
-          + انتخابات 2022
-          + مجتمعات عربية
-          + حصاد 2022
-          + قمم الرياض
-          + صراع السودان
-          + تتويج تشارلز
-          + انتخابات تركيا
-          + فاغنر تتمرّد
-          + COP28
-          + زلزال المغرب
-          + طوفان الأقصى
-          + حصاد 2023
-          + آسيا - أفريقيا
-          + يورو - كوبا
-          + سيّدات القصور
-          + أولمبياد
-          + ميليشيات العالم العربي
-          + قسماً بالعشرة
-          + إنتخابات ٢٠١٨
-          + وقفات النهار
-          + أولمبياد
-          + لبنان تحت النار
-          + يوم المرأة
-          + بلديات 2025
-          + 50... حرب لبنان
-          + كان 78
-          + ماغي فرح 2026
-          + 2026 سنة الحسم
-     * الجريدة
+     * (BUTTON) (BUTTON)
 
-النشرة الإخبارية
+regard
+       (BUTTON)
+       noun masculine
+       مروا بسرعة و بدون إلقاء نظرة.
+       Ils passèrent en se hâtant, sans un regard.
+   Dbnary: Wiktionary as Linguistic Linked Open Data
+     * (BUTTON) (BUTTON)
 
-   .اشترك في نشرتنا الإخبارية لتحصل على أهم و أبرز أخبار اليوم
+jeter
+       (BUTTON)
+       verb
+       أردت أن تُبدع في الإختبار ، لذا فإنّك ألقيت نظرة مُختلسة.
+       Vous vouliez réussir ce test, alors vous avez jeté un coup d'oeil.
+   Open Multilingual Wordnet
+     * (BUTTON) (BUTTON)
 
-   شكرا على الاشتراك في نشرتنا الاخباريّة
-   email-icon
-   ____________________ اشترك
-     * Twitter Icon تویتر
-     * Facebook Icon فيسبوك
-     * YouTube Icon يوتيوب
-     * Instagram Icon انستغرام
-     * Nabd Icon نبض
-     * threads Icon ثريدز
+comprendre
+       (BUTTON)
+       verb
+       النظرة ، سكولي ، أحتاج للصبح مفهوما الذي حدث لي. لكي أنا يمكن أن
+       أتوقّفه.
+       Je dois comprendre ce qui m'est arrivé pour pouvoir arrêter ça.
+   Open Multilingual Wordnet
 
-   منبر 20-06-2022 | 07:53
+     * Less frequent translations
+          + rejeter
+          + saisir
+          + capturer
+          + divaguer
+          + mouler
+          + vaguer
+          + attraper
+          + vagabonder
+          + errer
+          + jet
+          + décalage
+          + couler
+          + précipiter
+          + retard
+          + intervalle de temps
+          + temps de réponse
 
-قوّة النظرة
+     * Show algorithmically generated translations
 
-   المصدر: النهار - بسكال لوقا
-   Save Icon تم النسخ!
-   Dots Dots
+Automatic translations of "نظرة" into French
 
-شارك على
+     * Glosbe
+       Glosbe Translate
+     *
+     * Google
+       Google Translate
 
-     * Messenger Icon مسنجر
-     * whatsapp Icon واتساب
-     * Threads Icon ثريدز
-     * Email Icon بريد إلكتروني
-     * Print Icon الطباعة
+   Translations with alternative spelling
 
-شارك على
+   نَظْرَة
+   + Add translation Add نَظْرَة
 
-     * Twitter Icon تويتر
-     * Facebook Icon فيسبوك
-     * Messenger Icon مسنجر
-     * whatsapp Icon واتساب
-     * Threads Icon ثريدز
-     * Email Icon بريد إلكتروني
-     * Print Icon الطباعة
-     * Save Icon نسخ الرابط تم النسخ!
-       Twitter Icon
-       Facebook Icon
-       قوّة النظرة
-       ما بين النظرة القاتلة والنظرة المنقذة هناك الكثير من المعاني التي
-       تؤثّر في الإنسان
-       Smaller Bigger
-       ما بين النظرة القاتلة والنظرة المنقذة هناك الكثير من المعاني التي
-       تؤثّر في الإنسان ويمكن لهذا التأثير أن يغيّر مجرى حياة بأكملها.
-       هناك نظرة سخرية، نظرة غضب، نظرة شفقة، نظرة خجل، نظرة حنان، نظرة حب،
-       نظرة ارتباك، نظرة إصرار، نظرة خوف، نظرة ترجّي، نظرة اتّهام، نظرة
-       تمنّي نظرة إمعان وانتباه، نظرة ترقّب، نظرة تسامح، نظرة الحيرة،
-       النظرة العميقة، النظرة الحالمة، النظرة الفارغة وغيرها... لغة كاملة
-       متكاملة منظّمة متعارف عليها من قبل الجماعة نتلقّفها ونتعلّم تأثيرها
-       كما نتعلّم اللغة من خلال الممارسات اليومية وتنتقل بالإحساس وكأنها
-       توارد أفكار.
-       في مقالة سابقة تكلّمت عن صوت الحرف وكيف رسم الإنسان لكل صوت يصدره
-       حرفاً حفظناه مع الترداد ومن ثم جمع الحروف بكلمات للمساعدة على
-       التعبير ثم جمع الكلمات بجمل... وتكلّمت عن إمكانية وضع أنفسنا مكان
-       الإنسان قبل الكلمة أي في إمكانية افراغ الفكر من الكلمة وهي صعوبة
-       كبيرة غير ممكن أن نستطيع إلى ذلك سبيل حيث نفكّر كلمة وحروف... كذلك
-       النظرة هي لغة إيمائية في الفكر مرتبطة بالكلمة الصامتة القوية
-       المعاني إذا أردنا تفسيرها كأن نقول فلاناً نظر إليّ نظرة عتب أو نظرة
-       اشمئزاز... نستعمل الكلمة لنعبّر عن شعور وإحساس لفعل صامت ولكنه صمت
-       مُدَوٍّ....
-       النظرة هي لغة بحد ذاتها آيلة للانقراض مع انخفاض فرص التلاقي بين
-       البشر، حيث إنها تشكّل كما الكلمة توازناً في العلاقات الإنسانية رغم
-       أن بعضها قاسٍ ونتمنّى تفاديه، إلّا أنه في بعض الأحيان عنده إيجابية
-       ما يحفّز الإنسان على أن يتقدّم في مجالِ ما. كما أن بعضها المحبّب
-       والتي نُسعد بتلقّيها إلّا أنها أحياناً تضرّ بمصلحة الإنسان ولا تكون
-       مفيدة لمساره في المستقبل.
-       الإنسان حسّاس جداً أمام مفهوم تلك النظرات التي تؤثّر فيه بشكل
-       متفاوت بمقدار ثقته بنفسه وامكانيته بالتعامل معها العائد إلى طريقة
-       نشأته وتربيته وأيضاً تأثير طبيعته الإنسانية البيولوجية حيث
-       الهرمونات تختلف من شخص إلى آخر، لذا يمكن أن تخيفك نظرة الآخرين
-       وتزعزع استقرارك وتمنعك من أن تكون على طبيعتك بالكامل بل تدفعك إلى
-       الانزواء. الخوف من الحكم هو آلية نفسية طبيعية تمامًا لأننا لا
-       نستطيع العيش بمفردنا.
-       كلما انخفضت ثقتي بنفسي، كلما زاد النظر إلى نظرة الآخرين على أنها
-       خطيرة أو شديدة. والعكس صحيح. وهذا يلعب دوراً أساسياً في قراءة
-       النظرة، نظرة الآخرين لها تأثير حاسم على الطريقة التي ندرك بها
-       أنفسنا. إنه يؤثر على حكمنا، ويمكن أن يشوهه إذا أعطيناه أهمية كبيرة.
-       من الصعب أحيانًا افتراض ذلك، بل قد يكون مخيفًا خاصة إذا تكررت
-       النظرة وكان فيها استمرارية المعنى مما يؤدي بالبعض أحياناً إلى
-       الانزواء التام حتى إلى أن يقدم على عمل غير محبّب وهذا ما نسميّه
-       بالنظرة القاتلة.
-       هذا يستدعي الانتباه إلى كيفية تربية أولادنا وزرع الثقة بنفوسهم
-       لتكون سلاحاً يستطيعون من خلالها أن يتغلّبوا أو يتفاعلوا مع قراءة
-       النظرة، تماماً كما قراءة الكلمة وتأثيرها، بطريقة نوعية لا تؤثّر
-       كثيراً على مسار تطوّرهم في المجتمع.
+Arabic-French dictionary
 
-العلامات الدالة
-       النظرة
+     * (BUTTON) (BUTTON)
 
-الأكثر قراءة
-       الملكة رانيا: "برفقة سيدنا أحلى ختام لعام مضى"
-       المشرق-العربي 12/31/2025 11:53:00 PM
-       الملكة رانيا: "برفقة سيدنا أحلى ختام لعام مضى"
-       كتبت: "برفقة سيدنا أحلى ختام لعام مضى، وأجمل بداية لعام جديد. كل
-       عام وأنتم بخير وسلام".
-       "مسألة خطيرة".... حضور طيار إلى عمله تحت تأثير الكحول وفتح تحقيق
-       أوروبا 1/2/2026 1:23:00 PM
-       "مسألة خطيرة".... حضور طيار إلى عمله تحت تأثير الكحول وفتح تحقيق
-       استدعاء طيار بديل لقيادة الرحلة
-       توقّعات ميشال حايك 2026: الكائنات الفضائيّة قريبة من الأرض وتصلني
-       ذبذبات
-       لبنان 12/31/2025 8:48:00 PM
-       توقّعات ميشال حايك 2026: الكائنات الفضائيّة قريبة من الأرض وتصلني
-       ذبذبات
-       بين واقع مضطرب وأسئلة مفتوحة، رسم ميشال حايك ملامح عام 2026 متحدثاً
-       عن كائنات فضائية وذبذبات
-       قضية "الأمير الوهمي"… بهية الحريري تكشف تفاصيل الاتصال الذي تلقته
-       من "أبو عمر"
-       سياسة 1/2/2026 3:58:00 PM
-       قضية "الأمير الوهمي"… بهية الحريري تكشف تفاصيل الاتصال الذي تلقته
-       من "أبو عمر"
-       ما علاقة فؤاد السنيورة؟
+vue
+       (BUTTON)
+       noun feminine
+       نظر سامي عبر النّافذة، فرأى رجلان أسودان يجريان.
+       Sami regarda par la fenêtre et vit deux hommes noirs courir.
+   Open Multilingual Wordnet
+     * (BUTTON) (BUTTON)
 
-اقرأ في النهار Premium
-       كتاب النهار
-       باتريس لومومبا وفزاعة الغرب المتحضر
-       باتريس لومومبا وفزاعة الغرب المتحضر
-       كتاب النهار
-       حراك شوارع إيران وإطلالة طهران على حضرموت
-       حراك شوارع إيران وإطلالة طهران على حضرموت
-       كتاب النهار
-       ليبيا... سكينة الظاهر واضطراب الباطن
-       ليبيا... سكينة الظاهر واضطراب الباطن
-       سياسة
-       بري لـ"النهار": سأطبّق الكتاب ولا تفريط بأموال المودعين
-       بري لـ"النهار": سأطبّق الكتاب ولا تفريط بأموال المودعين
-       كتاب النهار
-       الحزب يُطيح أهمّ وعد رئاسي!
-       الحزب يُطيح أهمّ وعد رئاسي!
+perspective
+       (BUTTON)
+       noun feminine
+       ومع ذلك، يتعين النظر إلى عمليات التوغل هذه من منظور سياسي أوسع
+       نطاقاً.
+       Ces opérations doivent toutefois être replacées dans une
+       perspective politique plus large.
+   Open Multilingual Wordnet
+     * (BUTTON) (BUTTON)
 
-   Logo
+position
+       (BUTTON)
+       noun feminine
+       ونأمل أن يعيد ذلك البلد النظر في بياناته في المستقبل.
+       Nous espérons que ce pays reverra sa position dans ses
+       interventions futures.
+   Open Multilingual Wordnet
+     * (BUTTON) (BUTTON)
 
-تابعنا على
+point de vue
+       (BUTTON)
+       noun masculine
+       وليس لهذه الهجمات ما يبررها، ليس فحسب من وجهة النظر الأخلاقية بل
+       أيضا من وجهة النظر السياسية.
+       Ils sont inexcusables, non seulement du point de vue moral, mais
+       aussi du point de vue politique.
+   Open Multilingual Wordnet
 
-     * Twitter Icon تویتر
-     * Facebook Icon فيسبوك
-     * YouTube Icon يوتيوب
-     * Instagram Icon انستغرام
-     * Nabd Icon نبض
-     * threads Icon ثريدز
+   نظْرة
+   + Add translation Add نظْرة
 
-     * الرئيسية
-     * 2026 سنة الحسم
-     * ماغي فرح 2026
-     * مقالات جبران
-     * عيش لبنان
-     * لبنان
-          + سياسة
-          + مجتمع
-          + أسرار الآلهة
-     * اقتصاد وأعمال
-     * تحقيقات
-     * مقالات
-          + كتاب النهار
-          + آراء
-          + منبر
-          + مقالات جبران
-     * رياضة
-          + كرة قدم
-          + كرة سلة
-          + كرة مضرب
-          + رياضة ميكانيكية
-          + ألعاب قتالية
-          + الغولف
-          + رياضات أخرى
+Arabic-French dictionary
 
-النشرة الإخبارية
+     * (BUTTON) (BUTTON)
 
-   شكرا على الاشتراك في نشرتنا الاخباريّة
-   ____________________ اشترك
-   © جميع الحقوق محفوظة النهار 2026
-   تم تطويره بواسطة Born Interactive
+regard
+       (BUTTON)
+       noun masculine
+       مروا بسرعة و بدون إلقاء نظرة.
+       Ils passèrent en se hâtant, sans un regard.
+   Open Multilingual Wordnet
+     * (BUTTON) (BUTTON)
+
+être
+       (BUTTON)
+       noun
+       أَحَبُّ نظريّة علمية إليّ هي أن حلقات زحل مكونة بالكامل من الأمتعة
+       المفقودة.
+       La théorie scientifique que j'aime le plus est que les anneaux de
+       Saturne sont entièrement composés de bagages perdus.
+   Open Multilingual Wordnet
+
+Images with "نظرة"
+
+   (BUTTON) نظرة
+
+Phrases similar to "نظرة" with translations into French
+
+     * نظرية البعد
+       Dimension topologique
+     * نظرِيّة
+     * نظرية الزمر
+     * نظرية الردع
+       dissuasion nucléaire
+     * نظريات إقتصادية
+       doctrine économique · droit économique · multiplicateur · théorie
+       de la croissance · théorie de la localisation · théorie de la rente
+       · théorie de la valeur · théorie de l’équilibre · théorie du
+       développement · théorie économique · école économique · économie
+       keynésienne
+     * نظرية الشخصية الضمنية
+     * فيزياء نظرية
+       physique théorique
+     * النظرية الموحدة العظمى
+       grande unification
+
+   (BUTTON) more (+83)
+
+   Add example Add
+
+Translations of "نظرة" into French in sentences, translation memory
+
+   (BUTTON) Try again
+
+   Glosbe logo Glosbe
+   Proudly made with ♥ in Poland
+
+   Tools
+     * Dictionary builder
+     * Pronunciation recorder
+     * Add translations in batch
+     * Add examples in batch
+     * Transliteration
+     * All dictionaries
+
+   About
+     * About Glosbe
+     * Partners
+     * Privacy policy
+     * Terms of Service
+     * Help
+
+   Stay in touch
+     * Facebook
+     * Twitter
+     * Contact
